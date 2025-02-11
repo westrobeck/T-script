@@ -1,0 +1,221 @@
+Thank you, Cat. Good afternoon and welcome to Weave's third quarter 2024 earnings call. With me on today's call are Brett White, CEO; and Alan Taylor, CFO.
+
+During the course of this conference call, we will make forward-looking statements regarding the anticipated performance of our business. These forward-looking statements are based on management's current views and expectations until certain assumptions made as of today's date and are subject to various risks and uncertainties described in our SEC filings. We disclaim any obligation to update or revise any forward-looking statements.
+
+Further, on today's call, we will also discuss certain non-GAAP metrics that we believe aid in the understanding of our financial results. Unless otherwise noted, all numbers we talk about today will be on a non-GAAP basis. A reconciliation to comparable GAAP metrics can be found in today's earnings release, which is available on our website and as an exhibit to the Form 8-K furnished with the SEC before this call, as well as the earnings presentation on our Investor Relations website at investors.getweave.com.
+
+With that, I will now turn the call over to Brett.
+
+Brett Travis White
+Chief Executive Officer & Director, Weave Communications, Inc.
+Thank you, Mark, and thanks to everyone for joining the call today. I'd like to start with a few financial highlights from Q3. We delivered another quarter of solid top line performance and significant improvements in gross and operating margins and free cash flow. We also achieved another major performance milestone, reporting positive non-GAAP operating income for the first time in the company's history.
+
+Revenue for Q3 was $52.4 million, representing over 20% year-over-year growth and $1.2 million above the midpoint of the guidance range we provided in July. Gross margin reached 72.5%, an improvement from last quarter and over 300 basis points greater than Q3 of last year, marking our 11th consecutive quarter of gross margin improvement.
+
+Weave's mission is to enhance healthcare experiences for both patients and the practices that serve them. We deliver an all-in-one customer experience and payments software platform, specifically designed for small and medium-sized healthcare practices. Our solution enables healthcare providers to focus on patient care while we help optimize office operations, streamline billing and payment processing, and drive practice growth for improved patient communication and engagement. Our current focus is on dental, optometry, veterinary and specialty medical verticals, which we estimate is an addressable market exceeding $7 billion in the US alone. Specialty medical, which includes family practice, med spa, plastic surgery and physical therapy, was our fastest growing category again in Q3.
+
+Our origins are in helping practitioners grow their businesses by effectively attracting, engaging and retaining patients. The integration of fintech solutions like payment processing; buy now, pay over time; and payment plans is a natural progression to help practitioners accelerate collections and increase the acceptance rates of additional services.
+
+With Weave, billing and payment requests are seamlessly integrated into communication workflows using the practice's trusted phone number and domain. This approach streamlines payment timelines, reduces accounts receivable and write-offs, and further supports practice growth and profitability. Healthcare providers, often without dedicated IT, business intelligence, finance or marketing teams, rely on intuitive software like Weave to succeed. Our platform integrates seamlessly with practice management systems, enabling greater personalization, more automation and improved data accuracy.
+
+Last week, we announced the availability of the new Weave platform, which is the most significant product launch in our company's history. This is a culmination of a multi-year effort that holds great strategic importance for Weave and our customers. Now available across all customer locations, the new Weave platform strengthens our market position with a robust, scalable and cutting edge technology infrastructure that enables us to accelerate innovation. Weave has been at the forefront of administrative AI solutions for healthcare practices and an AI-powered Weave Assistant is integrated throughout the new platform.
+
+Our unique advantage is that we have more than a decade of patient interactions available to train large language models. This unique training data set includes billions of records like phone calls, voicemails and SMS messages. Our AI-powered features provide immediate customer value. McKinsey reports that AI tools could automate nearly 45% of administrative tasks in the healthcare sector, potentially saving $150 billion annually. Weave Assistant helps craft personalized responses to reviews, write professional-branded e-mails, and automate tasks like message tagging and voicemail transcriptions. Our new call intelligence product leverages a custom AI model to extract actionable insights from call data.
+
+To keep their businesses running smoothly, our customers must manage communications and payments workflows simultaneously. The new Weave platform improves practice operations by consolidating tasks into a more unified system. It features a modern user interface that prioritizes versatility and ease of use, streamlining daily tasks with fewer steps and clicks. Pop-out texting and team chat allows users to text patients, chat with staff, accept a phone call and view the calendar all at the same time. Users can toggle between locations to access one or all locations and configure forms, messages and other settings once for a single location or multiple locations with ease.
+
+The new Weave platform features an enhanced user interface, which can now expand to full screen for a comprehensive view or shrink to fit seamlessly alongside the practice's system of record. A fully customizable dashboard places the most essential elements front and center, providing a helpful overview of the day. The new Weave platform is available via mobile app, desktop app or any browser. Security and software updates are installed automatically, ensuring the platform stays up-to-date without any extra effort on the part of our customers. I invite you to watch a two-minute video on our website to see firsthand the exciting leap forward our new platform represents for our customers. Take a look at getweave.com/new.
+
+Last week, we also launched an enhanced e-mail marketing tool on the new Weave platform, enabling the easy creation of professional on-brand e-mails with a drag-and-drop composer, pre-built templates and free stock images. E-mails can be sent from the trusted business domain to ensure professionalism and help avoid spam filters. Our AI-powered Weave Assistant helps craft content while advanced filters target the right audience.
+
+The new Weave platform also introduces a new specialized user interface for veterinary practices. These UI enhancements, built in collaboration with veterinary professionals, streamline daily operations and improve the experience for clinic staff and clients. By making pets the primary profile across the Weave platform, the update enable more personalized service and allow front desk staff to quickly access essential pet details.
+
+In addition to enhancements to our user experience and AI-powered features, the new Weave platform opens up valuable opportunities for seamless integration of payments functionality into communication workflows via their trusted practice phone number. By embedding billing and payment features throughout the entire patient journey, from appointment scheduling to post-visit, text-to-pay notifications, we simplify and enable customers to accelerate the billing and collection process.
+
+With Weave Payments, our customers can easily allow their patients to pay using their preferred method. Practices can send payment requests via text to pay, accept payments through credit cards or ACH direct debit, and offer online and in-person payment options like online bill pay, scan to pay and mobile tap to pay. Practices can also keep payment methods on file and provide flexible options such as buy now, pay over time and payment plans. This empowers practices to increase procedure acceptance rates, optimize billing operations, improve collections on past due accounts and reduce write-ups.
+
+In Q3, Weave also announced Payment Reminders. This new feature allows our customers to collect more outstanding balances with less effort by turning each Weave payment invoice or text-to-pay request into an automated collection campaign.
+
+As we announced last quarter, the new Weave platform powers Weave Enterprise, our solution designed specifically for multi-location practices. Approximately one-third of our active locations are part of multi-location group, and Weave Enterprise offers advanced capabilities like a unified inbox for appointments and forms, centralized management tools, region-specific reporting, and robust payment and collection features.
+
+We're very excited to share an early success story for the new Weave platform and our Enterprise product. Earlier today, we announced that Affordable Care, America's largest dental support organization for tooth replacement services, has selected Weave as the platform of record for patient engagement and payments across its supported dental practices. Affordable Care chose Weave for our ability to integrate seamlessly with their databases, streamline and automate patient engagement, and provide new digital payment options that fit naturally into patient communication workflows.
+
+Since implementing Weave, Affordable Care pilot locations have achieved measurable improvements in operational efficiency through online scheduling and digital forms, while also seeing boosts in patient acquisition and treatment acceptance rates. These practices report increased cash flow and revenue capture per location, driven by flexible payment options that optimize revenue cycle management and enhance overall patient experience.
+
+To further drive growth in the multi-location space, we have recently added a seasoned leader with 20 years of industry experience to head our multi-location sales team. His experience, strategic vision and strong market relationships will play a crucial role in Weave's presence, particularly among dental service organizations or DSOs.
+
+On the partnership front, we continue to make progress. Our authorized and supported integrations with leading practice management systems empowers practices to automate and personalize their communication and play a critical role in driving growth across our target markets. This year, we have expanded our addressable market through new integrations with eClinicalWorks, Athenahealth, NextGen, ezyVet and other practice management systems. Weave also deepened existing integrations with Dentrix Ascend, Eaglesoft and Fuse to include reading and writing patient information, appointment details, confirmations and ledger entries to streamline payments collections, helping practices further enhance efficiency and accelerate growth.
+
+Even more compelling, we have advanced our strategic approach by forming deeper commercial partnerships. In June, we announced a strategic agreement with Patterson Dental, offering one of the most comprehensive integrations in the market and enabling co-marketing and co-selling initiatives. Since then, close collaboration between Weave and Patterson leadership has enhanced value for our shared customers, resulting in improved conversion rates at every stage of the sales cycle and bookings growth.
+
+Finally, Weave continues to earn recognition for our dedication to delivering exceptional customer experiences and the outstanding performance of our platform and team. In G2's Fall 2024 Report, Weave ranked first in 21 categories and was once again named the leader in the grid for patient relationship management and was listed among the top 50 software products for small businesses. Additionally, Weave was named an Inc. Power Partner, recognizing our impact in helping businesses start, run and grow. We are committed to fostering an exceptional workplace, and Weave is now Great Place to Work-certified in the US for a sixth consecutive year and for the first time in India.
+
+In closing, I'm incredibly proud of the Weave team's achievement in Q3 as we continue our momentum from the first half of the year. We drove strong top line growth, made solid progress and profitability, and brought to market some truly innovative new products. This success reflects our commitment to putting our customers first and constantly delivering solutions that meet their needs. I want to sincerely thank our customers, partners, team members and shareholders for their ongoing support of Weave.
+
+With that, I'll hand the call over to Alan to dive deeper into the financial results and share our outlook. Alan?
+
+Alan Taylor
+Chief Financial Officer, Weave Communications, Inc.
+Thanks, Brett, and good afternoon, everyone. I'm excited to share some additional insights on our financial performance this quarter. In Q3, we continued to execute well and we're pleased with our results. As Brett mentioned, we are excited about hitting $1.4 million in positive non-GAAP operating income. This operating income result represents a $2.1 million beat over the midpoint of the guidance range we provided last quarter. We delivered this significant milestone of non-GAAP operating income for first time in the company's history, while achieving third quarter revenue of $52.4 million and maintaining a revenue growth rate of over 20%. Revenue growth this quarter was largely fueled by new customer acquisitions, with continued momentum from our specialty medical vertical, which is growing at more than twice the rate of our overall revenue growth, with notable success among med spas and general practitioners.
+
+Our net revenue retention rate improved to 98% in Q3, up from 97% last quarter. Our upsell products have continued to perform well. Weave continued to increase the number of payments customers, and we've also benefited from price adjustments, which are periodically made across customer cohorts and products, as we continuously deliver additional value and functionality like the new Weave platform.
+
+Our gross revenue retention rate remains strong at 92%, placing us among the top performers for SMB retention. Weave's gross revenue retention rate is consistently ranged between 91% and 94% each quarter over the past four years.
+
+Transitioning to a deeper look at our operating results, as a reminder, I'll be referring to non-GAAP results, unless stated otherwise. In Q3, we achieved solid improvements across the board. Our gross margin reached 72.5%, greater than the 300-basis point increase year-over-year. Cost of revenue rose by only 8% year-over-year, while revenue grew by over 20%.
+
+Our total operating expenses as a percent of revenue improved to 70% this quarter, down from 74% in Q3 of 2023, reflecting our continued focus on optimization. Sales and marketing expenses came in at $19.4 million or 37% of revenue, a slight decrease from 38% in the same period last year. Research and development expenses for the quarter totaled $8 million, representing 15% of revenue, down from 16% of revenue a year ago. Additionally, general and administrative expenses were $9.2 million or 17% of revenue, compared to $8.3 million or 19% of revenue in the prior year period. These improvements highlight our focus on efficiency and productivity as we scale our operations.
+
+As previously mentioned, operating income for Q3 was $1.4 million, an improvement of $3.2 million compared to last year and $1.6 million higher than the top end of the guidance that we gave in July. The corresponding operating income margin of 2.7% is a significant improvement from the operating loss margin of 4.2% last year.
+
+Our net income was $2.1 million or $0.03 per share in the third quarter, based on 72 million weighted average shares outstanding. This is compared to a net loss of $1 million or $0.01 per share last year. This represents a $3.1 million improvement due to revenue growth and operating efficiencies.
+
+Adjusted EBITDA was positive $2.2 million, a $3.2 million improvement year-over-year. Adjusted EBITDA margin of positive 4% was a significant improvement compared to the negative 2% margin reported a year ago.
+
+Shifting the focus to the balance sheet and cash flow, we ended the third quarter with $98.2 million in cash and short-term investments. Cash flow generated from operations was $4.5 million in the third quarter and $7.5 million year-to-date. Free cash flow was $3.5 million in the third quarter, representing year-over-year growth of 70% and $4.2 million year-to-date.
+
+Turning to our outlook, we are raising our guidance for the full year 2024 and we expect total revenue to be in the range of $202.7 million to $203.7 million. We also expect to produce positive non-GAAP operating income for the full year 2024.
+
+For the fourth quarter of 2024, we expect total revenue in the range of $52.6 million to $53.6 million and non-GAAP operating income in the range of $0.9 million to $1.9 million. We expect to have a weighted average share count of approximately 71.6 million shares for the full year.
+
+In summary, Weave continued to execute well in Q3, and we're excited about the success we're having across all the verticals that we serve. We're optimistic about our future opportunities and are committed to strengthening our long-term value through sustained business growth.
+
+And with that, I'll turn the call back over to the operator for Q&A.
+
+Question And Answer Section
+Operator
+Thank you. The floor is now open for questions. [Operator Instructions] And our first question comes from Brent Bracelin from Piper Sandler. Go ahead, Brent.
+
+Brent A. Bracelin
+Analyst, Piper Sandler & Co.
+Thank you. Good afternoon. Great to see the profitability cross over this quarter. I had two questions, if I could, here. One, when could the new Patterson relationship here start to have a bigger impact on the pipeline, top of funnel? And then two, I was hoping you could talk a little bit about specialty medical, what's driving momentum there? And maybe more specifically, could you frame how the new Weave Enterprise platform could expand your reach into hospitals? It looks like hospitals are now one of the areas you could go after with that new platform. So, thanks.
+
+Brett Travis White
+Chief Executive Officer & Director, Weave Communications, Inc.
+All right. Thanks, Brent. Let me write this down. Okay. Let's start with Patterson and when we expect that to start affecting kind of funnel. It's happening now. So, we saw – we originally announced that we built the integration. We announced the partnership. We went to their sales conference, trained about 700 of their reps. And then, we've gone to visit them and train their sales teams. I think we've done three or four of those, and we're actually seeing it show up in the results now. We're getting higher conversion rates all through the funnel. We're getting – growing bookings. So, the Weave sales on the Patterson platform have definitely increased and we expect that momentum to continue.
+
+Brent A. Bracelin
+Analyst, Piper Sandler & Co.
+Perfect. And then, can you talk a bit about specialty medical and maybe a little bit more about Weave Enterprise. I do see you're targeting hospitals now on the website. Love to understand that opportunity. I know historically, you haven't addressed larger hospitals, and I'd love to know what Enterprise opens up for you, and particularly given that proof point with Affordable Care in their 450 locations.
+
+Brett Travis White
+Chief Executive Officer & Director, Weave Communications, Inc.
+Sure. So, specialty medical is really quite fragmented. So, the success we're seeing there is really around building the integrations. As we build the integrations, there's really a pent-up demand, I think, to move off of a lot of their point solutions onto an integrated platform. So, that's really why we're seeing a lot of success there. As we roll out the integrations, as we get the payments integrations written and the sales teams trained, we're seeing a lot of success there. So, I expect that to continue to grow. Actually, specialty medical, in aggregate, is a larger market than dental, opto and vet. So, we're very excited about what we're seeing there.
+
+And as far as hospitals, we're really focused on small and medium-sized practices. So the multi-location, we view the multi-location opportunity as just an aggregation of small and medium-sized locations. So as you mentioned, Affordable Care is 450 locations. They're – it's a very large enterprise and we're seeing great opportunity with those. The new Weave Enterprise platform really fits well for their needs and their use case, and the Affordable Care win really proves that out. Once you bring a multi-location, a modern multi-location product together with really deep integrations, as we have in this case with the Affordable Care solution, and payments, it's just a winning combination. And in fact, you probably noticed in my comments or in the press release, Affordable Care selected us not only for the engagement solution that the – communication and engagement solution, but also all of their payments, which is a terrific win. So we're not really, at this point, targeting large hospitals. We've got more than enough opportunity just in the single location and the multi-location businesses.
+
+Brent A. Bracelin
+Analyst, Piper Sandler & Co.
+Very clear. Helpful color. Thank you.
+
+Brett Travis White
+Chief Executive Officer & Director, Weave Communications, Inc.
+Thank you.
+
+Operator
+And our next question comes from Alex Sklar from Raymond James. Go ahead, Alex.
+
+Alexander Sklar
+Analyst, Raymond James & Associates, Inc.
+Great. Thank you. Alan or Brett, just starting off the first question on the outlook for NRR, it picked up nicely the last couple quarters. Can you just help frame where you see some of the biggest opportunities to get that figure even higher? I know you talked about payments being a big bucket. What are maybe some of the other lower-hanging fruit as you look at that network in particular? Thanks.
+
+Alan Taylor
+Chief Financial Officer, Weave Communications, Inc.
+Yeah. Thanks, Alex. So our payments, clearly, is one of the big ones. With the increased take rate that we're seeing through partnerships like Patterson, as well as just across our sales team, we continue to expand payments. It's growing faster than our business as a whole, the revenue growth as a whole. And so, that will be a key component. We're also introducing some very great upsell products that we've talked about, with call intelligence and bulk messaging and insurance verification and forms. These are kind of coming into their own to be a substantial part of the quarterly revenue that's helping us to grow our NRR. And so, those are the things that we are going to continue to emphasize. We're going to continue to improve those so that we – the downgrade rates improve as well. And those are really the focus areas for increasing the NRR.
+
+Brett Travis White
+Chief Executive Officer & Director, Weave Communications, Inc.
+Hey, Alex, I would add that as we build out more of these integrations, we have greater opportunity within our installed base to move from customers who are maybe running Weave standalone in a non-integrated way onto an integrated platform. And then – and when that happens, they just have access to more functionality and it's just a lot stickier, and obviously, it's an upsell.
+
+Alexander Sklar
+Analyst, Raymond James & Associates, Inc.
+Great. That's great color. Maybe a follow-up for you, Brett, just on specialty medical broadly, so four core sub-verticals today, I think you probably want to go into eight. How is your sales coverage broadly for that opportunity? And then, what do you need to see? It's already growing twice as fast. That's kind of the overall organization, you said. What do you need to see to kind of take that formal go-to-market hiring from 4 to 8 of the sub-verticals to something north of 10 or 20 over the next couple years? Thanks.
+
+Brett Travis White
+Chief Executive Officer & Director, Weave Communications, Inc.
+Yeah. So again, we keep coming back to this. Integrations are really, really important. And so, when – in order for us to enter into a new vertical, we want to be able to integrate with the practice management software that is predominant in that sub-vertical. We want to make sure that we have really good product market fit. And as you can kind of tell, the way we've been rolling out verticals over the last couple of years, we're quite thoughtful about it. So, we're going to be adding new verticals, but not just adding them for adding's sake, but we're going to make sure we got good product market fit, adding integrations, and then delivering more and more value.
+
+Outside of the verticals where we currently are, it is actually very, very fragmented. So, the market is there. It's ripe for us to bring our solution into those verticals, and we just want to do it in a very thoughtful and successful way. So, we have kind of a win-win relationship with our customers on day one.
+
+Alan Taylor
+Chief Financial Officer, Weave Communications, Inc.
+I would just add, Alex, we are seeing inbound interest from customers for whom we do not have an integration. These folks are pretty starved for a solution like Weave to communicate with their patients. And so, it represents a great opportunity for us to know where the biggest interest is and make sure that we've got on our roadmap the integrations that will even better serve them in the future.
+
+Alexander Sklar
+Analyst, Raymond James & Associates, Inc.
+Great. And maybe just a quick follow-up on both those, about the inbound, are you seeing any increase in inbound interest from those fragmented practice management systems that they're looking to build the integrate – they're being more proactive, saying, hey, [ph] can we (28:18) build the integration, [indiscernible] (28:19) speed up the process? Is that at all inflected for [ph] your seat (28:22)?
+
+Alan Taylor
+Chief Financial Officer, Weave Communications, Inc.
+Yeah, very much so.
+
+Brett Travis White
+Chief Executive Officer & Director, Weave Communications, Inc.
+And yeah, and I'll add another little anecdote there. When we go into an event, an onsite event, tradeshow, whatever it may be, and we put up a banner in our booth that says we now integrate with XYZ, we get a lot of attention. So, there's definitely demand. And the other great thing is a year and a half ago, a lot of practice management software kind of viewed us as a competitor and they were not super interested in working with us, and really, it take a – it took a mindset shift on our side to show that we're in a win – we're interested in a win-win relationship with the PMS vendors. And it's almost down to 180. Where now, we have practice management software vendors coming to us and asking us to integrate and it's really just building the queue to write the integrations and then develop their go-to-market plans. So, we're quite optimistic on moving into new verticals and deepening the quantity and then depth of the integrations that we have.
+
+Alexander Sklar
+Analyst, Raymond James & Associates, Inc.
+All right. Thank you, both.
+
+Operator
+Thank you. [Operator Instructions] And our next question comes from Parker Lane from Stifel. Go ahead, Parker.
+
+Jeffrey Parker Lane
+Analyst, Stifel, Nicolaus & Co., Inc.
+Hey, guys. Thanks for taking the question here. Alan, you alluded to some price adjustments that you periodically do. I'd love to get some more color on where those took place. And longer term, you're bringing a lot of functionality to the table here. How should we think about your ability to, I guess, extract more price for some of these more premium-type features that you're bringing to the table?
+
+Alan Taylor
+Chief Financial Officer, Weave Communications, Inc.
+Yeah. Thanks Parker. Price adjustments are something that we do every quarter. We manage those usually based on a cohort basis of when the customers renew, but they also are based on product changes. We're always experimenting with bundles. So, we have found that so long as we are delivering value, just like the new Weave platform, that our customers are tolerant of these price increases, particularly, we're just kind of exiting a fairly high inflationary period. But – so yeah, we will continue to do that and manage those prices, making sure that we are delivering the value that warrants that.
+
+And in terms of extracting, it's all about wallet share. Payments helps us with that. Getting into the workflows of these customers is key. That includes the integrations, the [ph] better bit (31:09) we're able to integrate with payments and to record those payments to eliminate reconciliation efforts at the office to just improve the lives of the office staff. That's where we win. And they know that we represent a – one of the best solutions out there. And so, they're willing to pay for that so long as we continue to deliver, and that's what we intend to do.
+
+Jeffrey Parker Lane
+Analyst, Stifel, Nicolaus & Co., Inc.
+Got it. And Brett...
+
+Brett Travis White
+Chief Executive Officer & Director, Weave Communications, Inc.
+Hey, Parker, one thing I would add is the new Weave platform is a vastly superior product to the legacy app in kind of every possible way. And right now, it's available to all of our customers, existing and all new customers at no additional charge, even though it's a significantly more valuable product. So, I think we've got opportunity there in the future, but right now, it's just an upgrade at no additional charge.
+
+Jeffrey Parker Lane
+Analyst, Stifel, Nicolaus & Co., Inc.
+And Brett, just a follow-up on that, is there any timeline by which customers will sort of adopt that newer platform? Is there going to be a big changeover moment for everyone? Is it a case-by-case basis? [indiscernible] (32:21) change management standpoint, how are you handling that?
+
+Brett Travis White
+Chief Executive Officer & Director, Weave Communications, Inc.
+Yeah. So, it's our desire to move customers over sooner rather than later, just so they can get a lot of the benefits. I mean, one of the great benefits is they get updates to the software as they're developed and pushed out, as opposed to having to go in and update their app. So, they kind of have to constantly have the best solution that's available to them. So, it's to their benefit to move over quickly. But we understand that there will always be folks who are just comfortable with what they're using. And we don't have any plans at this time to kind of force people over. We just hope that they get the word through our marketing initiatives and our pop-ups that, hey, give us a try and I think you'll like it. And sooner is better for everyone.
+
+Jeffrey Parker Lane
+Analyst, Stifel, Nicolaus & Co., Inc.
+Understood. Thanks, again.
+
+Operator
+[Operator Instructions] And our next question comes from Mike Funk from Bank of America. Go ahead, Mike.
+
+Matt Bullock
+Analyst, BofA Securities, Inc.
+Great. Thanks. Hi. This is Matt on for Mike. Great to see the profitability this quarter and continued gross margin expansion. Maybe if you could just help us frame some of the drivers for potential future margin improvement as a whole, and then maybe also help us think about where terminal gross margins can end up in a couple years out. Thanks.
+
+Alan Taylor
+Chief Financial Officer, Weave Communications, Inc.
+Thanks, Matt. Yeah. The gross margin has been a great story. As we mentioned, it's 11 quarters of continued expansion. The drivers there continue to be around the payments product on the revenue side. As we continue to extend that payment product into our existing customer base, as well as new customers, that's a positive factor for gross margin expansion. We also – the phone component of our go-to-market comes off amortization after three years. And so, it sets us up with just kind of a structural improvement as those phones come off amortization and customers stay with us as we go along. So, that that's an improvement.
+
+And then just everything – every other category, we've got a support organization that is focused on delivering world-class service while managing costs. They're putting into place new tools and processes, including some significant ones in the last quarter that are just allowing us to do a better job of servicing the customers without having to grow that staff. And when an engineering organization that is focused on our delivery through all of our data centers, the bandwidth providers that provide to us, they're doing a great job of managing those costs and our scale helps us with some efficiencies there as well.
+
+Long term, with respect to the gross margin, we see ourselves in 75%, 80% gross margin company. And that's where we know we can get to as we continue to go on and just improve payments success and keep a vigilant eye on all of the costs.
+
+Matt Bullock
+Analyst, BofA Securities, Inc.
+Super helpful. Thank you.
+
+Operator
+And at this time, there are no more questions. I would now like to turn it back to management for any closing remarks.
+
+Brett Travis White
+Chief Executive Officer & Director, Weave Communications, Inc.
+Yeah. I'd like to just kind of circle back on a question we got at the beginning of the call, and it was a question around kind of how our relationship with Patterson was turning out. And one observation I'd like to share, which is very exciting for us, is that the adoption of Weave Payments at the time of sale of the Weave platform on Patterson is very, very high. It's higher than our core business. So, that would be adoption of payments at sale of the software. And so, that's a very encouraging sign as well.
+
+Brett Travis White
+Chief Executive Officer & Director, Weave Communications, Inc.
+So with that said, I'd like to thank the entire Weave team. I'd like to thank everyone, all of our shareholders for your support. Thank you for joining the call. We here are really excited to continue to build on the progress that we've made to deliver improved outcomes for both our customers and our shareholders over coming quarters. So, thank you.

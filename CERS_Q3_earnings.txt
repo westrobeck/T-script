@@ -1,0 +1,313 @@
+Thank you, and good afternoon. I'd like to thank everyone for joining us today. As part of today's webcast, we are simultaneously displaying slides that you can follow. You can access the slides from the Investor Relations website at ir.cerus.com.
+
+With me on the call are Obi Greenman, Cerus's President and Chief Executive Officer; Vivek Jayaraman, Cerus's Chief Operating Officer; Kevin Green, Cerus's Chief Financial Officer; and Carol Moore, Cerus's Senior Vice President.
+
+Cerus issued a press release today announcing our financial results for the third quarter ended September 30, 2024, and describing the company's recent business highlights. You can access a copy of this announcement on the company website at www.cerus.com.
+
+I'd like to remind you that some of the statements we will make on this call relates to future events and performance rather than historical facts, and are forward-looking statements. Examples of forward-looking statements include those related to our future financial and operating results, including our 2024 product revenue guidance, our expectations for operating cash flows and non-GAAP adjusted EBITDA performance, and our expected expense levels, expected future growth and our growth trajectory, our product supply expectations and ability to meet customer demand, the potential value of and anticipated activity to be funded under our new BARDA agreement, planned regulatory submissions and product launches, product expansion prospects and other statements that are not historical facts.
+
+These forward-looking statements involve risks and uncertainties that could cause actual events, performance and results to differ materially. They are identified and described in today's press release, in our slide presentation, and under Risk Factors in our Form 10-Q for the quarter ended September 30, 2024, which we will file shortly. We undertake no duty or obligation to update our forward-looking statements.
+
+On today's call, we will also be discussing non-GAAP financial measures, including non-GAAP adjusted EBITDA. These non-GAAP measures should be considered a supplement to and not a replacement for measures presented in accordance with GAAP. For a reconciliation of non-GAAP financial measures to the most comparable GAAP financial measures, please refer to today's press release and the slide presentation available on our website.
+
+We'll begin today with opening remarks from Obi, followed by Vivek to discuss recent business highlights; then Kevin to review our financial results and expectations for the rest of 2024; and lastly, closing remarks from Obi.
+
+And now it's my pleasure to introduce Obi Greenman, Cerus's President and Chief Executive Officer.
+
+William M. Greenman
+President, Chief Executive Officer & Director, Cerus Corp.
+Thank you, Jessica; and good afternoon, everyone. I would like to open the call with a review of our strong quarterly performance on both commercial and financial fronts, as well as our increasingly positive outlook for the full year 2024.
+
+Our North American platelet business drove our Q3 product revenue result and our INTERCEPT Fibrinogen Complex, or IFC, business in the US is gaining momentum at the same time that we are increasing supply capacity for the product. Vivek will provide additional color in his remarks. With this trajectory, we are raising our product revenue guidance to account for the positive trends in both these business segments.
+
+We are also executing on the financial measures that we have been targeting for the full year, both on the bottom line as well as operating cash flows, as you will hear from Kevin shortly. With the growing scale of our business, the leverage of our business model and the discipline around our operating expenses, we have been able to consistently deliver against our quarterly financial targets.
+
+At a high level and on the heels of the annual meeting of the Association for the Advancement of Blood & Biotherapies, or AABB, earlier this month, it was gratifying to see how pathogen inactivation has become increasingly ubiquitous across the transfusion services in the US and in multiple geographies from blood centers that manufacture pathogen-inactivated components to the hospital clinicians who transfuse them. And sitting in the plenary session at the Houston Convention Center with thousands of AABB meeting participants listening to the presentation of the positive ReCePI Phase 3 clinical trial data was truly a rewarding experience. The further acknowledgement from the recent up to $248 million BARDA contract designed to see the INTERCEPT RBC program through potential regulatory approval and product launch only added to the collective enthusiasm from our blood center customers for the ReCePI data.
+
+Meanwhile, the need for pathogen inactivation is ongoing. Since our last quarterly call when we noted the rise in dengue transmission in the US and Europe, multiple US public health officials have released notifications regarding the rise in the incidence of two emerging arthropod-borne viruses: Eastern equine encephalitis virus, or EEEV; and Oropouche virus, or OROV. Together, EEEV and travel-related OROV cases have been reported in 12 states in US territories to-date. CDC and FDA recommend donor deferrals for those recently diagnosed with these viruses, reminding our community that the potential exists for the disruption of our local blood supplies. And while there remains no evidence of transfusion transmission to-date, the similarities of OROV to the Zika virus epidemic and the new evidence of vertical transmission argue that precaution and preparedness are warranted.
+
+On the development front, as we announced earlier this month, in Europe, we are closely collaborating with our Notified Body, TÜV-SÜD, to define our strategy for a potential new and enhanced CE Mark submission for INTERCEPT red blood cells, or RBCs. As we noted before, while we are disappointed that our INTERCEPT RBC filing was not approved by our competent authority, we are closely assessing the potential to include data from both ReCePI and RedeS clinical trials in a future filing with the intent to seek a broader patient indication for the product candidate. In the US, we are moving full speed ahead after extending our partnership with BARDA, which is designed to fund further development, regulatory activities and ultimately anticipated commercial readiness initiatives for INTERCEPT RBCs.
+
+We have also recently completed our regulatory submissions to TÜV for our LED illuminator in Europe, marking the next step in our effort to make this next-generation technology platform available to our customers in that geography. Based upon extensive feedback from our customers, we believe that this new platform is eagerly awaited and will provide multiple benefits for the production of INTERCEPT-treated platelets and plasma in routine.
+
+With that, I will now turn the call over to Vivek to discuss our commercial results and progress for the third quarter of 2024 as well as our outlook for the last three months of the year.
+
+Vivek K. Jayaraman
+Chief Operating Officer, Cerus Corp.
+Thank you, Obi; and good afternoon, everyone. Entering 2024, we committed to a return to growth across our commercial organization. As we exited the first half of 2024, we were back on a growth trajectory, and I'm pleased to report that we continued that trend in the recently completed third quarter. As with prior periods in 2024, the strength of our US platelet franchise led the way and we continue to see encouraging growth in our US IFC business.
+
+With respect to US platelets, we estimate that nearly two-thirds of all platelets distributed to US hospitals are [indiscernible] (00:15:01). We continue to make good headway with customers, both blood centers and hospitals, who are ramping their adoption of INTERCEPT platelets while holding strong with customers who are already at 100% INTERCEPT platelet adoption.
+
+We believe the marketplace to use INTERCEPT-treated platelets as the safest option for patients. And this was supported by plenary presentations, posters and symposia activities at the annual AABB meeting earlier this month. The peer-to-peer interaction and support of INTERCEPT adoption was incredibly encouraging to witness. Our team simply had to facilitate introductions and the number of high-volume INTERCEPT platelet users in attendance was significant. This dynamic also played out with international markets, where we saw a good number of Canadian, Middle Eastern and European customers at the meeting, and they too were eager to share their positive experiences with INTERCEPT.
+
+Last quarter, we saw continued adoption of IFC within the US. As we have discussed in past quarterly calls, we are closely monitoring demand increases and working hand in glove with our blood center production partners to ensure they can deliver sufficient supply. We were pleased to see the issuance of three new BLA approvals in the third quarter. This will enable broader interstate shipment of IFC and enable us to meet demand at many hospitals do not currently have an IFC-producing blood center in their state.
+
+As with PR platelets, the recent AABB meeting was great to drive further education and awareness of IFC. Of note, we hosted a standing room-only workshop where the Head of Laboratory Services at Barnes-Jewish Hospital in St. Louis, Missouri described how they chose to adopt IFC 100% and the pathway they took to get there. Most encouragingly, she laid out the operational and financial benefits above and beyond the clear clinical utility that they've experienced since deciding to go all in on IFC. We are encouraged by the demand for IFC and we continue to see an increase in inbound inquiries about the product.
+
+Looking outside of the US, we experienced expected seasonality in our EMEA franchise, and things slowed down over the summer holiday period, most notably in July and August. Nonetheless, we continue to see encouraging progress in our key growth geographies and are excited about the prospects for INTERCEPT adoption in key strategic markets. We will keep you posted as we make progress on key international market development initiatives.
+
+Lastly, I want to thank and acknowledge our global supply chain and logistics teams who continue to navigate challenging situations while ensuring that customer impact is mitigated. Despite the recent dockworkers strike along the US Eastern Seaboard, we were able to meet all customer requests within Q3. As we discussed earlier this year, the supply chain team did fantastic work helping to navigate any concerns with short-dated products and ensure that customers were not only getting product, but also able to distribute to their hospital customers in a timely manner. The logistics teams are always behind the curtain and rarely recognized, so I want to be explicit in my gratitude for all the work they do to support the global sales team and, most importantly, our blood center and hospital customers.
+
+As evidenced by raising our product revenue guidance for the full year, we are confident that our business is once again on a growth trajectory. What's most exciting is to see both existing and new customers realize the clinical benefits of faster injection and become advocates for the technology. I look forward to updating you on our continued progress and I thank you for your support of and interest in our efforts.
+
+I'd like to hand the call over to Kevin to update you on our financial results.
+
+Kevin Dennis Green
+Vice President-Finance & Chief Financial Officer, Cerus Corp.
+Thanks, Vivek. Good afternoon and thank you all for joining us. On today's call, I'll be discussing our financial results for the third quarter of 2024. As we near the end of the year, I'll also provide some color related to our strong progress on the financial goals we set out at the beginning of the year.
+
+To start, we posted product revenue of $46 million for the third quarter of 2024. This represents year-over-year growth of 16% and brings product revenue for the first nine months of the year to $129.5 million, up 18% from the prior year period. North American platelet sales continued to be the major contributor to our product revenue growth during the quarter. In the US, third quarter 2024 product revenues exceeded prior year levels by 17%. With Canadian Blood Services now at 100% entering the third quarter, sales in this geography were an important contributor to our year-over-year growth as well.
+
+In EMEA, third quarter product revenues were relatively stable to slightly higher compared to the prior year period and to the second quarter of 2024. FX rates provided a slight tailwind for the EMEA business of around 1% over the prior year period. On a consolidated basis, FX rates were less impactful, benefiting the top line results by approximately 40 basis points.
+
+Also, for Q3, we posted IFC product revenue of $2.3 million, up from $1.7 million in the prior year period, driven by more standing orders and depth within existing accounts. In addition to our product revenue and not included in our guidance, government contract revenue totaled $4.6 million in Q3 compared to $7.5 million for the prior year period. The completion of our US Phase 3 ReCePI clinical trial was the primary driver for the decline. As we look ahead, we expect government contract revenue will increase from Q3 levels due to a variety of factors, including enrollment ramping up at sites participating in our RedeS clinical study, activities supporting our new BARDA contract, which will overlap with the prior contract, and the ongoing development work with other government agencies.
+
+As a reminder, included in our government contract revenue are the revenues recognized as reimbursement under our contracts with BARDA, our agreement with the FDA to further whole blood pathogen reduction, and our milestone-based agreement with the US Department of Defense for lyophilized IFC.
+
+Turning now to our product gross profit and gross margins. Our third quarter product gross profit was $26.2 million compared to $21.8 million during the prior year period, an increase of 20% year-over-year. Product gross margins for the third quarter were 56.9%, up 200 basis points from the 54.9% reported in Q3 of last year and the 54.7% from Q2 of this year. The improvement in gross margins was primarily driven by lower product costs and lower supply chain costs for warehousing and freight. Absent any unanticipated factor, we continue to expect that gross margins will remain relatively close to Q3 levels for the balance of the year.
+
+Moving on, our third quarter operating expenses, which totaled $31.8 million, were down 8% from the $34.5 million in Q3 of 2023. Included in the operating expenses for Q3 of last year were $1.6 million of restructuring charges, which were not incurred in the current year quarter. Q3 2024 operating expenses included $5.8 million in non-cash stock-based compensation.
+
+By specific expense type, third quarter R&D expenses totaled $14 million compared to $16.8 million during the prior year period. Similar to our Q1 and Q2 results, this 17% decline was driven primarily by the completion of the ReCePI clinical trial and the effects of the restructuring implemented mid-year last year. While we don't expect significant movement in our R&D expenses for the fourth quarter, we would expect to see a modest increase as RedeS sites ramp enrollment and as we begin activities covered under our new BARDA contract.
+
+Third quarter SG&A expenses were $17.8 million compared to $16.2 million during the prior year period. We continue to generate increasing levels of leverage from our SG&A expenses. We expect that to continue and do not anticipate significant swings in SG&A for the remainder of 2024.
+
+Let's now focus on the bottom line and non-GAAP adjusted EBITDA results. On the bottom line, reported net loss attributable to Cerus for the three months ended September 30, 2024 improved significantly when compared to the same period in the prior year. Net loss attributable to Cerus for Q3 narrowed by 60% to $2.9 million or $0.02 per diluted share compared to $7.3 million or $0.04 per diluted share for the prior year period. As a measure of the operating leverage we're generating, the net loss for Q3 was less than our non-cash stock-based compensation mentioned previously, suggesting that the business is making significant strides operationally.
+
+On a non-GAAP adjusted EBITDA basis, Q3 of 2024 generated a positive adjusted EBITDA of $4.4 million compared to a loss of nearly $1 million for the prior year period. For the nine months ended September 30, we have now turned the corner and have posted positive adjusted EBITDA of $2.5 million year-to-date. We're pleased with the adjusted EBITDA result and are increasingly confident in our ability to deliver a positive adjusted EBITDA for 2024 as a whole.
+
+As we look ahead, we expect more of the same, with the expected growth contemplated in our revised guidance, a continued focus on generating leverage from our operating expenses and stable gross margins, which are all expected to contribute to the anticipated achievement of our 2024 adjusted EBITDA goal.
+
+On the balance sheet and associated cash flows, we ended the third quarter with a cash position of $75.6 million of cash, cash equivalents and short-term investments on the balance sheet. Operationally, we continue to deliver positive operating cash flows. For the third quarter, we generated positive operating cash flows of $4.1 million compared to cash used for the operations of $10.5 million during the third quarter of 2023. Cash flow from operations for the nine months ended September 30, 2024 totaled $6.4 million compared to cash used from operations of $28 million in the prior year period. We will continue to focus on our cash flows as we work to improve the health of our balance sheet.
+
+Turning now to our guidance. As you've heard from both Obi and Vivek, we are increasingly confident in our top line at this point in the year. And so, we are raising our full year 2024 product revenue guidance to the range of $177 million to $179 million, up from our prior range of $175 million to $178 million. In tandem, we are raising the bottom end of our full year 2024 IFC revenue guidance to a new range of $9 million to $10 million from $8 million to $10 million.
+
+With that, I'd now like to turn the call back over to Obi for some closing remarks.
+
+William M. Greenman
+President, Chief Executive Officer & Director, Cerus Corp.
+Thank you, Kevin. We are very pleased to be continuing to execute on the ambitious goals we set out at the beginning of the year. With two months left in 2024, we feel confident about where we stand relative to these goals and are looking forward to sharing our expectations for 2025 with you in just a couple of months. Most importantly, we know that our growth as a company is a direct reflection of the confidence that our customers have in Cerus and the INTERCEPT technology, enabling patients across the globe to have access to safe blood when they need it most, and creating a new standard of care in transfusion medicine. It is an honor to partner with our customers as well as organizations like US BARDA as we continue to focus on meeting this need.
+
+Thank you for your continued interest in Cerus. I will now turn the call over to the operator for questions.
+
+Question And Answer Section
+Operator
+Thank you. [Operator Instructions] We will pause for a moment while we compile the Q&A roster. Our first question comes from Ross Osborn with Cantor Fitzgerald. Your line is open.
+
+Matthew Park
+Analyst, Cantor Fitzgerald & Co.
+Hi guys. This is Matthew Park on for Ross. Thanks for taking the questions tonight. I just want to start off talking about the IFC business here. Now that you've added on an additional three BLA approvals, do you anticipate needing additional manufacturing capacity to meet the strong demand or do you feel comfortable at current levels?
+
+William M. Greenman
+President, Chief Executive Officer & Director, Cerus Corp.
+Thanks, Matthew. Vivek, do you want to handle this?
+
+Vivek K. Jayaraman
+Chief Operating Officer, Cerus Corp.
+Sure. I would be happy to. Thanks for the question. We continue to work with blood centers to add manufacturers for IFC; and as demand grows, we anticipate we'll continue to grow supply as well. The addition of the three BLAs in the quarter is certainly significant to ensure that we can continue to meet the demand that we're seeing growing. But we anticipate that demand will continue to grow and, as such, we'll continue to recruit and partner with more blood centers to produce IFC.
+
+Matthew Park
+Analyst, Cantor Fitzgerald & Co.
+Great. That makes sense. And then, I guess, just one more for me. With the LED illuminator, have you guys noticed and – or obviously, you've gotten positive feedback from AABB, what does the timeline look like for receiving an approval decision here? And is there a replacement timeline with the legacy device? Thanks.
+
+William M. Greenman
+President, Chief Executive Officer & Director, Cerus Corp.
+Yeah. Thanks, Matthew. So, right now, we're targeting a launch of the LED illuminator in Europe in 2025. We really see this as sort of a foundational new platform for our business and for the use of platelets and plasma in blood centers. Right now, the assumption is that we'll be rolling this out across multiple customers throughout 2025 and 2026 in Europe. And then we're still in the process of putting together a PMA submission in the United States for the LED illuminator that's likely to take place more in the 2026 timeframe. So, overall, we're really excited about getting this product to market. It's been a partnership with a lot of our blood center customers and the development of this this program. And it really also is an important element of our innovating on the technology going forward, allowing us to improve the process in the future.
+
+Matthew Park
+Analyst, Cantor Fitzgerald & Co.
+Got it. That's it for me. Congrats again on the quarter.
+
+William M. Greenman
+President, Chief Executive Officer & Director, Cerus Corp.
+Thanks, Matthew.
+
+Operator
+One moment for our next question. Our next question comes from Matt Blackman with Stifel. Your line is open.
+
+Colin Clark
+Analyst, Stifel, Nicolaus & Co., Inc.
+Hi guys. This is Colin on for Matt. I wanted to start with a couple on IFC and what's driving the recent momentum in guidance range. Is this growth primarily from new customers or going deeper into your existing accounts or both? How should we think about the number of accounts you guys are in today versus the potential opportunity for what's out there? Thanks.
+
+William M. Greenman
+President, Chief Executive Officer & Director, Cerus Corp.
+Yeah. Thanks, Colin, for the question. Vivek, would you mind taking this one as well?
+
+Vivek K. Jayaraman
+Chief Operating Officer, Cerus Corp.
+Sure. I'd be happy to. So, to answer the question, growth is coming both from depth within existing customers as well as new customer acquisition. We estimate that roughly 55%, 60% of customers were added this calendar year. So, those are new customers. But then those that started last year, many of them started in one clinical area of the hospital and as they generated evidence of the value of IFC, that sort of moved out to other clinical departments. And then there are certain institutions, I referenced Barnes-Jewish in St. Louis earlier that are now 100% IFC across all of their clinical departments. So, we're seeing good growth in both areas. And for our sales organization and our production partners, really the focus is on getting existing customers to 100% and then continuing to fill that funnel with new hospital targets and new hospitals that are getting onboarded as each month passes. So, it's great to see because we think that provides us with significant runway for this therapeutic category.
+
+Colin Clark
+Analyst, Stifel, Nicolaus & Co., Inc.
+Thank you. That's really helpful. And it does look like IFC is going to exit the year at around $3 million to $4 million quarterly run rate. So, how should we be thinking about IFC in 2025? What are the key growth drivers for next year in particular? And is something in the $50 million range a reasonable starting point for the full year number? Thank you.
+
+William M. Greenman
+President, Chief Executive Officer & Director, Cerus Corp.
+Yeah. Thanks, Colin. Also we're not going to be providing guidance today on the call for IFC revenue in 2025. But I think Vivek can give you a little bit more color on sort of why we believe there's momentum growing just based upon the demand we're seeing and our now increasing ability to supply that demand.
+
+Vivek K. Jayaraman
+Chief Operating Officer, Cerus Corp.
+Thanks, Obi. I think the drivers remain largely the same. We referenced the fact that three BLAs were issued for production partners in the last quarter. There's a little bit of ramp-up time once they get the BLA to increase their manufacturing base and start to distribute product. But all of that will drive growth. That also gives both the blood centers and our team greater conviction around opening up new accounts that they know supply will be there. So that'll continue to drive the therapy adoption and top line growth into 2025.
+
+And then what we're seeing as well, if you think about what hospitals went through with COVID in terms of budget crisis and really having tremendous issues, staffing, maintaining staff at hospitals, they were really loathed to take on new projects. Certain hospitals recovered at a fast rate. What we're seeing now is more hospitals feel like they're in a stronger financial position and they're fully staffed and they're amenable to starting – taking on new projects like IFC. And that dovetails with what they're hearing at conferences like the recently attended AABB where they're seeing podium presentations about the technologies. All of these things are dovetailing together to create what we believe are meaningful tailwinds supporting our business.
+
+Colin Clark
+Analyst, Stifel, Nicolaus & Co., Inc.
+I appreciate the additional color. I'll hop back in queue. Thanks.
+
+William M. Greenman
+President, Chief Executive Officer & Director, Cerus Corp.
+Thank you.
+
+Operator
+One moment for our next question. Our next question comes from Jacob Johnson with Stephens. Your line is open.
+
+Jacob Johnson
+Analyst, Stephens, Inc.
+Hey thanks. And I'll echo my congrats on the quarter and a pre-emptive apologies for another 2025 question after Obi you'd mentioned that you'll address that in a couple months. And maybe a bit nit-picky. But if I look at kind of the midpoint of the guidance, what it implies for 4Q, it implies kind of a mid-single-digit growth rate in the fourth quarter. Again, understanding it's too early to guide to 2025, but can you maybe just frame up why or why not that's the best jumping off point for next year in IFC may be the answer, but just any thoughts there?
+
+William M. Greenman
+President, Chief Executive Officer & Director, Cerus Corp.
+Yeah. I mean, I think as we were looking at the guidance for this quarter with two months left in the year, we just really wanted to provide our best sort of projection for what the growth looks like for the remaining two months. But I think Vivek can sort of give you a sort of a perspective on sort of why we did that and sort of the optimism going into 2025.
+
+Vivek K. Jayaraman
+Chief Operating Officer, Cerus Corp.
+Yeah. I think you captured most of it. I mean, at this point, with October nearly done and two months remaining, we have good insight into what orders are out there, what new accounts will open. Things will slow down a little bit as we head into the holidays. So, some of the de novo account openings may move to early 2025. But fundamentally, if you look at inventory levels at our key customers as well as the feedback we're getting from hospitals about their initial experiences with IFC, all of these things right now are trending positive, which is what gives us confidence about how we'll close the year and the fact that we'll have a bit of a tailwind entering into 2025.
+
+Not to be too demure, but as mentioned earlier I think we'll reserve more detailed discussion about 2025 outlook till early next year. But what's encouraging to me is we had committed returning to growth this year after a challenging 2023. We sort of put the foundational pieces in place with our Q1 and Q2 performance and then we were able to had another solid quarter here in the third quarter. And we're sort of heads-down sprinting to do it again in Q4.
+
+Jacob Johnson
+Analyst, Stephens, Inc.
+Got it. Thanks for that. And then, Obi, just on this next-gen illuminator, you mentioned some good feedback from customers and their interest in it. Can you just talk about the value proposition of this next-gen illuminator for your customer base as we think about adoption upon potential approval?
+
+William M. Greenman
+President, Chief Executive Officer & Director, Cerus Corp.
+I think fundamentally for our customers, what they really depend on is our supply chain continuity and also the performance of our system. Because as you might imagine, since they've adopted our technology at 100% in many markets, if for whatever reason our supply chain wasn't solid, and that means both on the kit side, but also on the operational side with the device that it would shut down their blood supply. Historically, we've had a very reliable system with the current INT100 Illuminator and then moving into a new platform, if you will, with this LED-based illuminator. We had to have something that was equally robust, but also provided them with the assurance that this is something that they can rely on day in, day out. And so, as we were developing this with their input, we were really looking at how do we make it easier for them to use as they're processing hundreds of units of platelets and plasma every day. And then sort of just thinking about in the context of decades, how do we have something that they feel is state-of-the-art and is not going to create problems for them in the future with regard to supply chain continuity.
+
+So, the great thing about it is just that the throughput and ease of use feedback that we've gotten now as we've had numerous discussions with the European customers who will be receiving the LED illuminator in 2025. The feedback is uniformly positive and it's easier for them from a staffing and day-to-day operational perspective. And then I'll also mention this, I do think it's a foundational platform for how we evolve the technology going forward that was built into it so that we have flexibility on how to improve the system and iterate on sort of the process, if you will, so that we ultimately have something that increases ease of use, but ultimately potentially impacts our COGS profile as well.
+
+Jacob Johnson
+Analyst, Stephens, Inc.
+Got it. Super helpful. I'll leave it there. Thanks for taking the questions.
+
+William M. Greenman
+President, Chief Executive Officer & Director, Cerus Corp.
+Yeah. Thanks, Jacob.
+
+Operator
+One moment for our next question. Our next question comes from Joshua Jennings with TD Cowen. Your line is open.
+
+Joshua Jennings
+Analyst, TD Cowen
+Hi. Good afternoon. Thanks for the questions, and it's great to see continuing momentum. Two follow-ups, one on IFC. Sorry, if I didn't capture this. But just wanted to get a sense of the rollout of future BLA approvals. Are there any other blood center partners that are – or BLAs that are pending, should we expect more BLA approval announcements in the next 6, 12 months?
+
+William M. Greenman
+President, Chief Executive Officer & Director, Cerus Corp.
+Yeah. Thanks, Josh. And I'll turn it over to Vivek [ph] for some (00:40:42) comments on IFC.
+
+Vivek K. Jayaraman
+Chief Operating Officer, Cerus Corp.
+So you have other blood center production partners who are in the process of pulling together BLA applications. Obviously, timing on that can vary, but we do anticipate more BLAs that come through in 2025 and beyond. But what's most exciting about the recent approvals is we believe that, with these approvals, there is sufficient capacity in terms of production headroom to allow us to continue to be aggressive in terms of driving demand. And that was something that we were always laser-focused on because we knew once we got to the fall Congress season with the papers that were being submitted for publication and the podium presentations that were being accepted that there was going to be a flurry of new information released, both single center experience as well as broader dataset that supported IFCs. We wanted to make sure that we were in a position that we could offer up the product once the new people would start to say, hey, I want to bring that into my institution. So we'll continue to monitor this and work in lockstep to make sure one thing doesn't run too far ahead of the other. But right now, we feel like we're in a pretty solid position.
+
+Joshua Jennings
+Analyst, TD Cowen
+Excellent. And just wanted to just get a refresh on ASP for the LED illuminator and just thinking about once that approval hits and there is this replacement cycle kicking in, will that have an impact on gross margins? I believe this is a gross margin accretive system, but I just wanted to check that box. Thanks for taking the questions.
+
+William M. Greenman
+President, Chief Executive Officer & Director, Cerus Corp.
+Yeah. Thanks a lot, Josh. I'll let [indiscernible] (00:42:28)
+
+Kevin Dennis Green
+Vice President-Finance & Chief Financial Officer, Cerus Corp.
+Yeah. Thanks, Josh. We haven't really commented. I think it's a bit premature since we don't have approval yet for the LED illuminator. With that said, the technology is newer, the COGS will be slightly higher. And as a result, we expect the ASPs will be slightly higher. As far as a booster to overall gross margins, I think in and of itself, you shouldn't expect that. We expect that the margins on that product will be neutral to our current margin business. However, it does provide us with a platform for future growth, geographical expansion and in the future potentially product iterations because of that platform. So, hopefully that answers your question.
+
+Joshua Jennings
+Analyst, TD Cowen
+It does. And just sort of one quick follow-up. Just on the IP side just as this kind of extends some of that IP protection timeline, I guess, is my understanding too. But can you just refresh that? Thanks again.
+
+William M. Greenman
+President, Chief Executive Officer & Director, Cerus Corp.
+Yeah. Clearly there's a lot of IP that we've developed for this system over the course of the last five years. And it does extend, I think, the moat that we're building for the business and it's obviously IP that we filed globally as well. So, it improves the IP profile for the product for our global business.
+
+Joshua Jennings
+Analyst, TD Cowen
+Great. Thanks, Obi.
+
+William M. Greenman
+President, Chief Executive Officer & Director, Cerus Corp.
+Yeah. Thanks a lot, Josh.
+
+Operator
+One moment for our next question. Our next question comes from Mark Massaro with BTIG. Your line is open.
+
+Vidyun Bais
+Analyst, BTIG LLC
+Hey guys. This is Vidyun on for Mike. Thanks for taking the questions. So just on the government contract revenue, I heard your remarks on [indiscernible] (00:44:14) was a little bit light. How should we just think about the run rate or a good baseline here? And I just wanted to clarify, the newer BARDA contract should flow into our models more so looking at 2025. Thanks.
+
+William M. Greenman
+President, Chief Executive Officer & Director, Cerus Corp.
+Yeah. Thanks, Vidyun. And Kevin, you will handle it?
+
+Kevin Dennis Green
+Vice President-Finance & Chief Financial Officer, Cerus Corp.
+Sure. Hi Vidyun. So, let's take the 2016 contract in isolation, we had year-over-year it's lighter revenues because of the study completion. As the new sites with RedeS begin – well, they have begun. But as they ramp up production, we expect that the revenues and the expenses associated will ramp up over the course of the next 12 to 15 months. At that same time, less so in Q4, but really in 2025, activities under the new 2024 BARDA contract will begin in earnest. There's $32 million committed over several years. We're not giving guidance on that. The activity certainly will start in 2025 and will ramp up. At the same time, the RedeS trial will complete, the 2016 contract will conclude, and then we'll be at a more plateau with ongoing initiatives under the new agreement.
+
+Vidyun Bais
+Analyst, BTIG LLC
+Perfect. Understand. And then just one on the bottom line. I think adjusted EBITDA [indiscernible] (00:45:48) you saw some nice leverage there. It looks like you did maintain the full year guidance on that front, which seems a little bit conservative maybe. Is there any reason for that trend to change looking at Q4 or just, I guess, what's driving the conservatism there? Thanks.
+
+Kevin Dennis Green
+Vice President-Finance & Chief Financial Officer, Cerus Corp.
+Yeah, Vidyun. Well, our guidance was neutrality. And we're tracking just slightly better than that, as you pointed out. No real reason for the conservatism other than there's a lot of moving parts and we don't want to get ahead of ourselves. What we do expect is that with the increased revenue guidance, we would expect obviously growth there, sustaining our gross margins and continued leverage in operating expenses. There is variability in operating expenses and margins, as you know, though. So we really want to hedge that as much as possible. But we are trending in the right direction and are optimistic about the future.
+
+Vidyun Bais
+Analyst, BTIG LLC
+Perfect. Thanks for taking the questions.
+
+William M. Greenman
+President, Chief Executive Officer & Director, Cerus Corp.
+Thank you.
+
+Operator
+And one moment for the next question. Our next question comes from Bill Bonello with Craig-Hallum. Your line is open.
+
+Bill Bonello
+Analyst, Craig-Hallum Capital Group LLC
+Hey guys. A little bit of a similar question to what you just got, but not in the context of guidance. Just, Kevin, can you help us think about sort of the sustainability of the cash flow from this point forward? Obviously, there'll be quarterly variability given working capital and whatnot. But are we sort of tracking to a $16 million cash flow run rate? What are sort of the puts and takes as we move forward here?
+
+Kevin Dennis Green
+Vice President-Finance & Chief Financial Officer, Cerus Corp.
+Yeah. Thanks, Bill. I'd ask you to go back to our Q4/Q1 calls where we thought we would end this year was having the opportunity to generate operating cash flows. And that was a function of growth in the top line, management of our margins and OpEx, right, getting continued leverage out of the investments that we've made. That's all happening. In addition, we felt like we had built so much inventory over the course of 2023 that we'd be in a position where we could convert some of those components of raw materials into finished goods without having to replenish that. And that would help the cash flows. That certainly has played out as you look at our balance sheet.
+
+We also said at that time, in 2025, we'll have to rebuild the working capital and the inventory to meet growing demand. But we also expect that the business will be at a run rate where those investments in working capital will be offset with just natural operating bottom line. So, I don't want to comment on what you should expect as far as cash flow generation long-term, just the qualitative levers that we're looking at and that we're deploying to make sure that we're managing things appropriately and that our balance sheet remains healthy.
+
+Bill Bonello
+Analyst, Craig-Hallum Capital Group LLC
+And do we think of – in terms of product development uptick, do we think of that as almost being – to what degree is that fully funded because of your BARDA relationship and to what degree do you bear the burden of additional R&D expenses?
+
+Kevin Dennis Green
+Vice President-Finance & Chief Financial Officer, Cerus Corp.
+Well, it's certainly significant. Almost the majority of our R&D expenses are funded by BARDA. That's especially true today with multiple BARDA agreements. We also have the whole blood initiative with the FDA and the lyophilized IFC. So, that is a major component of our overall R&D expense. The remaining items are initiatives that are foundational to our future growth and revenue trajectory, like the LED Illuminator. I expect that that mix will continue as we move forward. We don't think there's going to be drastic swings in R&D expense as we move into 2025. But we're not done planning and we're not providing guidance today.
+
+Bill Bonello
+Analyst, Craig-Hallum Capital Group LLC
+Okay. And then just other – and again, not guidance, but other uses of cash that we should be thinking about going forward in terms of capital expense or et cetera?
+
+Kevin Dennis Green
+Vice President-Finance & Chief Financial Officer, Cerus Corp.
+Well, clearly, the working capital items that we commented on, we maintain the revolving line of credit for that exact reason. It's down year-over-year as we ended 9/30/2024. We'll continue to look at the opportunities to leverage that and offset any balance sheet cash that we would have to fund for that. And then beyond probably CapEx on COGS reduction initiatives and capacity expansion initiatives. Lastly, I'd say, geographic expansion, to the extent that we have the opportunity to expand geographically placed devices, those are all high-return investments that we think would be beneficial to shareholders.
+
+Bill Bonello
+Analyst, Craig-Hallum Capital Group LLC
+Okay. Thanks a lot.
+
+William M. Greenman
+President, Chief Executive Officer & Director, Cerus Corp.
+Thanks a lot, Bill.
+
+Operator
+And I'm not showing any further questions at this time. I'd like turn the call back over to Obi for any closing remarks.
+
+William M. Greenman
+President, Chief Executive Officer & Director, Cerus Corp.
+Well, thank you all again for joining us today and for your interest in Cerus. Later this year, we will be participating in investor conferences hosted by Stifel, Stephens and Craig-Hallum, after which, we look forward to speaking with you again in the new year. Thanks again.

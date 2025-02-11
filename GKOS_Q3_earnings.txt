@@ -1,0 +1,392 @@
+Thank you; and good afternoon. Joining me today are Glaukos Chairman and CEO, Tom Burns; President and COO; Joe Gilliam; and CFO, Alex Thurman.
+
+Similar to prior quarters, the company has posted a document on its Investor Relations website under the Financials & Filings, Quarterly Results section titled Quarterly Summary. This document is designed to provide the investment community with a summarized and easily accessible reference document that details the key facts associated with the quarter, the state of the company's business objectives and strategies and any forward statements or guidance we may make. This document is designed to be read by investors before the regularly scheduled quarterly conference call. As such, for this call, we will make brief prepared remarks and transition into a question-and-answer session. To ensure ample time and opportunity to address everyone's questions, we request that you limit yourself to one question and one follow-up. If you still have additional questions, you may get back into the queue.
+
+Please note that all statements, other than statements of historical facts, made on this call that address activities, events or developments we expect, believe or anticipate, will or may occur in the future are forward-looking statements. These include statements about our plans, objectives, strategies and prospects regarding, among other things, our sales, products, pipeline technologies, and clinical trials, US and international commercialization, market development efforts, the efficacy of our current and future products, competitive market position, regulatory strategies and reimbursement for our products, financial condition and results of operations, as well as the expected impact of general macroeconomic conditions, including foreign currency fluctuations on our business and operations. These statements are based on current expectations about future events affecting us and are subject to risks, uncertainties and factors relating to our operations and business environment, all of which are difficult to predict and many of which are beyond our control. Therefore, they may cause our actual results to differ materially from those expressed or implied by forward-looking statements. Review today's press release and our recent SEC filings for more information about these risk factors. You'll find these documents in the Investor Relations section of our website at www.glaukos.com.
+
+Finally, please note that during today's call, we will also discuss certain non-GAAP financial measures, including results on an adjusted basis. We believe these financial measures can facilitate a more complete analysis and greater transparency into Glaukos's ongoing results of operations, particularly when comparing underlying results from period to period. Please refer to the tables and earnings press release available on the Investor Relations section of our website for a reconciliation of these measures to the most directly comparable GAAP financial measure.
+
+And with that, I will turn the call over to Glaukos Chairman and CEO, Tom Burns.
+
+Thomas William Burns
+Chairman & Chief Executive Officer, Glaukos Corp.
+Okay. Thanks, Chris. Good afternoon, and thank you all for joining us. Today, Glaukos reported record third quarter consolidated net sales of $96.7 million, up 24% versus the year-ago quarter. As a result of our strong performance, we are raising our full year 2024 net sales guidance range to $377 million to $379 million versus $370 million to $376 million previously.
+
+Our third quarter record results were primarily driven by both our US and International Glaucoma franchises, where we continue to accelerate efforts to expand access to interventional glaucoma tools for the benefit of physicians and patients. Our goal to advance an approved glaucoma treatment by driving earlier intervention continues to build momentum, as we lead and work closely with surgeons, thought leaders globally to organically drive this broader evolution in the standard of care for the benefit of patients. These efforts were on full display at the AAO annual meeting last month, where the interest and excitement levels for interventional glaucoma and our technologies were high.
+
+Within our US glaucoma franchise, we delivered record third quarter sales of $51.6 million on strong year-over-year accelerating growth of 35%, driven by early but growing contributions from iDose TR, along with continued strong growth within our overall iStent portfolio led by iStent infinite. On the latter, utilization of iStent infinite for glaucoma patients that have failed medical and surgical therapy continues to expand as our ongoing clinical education efforts and improving market access landscapes takes hold.
+
+It is also worth noting that during the third quarter, five of the seven MACs issued final MIGS LCDs that largely align with their proposals as they establish coverage for iStent infinite that is consistent with our original reconsideration request. We look forward to their effective dates later this month, as we expect it will be an important step in unlocking the remaining Medicare Advantage and commercial plan coverage for iStent infinite. That said, I should also note that with any coverage policy change, we may experience some transient turbulence as providers navigate any potential impacts associated with these LCDs.
+
+Turning to our procedural pharmaceutical franchise on iDose TR, I am pleased to report that we successfully advanced execution of our detailed launch plans for this first-of-its-kind intracameral procedural pharmaceutical that was designed to deliver glaucoma therapy for up to three years. During the third quarter, the expanded access of iDose TR to all of our sales field personnel helped support a growing number of trained surgeons and expanding utilization. More importantly, outcomes and feedback from a growing number of cases and trained surgeons continue to be very positive and reaffirms our view that with the launch of iDose TR, we are pioneering a brand new therapeutic category that has the potential to reshape glaucoma management as we know it today.
+
+As you know, a key element to this initial stage gating of our iDose TR commercial launch is market access milestones and reimbursement confidence, where we remain focused across a number of areas. First, our team has been hard at work partnering with our customers to ensure a smooth, efficient transition from a miscellaneous drug coverage to the permanent J-Code for iDose TR, J7355, which became effective July 1, 2024. As a reminder, this now effective J-Code is expected to increase patient access and will allow us to expand training plans to future waves of surgeons and facilities over time. While there is certainly more work to do here, particularly as we expand efforts into the commercial arena over the course of 2025 and beyond, we are encouraged by the overall progress our teams are making to support increased reimbursement confidence through more streamlined and consistent J-Code coverage and payment in several of the MACs to-date with more to come.
+
+Second, as anticipated, J7355 was included in CMS's latest HOPD and ASC quarterly update addendums, appropriately establishing pricing of J7355 at ASP plus 6% effective as of October 1.
+
+And third, we are advancing efforts to secure professional fee coverage and payment with MACs, as well as establish commercial and Medicare Advantage coverage now that the permanent J-Code is effective.
+
+As noted in the past, we expect increasing adoption as reimbursement confidence is gained by our customers as we enter 2025. In addition to our commercial efforts, the launch has been supported by growing set of clinical literature, now consisting of eight different peer-reviewed publications highlighting iDose TR as a transformative new treatment alternative for patients suffering with glaucoma and ocular hypertension. We also continue to advance our dialogue with the FDA regarding the readministration of iDose TR, and beyond that, remain on track to commence a Phase 3 clinical trial for iDose TREX, our next-generation iDose therapy by the end of 2024.
+
+Finally, I should also note CMS issued its final 2025 facility fee and professional fee rules last Friday, but largely maintaining the 2024 reimbursement assignments and rates associated with our procedures and are consistent with the proposals from earlier this year.
+
+Moving on, our International Glaucoma franchise delivered sales of $24.5 million on year-over-year growth of 21%. The strong growth was once again broad-based, as we continue to scale our international infrastructure and execute our plans to drive MIGS forward as the standard of care in each region and major market in the world.
+
+Consistent with prior quarters this year, our new French CEPS agreement was favorable to our third quarter reported revenues. We remain in the early stages of expanding our IG and product portfolio initiatives globally ahead of anticipated new product approvals and expanding market access in the years to come. In the interim, we expect the trialing of new competitive products in our major international markets may become an increasing headwind as we enter 2025.
+
+And finally, our Corneal Health franchise delivered sales of $20.6 million on a 5% year-over-year growth, including Photrexa net sales of $17.9 million. As discussed last quarter, our third quarter results reflect the impact to Photrexa realized revenues as a result of our entry as a company into MDRP. Going forward, we continue to focus on expanding access for keratoconus patients suffering from this rare disease.
+
+Staying on Corneal Health, but shifting gears to our pipeline. We were pleased to recently announce positive top line outcomes in the second Phase 3 pivotal study for Epioxa, our next generation corneal cross-linking therapy that met the study's primary efficacy endpoint and once again demonstrated the potential of Epioxa to halt or reduce the advancement of keratoconus, a progressive sight-threatening corneal disease. These results further underscore our view that Epioxa may provide the ophthalmic community and patients with the first FDA-approved non-invasive corneal cross-linking therapy that does not require the removal of the corneal epithelium, the outermost layer of the front of the eye.
+
+We recently completed a successful clinical pre-NDA meeting with the FDA in which the agency agreed that our clinical data package is sufficient to support an NDA submission and review. As such, results from this second Phase 3 confirmatory pivotal trial together with the already completed first Phase 3 pivotal trial are expected to support our anticipated NDA submission for Epioxa by the end of 2024.
+
+Beyond Epioxa, we continue to prudently invest in and successfully advance our pipeline of novel promising platform technologies that we believe have the ability to significantly expand our addressable markets and fundamentally transform our company over time. We remain encouraged with the progress our teams are making across our robust portfolio of clinical and preclinical programs focused in the areas of glaucoma, retina and rare disease.
+
+At the same time, as we've discussed, we continue to prioritize the cadence of our investments, as we strive to strike the right balance of risk-based spending and our capital position now and in the future. In support of this, last month, we issued notice of redemption for the remaining $57.5 million in principal amount outstanding of our convertible senior notes due 2027. Pursuant to the notice, we anticipate these notes to convert to common stock before the redemption date of December 16, 2024, helping to further solidify our already strong capital position through a deleveraging and derisking of our balance sheet as well as a significant reduction in future cash interest expense.
+
+In conclusion, I am pleased with the strong commercial and development execution of our teams that they've continued to demonstrate this year. We look forward to continuing to build upon the growing momentum in our business over the coming quarters and years. Our foundation is strong and we are ideally positioned to continue transforming vision for the benefit of patients worldwide.
+
+So, with that, I'll open the call for questions. Operator?
+
+Question And Answer Section
+Operator
+[Operator Instructions] Our first question comes from the line of Tom Stephan with Stifel. Please go ahead.
+
+Thomas M. Stephan
+Analyst, Stifel, Nicolaus & Co., Inc.
+Great. Hey guys. Thanks for the questions. Nice quarter. Wanted to start with iDose. I'd actually ask both my questions upfront. First question maybe for Tom or Joe to start, we're coming up a year post-approval of iDose. So, first question, can you guys talk about what sort of the top two or three learnings or discoveries during the launch, just when you think back over the past, yeah, I guess, almost 12 months since approval. And then my second question is kind of a follow-up to that. Maybe Joe or Alex for you. Can you talk about key qualitative sort of puts and takes looking ahead on iDose when we think about the fourth quarter of this year and 2025 and try to dial in our models on iDose revenue? Thanks.
+
+Joseph E. Gilliam
+President & Chief Operating Officer, Glaukos Corp.
+Sure. Thanks, Tom. It's Joe. Maybe I'll start off and the others can jump in with any incremental thoughts on your two questions. If we think back on the last year of iDose, I have to say, whenever you enter into something of this magnitude, it's a challenge to forecast all the variables that are in front of you, whether those are variables from the training of your commercial organization to then ultimately leading that out to the field, the market access components and all the key milestones that are there. And I have to say, we're quite proud of now, looking back at where we're at, having done a really good job of executing against that plan.
+
+If you think about the most important thing from a long-term driver perspective, it really is clinical outcomes. And most importantly, we've been really pleased with the results on this front so far as well as kind of the overall clinical receptivity of surgeons towards iDose TR and what that means in terms of potentially changing the paradigm as we go forward. I think that's number one.
+
+I think the second thing you've heard us talk about is we knew going in, but the importance of reimbursement confidence to ultimately getting past that, I'll call it, initial launch phases into really the broad clinical adoption phase. And from that standpoint, we continue to be ahead in progress as well, but we still have a fair amount of wood to chop as we move forward. And I think that's probably the best transition into the second part of your question, which is the puts and takes as we enter into next year. I think we sit here today very confident about the team's ability to execute and continue to drive clinical adoption in interventional glaucoma overall as well as with iDose at the center of it.
+
+And alongside of that, the big things that are just opening up from a market standpoint, the various, I'll call it, key milestones that are in front of us. The first one is getting all of the MACs operating in a way or manner that's similar to the way several of them are today. The second thing is establishing consistent professional fee payments so there's confidence for the surgeon in terms of the economics for them associated with the procedure. And then the third will be the methodical long-term deployment of the commercial and Medicare Advantage coverage that we ultimately expect to start over the course of 2025. So, plenty of wood to chop, but we're really pleased with where we're at today and as we enter into the fourth quarter and certainly into 2025.
+
+Thomas M. Stephan
+Analyst, Stifel, Nicolaus & Co., Inc.
+That's great color. Thanks, Joe.
+
+Operator
+Our next question comes from Lawrence Biegelsen with Wells Fargo. Please go ahead.
+
+Larry Biegelsen
+Analyst, Wells Fargo Securities LLC
+Good afternoon, and thanks for taking the question and congrats on a nice quarter here. Joe, I'll ask the iDose question just to back into the numbers here. We're getting to about $7.5 million this quarter and by Q4 about $10 million. Are we in the right ballpark? And Joe, it looks like you raised by the amount of the beat for 2024. Why did you raise by only the amount to the beat? And I have one follow-up.
+
+Joseph E. Gilliam
+President & Chief Operating Officer, Glaukos Corp.
+Sure. And first, thanks, Larry. We agree it was a strong quarter and one where we continue to see the acceleration in the overall business as well as specifically US glaucoma. And as I think you're highlighting, it was driven in large part by iDose TR. I guess, what I can say here is that with that overall growth [ph] exerting out (00:19:07) 35% on a year-over-year basis, that was driven by really a doubling of our iDose TR sales versus the second quarter and alongside of that continued strong double-digit stent portfolio growth. So, the latter probably slowed just a touch on a year-over-year basis as our commercial intensity started to focus [ph] increasing (00:19:28) iDose TR, as we told you it would, but overall, really strong performance across both of those key drivers within the US glaucoma franchise.
+
+As it relates to the guidance side of things, I think it's probably easier to answer that question in breaking it down. So, as you think about modeling out our fourth quarter, I'd probably point to a couple key things. The first one is, in Corneal Health, we had previously mentioned that the MDRP headwind was expected to peak in the fourth quarter from a year-over-year impact perspective. So, it's worth noting that we expect this franchise will most likely be down on a year-over-year basis in the fourth quarter, as we then lap those more difficult comps, if you will, entering into 2025 where we expect to get back to the growth side of the equation for that franchise.
+
+On the International Glaucoma front, we do expect lower growth in the fourth quarter. I think you've probably heard this from others certainly that have announced their results more recently, we've seen currency move pretty materially against the US dollar entering October. And you combine that with some growing competition in the key markets, I think we'll see growth a bit more tepid in the fourth quarter than what we've seen over the course of the year.
+
+And finally, in US glaucoma, I think we expect to see continued acceleration of this franchise versus where we've been. We expect to see continued strong stent growth, maybe some modest headwinds, continued growth there from the LCDs and the overall commercial focus on iDose, but certainly continue to see the expansion of both iDose as well as the overall US glaucoma business. And really, you put all those together and those are factored into the guidance that we gave for the fourth quarter and the remainder of the year.
+
+Larry Biegelsen
+Analyst, Wells Fargo Securities LLC
+That's helpful. Just lastly for me. The types of patients using iDose, has anything changed standalone versus combo-cataract, Medicare Fee-For-Service [indiscernible] (00:21:25) patients, et cetera? Any changes? Thank you.
+
+Joseph E. Gilliam
+President & Chief Operating Officer, Glaukos Corp.
+I wouldn't call out any specific changes relative to where we've been. I think as you get further into the launch, you continue to see increased utilization across all of those categories. So, as you know, we really prioritize and focus on driving standalone utilization of iDose in the overall IG message. But having said that, certainly, surgeons are doing it in combination with cataract surgery as well. And from a utilization standpoint, in terms of prior procedures, we see it being done after DURYSTA, after SLT. We've seen it being done in phakic eyes, pseudophakic eyes, really across the full gamut, which is what you'd expect. And clearly, there'll be a lot more of that to come as we continue to move forward.
+
+From a market access or reimbursement perspective, virtually all of these are being done in Medicare Fee-For-Service patients. There's probably maybe a couple exceptions there, but we really aren't in a position yet where we're greenlighting or driving the expansion into that broader patient arena. We'll do that over the course of 2025 in a methodical fashion.
+
+Larry Biegelsen
+Analyst, Wells Fargo Securities LLC
+Thanks, Joe.
+
+Operator
+All right. Our next question comes from Ryan Zimmerman with BTIG. Please go ahead.
+
+Ryan Zimmerman
+Analyst, BTIG LLC
+Good evening, and nice quarter. Want to appreciate the color you just gave on Larry's answer. As I do the math on it, I'm getting kind of a low double-digit growth rate just in kind of the surgical glaucoma segment of the business. One, am I thinking about that correctly? But as I think about some of the reimbursement dynamics that we just saw Friday from Medicare, do you see stent usage shifting in 2025? Or maybe said in another way, given what we saw for goniotomy and canaloplasty versus what was proposed, would that dampen usage of those technologies in favor of stents, in your view, in 2025?
+
+Joseph E. Gilliam
+President & Chief Operating Officer, Glaukos Corp.
+Thanks, Ryan. Well, look, I think what you're asking in the context of low double-digits with respect to the stent franchise in the third quarter and I think that's pretty accurate and consistent with what I said in response to Larry's question. As we think about moving forward, there's always some, in recent quarters and years, been a fair number of puts and takes on this stuff. And I think from our standpoint, we're obviously pleased to see the affirmation of the payments and methodologies and amounts associated with our core procedures. There are puts and takes here. And so, when you think about on the professional fees standpoint, there's still a fair amount of advantage to the tissue disruptive procedures in terms of the economics for the surgeon. And we'll just have to see how that plays out over the course of the year. I think in totality, our focus is on growing the overall market as fast as we can towards a more interventional approach in a much larger patient population versus necessarily worrying as much about the puts and takes associated with combo-cataract utilization versus goniotomy or canaloplasty for that matter.
+
+Ryan Zimmerman
+Analyst, BTIG LLC
+Okay. Very helpful. And then both you and your competitor struck agreements – licensing agreements, I believe, with Ripple Therapeutics this past quarter, which was interesting to see. And I'm just wondering, maybe, Tom, I don't know if you want to comment on this, but kind of how does that play into the development and timelines for next-generation iDose products, given what they offer versus maybe what you're working on internally?
+
+Thomas William Burns
+Chairman & Chief Executive Officer, Glaukos Corp.
+I'll take the first part of your question – or the latter part first, and that's we're going to be entering the clinical trial for TREX – for iDose TREX by the end of this year. So I think that puts us in a very powerful position to potentially have a commercial product that's available before really any alternative glaucoma product is available in the marketplace. We're both investing in this technology, but really for principally different reasons. AbbVie has taken a position that they would like to have a product that's really an antecedent of the DURYSTA product. It's a bioerodible that's placed in the front of the eye. And as you know, that's always going to have a potential for endothelial cell loss where we've always taken the position that we want to be anchored in the front of the eye and have done so with iDose and with its subsequent generations.
+
+Our position with Ripple is to look at Ripple as an opportunity to really reach the back of the eye for proliferative retinal diseases, potentially for neuroprotection in glaucoma and we also have [indiscernible] (00:26:11) cornea. And so we see this as a broad-based opportunity for the interventional implants, which have been established by Eylea and Lucentis and others. We propose to move in that vein. And so, there really is a bifurcation of how we're looking at this technology.
+
+Ryan Zimmerman
+Analyst, BTIG LLC
+That's helpful, Tom. Thank you.
+
+Thomas William Burns
+Chairman & Chief Executive Officer, Glaukos Corp.
+You're welcome.
+
+Operator
+Our next question comes from Matt O'Brien with Piper Sandler. Please go ahead.
+
+Matthew O'Brien
+Analyst, Piper Sandler & Co.
+Afternoon. Thanks for taking the questions. Just I don't know Joe or Tom, if you're willing to share here, but just you're talking about now opening up iDose to your entire salesforce, can you give us a sense for how that group has queued up doc training for Q4 and then how that may extend itself into 2025 in terms of utilization? And then what I'm really trying to get at is the Street's modeling a pretty meaningful top line acceleration next year primarily driven by iDose. I mean, is that the way we should be thinking about the business for next year, is it meaningful acceleration on the top line?
+
+Joseph E. Gilliam
+President & Chief Operating Officer, Glaukos Corp.
+Thanks, Matt. It's Joe. I'll start off there. I think we're starting to settle into an early, but consistent trend of doc expansion, I won't get into the specific numbers. What I can tell you is obviously with the establishment of the J-Code, that picked up pretty meaningfully in the third quarter combined with the fact that we really opened up to our entire salesforce. And so, pretty much now over the last several months we've seen a pretty consistent trend of opening up new docs and new accounts.
+
+Clearly, the next leg of that will be as we continue to establish broader, I'll call it, reimbursement confidence across all of the MACs versus the handful that today are in an optimal place, followed by really the establishment of those professional fees. Remember, a significant number of these docs are tied to facilities where they may not have an economic stake. And so, from that standpoint, they like what they see from a clinical perspective, but ultimately are going to want to make sure that they're being appropriately compensated for their time and effort as well.
+
+As it relates to how that translates into next year, I'm not sure much has changed in the way that we've thought about this. All of these things are kind of lining up from a market access and doctor training perspective. I think to continue to drive strong outcomes next year, for the remainder of this year, I mean, if you look at where we've been getting to here, this is our third or fourth consecutive quarter, I believe, of accelerating growth in the US glaucoma franchise. I think that portends pretty well for obviously a hopefully very positive outcome for 2025.
+
+Matthew O'Brien
+Analyst, Piper Sandler & Co.
+Got it. Appreciate that. And then I did want to ask Alex about the leverage in the quarter, but I'll save that for later. I was curious about the commentary on reimplantation. I think everybody is just kind of expecting TREX to be the next generation in terms of second implantation. But any updates from your discussions with the agency in terms of what they're looking for on the reimplantation side? And is that something that potentially could be – we get some kind of update here over the next several months? Thank you.
+
+Thomas William Burns
+Chairman & Chief Executive Officer, Glaukos Corp.
+Yeah, Matt. I'll be happy to take that question. So, as we've talked about, we think we have a sophisticated approach and a reason why we should be enabled and allowed to have reimplantation, not only our approach, but also the fact that, as you know, we've already done a clinical trial where we're able to do 30-odd patients where we showed a safe reimplantation of the device with really no significant material endothelial cell loss versus control.
+
+So, all the [ph] bases (00:29:55) are there. And as just a reminder to the investment community, this is a conversation that we wish to have with the FDA in the final innings prior to the PDUFA date. And so, they were happy to have it. But we have to move the PDUFA date back probably several months, which obviously was a non-starter. So, we're re-approaching. So we have reengaged with them. We put this approach in front of them. I expect that there'll be several consecutive series of dialogue over the coming months. I would say we remain hopeful. But as we've said all along, we are not counting on this. And so, that's why I like the belt-and-suspenders approach of having iDose TREX available in the chamber starting with our clinical trial by the end of this year.
+
+Matthew O'Brien
+Analyst, Piper Sandler & Co.
+Thanks, Tom.
+
+Thomas William Burns
+Chairman & Chief Executive Officer, Glaukos Corp.
+Thanks, Matt.
+
+Operator
+Our next question comes from Allen Gong with JPMorgan. Please go ahead.
+
+Allen Gong
+Analyst, JPMorgan Securities LLC
+Hi. Thanks for the question. I have one on iDose and then one moving on from that. But I guess, piggybacking off some of the other questions that have been asked. Just looking at the guide and the kind of the implied of, say, $100 million in fourth quarter, you talk to some of the challenges you're going to be facing OUS in Corneal Health, but you also pointed to continued kind of sequential growth from the core – or maybe not sequential, but core strength inside of iStent and iDose. So, I guess, you've given us some direction on what iDose did in second quarter and how that grew in the third quarter. How should we think about what's contemplated in your fourth quarter guide, how much of that sequential growth is coming from iDose versus iStent?
+
+Joseph E. Gilliam
+President & Chief Operating Officer, Glaukos Corp.
+Thanks, Allen. Yeah. I tried to address it a little bit earlier, but maybe I'll reiterate a couple points around the fourth quarter and specifically on the US glaucoma franchise. I think when you put the puzzle pieces together, as you were starting to do on the other segments, you're going to get back to US glaucoma that shows continued acceleration and certainly quarter-over-quarter growth as well as year-over-year acceleration for that franchise. And underneath that, we continue to expect strong stent growth to continue. It may have some modest headwinds versus what we've experienced in recent quarters, including the third, driven by some volatility associated with the LCDs coming into effect later this month, as well as the just general overall commercial focus that we have growing on on iDose. And I think when you do all of that calculus, you'll see that it implies continued expansion for iDose TR as a part of the overall launch dynamics in the fourth quarter.
+
+Allen Gong
+Analyst, JPMorgan Securities LLC
+Got it. And then kind of moving on to the Epioxa data that you got, if we were to compare it to the results of the first Phase 3, the outcomes at least numerically look pretty similar. So, how should we think about your confidence in getting that approved? And then ultimately, once you lap the MDRP headwinds and once you have the full portfolio, how should we think about the growth outlook for that business once you have both products approved? Thank you.
+
+Thomas William Burns
+Chairman & Chief Executive Officer, Glaukos Corp.
+Yeah. Allen, I'll be happy to answer that. And so, let's take a step back and really talk about Epi-on, which we think is a significant advancement and really the result of years of innovation work and investment by us. And that procedure is designed to be truly non-invasive, is designed to be reduce procedural times for the physician. It should improve patient comfort and it should shorten the visual rehabilitation and recovery time for the patient. And the reason is we don't have to remove and debride the corneal epithelium in order to be able to get our product into the stroma where it can cross-link the collagen fibrils and arrest the progression of keratoconus.
+
+So, in the case of Epioxa, it truly is a proprietary formulation. It has a surfactant in it which will allow us to penetrate through the corneal epithelium. It uses a stronger UVA irradiation protocol and it has a profusion of oxygen through this oxygen goggles which are consumed as part of the procedure, they throw off oxygen free radicals. Those are the key to reorient and stiffening the collagen fibrils. Now, when we look at – I love the data we were able to achieve with this product, we achieved the primary efficacy endpoint by demonstrating Kmax, our treatment effect of one diopter prospectively defined mean Kmax change versus Epioxa treatment arm versus the sham control.
+
+And I think these results are indicative of what we want to see in the marketplace. The product works. It shuts off and arrests the progression of keratoconus. And because it does offer these advantages to the patient of minimizing pain and increasing visual rehabilitation and recovery and offers advantages to the clinician by shortening the procedure time is, in some cases, as much as a third of what you need to do a Photrexa procedure. I think this has a really strong value proposition to really receive rapid adoption in this rare disease category.
+
+So I said this before, I think this will markedly change the adoption rate and our ability to penetrate the ranks of this rare disease over time. We're excited about it. We're on track. We'll file our NDA by the end of this year. And by the way, as we reported in the script, the FDA has seen our data and we had a meeting with them. The purpose was to obtain agreement from them on the content of the proposed NDA and would it be sufficient or not to support an NDA submission and retain affirmed and validated as an outcome of this meeting that the FDA would accept the proposed clinical package as significant – or sorry – as sufficient to support our NDA submission or review. So, a long answer to your question, but this is something that I think will take us in and be a catalyst for growth certainly in 2026 and beyond.
+
+Operator
+All right. I think we'll go to the next caller. Our next question comes from Margaret Kaczor Andrew with William Blair. Please go ahead.
+
+Macauley Kilbane
+Analyst, William Blair & Co. LLC
+Hey everyone. It's Macauley on for Margaret tonight. Thanks for taking our question and congrats on the quarter. Heading into the quarter, you mentioned the potential for a reset and reimbursement dynamics obviously as you shifted to that J-Code. So, just wondering how that has trended over the last few months, whether that be in terms of a reduction in some of those catch-up payments that you've mentioned in the past or other metrics you're looking at? And just as a quick follow-up to that, would you say you're through the majority of that potential coverage denial period or how should we think about that as you continue to knock down some of these reimbursement dynamics?
+
+Joseph E. Gilliam
+President & Chief Operating Officer, Glaukos Corp.
+Yeah. Thanks, Macauley. I'll try to address both of those. I think first, going into the quarter, we certainly expected a bit of a reset. We saw it for sure. I mean, as you enter into July and August, even those folks who had done earlier procedures under the C-Code environment and been paid, they wanted to make sure that the machinery was working appropriately in the J-Code environment. As the quarter were moved on, you saw these payments coming through. I think the way I would characterize where we're at today is really to kind of break down from a MAC perspective. And this is subjective, but I would say we currently have two MACs that are paying the J-Code in a normalized and efficient manner. We have two MACs that are nearly there. But I'd like to see a little bit more evidence before I call it. And three MACs where the process remains more manual and time-consuming. Obviously, that's the way the wheels of progress grind on. It's consistent with our expectations. And we continue to make progress, the pacing of which will remain to be seen over the course of the quarter. But as we said I think from the very beginning, the goal here really was to make sure that as much of this was ironed and smoothed out heading into 2025 as possible, and I think we remain on track for that.
+
+Macauley Kilbane
+Analyst, William Blair & Co. LLC
+That's great. Thanks again.
+
+Operator
+Our next question comes from David Saxon with Needham. Please go ahead.
+
+David Saxon
+Analyst, Needham & Co. LLC
+Great. Good afternoon, everyone, and congrats on the quarter. I'll start with iDose. Maybe can you talk about the utilization trends you're seeing for doctors using iDose? I've heard docs take varied approaches, some starting slow and some seeming to kind of jump all-in. So, how does it look across the cohort and, I guess, has anything surprised you to either the upside or downside? And then I'll have one follow-up for Alex.
+
+Joseph E. Gilliam
+President & Chief Operating Officer, Glaukos Corp.
+Well, thanks, David, on the quarter. And when it comes to iDose, obviously, we said this before and I think it probably still is a little bit early to draw too many conclusions from utilization trends. But I think a couple of anecdotes worth noting as you think about the broader opportunity. Almost all of these docs or accounts start off slow. So, to your point, I mean, nearly all of them start with a handful of cases to establish reimbursement confidence. The question then is that how quickly they move to that next phase where they're start thinking about it clinically. And one of the most encouraging things we've seen, both evidence and the results of the third quarter, as well as certainly what we've experienced thus far in the fourth quarter, is that, as that reimbursement confidence is established, in particular in the MAC regions where there's more normalized behavior today, we're seeing a growing number of surgeons adopting it into their routine clinical practice and that expansion of utilization that you would expect. And so, for now, for those MACs where we're seeing a normalized payment schedules, et cetera, it's all about driving that increased utilization day-in, day-out while we're still achieving that reimbursement confidence and early expansion on some of the other MAC regions.
+
+David Saxon
+Analyst, Needham & Co. LLC
+Great. Thanks for that. And then for Alex, just on the P&L, specifically for iDose. I think it's been a drag. So, I guess, is it still a drag on gross margins? And then at what point does that flood to become accretive? And then on kind of the middle part of the P&L, is 10% still a good way to think about OpEx growth in 2024? And then given the leverage potential of iDose and how that launch is ramping, can you give us any early color on how to think about OpEx growth in 2025? Thanks so much.
+
+Alex Thurman
+Chief Financial Officer & Senior Vice President, Glaukos Corp.
+You bet, David. And thanks for the question. So I'm going to try to hit them all. There is a lot there to unpack, but let's start with the gross margin. And to your point, yes, I mean, we continue to work our way through with iDose and the manufacturing burden that it comes with, it's still a modest headwind on our gross margin. But regardless, it's improving, every quarter I look at it, see what is happening with the iDose revenues and that associated COGS burden, and it is improving as those units start to and volumes start to ramp up. Our expectations are that we should start to see accretion in the margin by the end of next year and it's really all dependent upon those iDose unit volumes and manufacturing volumes. As simple as that. So, we do expect that. But we are pleased to see our margin for the quarter coming right in the range that we expected, which was 80% to 83%.
+
+And the second question around OpEx for the remainder of the year, I think 10% is exactly the right number that we've been guiding to the whole year. If you think about seasonally, we've traditionally had a little bit of a step-up sequentially in our fourth quarter operating expense. So, if you look at our year-to-date number, we're sitting at a place of – I think it's $290 million year-to-date. And if you just take a little bit of a step-up from this quarter, you'll get right in that 10% growth rate for the full year zone. And then next year's operating expense will cover that when we kind of cover our 2025 guidance plans in the next call.
+
+David Saxon
+Analyst, Needham & Co. LLC
+Okay. Great. Thanks so much, guys.
+
+Operator
+Our next call comes from Mike Sarcone with Jefferies. Please go ahead.
+
+Michael Sarcone
+Analyst, Jefferies LLC
+Hey good afternoon and thanks for taking the question. Just a follow-up on Epioxa. Can you talk about what the reimbursement pathway would look like there, once you get clearance and you start to commercialize? And I believe you could also get a J-Code for this. But could you speak to some of those factors?
+
+Thomas William Burns
+Chairman & Chief Executive Officer, Glaukos Corp.
+Yeah, Mike. This is Tom. I'm happy to take that question. So let's first deal with the professional fee. And the good news is we were able to extend the T-Code for the professional fee 0402T by another five years. I think that takes us to the end of 2029, which means that the Epioxa will be covered – that procedure will be covered under existing T-Code, 0402T, which is by and large paying over $2,000 per procedure.
+
+On the ability of a J-Code, yes, we'll have a new J-Code that we'll establish for this premium technology that if we're successful in getting a PDUFA date in the fourth quarter of 2025, we'll look then to establish and apply for that J-Code at the tail-end of 2025. And if you follow what happened with iDose, we'd be looking at about six months to get a J-Code and get approval for that product.
+
+Now the difference here, the J-Code that we had established for iDose because of the Medicare Fee-For-Service patients that we were concentrated and focused on, we were able to enter early and to do preliminary cases under the C-Code prior to the J-Code and to seek and to gain and secure reimbursement. Because the Epioxa procedure is almost variably going to be a commercial payer, we very well may wait until we have that J-Code in let's call it, July of 2026, we have that solidified and that may be the beginning and the predicate for commercial launch. We're still contemplating several scenarios, but my bias would be to do so and to take that track
+
+Michael Sarcone
+Analyst, Jefferies LLC
+Okay. Great. Thanks, Tom. And then my second one maybe for Alex. Could you just talk about the progress and targets toward cash flow breakeven and maybe touch on how you think about the profitability in the mid-term?
+
+Alex Thurman
+Chief Financial Officer & Senior Vice President, Glaukos Corp.
+Yeah. I'd be happy to, Mike. So, again, you saw – I mean, this quarter, we were pleased to see we actually generated a small modest amount of cash. So that was a great result for the quarter. But it was really around just some spending discipline and some other things. We've talked to you and I and other investors around the fact that our near-term approach is not going to be with an eye to profitability, but rather cash flow breakeven. And we want to get back to the point where we live within our means, so to speak, and how we used to before we entered into a very meaningful investment period getting ready for iDose.
+
+I will say that as we progress throughout the next several quarters, next year and even the year after that, there's a very strong possibility given iDose and its launch trajectory, you could see quarters of profitability happen and that wouldn't be a surprise to us, but it's not a signal to the community that we are turning our focus towards profitability. Rather it's just a matter of the ebbs and flows of our revenues and our expenses. But we have such a robust pipeline that we'll continue to invest in those R&D programs and, again, focus on the near term as we focus on cash.
+
+Alex Thurman
+Chief Financial Officer & Senior Vice President, Glaukos Corp.
+You bet.
+
+Michael Sarcone
+Analyst, Jefferies LLC
+Understood. Very helpful. Thank, Alex.
+
+Operator
+Our next question comes from Joanne Wuensch with Citigroup. Please go ahead.
+
+Joanne K. Wuensch
+Analyst, Citigroup Global Markets, Inc.
+Good evening and thank you so much for taking the questions. I'll just sort of toss them right upfront. I think you had previously talked about gross margins in 2024 in the range of 82% to 84%. I wanted to just make sure you're still feeling good about that. And then my second question is really about 2025. I recognize a little early for you to be giving guidance. But in looking at the consensus estimates, could you just maybe comment if you feel good, bad or indifferent about them? Thank you.
+
+Alex Thurman
+Chief Financial Officer & Senior Vice President, Glaukos Corp.
+Okay. You bet. Hey Joanne. It's Alex. So I'll take the gross margin question. So I think we did start out thinking 82% to 84%, but I did narrow that range as we've gone throughout the year to 82% to 83%. And we continue to feel very good about that range for this year and 2024. That narrowing of the range really had to do with what I was speaking about earlier. Just as we continue to launch iDose and have to get over the manufacturing inefficiencies that typically occur when you launch a product, that's kind of brought our margin a little bit, but we do expect accretion to happen certainly in the future and more likely at some time in the latter half of 2025 by the end of the year.
+
+Joseph E. Gilliam
+President & Chief Operating Officer, Glaukos Corp.
+And then, Joanne, obviously, it's early for us to get granular on 2025, as you suggested. And I wouldn't comment on the specific numbers the Street has out there. I probably [ph] am comfortable (00:48:12) commenting on some of the macro considerations, which shouldn't come as a huge surprise. But internationally, we think about continuing to build the overall markets outside the United States anchored around interventional glaucoma and expanding the market there, hopefully achieving some key product approvals along the way, as we take our pipeline abroad. And on the counter side, we expect to continue to see increasing competition, in particular in some of our key markets outside the United States.
+
+On the Corneal Health front, we would expect some continued headwinds associated with the Medicaid Drug Rebate Program ahead of an Epioxa approval and launch late in the year, as Tom indicated. Although I think some of those headwinds will certainly be able to lap from a year-over-year perspective, the impact that we had – we've been currently experiencing in 2024. And then as it relates to our US glaucoma franchise, we really expect continued momentum that primarily will be gated by our ability to establish, as I said before, predictable professional fees and our methodical expansion over the year into commercial and Medicare Advantage covered lives and our salesforce execution against that in terms of training doctors and expanding the utilization of iDose and iStent infinite in that same [ph] little (00:49:34) patient population.
+
+Joanne K. Wuensch
+Analyst, Citigroup Global Markets, Inc.
+Thank you so much.
+
+Operator
+Next question comes from Richard Newitter with Truist Securities. Please go ahead.
+
+Ravi Misra
+Analyst, Truist Securities, Inc.
+Hi. Good evening. It's actually Ravi on for Rich. Can you hear me?
+
+Joseph E. Gilliam
+President & Chief Operating Officer, Glaukos Corp.
+We can.
+
+Thomas William Burns
+Chairman & Chief Executive Officer, Glaukos Corp.
+Yes.
+
+Alex Thurman
+Chief Financial Officer & Senior Vice President, Glaukos Corp.
+Yeah.
+
+Ravi Misra
+Analyst, Truist Securities, Inc.
+Great. Thanks. So just a question on – going back to iDose and part of the label is that iDose is available in OHT patients, as well. I was hoping you could maybe give a little bit more color around what kind of market addition these patients would represent to the TAM, what kind of reimbursement work maybe you need to secure to get at it. And then should we factor that in potentially to our 2025 iDose workouts or if you're seeing any uptake right now? Thanks.
+
+Joseph E. Gilliam
+President & Chief Operating Officer, Glaukos Corp.
+Yeah. Thanks, Ravi. I'll start off and Tom may want to add some color as well. If you think about the overall market, and you specifically referenced ocular hypertension, but I'll comment more broadly. There are approximately 20 million to 21 million eyes in the United States that have either diagnosed glaucoma or ocular hypertension, of approximately which 13 million to 14 million are diagnosed at any given time and 10 million of which are treated. So, very large overall opportunity. The good news, and I won't belabor the point around our prior studies, but we have a very large study that has significant data attached to treating all of those patient types up and down the disease spectrum. And so, we would expect to utilize that as well as any incremental Phase 4 type studies that we are or will do in the future to help make sure that we secure proper reimbursement coverage.
+
+I think a lot of that comes down to the individual payer types that are out there. Certainly, we have sufficient data to support this within the traditional Medicare arena [ph] having (00:51:27) on label and supported by hard and significant evidence. Oftentimes with the commercial payer, even the Medicare Advantage payer types, you have to continue to chip away that over time with incremental data and advocacy on behalf of those patients that would like to have access with iDose up and down the disease spectrum.
+
+Ravi Misra
+Analyst, Truist Securities, Inc.
+Great. Thanks. And maybe just one more. You kind of mentioned dialogue with FDA around readministration? Love to get any more color beyond that if you're able to supply it? Thank you.
+
+Thomas William Burns
+Chairman & Chief Executive Officer, Glaukos Corp.
+Hi. Yeah, Ravi. I guess, I would defer to my statement before is that we have had initial engagement. They have looked at the sophisticated approach we put in front of them and we remain hopeful. I don't want to go into any prognostication other than that. We're not counting on the reimplantation. Certainly hasn't been a detriment in the marketplace. Great to have it. Not counting on it. But again, I like the fact that we have iDose TR waiting in the wings to become a defacto reimplantation product if we are unsuccessful in this early attempt.
+
+Operator
+All right. Our next question comes from Steve Lichtman with Oppenheimer. Please go ahead.
+
+Steven Lichtman
+Analyst, Oppenheimer & Co., Inc.
+Thank you. Evening, guys. You mentioned on the call today and in the past the shift in the focus of the salesforce toward iDose, understandably. What is your latest thoughts on whether you'd look to make a bigger expansion of the rep footprint to sufficiently focused on infinite as well as the core stent business?
+
+Joseph E. Gilliam
+President & Chief Operating Officer, Glaukos Corp.
+Yeah. Thanks, Steve. I don't think that our view on that has changed at all. We've said for some time to expect consistent organic expansion of our salesforce, measure it with the growth in our individual territories, both from a volume and revenue perspective. I think we have a pretty good handle on that. We have a lot of experience in our commercial organization running larger businesses in ophthalmology and a pretty good vision for where the salesforce ultimately might go to. But for now and in the foreseeable future, I see that being continued sort of organic expansion from where we're at today.
+
+Steven Lichtman
+Analyst, Oppenheimer & Co., Inc.
+Okay. Great. And then what is your latest outlook regarding timing of getting iDose [indiscernible] (00:54:07) established across the MACs? How should we be thinking about this in the coming quarters?
+
+Joseph E. Gilliam
+President & Chief Operating Officer, Glaukos Corp.
+Yeah. That's a great question, Steve. I think, obviously, we were pleased to see the first MAC establish that professional fee and we've been pleased to see, albeit inconsistent but payments across really all the MACs that are consistent in the dollar amounts with what we saw in that professional fee schedule from, in this case, Noridian. Ultimately professional fees are a volume game. And so, as you get MACs providing more consistent normalized payment on the J-Code, you're able to drive volumes, and those volumes ultimately drive the adjudication of the professional fee, which drives professional fee schedules. Sometimes it will end that professional fee schedule and other times it'll just be that they're starting to pay on a consistent basis a dollar amount that you can count on, even if it's not on the schedule. We've said for some time that our expectation would be that as we enter into 2025 that that'll become more front and center. And I think that remains the case. Again, it may not all be there on actual schedules, but what we're looking for is consistent, independent, more predictable payments on the professional fee side across each MAC.
+
+Steven Lichtman
+Analyst, Oppenheimer & Co., Inc.
+Understood. Thank you.
+
+Operator
+Our next question comes from Patrick Wood with Morgan Stanley. Please go ahead.
+
+Patrick Wood
+Analyst, Morgan Stanley & Co. International Plc
+Beautiful. Thank you. Just two quick ones for me and I'll do them both upfront, if that's right. I guess, wet AMD. Are we still expecting some Phase 1 data in 2025? And then secondly, any read from DURYSTA's marketing authorization, then withdrawing that? I know it's a very different reasons for you guys, but some of the conversion you might have had patients that were on DURYSTA going to iDose, is there an implication there at all? Thanks.
+
+[indiscernible] (00:56:05)
+
+Joseph E. Gilliam
+President & Chief Operating Officer, Glaukos Corp.
+Okay. So I think from a DURYSTA perspective, I wouldn't read that much into it. Obviously, that's very unique to their product and from their standpoint, I'll defer to AbbVie around considerations there. We've obviously been cognizant from the beginning when it comes to iDose or any of our products that come after administration of DURYSTA to be mindful of any sort of adverse event profile that may exist within that patient. But I don't think there's anything new there that we didn't learn anything from that, nor does it change sort of our go-to-market strategies in the US or abroad.
+
+Tom if you want to comment on wet AMD?
+
+Thomas William Burns
+Chairman & Chief Executive Officer, Glaukos Corp.
+Yeah. Would be happy to. So, as you know, we have begun that Phase 1 study of axitinib. And just to remind the investor audience, this is a tyrosine kinase inhibitor, which is a small molecule, which is to treat age-related macular degeneration. We've had this product in persistent [indiscernible] (00:57:06) trials now really going on over two years. We really like what we see. The results have been rather extraordinary in terms of efficacy. We like the precedence in the marketplace of people where it's – or companies with similar TKIs [indiscernible] (00:57:22) inflammation. So, this all bodes well on a product that may be able to radically change and disrupt the marketplace when and if it's available. So we have begun Phase 1 clinical work outside the United States, and we are in the process of enrolling patients as we speak. Our goal would be to have some data – proof-of-concept data available late in 2025, maybe going into 2026, and then we'll see what we're aiming at. With a positive response, I think this becomes a major catalyst, an opportunity for the business.
+
+Patrick Wood
+Analyst, Morgan Stanley & Co. International Plc
+Thanks, guys.
+
+Operator
+All right. Our final question comes from Anthony Petrone with Mizuho. Please go ahead.
+
+Anthony Petrone
+Analyst, Mizuho Securities USA LLC
+Thanks. Maybe one on the Medicare Advantage policies you referenced earlier in the call. Maybe just a little bit on timing. Is it possible that we'll see a Medicare Advantage program for iDose TR in 2024 or are those 2025 events? And then just to revisit the idea of a rebate program. I think 20% of the patients are still Medicare Fee-For-Service. And does the company have a strategy to deploy the balance sheet to address the donut hole for those patients? Thanks.
+
+Joseph E. Gilliam
+President & Chief Operating Officer, Glaukos Corp.
+Sure, Anthony. I think as it relates to Medicare Advantage, I want to separate between sort of policy establishment or coverage and our sort of commercial support for that in the marketplace. If you went and search today, there are quite a bit of actual coverage for iDose TR, both in the commercial arena as well as in the Medicare Advantage arena. Our payer team has been hard at work since the product approval and done a great job of establishing coverage across that entire landscape.
+
+What we're really talking about here is our ability to deliver that to the marketplace, support that – the complexities associated dealing with commercial payers and Medicare Advantage from a prior authorization standpoint as well as some of the other things that come along with those payers. It's something we want to make sure that we've established a solid footing with Medicare Fee-For-Service before we enter into. So, as I said earlier, we'll really start to turn that on in 2025 over the course of the year, and we'll do so very methodically. We don't want to get ahead of ourselves in this part of the payer landscape. We want to make sure that we do it the right way for the long term on that.
+
+As it relates to rebate programs, which I'll say actually more co-pay assistance or out-of-pocket programs, those are really [indiscernible] (01:00:10) like all pharmaceutical companies do the commercial patients out there that you can't do anything about federally-insured patients, Medicare or Medicare Advantage. When you talk about the donut hole, I think we have to think about that's more of a Part B issue. For Part B patients, the vast, vast majority, 90-plus percent, have supplemental or secondary insurance that covers their out-of-pocket expenses on procedures like iDose. So we do plan on having an out-of-pocket program, but it'll be oriented towards those commercially covered lives.
+
+Anthony Petrone
+Analyst, Mizuho Securities USA LLC
+Thank you.
+
+Operator
+All right. I will now turn the call back over to Glaukos for closing remarks.
+
+Thomas William Burns
+Chairman & Chief Executive Officer, Glaukos Corp.
+Okay. I want to thank you all for your time and attention today. And thank you as well for your continued interest and support of Glaukos. Goodbye.

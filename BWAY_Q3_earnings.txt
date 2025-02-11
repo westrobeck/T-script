@@ -1,0 +1,194 @@
+Thank you all, and welcome to Brainsway's third quarter 2024 earnings conference call. With us today are Brainsway's Chief Executive Officer, Hadar Levy; and Chief Financial Officer, Ido Marom. The format for today's call will be a discussion of recent trends and business updates from Hadar followed by detailed discussion of the financials. Then, we will open up the call for your questions.
+
+Earlier today, Brainsway released financial results for the three and nine months ended September 30, 2024. A copy of the press release is available on the company's Investor Relations website.
+
+Before I turn the call over to Hadar, I would like to remind you that this conference call, including both management's prepared remarks and the question-and-answer session may contain projections or other forward-looking statements regarding, among other topics, Brainsway's anticipated future operating and financial performance, business plans and prospects and expectations for its products and pipeline, which are all subject to risks and uncertainties, including shifting market conditions resulting from geopolitical, supply chain and other factors as well as the use of non-GAAP financial information. Additional information regarding these and other risks are available in the company's earnings release and in its other filings with the SEC, including the Risk Factors section contained in Brainsway's Form 20-F.
+
+I would now like to turn the call over to Hadar. Please go ahead, Hadar.
+
+Hadar Levy
+Chief Executive Officer, Brainsway Ltd.
+Thank you, Brian. Welcome, everyone, and thank you for joining us today. As reported earlier this morning, we had another outstanding quarter of growth. Most importantly, global market demand for our industry-leading Deep TMS system continues to be strong and led to a year-over-year increase of 26% in revenue to $10.5 million for the third quarter of 2024. In addition, we generated positive quarterly net income for the fourth consecutive quarter and positive adjusted EBITDA and cash flow from operations for the fifth consecutive quarter.
+
+Our performance this past quarter speaks to the strength of our team and market-leading technology. However, we still see significant room for development and we are focused on expanding our position as a leader in the industry by executing our long-term growth strategy by making key investments across three core areas, including developing our next generation Deep TMS 360 system, conducting clinical trial to broaden and enhance treatment capabilities and expanding our commercial presence for targeted sales and marketing efforts. These investments in our long-term vision are supported by a strong balance sheet with no debt.
+
+As of September 30, 2024, we reported $48.4 million in cash. In addition, subsequent to the end of the quarter, we recently completed a strategic private investment equity financing with Valor Equity Partners for approximately $20 million in gross proceeds to date before any exercise of warrants by Valor. As a result, our pro forma cash position after the contribution from this financing is currently approximately $68.4 million. I'll discuss our strategy for this investment in a moment.
+
+In terms of guidance, our outlook for the fourth quarter of 2024 remains highly positive, and we are increasing our full year 2024 revenue guidance to a range of $40 million to $41 million. This would represent growth of 26% (sic) [25%] (00:04:52) to 29% over full year 2023 revenue. Moreover, we are providing initial profitability guidance, specifically, we anticipate generating operating income of 3% to 4% and adjusted EBITDA of 10% to 11% for the full year 2024.
+
+I'd now like to take a few moments to dive a little deeper into the key growth driver behind the momentum in our business. Starting out with a closer look at our sales team's performance in the first nine months of the year, we have shipped a net total of 177 systems, a 12% increase over the same period last year. Importantly, we offer the most advanced TMS technology platform in the market. As a result, we are [ph] constantly (00:05:48) well-positioned to work with some of the largest enterprise mental health group and networks.
+
+For example, in September, we announced an order of 14 of our innovative Deep TMS systems for large and growing enterprise network customer on the East Coast of the US. As a growing segment of our customer base, these enterprise accounts have been a major driver behind large and repeat orders for our Deep TMS systems over the past year. In addition, by elevating our customer base, we have seen new door open to additional enterprise customers of the same size and caliber if not larger. With the opportunity to achieve additional large and repeat orders from both new and existing enterprise customers, we see additional room to grow in the years to come.
+
+Another part of our growth strategy that had been successful implemented, in the expansion of global distribution and sales network. This network is made up of distribution agreement, agent arrangement and direct sales efforts in key territories around the world such as in Canada, Israel, Europe and Asia. We have seen steady demand growth across these countries and are pleased by the new opportunities we're seeing through our distribution partners. For example, last month, we announced the placement of 15 new Deep TMS systems in Taiwan and in South Korea. The systems will be used by mental health centers and are indicative of the continued commercial success we are having in the East Asian market.
+
+Looking ahead, we are always seeking additional regulatory approvals [ph] and now (00:07:40) broadened reimbursement coverage in order to drive further demand for and access to our system. Under this directive, we recently announced that the Israeli Ministry of Defense Rehabilitation Department granted approval for the reimbursement of Deep TMS therapy for qualifying patients at Israeli public hospital with post-traumatic stress disorder often referred to as PTSD. We will continue working to expand available reimbursement for PTSD within the country with the goal of potentially including more Israeli medical centers as well as adding private clinic settings.
+
+Turning to R&D, in September, we were pleased to welcome Dr. Richard Bermudes as our new Chief Medical Officer. Dr. Bermudes brings extensive experience with TMS and brain stimulation therapies as a practicing physician for over 20 years. He has been at the forefront of improving mental health through innovative care for decades. I would also like to thank Dr. Aron Tendler, who has served as our Chief Medical Officer since 2015 and will continue to serve as a collaborator on important strategic research projects, for his significant contribution to Brainsway.
+
+Our multicenter clinical trial evaluating and accelerated treatment protocol for our Deep TMS system to treat major depressive disorder is now fully underway with enrollment progressing nicely. We believe the positive outcome for this study, if achieved, could make Deep TMS more efficient and appealing to patients, which has the potential to further expand the possibilities for a unique therapeutic platform.
+
+Before I turn the call over to Ido, I want to say how excited we are to have recently completed the strategic $20 million equity financing with Valor. I refer to this financing as strategic because this capital better position us to explore new markets, revenue channels, commercial partnerships and ultimately strengthen the potential for accelerated growth of Deep TMS. We will now also have access to strategic resources of Valor Equity Partners, which has provided some of today's most exciting tech companies, including SpaceX, Tesla, Neuralink, Harmony Biosciences and K Health with unique expertise to solve the challenges of growth and scale.
+
+In closing, our team is executing our strategy on several fronts and we see tremendous opportunities to grow, increase profitability and build shareholder value. However, perhaps most importantly, we are dedicated to leading our industry in providing impactful and accessible solution for patients worldwide.
+
+With that, I will now turn the call over to Ido for his review of our third quarter 2024 financial results. Ido?
+
+Ido Marom
+Chief Financial Officer, Brainsway Ltd.
+Thank you, Hadar. Revenue for the third quarter of 2024 were $10.5 million, a 26% increase compared to the prior year period revenue of $8.3 million. We placed 63 Deep TMS systems in the third quarter. Our total installed base was 1,278 systems as of September 30, 2024 compared to 1,041 systems at the same point in the prior year. Gross profit for the third quarter of 2024 for was $7.7 million or 74% gross margin. This is compared to $6.2 million or 74% gross margin during the prior year period.
+
+Moving on to operating expenses. For the third quarter of 2024, sales and marketing expenses were $4.1 million compared to $3.6 million for the third quarter of 2023. Research and development expenses were $1.8 million compared to $1.5 million in the third quarter of 2023. General and administrative expenses for the third quarter of 2024 were $1.5 million compared to $1.2 million for the third quarter of 2023.
+
+Operating profit for the third quarter was approximately $300,000, compared to an operating loss of $133,000 for the same period in 2023. Adjusted EBITDA was $1.1 million representing the fifth consecutive quarter of positive adjusted EBITDA and compared to $344,000 for the third quarter of 2023. For the third quarter ended September 30, 2024, we recorded net income of approximately $650,000 compared to a net loss of $230,000 in the same period of 2023. We ended the third quarter with cash, cash equivalents and short-term deposits of $48.4 million as compared to $46.3 million on December 31, 2023 and $48.1 million at June 30, 2024.
+
+As Hadar mentioned earlier, based on our backlog and US pipeline and continued momentum internationally, we continue to expect revenue in the range of $40 million to $41 million for full year 2024, which represents 25% to 29% growth over 2023 revenue. In addition, we anticipate reporting positive cash flow and profitability for the full year. As part of our guidance, we expect to report operating income of 3% to 4% and adjusted EBITDA of 10% to 11% for the full year of 2024.
+
+This concludes our prepared remarks. I will now ask the operator to please open up the call for questions. Operator?
+
+Question And Answer Section
+Operator
+Certainly, sir. We will now begin the question-and-answer session. [Operator Instructions] First question comes from Steven Lichtman with Oppenheimer. Please go ahead.
+
+Steven Lichtman
+Analyst, Oppenheimer & Co., Inc.
+Thank you. Good morning and congratulations, Hadar. Hadar, first question on Valor. Can you talk about where you think you can leverage their expertise the most? What are the areas of primary focus there? Certainly, you've talked about the TMS network. I think you've also talked about the at-home market, a little bit more, if you could, on where you see their expertise playing a part?
+
+Hadar Levy
+Chief Executive Officer, Brainsway Ltd.
+Yeah, sure. Good morning, Steven. And thank you for the question. I think we feel very blessed to partner with Valor Equity Partners. I think what this fund is pretty expert is to scaling up some growth ventures and opportunities around reimbursement, around opening some additional doors to large scale enterprise accounts. So, I believe helping us to make this technology much more accessible to large enterprise accounts and help us and provide all the necessary support around reimbursement and operations could be a great help from where we are today.
+
+Steven Lichtman
+Analyst, Oppenheimer & Co., Inc.
+Great. And it's great to see the accelerated TMS program or trial underway. How quickly do you anticipate that enrolling and can you remind us the follow-up period to get a sense of when we could potentially see data there?
+
+Hadar Levy
+Chief Executive Officer, Brainsway Ltd.
+Yeah. So, this is more likely a 2025 clearance that we're hoping to receive from the FDA. We're hoping to complete the recruitment in sometime in Q1 2025 and the submission will probably take some additional months. So, we're expecting to finalize everything somewhere in the second or the third quarter of 2025.
+
+Steven Lichtman
+Analyst, Oppenheimer & Co., Inc.
+Got it. And then, lastly, just on the P&L, obviously the gross margin continues to afford you flexibility on the OpEx side. I appreciate the guidance for the year now. How are you thinking about balancing investment versus drop through, looking forward, what opportunities do you see maybe to reinvest on the OpEx side? Again, given the firm gross margin that you have?
+
+Hadar Levy
+Chief Executive Officer, Brainsway Ltd.
+We have lots of plans also to embed into the OpEx budget in 2025. But we're also looking to balance it with some of our – while targeting positive EBITDA for 2025 as well. Definitely, we're going to try and continue to invest in research and development and in clinicals to build the long-term growth of the company, but most important on the sales and marketing while keeping the gross margin very healthy in a consistent manner similar to what we've seen in 2024.
+
+Steven Lichtman
+Analyst, Oppenheimer & Co., Inc.
+Okay. Got it. Thanks, Hadar.
+
+Hadar Levy
+Chief Executive Officer, Brainsway Ltd.
+Sure. Thank you, Steven.
+
+Operator
+Thank you. The next question comes from Jeffrey Cohen with Ladenburg Thalmann and Company. Please go ahead.
+
+Jeffrey S. Cohen
+Analyst, Ladenburg Thalmann & Co., Inc.
+Hi. Good morning, Hadar and Ido. Thanks for taking our questions. A couple from my end. I guess, firstly, could you talk about year-to-date units placed, which is tracking a fair amount better than our estimate and talk about leased versus sold and what trends you're seeing there and maybe how that looks for 2025 and also could you mention coil helmets or coil helmets as a percent of fleet? Thank you.
+
+Hadar Levy
+Chief Executive Officer, Brainsway Ltd.
+Yeah. Ido, do you want to maybe just start give an overview about the lease versus sales trends and number of units? I will complete the picture.
+
+Ido Marom
+Chief Financial Officer, Brainsway Ltd.
+Yeah, sure. So, in terms of the revenue in our books for this current going quarter, we had more or less a ratio of 60/40 towards capital sales. But this was in terms of revenue recognition due to orders that we already received in the past. In terms of new sales, new booking, which actually creates our backlog for the future, we see kind of an increase for the lease agreements versus the sales. So, the ratio is actually more or less the opposite than the revenue recognition in the books. In the books currently around the 60/40 to the lease versus the capital. What was another question that I forgot?
+
+Hadar Levy
+Chief Executive Officer, Brainsway Ltd.
+Yeah, I will just – Jeff, I will also complete the picture on the number of units. So, in Q3, we shipped 63 systems as compared to – which is a very nice increase from previous quarter. In terms of the additional 87 coils, we placed 47, 87 coils in Q3.
+
+Jeffrey S. Cohen
+Analyst, Ladenburg Thalmann & Co., Inc.
+Okay. That's super helpful. Thanks for that. And then, I guess, secondly, could you talk a little bit about some of these expanded territories, remind us what existed prior to the 15 systems in Taiwan and South Korea as well as any specific commentary regarding APAC and also LatAm? Thank you.
+
+Hadar Levy
+Chief Executive Officer, Brainsway Ltd.
+Yeah, we are currently not working in LatAm. I think the most growing market for us as of today is Asia Pacific and Europe. We continue to sign on new distribution agreement. I think the most appealing one are the one in India, Taiwan, South Korea and Japan. Japan could also be a very promising market and we hope to see some of the benefits from it mostly in 2025.
+
+In Europe, we continue to see some very good demand and growing demand for our products both in the mental health arena, but also in neurology and rehabilitation centers. We continue to look for the right distribution channel, and we believe this is the best way for us to expand our growth in those growing markets.
+
+Jeffrey S. Cohen
+Analyst, Ladenburg Thalmann & Co., Inc.
+Thanks. That's helpful. And just a quick one for Ido, if you could. Q3 share count and pro forma share count, any commentary there? [indiscernible]
+
+Ido Marom
+Chief Financial Officer, Brainsway Ltd.
+(00:22:42) repeat the question?
+
+Jeffrey S. Cohen
+Analyst, Ladenburg Thalmann & Co., Inc.
+Share count for Q3 and pro forma?
+
+Ido Marom
+Chief Financial Officer, Brainsway Ltd.
+Jeff, it was very hard to hear you, so I apologize for that. Hadar, can you hear and maybe repeat for me?
+
+Hadar Levy
+Chief Executive Officer, Brainsway Ltd.
+Yeah, yeah.
+
+Jeffrey S. Cohen
+Analyst, Ladenburg Thalmann & Co., Inc.
+I think in Q3, we had share count of 34.2 million, any comment on that?
+
+Ido Marom
+Chief Financial Officer, Brainsway Ltd.
+34.2...
+
+Hadar Levy
+Chief Executive Officer, Brainsway Ltd.
+...million shares, Ido. It was 34.2 million shares. Jeff, are you asking about the pro forma count?
+
+Jeffrey S. Cohen
+Analyst, Ladenburg Thalmann & Co., Inc.
+Yes. Yes, if you have.
+
+Ido Marom
+Chief Financial Officer, Brainsway Ltd.
+Yeah, the numbers are the same, it's 33 million to 34 million. I can check the exact number. We will see a change in Q4, but no change that we had in Q3. But would add – but I can check again and get back to you on that.
+
+Jeffrey S. Cohen
+Analyst, Ladenburg Thalmann & Co., Inc.
+Okay, perfect. Thanks for taking our questions.
+
+Ido Marom
+Chief Financial Officer, Brainsway Ltd.
+Sure.
+
+Hadar Levy
+Chief Executive Officer, Brainsway Ltd.
+Sure.
+
+Operator
+Thank you. [Operator Instructions] The next question comes from Ram with H.C. Wainwright. Please go ahead.
+
+Good morning, Hadar, Ido. This is [ph] Dan (00:24:10) on for Ram. Thanks for taking our questions. And congratulations on the earnings beat. We wanted to ask, do you expect to see any disruption to your Israeli business from geopolitical risks? And where do you see the principal drivers of growth coming from in 2025? And I'd like to ask a follow-up if I could.
+
+Hadar Levy
+Chief Executive Officer, Brainsway Ltd.
+Yeah, sure. So, we don't see any disruption currently coming from Israel. We've got a continuity plan in Israel in terms of production. And we have enough production, enough system to support the market for the next six months. But we're also exploring moving some of the operations outside of Israel, but currently there is no disruption at all.
+
+For your second question in terms of the 2025 growth, I think the main growth will continue to derive from focusing on repeat sales business, repeat customers, focusing on enterprise accounts that potentially can sign with us on some strategic partnership and significant deals and the potential growth of the international business. I think all those three factors will continue to drive the growth of the revenue for the company.
+
+Thank you. That makes sense. And what additional clinical indications do you expect to assess with Deep TMS going forward? Is there any specific areas or indications of interest? Thank you.
+
+Hadar Levy
+Chief Executive Officer, Brainsway Ltd.
+Yeah. So, I think on the horizon we are looking to get FDA approval for our new protocol of accelerated TMS, which we hope to get it in 2025. We also have on our horizon is the expansion labeling for adolescents suffering from major depression and PTSD. So we are – as we speak, we continue to collect the data in order to submit it to the FDA. And this is for the, I would say, on the short-term, on the horizon. For the long-term, we are planning also to launch a multi-center trial in addiction for alcohol use disorder. And we are also evolving some additional neurology multi-center trials. It could be pain management or maybe Alzheimer, but it's still under internal discussions.
+
+Thank you. I appreciate the answers and congratulations again.
+
+Hadar Levy
+Chief Executive Officer, Brainsway Ltd.
+Thank you so much.
+
+Operator
+Thank you. This concludes our question-and-answer session. I would like to turn the conference back over to Hadar Levy for any closing remarks.
+
+Hadar Levy
+Chief Executive Officer, Brainsway Ltd.
+Thank you. I would like to thank all of the investors, analysts and other participants for their interest in Brainsway. With that, please enjoy the rest of your day.

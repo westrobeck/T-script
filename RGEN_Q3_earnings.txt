@@ -1,0 +1,484 @@
+Thank you and welcome to our third quarter of 2024 report. On this call, we will cover business highlights and financial performance for the three and nine month periods ending September 30, 2024 and we'll provide financial guidance for the full year 2024. Joining us on the call today are Repligen's President and Chief Executive Officer, Olivier Loeillot; and our Chief Financial Officer, Jason Garland.
+
+As a reminder, the forward-looking statements that we make during the call, including those regarding our business goals and expectations for the financial performance of the company, are subject to risks and uncertainties that may cause actual events or results to differ. Additional information concerning risks related to our business is included in our quarterly reports on Form 10-Q, our annual report on Form 10-K and our current reports on Form 8-K, including the report that we are filing today and other filings that we make with the SEC. Today's comments reflect management's current views, which could change as a result of new information, future events or otherwise. The company does not obligate or commit itself to update forward-looking statements, except as required by law.
+
+During this call, we're providing non-GAAP financial results and guidance unless otherwise noted. Reconciliations of GAAP to non-GAAP financial measures are included in the press release that we issued this morning, which is posted to Repligen's website and on sec.gov. Adjusted non-GAAP figures in today's report include the following, base revenue and organic revenue growth, cost of goods sold, gross profit and gross margin; operating expenses, including R&D and SG&A; income from operations and operating margin; tax rate and pre-tax income, net income, diluted earnings per share, EBITDA, adjusted EBITDA, and adjusted EBITDA margin. These adjusted measures should not be viewed as an alternative to GAAP measures, but are intended to best reflect the performance of our ongoing operations.
+
+Now, I'll turn the call over to Olivier.
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+Thank you, Sondra. Good morning, everyone, and welcome to our Q3 earning call. I'm very pleased to report strong third quarter results. Excellent team execution, coupled with improving market conditions, has enabled us to deliver 10% year-over-year sales growth and 6% order growth with orders pacing above sales by 4% despite the seasonality headwinds we typically see in the third quarter. Most of the momentum we have seen in quarter two has carried into quarter three. In fact, we saw sequential improvement with our non-COVID sales up 3% versus last quarter and orders up 2%.
+
+We were especially encouraged to see a strengthening CDMO business, which is a great indicator of the overall industry health. This business rebounded nicely and reached its highest revenue level in the last 18 months with orders dollars trending ahead of sales through the first nine months. Pharma and consumables continued to show solid sales and order growth, and we grew our opportunity funnel for equipment, it was a record revenue quarter for new modalities where we are tracking to the highest annual revenue and order intake to-date.
+
+At the franchise level, filtration led in revenue growth and chromatography delivered an exceptional quarter for orders. In total, for the nine months year--o date, our orders are up 8% and, if you include protein, up 14%. During the third quarter, we managed to build backlog for the future. In addition, our order funnel is very healthy, setting us up for a solid exit to the year. Overall, we are really happy with the progress we're seeing as we continue monitoring macro level trends with China, CapEx spending and biotech funding.
+
+With this positive context, we are narrowing the range and confirming the midpoint of our full year revenue guidance. We now expect to finish 2024 with revenue in the range of $630 million to $639 million. For clarity, this includes close to $7 million of incremental revenue following our 8-K filing in September. Jason will provide an update on the related restatement process, but please note that all of the figures being reported today do include the impact of the shift in revenue timing.
+
+Let us now deep dive a bit in the quarter and our year-to-date performance. Pharma delivered the solid growth in quarter three with revenue up mid-single digits year-over-year. Orders were also strong at the highest level since 2021 and up high-single digits sequentially, but flat year-over-year on the tough comp in quarter three 2023. Orders came primarily from our top biopharma customers. Year-to-date our pharma revenues are up high-single digits and orders are up mid-teens. More importantly, pharma order dollars are tracking 12% above revenue in the quarter.
+
+CDMO revenues and order grew approximately 20% year-over-year. CDMO sales are now back to 2022 levels and our order intake year-to-date is up high-single digits. In fact, over the last two quarters, orders are up mid-teens versus the same six months period last year. It is good to see the activity level at some of our top-10 CDMOs picking up again and particularly at those where we have put a key account manager in place. In Q3, we also saw a more even distribution of orders coming from both larger Tier 1 and the smaller Tier 2 CDMOs. We look forward to getting further confirmation in the first quarter, but the situation has really improved from a year ago.
+
+Moving to consumables and equipment performance, consumable momentum is still strong with revenues up 10% year-over-year and at the highest level in the last five quarters. Consumable orders were at the highest level they've been since Q1 of 2022, up high-teens year-to-date, which furthers our belief that destocking is, indeed, behind us. We continue to gain market share in capital equipment despite the challenging environment. Our sales were up mid-single digits year-on-year and low-single digits sequentially.
+
+Sales and orders are now up mid- to high-single digits year-to-date. While equipment orders have been slower to recover, we could not be happier with the funnel we have for our systems. For example, several big pharma companies are adopting our PAT technology integrated with these systems to improve their productivity. In particular, these companies are platforming our system for new modalities.
+
+Speaking about new modality business, we delivered another great quarter with sales up more than 20% year-over-year. In fact, quarter three was the highest revenue quarter ever for new modalities. Our orders were also up low-double digits compared with quarter three of 2023. What is driving our success in this area is innovation and continued adoption at our top-20 accounts. It's become even more clear to me that Repligen has the best, most advanced portfolio of products to serve this important market.
+
+Our strategy to develop and launch tailored solutions for the different new modalities is very successful. And with the expected rapid growth of these markets, we are ideally positioned. Our pending acquisition of Tantti will also enable us to develop unique and innovative purification solution for that market segment. As a percent of total revenue, new modalities continue to increase, tracking to 20% for the full year compared with 18% in 2023.
+
+From a regional performance point of view, we are really happy about the progress we are seeing in the Americas and Asia, excluding China. America revenues were up mid-teens in quarter three, where Asia ex-China was up more than 40% in quarter three. China remains a big headwind for us this year and will only represent about 4% of our 2024 revenues. Asia will remain a critical focus for growth for us in 2025.
+
+Let us now deep dive into our third quarter franchise performance, starting with our largest franchise, filtration. Q3 has been another successful quarter. Revenues were up mid-teens year-over-year and around 10% year-to-date. Orders were flat year-over-year on very tough comps, but up high-single digits sequentially and up greater than 10% year-to-date.
+
+Our ATF revenues are up more than 50% this quarter as we capitalize on our ATF late phase design-ins and significant consumable uptick. Our ATF technology was also designed into another blockbuster [ph] map (00:10:10) during the quarter. Our filtration systems portfolio is gaining market share at several large pharma accounts. In fact, we are starting to be platformed at some of these accounts, which will help us to generate ongoing growth thanks to the recurring nature of the associated consumables.
+
+Another reason for the positive traction is that we are seeing the integration of FlowVPX technology with our filtration system at several accounts, creating a new market need for this differentiated technology combination. Finally, our TangenX flagship cassette portfolio grew greater than 15% this quarter, driven by large pharma wins. And with a strong funnel, we continue to work on several large scale opportunities for the future.
+
+Moving to chromatography, we are very encouraged by our performance in quarter three. While revenue was down on a very tough comp, it was an exceptional quarter for orders, which were up 35% year-over-year. In fact, the last two quarters have been record quarters for orders intake driven by increased demand for both large scale and small scale OPUS columns. Though protein remains a roughly $32 million headwind for the year, the franchise had a strong quarter overall with sales up 15% versus quarter three 2023 and orders flat.
+
+Ligand revenues and orders were as expected with strength in growth factors and Avitide programs. Our Avitide customers ligand funnel has strengthened over the last 12 months as more customers implement this solution for custom and catalog products. We're excited about the addition of Tantti to our portfolio and hope to close this deal here in the fourth quarter. The goal will be to launch some disruptive solution into the new modality space as we move into 2025. The work we are doing with Avitide-Tantti new modalities, combined with our mass collaboration, positions us well to move beyond the known headwinds here in 2024 and reestablish growth for our protein business.
+
+Finally, Process Analytics also had a strong quarter with 7% top-line growth and 6% order growth. Our FlowVPX solution for measuring protein concentration drove the overall business growth across all modalities and compensated for a more difficult business environment for standalone systems. So, our franchise did well across the board. Our unique and innovative products, combined with a successful implementation of our key account strategy and focus on new modalities, is generating a lot of new business opportunities for Repligen.
+
+As I wrap, I also wanted to share another highlight of the quarter. On September 23, we had the grand opening of the Repligen Training and Innovation Center in Waltham called RTIC. This dedicated space showcases all of our Repligen bioprocessing technologies with product exhibits, purpose-built demo areas and technical training space, all designed to provide our customers with pre- and post-sales support and hands-on experience with our technologies. Every week, we're adding customers willing to open new doors to expand our business. This is reflected in our 50% plus probability funnel which is 30% greater than prior year.
+
+So, in summary, I'm very pleased with the momentum we saw in quarter three and believe we are well-positioned for achieving our full year goals. We are very encouraged by our order strength over the last nine months and the 10% year-on-year revenue growth in quarter three. With improving CDMO and capital equipment markets and continued strength in pharma, consumable and new modalities, we're excited about our markets and the future as we move into 2025.
+
+Finally, I really want to thank our entire Repligen team for delivering such a strong quarter. Over the last 6 to 12 months, we have added several experienced leaders and talented people to an already high-performing team and, therefore, we are excited and confident about the future of our company. It has also been a real pleasure meeting many of you over the past couple of months. I've enjoyed sharing my vision for the ongoing success of Repligen and look forward to our discussion in the months ahead.
+
+With this, I will hand over to Jason for the financial updates.
+
+Jason K. Garland
+Chief Financial Officer, Repligen Corp.
+Thank you, Olivier, and good morning, everyone. I'm pleased to share more details on our Q3 financial report and to step through the pieces of our updated financial guidance. As Olivier mentioned earlier, Please note that all the financials discussed will be inclusive of the adjustments related to the required restatement we disclosed in September. At that point, we are only able to share how top-line revenue timing would shift and the estimated impacts on operating income.
+
+We can now share a detailed summary of our restated financials for the past six quarters, including GAAP to non-GAAP reconciliations. Please refer to the supplemental presentation posted today on the Investors section of our website for the summary, which is also included as an exhibit to the 8-K we filed this morning. The restated financials address the specific COVID-related contract modification that gave rise to the need for the restatement, along with some minor adjustments to historical financials for certain other and material items.
+
+I want to thank the team for working through a very detailed and robust process to get to this point. Given the effort required, we are still in the process of finalizing all the required amendments for the impacted 10-Qs and 10-K and we plan to file them as quickly as possible.
+
+Moving now to the third quarter of 2024, revenue of $155 million marked a return to double-digit growth, up 10% year-over-year on a total reported basis and up 7% organically. Recent acquisitions contributed 3% of a reported growth with de minimis impact from currency. There were no COVID sales in the third quarter of 2024 or in the third quarter of 2023. Sequentially from the second quarter, we were down approximately $4 million from $159 million, but for context, Q2 now includes $5 million of additional sales due to the restatement. Year-to-date revenue was $467 million, in line with our updated expectations. This was flat year-over-year, but up about 5% if you exclude known COVID and protein headwinds.
+
+As Olivier shared color on our product franchise performance, I'll provide more detail on the performance across our global regions, starting with revenue, where we saw year-over-year growth across all regions during the quarter. North America represented approximately 51% of our global business in Q3, Europe represented 33%, and Asia Pacific and the rest of the world represented 16%.
+
+Within Asia, China was down about 50% year-over-year and represented 3% of our total business in the quarter. We continue to expect China to be about $20 million headwind to revenue in 2024 as shared in July and to represent approximately 4% of our restated revenue. Excluding China, we saw a very strong year-over-year and sequential sales growth for the Asia Pacific region, up over 40% and 30%, respectively. Year-to-date, the strongest region was North America, up about 10% with healthy growth across all four franchises.
+
+On regional orders, North America and Asia ex-China were both up double digit on orders year-to-date. Europe is down due primarily to proteins, and China continues to present a meaningful headwind, though we did see some slight order growth sequentially from the second to the third quarter after a decline for three quarters in a row.
+
+Transitioning to profit and margins. The third quarter 2024 adjusted gross profit was $78 million, a $19 million increase year-over-year on $14 million higher revenue. With this, we delivered a 50.7% adjusted gross margin. This is up 8.7 percentage points versus last year, driven by higher volume, year-over-year productivity and with some offset due to inflation. Sequentially, gross margin is down about 40 basis points from the second quarter. But keep in mind that Q2 now includes the benefit of high margin from approximately $5 million of restated COVID-related sales. Excluding those sales, our third quarter gross margin improved by 1.1 percentage points.
+
+Looking at year-to-date, the first three quarters of 2024 adjusted gross margin is 50.3%. This is in line with achieving our total year guidance for gross margin, which we are increasing today by 50 basis points to a range of 49.5% to 50.5%, entirely from the impact of the restatement. The implied midpoint guidance for the fourth quarter does suggest a drop from the third quarter. Even with the benefit we get at higher volumes and positive leverage in the fourth quarter, 3Q benefited from higher margin product sales that do not repeat in 4Q. This has a negative mix impact on the adjusted gross margin essentially from higher material costs.
+
+Continuing through the P&L, our adjusted income from operations was $23 million in the third quarter, with significant improvement over last year, up approximately $18 million. This increase was driven by the fall-through of the $19 million increase in gross profit, with an offset of $1 million of higher adjusted operating expenses. Though, our adjusted operating expenses are up versus last year, primarily due to the return of incentive compensation in 2024, sequentially, they are down approximately $5 million from the second quarter. This is in line with the projected reductions primarily in SG&A that we highlighted as part of our guidance in July's earnings call. We continue to closely manage our operating expenses.
+
+From a run rate perspective, we do expect the fourth quarter to step up from the third quarter due to the timing of expenses, but should still remain below the first half run rate. Our third quarter 2024 adjusted operating income margins are up more than 11 percentage points year-over-year, driven primarily by strong operating and OpEx productivity, higher volume, some price tailwinds, offset by incentive compensation and inflation. Operating margin also improved sequentially by approximately 200 basis points to nearly 15%. Our third quarter 2024 adjusted EBITDA margin rate was approximately 21%, which reflects a greater than 5 percentage point drag from depreciation.
+
+The implied guidance at midpoint for fourth quarter adjusted operating margin is a small step up from 3Q. Even with gross margin down sequentially, as discussed earlier, we expect to see an increased impact on volume leverage at the adjusted operating margin level, which more than offset the gross margin mix headwind. With cost optimization and margin expansion remaining a priority, we expect to continue to execute programs and evaluate the need for future optimization and restructuring actions. To this end, we incurred just under $3 million of restructuring charges in the third quarter, all of which were cash expenses. For clarity, these expenses are excluded from our adjusted results.
+
+Adjusted net income for the third quarter was $24 million, up nearly $11 million versus last year. This was driven by the $18 million increase in adjusted operating income, offset by greater than $7 million of higher tax provisions. Our third quarter adjusted effective tax rate was 21.9% versus negative 5.8% last year. Our adjusted effective tax rate was also up over the first half, primarily due to a shift in our profit before tax mix being less US-driven. With this increase in the quarter, we are maintaining our total year adjusted effective tax rate outlook and still expect it to be approximately 20%.
+
+Interest income, net of interest expense, was up slightly over last year. We expect this to decline in the fourth quarter on decreasing interest rates, though still see a path to higher interest income for the total year versus our prior guidance. There is no impact from the restatement. Adjusted fully diluted earnings per share for the third quarter was $0.43 compared to $0.23 in the same period of 2023.
+
+Finally, our cash position at the close of the third quarter was $784 million, down $25 million sequentially after using $70 million for the settlement of our remaining 2019 convertible notes as previously discussed. This was partially offset by another quarter of strong cash flow from operations as we generated $49 million. As we end the year, we still expect the Tantti acquisition to close in the fourth quarter and plan to fund the transaction with our available cash on hand.
+
+I'll now move to an update on our guidance for the full year of 2024. I'll speak to adjusted financial guidance, but please note that our GAAP to non-GAAP reconciliations for our 2024 guidance are included in the reconciliation table in today's earnings press release. And for further clarity, our guidance is fully inclusive of the restatement and inclusive of the FlexBiosys and Metenova acquisitions we made in 2023, but still excludes any impact from the pending acquisition of Tantti.
+
+As highlighted earlier by Olivier, we have updated our total year adjusted guidance ranges that we shared last July. We have tightened our revenue guidance range around the same midpoint of $634.5 million, communicated in our restatement disclosure. We now expect total revenue in 2024 to be between $630 million and $639 million. As Olivier mentioned, this includes approximately $7 million of incremental revenue following our 8-K filing in September. We still expect year-over-year revenue growth in the second half of the year. And even with the restatement, we still expect second half 2024 to be above the first half.
+
+At our midpoint, we expect total revenue growth in the second half of 2024 to be 5% higher than the second half of 2023 and 3% higher than the first half of 2024. Excluding COVID, we expect revenue in the second half of 2024 to be 12% higher than the second half of 2023 and 7% higher than the first half of 2024. Overall, for the full year, we expect growth in the range of 2% to 3% for our non-COVID business with M&A contributing approximately three percentage points of that growth. We now expect to deliver adjusted gross margins in the range of 49.5% to 50.5%, with the increase solely due to the restatement impact on the first half of 2024.
+
+We also expect our adjusted income from operations to be between $80 million to $85 million or 12.5% to 13.5% adjusted operating margin range. This 50 basis point increase from our guidance in July is driven by approximately 90 basis points of benefit from the restatement, partially offset by a 40 basis point of headwind in our expected operating expenses versus our July outlook. This equates to about a $1 million higher SG&A than previously forecasted as we continue to balance, making important investments for growth, while driving prudent spending.
+
+Adjusted EBITDA margins are now expected to be in the range of 17.5% to 18.5% for the year, reflective of the adjusted operating margin changes and no impact on our prior outlook of roughly 500 basis points of fixed depreciation costs from capacity expansions we have made. Our adjusted other income outlook has increased by $3 million to approximately $27 million and our 2024 adjusted effective tax rate is unchanged at an estimated 20%. Incorporating all of the updates discussed above, our guidance for adjusted net income is now $85 million to $89 million, and our adjusted diluted earnings per share is $1.50 to $1.58.
+
+In closing, we continue to be encouraged by the momentum we are seeing in the market and our performance in the third quarter. We believe that our focus on key accounts, delivering innovation, driving orders growth for the company, continuing to develop and acquire differentiated technologies and progressing on our revenue and profitability goals sets us up well for a successful exit to the year and into 2025.
+
+With that, I will turn the call back to the operator to open the lines for questions.
+
+Question And Answer Section
+Operator
+Thank you. We will now begin the question-and-answer session. [Operator Instructions] And the first question will be from Dan Leonard from UBS. Please go ahead.
+
+Dan Leonard
+Analyst, UBS Securities LLC
+Thank you. I have a question on the fourth quarter revenue ramp. Can you walk through some of the assumptions that are behind the ramp from a budget flush perspective or anything else?
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+Hey, good morning, Dan. Olivier here. Yeah. As we said a couple of times already, quarter four is always the highest quarter – was always the highest quarter pre-COVID due to seasonality here. And on our side, I mean, obviously, we've seen a nice ramp-up of orders during the entire year with book to bill around 1, if not above 1, during the – every quarter, one after the other, and quarter three being another good example here. So, we've grown our order intake consistently during the entire year, which is putting us in a very strong position to enter into quarter four and deliver the higher number that we have to deliver in quarter four versus the previous quarters. And the good news is October has been a very strong month as well. So, that's why we decided to reduce the overall guidance, as we did.
+
+Jason K. Garland
+Chief Financial Officer, Repligen Corp.
+In the range.
+
+Dan Leonard
+Analyst, UBS Securities LLC
+Thanks. And as a follow-up, I think you mentioned that equipment revenue was up low-single digits sequentially, which was better than we were expecting. Can you speak at all to – and you mentioned you have a strong funnel as well. I'm curious if you could speak to funnel velocity. Are deals that are entering the funnel closing at the same rate? Are they closing faster? Any change on that front?
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+Yeah. No, absolutely, Dan. So, we were really happy to see some growth in what has been, indeed, a tough environment. And I mean, we've heard that, we've even seen it ourselves. But you're right, we have a great funnel. And if I look at the entire portfolio of products we have, particularly ARTeSYN portfolio has enabled us to regain quite significant market share. And the good news is particularly in new modalities, several big pharma companies have decided to platform us across the board for those new modalities with our systems. And we're also benefiting from the integration of our FlowVPX PAT system. So, yes, it's definitely a good position we're in right now. In terms of the time it takes between you generate the funnel and you close a deal, it really depends quite heavily from one customer to the other. But you would say typically it can take something between three to six months to close the smaller scale type of hardware and maybe six to nine months for the larger scale.
+
+Dan Leonard
+Analyst, UBS Securities LLC
+Okay. Thank you.
+
+Operator
+And the next question will be from Dan Arias from Stifel. Please go ahead.
+
+Dan Arias
+Analyst, Stifel, Nicolaus & Co., Inc.
+Morning, guys. Thanks for the questions. Olivier, you sound pretty encouraged by the CDMO picture. If I go back to the end of last year, demand stepped up and then it took a step backwards in early 2024. What about the improvement that you're seeing here suggests that the path forward might be more sustainable? Is it breadth of orders, order size or frequency? Anything that gives you extra confidence entering next year on just the CDMO side, specifically.
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+Yeah. Good morning, Dan. Yes. I think we've repeated consistently like the health of the industry, it's really at the highest level when you see CDMO recovering. So from that point of view, we are really happy to see what we've seen now for, I would call it, even the last two quarters. In fact, when you look at the last two quarters orders, they are up mid-teens versus the same last two quarters – the same two quarters last year. So, it's really a very significant improvement. In fact, our sales are back to the 2022 level at this stage.
+
+And what we're also very happy about is it's both large and small CDMOs that are really showing some very good performance. And when you look at large ones like Lonza or Samsung, they are announcing very significant deals lately. But also some of the smaller ones are starting to probably benefit quite a bit from the BIOSECURE Act. So, it is really an improvement across the board. And another stuff we are happy about, we're covering four of these CDMOs with our key account management team, and partly at those four accounts, we've seen incredible improvement over the last few quarters now.
+
+Dan Arias
+Analyst, Stifel, Nicolaus & Co., Inc.
+Okay. And then, Jason, as we think about next year, is it fair to say that the growth rate that might have been contemplated before the accounting change would now need to reflect the 100 basis point headwind from the $7 million that falls into 2024, or do you think you can offset that? And then as we think about the quarters for next year, what would you call our attention to when it comes to the impact of these changes? Just sort of trying to get ahead of any modeling surprises that might show up when revenues and costs move around. Thanks so much.
+
+Jason K. Garland
+Chief Financial Officer, Repligen Corp.
+Yeah. I think that as we look into next year, we still are maintaining the view that we've shared before. I think that as we talk about next year, right, we certainly – when you exclude COVID, which, again, most of the restatement impact is in that bucket, that that's where we're going to focus on our continued growth. And I don't know if you want to share anything more on 2025, Olivier.
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+No, I think we're good, yeah.
+
+Jason K. Garland
+Chief Financial Officer, Repligen Corp.
+And yeah, quarter wise, we'll continue to look at that as we go through and release overall guidance. But I think as Olivier shared, we feel like we're seeing back more of the seasonality that may have been typical before COVID, and would expect that we follow a similar pattern as we go into 2025.
+
+Dan Arias
+Analyst, Stifel, Nicolaus & Co., Inc.
+Okay. But Jason, just to be clear, when we show up 90 days later, you don't envision there being something that surprises the Street, surprises investors, surprises analysts about the 4Q and 1Q dynamics that resulted from that accounting change.
+
+Jason K. Garland
+Chief Financial Officer, Repligen Corp.
+That's right.
+
+Dan Arias
+Analyst, Stifel, Nicolaus & Co., Inc.
+Okay. Thanks.
+
+Operator
+And the next question will be from Rachel Vatnsdal from JPMorgan. Please go ahead.
+
+Rachel M. Vatnsdal
+Analyst, JPMorgan Securities LLC
+Okay. Perfect. Thank you, guys. First off, just on the order intake, you mentioned that orders grew 6% year-on-year. Can you also just give us what was sequential order growth given some of the COVID comps, especially in the first half? And then also what was book-to-bill this quarter? Was it truly above 1? Thanks.
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+Hey, good morning, Rachel. Yeah. So versus quarter two, our orders increased by 2%. In fact, year-to-date, our orders are up 8%, which is a very significant increase for us. And then we did mention like our orders were ahead of sale by 4% in quarter three.
+
+Rachel M. Vatnsdal
+Analyst, JPMorgan Securities LLC
+Got it. And then just for my follow-up on 2025, I know Dan just pushed on top line, but maybe I wanted to look at margins a little bit more. You typically have grown gross margins by 100 to 200 basis points a year, give or take. But you mentioned that the COVID restatement is margin accretive. So, walk us through the moving pieces and really what that means for margin expansion in 2025 at this point.
+
+Jason K. Garland
+Chief Financial Officer, Repligen Corp.
+Yeah. Really, there's no change in the dialogue we've been having about 2025. Again, we're not issuing guidance, but we do expect to be able to still achieve that 100 to 200 basis points of gross margin over the next few years. So, no impact in particular from an impact to restatement. Certainly, the step-off point becomes higher.
+
+Operator
+Thank you. And the next question will be from Puneet Souda from Leerink Partners. Please go ahead.
+
+Puneet Souda
+Analyst, Leerink Partners LLC
+Yeah. Hi, guys. Thanks for the questions here. So first on, you pointed out both CDMOs and newer modalities. Can you talk about how much of that is an overlap between those two categories? And then, if you can maybe help us understand how much of the business is picking up in your Phase 1 and 2 versus Phase 3 and commercial. Can you maybe just help us parse out both revenue and revenue growth and order growth that you're seeing, how much of that is Phase 1 and 2 versus later stages?
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+Hey. Good morning, Puneet. Olivier here. Yeah. So, we don't have the exact number of how much of our new modality sale is going through CDMO versus pharma. I would say, there is no reason why it should be any different from the rest of the business, because the only difference probably is that a lot of CDMOs active in new modalities are on the smaller hand of the CDMO range as well, particularly on the gene therapy side, but we don't have the exact number here. What I think is important really to mention on the new modality side is we have about 20-plus customers that are really significant customers of ours, and a big chunk of them are CDMOs, indeed. But I don't have the exact number here to give you.
+
+And then in terms of clinical phase, as you know, about 65% of our overall business is in clinical phase. Slowly but surely, obviously, some of these projects are moving from the early phase clinical to the later phase, which is why we're seeing a very nice consumable order uptick in sales during the last several quarters, because we really have a tail end of this product moving to the later phases. But here, again, I can't give you exactly the exact number. Typically, at the end of the year, we do a reconciliation of where our sales went during the entire year, and we will probably be able to give you more granularity during the next call [ph] on the split (00:38:36) between the early phase and the later phase here.
+
+Puneet Souda
+Analyst, Leerink Partners LLC
+Okay. That's helpful. And then just on M&A, I mean, there have been significant speculation lately, and I think that's been an important question for investors as well. I understand it's always challenging to address any near-term discussions, but just wanted to see and get a view from you on your M&A approach and if you can provide any clarity on that and your ability to deploy capital for the right asset. Thank you.
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+Yeah. So, as you all know, I mean, M&A has been absolutely critical for the growth of Repligen in the past, and there is no reason why we are going to stop that. So, we are adding a very active funnel of opportunities. One of the messages we've conveyed over the last few months is we're, indeed, a bigger company today than we were 5 to 10 years ago, which is why we are definitely looking at potential bigger targets today than we were 5 to 10 years ago. But what does remain similar is we are looking for very unique technologies that will really enable us to further differentiate ourselves on the market.
+
+So, we are not into the me-too type of products, we are not interested to acquire businesses that wouldn't bring something that is really going to be very differentiating, and differentiating means in the very short term, or by adding it to the rest of the portfolio we already have where we can create something that's going to be very differentiating in the short to midterm with that acquisition. So, nothing really has been changing heavily on that side.
+
+We have a very strong funnel of opportunities. And Tantti, by the way, which is the latest acquisition we've done, is a good example of the fact we are still interested by bolt-on acquisition as well, because even though it doesn't bring us a lot of top line in the very short term, the complementarity to our current portfolio is gigantic and will enable us to speed up the growth of the Avitide ligand customized offering.
+
+Puneet Souda
+Analyst, Leerink Partners LLC
+Okay. Thank you. Appreciate it, Olivier.
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+Thanks.
+
+Operator
+The next question will be from Matt Larew from William Blair. Please go ahead.
+
+Matt Larew
+Analyst, William Blair & Co. LLC
+Hi. Good morning. Olivier, you mentioned part of the growth driven, especially in equipment, by being platformed at big pharma. Obviously, the enterprise sales strategy has been focused for the last couple of years. Are these totally new accounts to Repligen? Are they accounts where, perhaps, you existed in a small way, but now have a much bigger opportunities? Sounds like the ATF and FlowVPX were entry points. Could you just maybe provide a bit more color on the success at big pharma in the quarter?
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+Yeah. No, absolutely. And you nailed it well, Matt. I mean, we obviously have been very active with the key account management organization. In fact, today we are up to a team of seven people covering 20 accounts, 16 Pharma, 4 CDMOs. And this has given us really a lot of traction. And, yeah, you phrased it very well, which is like we typically potentially had only one part of the business covered with those big accounts. And slowly, but surely, now we are working on two, three, sometimes four of the different parts of the portfolio we have. So, this has really enabled us to grow much faster.
+
+But also, what's very important to consider with those big accounts is you want to get access to the C-suite level people. And there is nothing better than having one person who has the ability to present the overall portfolio, because then suddenly you get access to those higher level decision-maker at those big accounts. And particularly, for a company like ours that has got very differentiating innovation, you really want to make sure you get access to the key decision maker, because sometimes pharma companies are a little bit reluctant to embed the changes. So, having access to these higher-level decision-maker has enabled us to speed up, then picking up on the innovation we are launching every year.
+
+Matt Larew
+Analyst, William Blair & Co. LLC
+Okay. Thank you. And then, on China, you referenced 3% in the quarter. I think some speculation about [ph] potential (00:43:00) stimulus activity for the space, how that might affect things next year, where it might come through. But you also referenced to an earlier question, I think, a positive impact from some CDMOs related to BIOSECURE, which, I don't know, sort of is maybe an offset to sort of what's going on in China. Just curious if you could, one, sort of provide current thoughts on the go-forward business in China; and two, maybe flesh out a bit more what your customers are telling you about the positive impact from BIOSECURE?
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+Yeah. Absolutely. So, I think we're all thinking and hoping that China is bouncing along the bottom at this stage. And you're right, I mean, slowly but surely, it has reached like a very small portion of our overall revenue, about 3% in quarter three. We think probably a little bit less than 4% for the overall year. What's great, by the way – and I just take a very short [ph] segue (00:43:54), the rest of Asia is doing very well. I mean, in fact, our sales, outside of China, were up 40% in quarter three. But back to China, we need to focus more on that market, for sure, in the upcoming few months, because we think there will be a rebound coming sooner or later. And yes, you're right, the stimulus that seems to be hitting more every quarter, I mean, I think, in August, there was a specific announcement made for equipment for bio-production, which we start to see reaching some of the potential customers in China. So, we hope, indeed, to see some positive impact coming from that side.
+
+And in terms of the BIOSECURE Act, well, what I was talking about earlier is, yes, there have been some companies, some pharma companies who have started inquiring with alternative CDMO sources, and very often this is smaller hand of CDMOs, considering the projects they are considering moving faster might be the early Phase 1. So, it's a fact like a few of the small CDMOs in the US have been really benefiting from probably much higher opportunity funnel intake during the last two quarters. And I mean, we start to even see some M&A activities in the small CDMO arena in the US, as you've seen Avid being acquired by a private equity company. So, there are quite a lot of stuff happening on that side, for sure, right now.
+
+Matt Larew
+Analyst, William Blair & Co. LLC
+Okay. Thank you.
+
+Operator
+The next question will be from Jacob Johnson from Stephens. Please go ahead.
+
+Jacob Johnson
+Analyst, Stephens, Inc.
+Hey. Thanks. Good morning. Maybe just on clinical demand, I think that's been a focus area for investors and perhaps some concern there that we could see a slower recovery in clinical next year versus commercial. I think one of your larger peers called out muted growth from earlier stage demand earlier this quarter. You guys are pointing to improving demand from CDMOs. I think last quarter maybe also earlier stage customers. Can you just talk about what you're seeing in the clinical piece of the business? And do you think that business could hold up relatively well, for Repligen specifically, even if the broader space is a bit more muted next year?
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+Hey. Good morning, Jacob. Yeah. As usual, you're spot on here. Yeah. If there is one area that is probably still a bit of concern, including for us as well right now, is with emerging biotechs. And you're absolutely right, like in Q2, we mentioned we saw a very significant improvement. There is only one sub-segment of our overall business that didn't do very well in quarter three, that was the emerging biotech. And we've been trying to really understand what was going on, obviously, both from the funding of biotech point of view, but as well as from a clinical trial start point of view.
+
+And I mean, you might remember we've changed a bit on that where quarter one showed a very nice increase in biotech funding to, I think, it is [ph] we said since (00:46:54) something like $18 billion. Then quarter two went down to $15 billion and then quarter three and four, went down to $12 billion. So even though year-to-date we are still up 44% versus last year, we've seen like a constant decline of biotech funding this year.
+
+And then in order to try to better understand what the pattern might be, we look, indeed, at that clinical trial start this year. And in fact, year to date, clinical trial start in the US have gone down by about 20% to 25% versus last year. So, there seem to still be a little bit of a story here. And if I look at our own business, indeed, the only right figures we have across the entire portfolio, whether from a business unit point of view or whether from a market segment point of view, this is really still with emerging biotech. So, we're hoping to see some improvement coming from that side, hopefully, in the next few quarters.
+
+Jacob Johnson
+Analyst, Stephens, Inc.
+Okay. Thanks for that, Olivier. And then, Jason, just one maybe last question on 2025. You talked about gross margins in response to Rachel's question. But as we think about the OpEx side of things, OpEx was down nicely sequentially. Seems like maybe it will pick up a little bit in 4Q. But as we look into next year, should we assume that maybe you get kind of some benefit from the savings in the back half of this year that helps margin expansion in the first half of next year? Or are there any moving parts on the OpEx side of things, like incentive comp, that we need to pay attention to as we're thinking about modeling next year? Thank you.
+
+Jason K. Garland
+Chief Financial Officer, Repligen Corp.
+Yeah. I mean, obviously, we'll give more clarity as we issue our 2025 guidance in February. But yeah, there will be moving parts. And we do expect to get some additional leverage at the op margin level. But yeah – and I don't know that I'd say there's a particular timing sort of dynamic. But yeah, we need to sort through all those different pieces. But we'll get the leverage from our improvement at the gross margin level, see that fall through, and maybe some additional OpEx leverage as well.
+
+Jacob Johnson
+Analyst, Stephens, Inc.
+Got it. Thanks for taking the questions.
+
+Jason K. Garland
+Chief Financial Officer, Repligen Corp.
+Thanks.
+
+Operator
+And the next question is from Conor McNamara from RBC Capital Markets. Please go ahead.
+
+Conor McNamara
+Analyst, RBC Capital Markets LLC
+Hey, guys. Thanks for taking the questions. One just quick housekeeping, and this is a follow-up on margins and going in next year. But just first off, what is your Q4 implied base revenue growth ex-COVID? And then what's your Q4 implied EBITDA margins? And are both of those a good jumping off point as we go into next year?
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+So, [ph] really (00:49:49), do you want to start on margin or...?
+
+Jason K. Garland
+Chief Financial Officer, Repligen Corp.
+No, go ahead on the revenue.
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+Yeah. So on the revenue side, if you exclude COVID, our growth for quarter four is going to be in the 12% to 13% range at midpoint of the guidance, Conor.
+
+Jason K. Garland
+Chief Financial Officer, Repligen Corp.
+Yeah. And I'd take the...
+
+Conor McNamara
+Analyst, RBC Capital Markets LLC
+Thanks for that.
+
+Jason K. Garland
+Chief Financial Officer, Repligen Corp.
+I have op margin in front of me. I don't have it at the EBITDA level, but the implied is probably just over 15% for 4Q for op margin. Again, I think there's going to be always ebbs and flows as you look at OpEx levels through the course of a given year. And so, we'll determine how that transitions in 2025. But that's the fourth quarter implied at the op margin level.
+
+Conor McNamara
+Analyst, RBC Capital Markets LLC
+Okay. Thanks for that. And then you talked about the couple of big platform wins with large pharma. Are those competitive wins or are you seeing more activity at the overall market with large pharma?
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+It's a bit of both, Conor. I mean, as you know, we've launched a couple of new systems that are particularly focusing on new modalities about four months ago or so. So, you would say like in that specific case, there is not really a lot of competition today. But there are also cases where we know we are gaining market share. And what we love about the FlowVPX offering is, when people didn't know about it, obviously they didn't think they would need it. But like when you buy a new feature on one of your high-tech products, once you start using the feature and you appreciate it, you realize you can't live without it.
+
+So, what I think we're starting to really benefit from very [ph] strongly (00:51:32) on the system side is that people realize like having that feature is becoming absolutely critical for them, which is why for the next buy of equipment, they are just not considering going anywhere other than at Repligen because they want to have that features offered with the system here.
+
+Conor McNamara
+Analyst, RBC Capital Markets LLC
+Great. Thanks for that color. Appreciate it, guys.
+
+Operator
+And the next question will be from Brandon Couillard from Wells Fargo. Please go ahead.
+
+Hey, guys. This is [ph] Evan (00:52:05) on for Brandon. How's it going? Thanks for the question. A lot's been covered here. One thing I did want to – I think we just kind of touched on in the last question, but in terms of your system strategy, so you put these systems in there and then you have these, I think, fairly high-priced consumables that get attached to them that are – there, it's pretty – you're only able to put on Repligen-produced consumables. Can you maybe just talk about how that strategy is helping you guys and how that maybe is helping you gain share, which is something you talked about previously?
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+Yeah. No, you're absolutely right. I mean, what's beautiful about the system portfolio is not only you're setting a system once, but you're generating future recurrent sales of consumables, and by the way, not only consumable, services as well. So, what you want to really ensure is like, indeed, the consumable you're joining to your systems are going to really enable customers to run their processes in a very efficient manner. And one of the reasons why we differentiated ourselves on the system side is because we are really, indeed, enabling customers to deal with lower volume of products than they were capable of dealing with the other systems, for example.
+
+So, well, you're right, there will be recurrent sales of consumables over the next several years. We're also making sure like from a productivity yield point of view, our customers benefit from a state-of-the-art system that enables them to be much more efficient, much more productive than they were with the other systems they got access to. So it's really a win-win on both sides here.
+
+Got you. Thank you. And then, I guess, as my follow-up, I don't think anyone touched on this yet, but you did mention a nice win for ATF, I believe, in what you described as a blockbuster drug. I guess, now that I think about it, I mean, I guess, ATF would generally be integrated further down the path as you're looking to kind of increase yields and you're later in the clinical stage. But maybe just touch on is that the right way to think about it? And then two, like how big of an opportunity could this blockbuster drug be as we look into next year? Thanks.
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+Yeah. No, absolutely, the beauty of ATF is if you can start using it more or less at any stage, I mean, you can start using it at the early stage with the latter scale equipment where for ATF to become familiar with the technology itself, setting it on early phase projects to figuring out what it can really bring you at the large-scale level, but you can also use it at the very large scale. And in fact, it's partially interesting for very large-scale type of products, because as the name stipulates it, process intensification means you can get higher productivity with the same manufacturing plant just by adding an ATF loop to your manufacturing plant.
+
+So, what we've seen and we've mentioned it in quarter one of this year is we've seen a lot of large-scale biopharmaceutical products or even biosimilars starting to implement ATF to improve, indeed, the productivity and the cost of goods. We mentioned we got designed in in about nine late phase projects. At the beginning of this year, this quarter three, we were very happy to get designed in into a blockbuster, which is really one of the top-10 biopharmaceutical drugs, because obviously this is not only generating short-term significant equipment sales, but in the longer term, a very nice flow of consumable for the next several years as well.
+
+But really ATF can be used not only late or early phase, but also with different type of modalities from monochrome antibody to some of the new modalities as well. So, we are very happy. As we mentioned, we have great traction. I mean, our sales grew by more than 50% in quarter three. So, that's really a very well-performing business for us.
+
+Operator
+Thank you. And the next question will be from Matt Hewitt from Craig-Hallum Capital Group. Please go ahead.
+
+Matthew Gregory Hewitt
+Analyst, Craig-Hallum Capital Group LLC
+Good morning and thanks for taking the questions. Maybe first up, for the sake of consistency, I feel like you've talked about your go-forward expectations on a half basis. You talked about one half 2024 being better than the second half of last year, two half 2024 being up versus first half. As we look out at next year, and I realize you haven't provided guidance, but are you anticipating further growth, first half versus second half of 2024?
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+Yeah. So, obviously, yes, we are growing much more in the second half of this year than in the first half of this year, obviously. Talking about 2025, indeed, you know we are always waiting for the February call to give formal guidance for the next year. But obviously, we are very encouraged by the way the year has played out overall. I mean, we had very positive momentum starting in quarter two. It kept on going in quarter three as we are reporting out today. And the first month of quarter four has been very strong as well.
+
+So again, our H2 growth, excluding COVID, is about 12%. We grew 13% in quarter three. The growth ex-COVID in quarter four is going to be 13%. So, we are in a much better spot today than we were 12 months ago, for sure. I mean, we just want to wait for the CDMO and the hardware improvement we've seen ourselves in quarter three to be confirmed in quarter four. But overall, yeah, we are like in a much better spot today than we were a year ago.
+
+And also keep in mind the seasonality that – I know we've all forgotten, during COVID, because we had so much backlog for several quarters, that nobody cared about seasonality anymore. Quarter three has always been the weakest quarter for bioprocessing company, which is why we're very happy about the performance we had, because we even managed to show growth between quarter two and quarter three. But we know quarter four is always the strongest quarter in the year by far.
+
+Matthew Gregory Hewitt
+Analyst, Craig-Hallum Capital Group LLC
+Got it. And then maybe in a similar vein, I think pre-COVID, you typically had good six-month visibility. Like you had a very good idea based on order flows and backlog on how things were going to shake out. And then COVID hit and then the reprioritization of pipelines and all these different things that have hit over the past couple of years. Do you feel like you're getting back to that level of visibility that you had pre-COVID where you've got a pretty good sense for how things can shake out over the next one, two, or even three quarters, so kind of back to normal?
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+Yeah. So, in fact, pre-COVID, the typical backlog bioprocessing company would have, would always be in the range of three to four months. And then, indeed, during COVID, getting bombarded by customer orders and so on, those backlog went up to sometimes up to 10 month or so. So, in fact, you could say we had more visibility during COVID than before and after. But obviously, the 10-month backlog was not a normal situation you are in when you are a bioprocessing company. So, yes, back to your question, we are like back to the normal pattern we experienced before COVID for the previous 10 years before COVID. And probably, one of the reason why we've been doing very well on the book-to-bill ratio side ourselves now for the last five quarters is because probably we've been back to the normal situation ourselves already for almost a year now. But yes, the real visibility you always have is typically four months of backlog in that industry. Yeah.
+
+Matthew Gregory Hewitt
+Analyst, Craig-Hallum Capital Group LLC
+That's helpful. Thank you.
+
+Operator
+And the next question is from Subbu Nambi from Guggenheim Securities. Please go ahead.
+
+Subbu Nambi
+Analyst, Guggenheim Securities LLC (Research)
+Hey, guys. Thank you for taking my question. Following up on Puneet's question on M&A, you mentioned product differentiation. But for operating margin improvements, would you consider businesses that would probably help with operating margin despite not drastically changing top-line growth rates?
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+Yeah. I mean, what I keep on saying is you never have the perfect M&A opportunities, Subbu. And you are looking really, first of all, at differentiating technology that will not only add to your portfolio in the short term, but potentially in the midterm as well, because it's very complementary to something else you have. That's a perfect example of the Tantti acquisition that, combined with Avitide, is going to give us tons of upside on the resin market side. And the example of the Metenova acquisition where you're acquiring what is mostly a stainless steel mixing business that [ph] now our virtual (01:01:02) single-use business is going to enable us to launch a state-of-the-art single-use mixing technology, which is the best in the industry. So, you always start with technology.
+
+And then the second piece you want to look at is how is this really going to complement potentially your A to Z offering by adding maybe an offering in some areas where you didn't have much yet that will enable you to broaden the workflow of offering you have. And then, obviously, you always look at financials. And financials, you look at it from two angles. You want to bring something that's going to bring you growth for the reason I mentioned earlier, because it's very complementary to your portfolio of products and it's a very fast-growing business. But you also want to look at somebody that – something that's going to bring you also a margin and better margin maybe than what you already have.
+
+So ideally, you find the targets that tick all of these boxes. In reality, sometimes it's ticking only three of the four boxes. And you have to make a decision that, at the end of the day, the three boxes you're ticking are so positively impacting your business that the fourth one is going to be mitigated. But everything, all of that is very important for us.
+
+Subbu Nambi
+Analyst, Guggenheim Securities LLC (Research)
+Perfect. Makes sense, guys. I'll hop back in the queue.
+
+Operator
+And the next question will be from Justin Bowers from Deutsche Bank. Please go ahead.
+
+Justin Bowers
+Analyst, Deutsche Bank Securities, Inc.
+Hi. Good morning, everyone. So just taking a step back, as we think about 2025, I think most of your peers have characterized it as a year of normalization for the industry. And in your perspective, is that still the case? And what are some of the swing factors that would drive growth sort of at the high end or low end or outside of those ranges into 2025?
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+Yeah. Absolutely. And I mean, again, that's what I was saying earlier. I mean, the situation we're in today versus 12 months ago is very different. I mean, totally different, I should say, even – I mean, look at the traction we've had on CDMOs in the last four quarters. In fact, three out of the four last quarter were really good on the CDMO side. There was only one that was a little bit behind. Pharmas, we're already doing very well at the beginning of this year, have just improved constantly over the entire year. I mean, if I look at quarter three, I mean, we had the highest level of orders since 2021 on pharmas. Our orders are up mid-teens here today on the pharmas side, so pharma doing very well.
+
+The consumable business, we had the highest sales in the last five quarters on consumable. We had the highest orders for the last two years on consumable as well. Equipment, when you say about the watch-out, equipment might be one, but from our side, we had a really good performance in quarter three. Again, the funnel we have is the highest we ever had, so which is why we're so very confident about a real turnaround, but probably one we had to watch out a little bit. And then, finally, on new modalities, we had a record quarter in quarter three. We never had such a high level of sales.
+
+So, again, when I look at what we have today versus 12 months ago, I mean, we're in a much, much better spot. We've all learned to be just a little bit careful because the recovery has taken much more time than expected. But when I – at least I look at it from the Repligen point of view, we feel like we're in a very good spot today versus where we were 12 months ago, for sure.
+
+And then the only other little watch-out I would have really, as I mentioned earlier with Jacob, is on the smaller biopharmaceutical company. It is a fact that we've seen some kind of softness still there, which doesn't impact us too much. I mean, as you know, a small biotech business is only 10% of our overall business, but that is something we still need to watch out a little bit. But overall, we think we're in a very good spot today, for sure.
+
+Justin Bowers
+Analyst, Deutsche Bank Securities, Inc.
+Appreciate it. And then one quick follow-up. Are you seeing any – like how are activity levels changing for process development and that part of the value chain within your portfolio?
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+Yeah. Honestly, I think there might be more constraint on that side for the reason I mentioned earlier. Maybe lower number of clinical staff and where funding of biotech is significantly higher this year than it was last year, it hasn't fully been declining now for two quarters in a row. We don't see really a lot of impact from our side, because, I mean – we're just doing a lot of lunch and learn with customers right now with the traction we have with the big account, in particular. So, we managed to bring a lot of people from the PD group, probably more than ever.
+
+I mean, we just had an event last week on the West Coast. We have another one coming. I mean, I think we had probably three times more PD people than we would have had in the past and so on. So, we don't seem to be suffering from that a lot. We're just watching out in terms of the clinical trial staff to make sure like the funding and clinical trial staff are going to recover, again, in quarter four and beyond. But overall, we're not particularly worried about that ourselves.
+
+Justin Bowers
+Analyst, Deutsche Bank Securities, Inc.
+Okay. Thanks so much. I'll jump back in queue.
+
+Operator
+And the next question is from Paul Knight from KeyBanc. Please go ahead.
+
+Paul Richard Knight
+Analyst, KeyBanc Capital Markets, Inc.
+Thank you very much, Olivier. Looking at 2025, what would you say will be kind of your dynamic growth drivers? Will it be Protein A maybe getting traction above historical level? Will it be OPUS? Will it be for FlowVPE? What are the kind of the two, three products, you think, are kind of the secret to 2025?
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+Yeah. And it's probably a bit of all of that. But I'd start by saying, as you all know, we had a lot of headwind entering into 2024. Remember – and obviously with the restatement, the headwind have changed slightly, down probably to about $60 million to $65 million only, but it's still $60 million to $65 million of headwinds, which we will have, more or less, [ph] none less (01:07:21) next year or so. At least on that side, that's going to put us in a much better shape to start the 2025. And if I have to pick up really within the different franchises, I mean, we're very excited about most of them right now. But if I would have to pick up probably two or three, I would restart with ATF, where indeed all of these design-in we've managed to achieve over the last several years is giving us a lot of tailwind in terms of consumable order uptick and sales for 2025.
+
+I'm also very excited about the systems. And I know the industry is having some challenges, but the uptick of orders and funnel we've had is absolutely very good in this difficult environment [ph] already (01:08:06). For whatever reason, funding on CapEx improved significantly. We should really see a huge increase coming from that side next year, hopefully. And then finally on proteins, yes, it has been a tough business for us this year. It's a really reset year for us with no more Cytiva sales and very limited from the second big player. We have so much traction now coming from our Avitide/Tantti product offering that we think that's going to be a real big tailwind for us. We are launching our first resin combining Tantti and Avitide technologies as early as quarter four this year. And we are really very positive that this is going to be also generating a lot of growth for the future as well here.
+
+Paul Richard Knight
+Analyst, KeyBanc Capital Markets, Inc.
+And then lastly, cell and gene therapy, what portion of revenue in that market getting better or no?
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+Yeah. So, you know like we've aggregated all new modalities together. So, now what we call new modalities also include mRNA, so it's really cell and gene therapy, mRNA in particular. We've always said like we were in the range of 18% to 20% of our total revenue going into new modalities. For 2024, it will be the upper end of that range, if not maybe even slightly above. So, I have to say this new modality business for us has been a huge tailwind during the last several quarters. I did mention that quarter three was the highest sales we ever had. But even on the order intake side, I mean our order intake year-to-date on new modalities are high-teens growth versus 2023. So, it's really going very well for us across the board on that side.
+
+Well, what I think is making us successful is, first of all, we have a very payload focused offering for that market. And then, secondly, we decided to play across all of these new modalities, because you don't want to be only in one or the other because life is teaching you like it's always going in ways where there is a, first, very positive way, then there might be a slowdown, and then comes the second wave. And antibody drug conjugate are a perfect example where the second wave now is gigantic. And it's very good to be selling products for that type of product line as well right now.
+
+Paul Richard Knight
+Analyst, KeyBanc Capital Markets, Inc.
+Thank you.
+
+Operator
+And the next question is from Matt Stanton from Jefferies. Please go ahead.
+
+Matthew Stanton
+Analyst, Jefferies LLC
+Hi. Thanks. Maybe first one for you, Olivier. I want to follow up to one of your answers to one of the questions on phasing between the halves. I think you said that there's good momentum that's continued in the first half or the first month of the 4Q here. I guess, did I hear that right? And then, any color on either demand or orders you'd be willing to give for October just given a bit of a later reporting period this time around with the accounting adjustments? Thanks.
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+Yeah. No, we won't give any numbers for the timing, for sure. But yeah, we had a very strong start of the quarter. We were very, very happy with the October order intake and so on, so which is why we were very confident about the guidance for the year 2024, and the fact we're going to be able to enter into 2025 in a strong position here as well.
+
+Matthew Stanton
+Analyst, Jefferies LLC
+Thanks. And then I know you guys have disclosed a bit in the past, but any color on what new products added either in 3Q or year-to-date and how that's trended versus historical? And then would love to get an update on some of the newer launches. I think this is the first quarter you were – full quarter you were selling the RS 10. If we start to think about 2025, would you expect the new product cohort to fare better given a more normalized demand backdrop? Or is that cohort of products launched last year has actually held up maybe a bit better, even though we've seen some weaker industry demand more broadly? Thank you.
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+The impact of new product this year is very similar to the impact it had last year. And we're exactly in the same range. We're tracking products that have been launched over the last three to four years and how much of the total sales of the current year they represent. And the overall percentage is very similar to what it was last year. So, no real big changes. If I'm more really specific about some of the key launches we had this year, and you mentioned RS 10, which for us has been a really great success story, because indeed it's mostly focused on the new modalities, partly on the gene and cell therapy and mRNA side of the business.
+
+The beauty of this product line back to the sticky net to consumable is it's generating a significant amount of consumable sales very early, because the beauty of new modalities, you need to run many batches because more or less every single patient needs a single batch. So, we see a lot of traction, not only coming from the hardware piece, but also with significant order intake in term of consumable as well on the RS 10 side.
+
+And then back to FlowVPX, which we are now offering across the vast majority of our ARTeSYN portfolio. We've been delighted to see like now a lot of the new order we're getting on system [ph] are (01:13:23) including FlowVPX. I mean, we're like convinced that in the midterm it's probably going to be one system out of two that will include FlowVPX. We're not there yet, but the traction we've had has been very significant. And again, we feel like that's going to become a feature that is becoming so important for customers that they won't even imagine not having it included in the system they buy in the future. So, really good traction on that side.
+
+Finally, and I mentioned briefly about it, with the acquisition of Tantti, we're going to be able to launch our first resin, including both Tantti and Avitide part of the offering quarter four this year. And on this specific resin, we are getting a lot of traction as well already, even though it has not been officially launched yet. So, lots of good things coming from [ph] MPI (01:14:11). Next year is going to be an exciting year. We're launching our single-use mixers, and we're going to be launching products more or less across the entire portfolio in every single business unit. So, it's going to be a very strong year next year as well.
+
+Matthew Stanton
+Analyst, Jefferies LLC
+Super. Thank you.
+
+Operator
+And ladies and gentlemen, this concludes today's question-and-answer session. I will turn the conference back over to Olivier Loeillot for any closing remarks.
+
+Olivier Dominique Loeillot
+President, Chief Executive Officer & Director, Repligen Corp.
+I would just like to thank you so much for joining our quarter three call, really looking forward to seeing many of you at upcoming events starting early end of this week. And then on our Q4 call in February, we expect to share our first formal guidance for the year 2025.
+
+Have a great day, all. Thank you.

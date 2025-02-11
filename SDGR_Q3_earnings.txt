@@ -1,0 +1,297 @@
+Thank you and good morning, everyone. Welcome to today's call, during which we will provide an update on the company and review our third quarter 2024 financial results. In addition to our press release announcing our third quarter results, we also issued a press release announcing our new research collaboration and expanded software licensing agreement with Novartis. Both press releases are available on our website at schrodinger.com.
+
+Here with me on our call today are Ramy Farid, Chief Executive Officer; Karen Akinsanya, President of R&D, Therapeutics; and Geoff Porges, Chief Financial Officer. Following our prepared remarks, we'll open the call for Q&A.
+
+During today's call, management will make statements that are forward-looking and made pursuant to the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995, including, without limitation, statements related to our outlook for the full year 2024, our plans to accelerate growth of our software business and advance our collaborative and proprietary drug discovery programs; the timing of, initiation of, and readouts from our clinical trials; the clinical potential and properties of our compounds; the anticipated benefits of our collaboration with Novartis; the use of our cash resources; and our future expenses. These forward-looking statements reflect our current views about our plans, intentions, expectations, strategies, and prospects, which are based on the information currently available to us and on assumptions we have made.
+
+Actual results may differ materially due to a number of important factors, including the considerations described in the Risk Factors section and elsewhere in the filings we make with the SEC, including our Form 10-Q for the quarter ended September 30, 2024. These forward-looking statements represent our views only as of today, and we caution you that, except as required by law, we may not update them in the future, whether as a result of new information, future events, or otherwise.
+
+Also included in today's call are certain non-GAAP financial measures. These non-GAAP financial measures are not prepared in accordance with Generally Accepted Accounting Principles and should be considered only in addition to and not a substitute for or superior to GAAP measures. Please refer to the tables at the end of our press release, which is available on our website for reconciliations of these non-GAAP measures to the most directly comparable GAAP measures.
+
+And with that, I'd like to turn the call over to Ramy.
+
+Ramy Farid
+President, Chief Executive Officer & Director, Schrödinger, Inc.
+Thanks, Jaren, and thank you, everyone, for joining us today. At Schrödinger, we are transforming the way therapeutics and materials are discovered. Our industry-leading computational platform combines proven physics-based methods with the speed of machine learning to accelerate molecular discovery. Our platform is used by thousands of companies and research institutes worldwide, including every major pharmaceutical company; and the success of collaborators and co-founded companies reflects the power of our approach.
+
+Today, we are very pleased to review the progress we have made across the business this quarter, beginning with this morning's exciting news of our collaboration with Novartis. Under the multi-target collaboration, Schrödinger and Novartis will combine pre-existing research efforts to advance therapeutics for a number of undisclosed targets outside of oncology. Schrödinger will receive $150 million upfront and be eligible to receive up to $2.3 billion in milestone payments, as well as mid-single digit to low-double digit royalties on sales. This collaboration is a testament to the track record of our world-class discovery and translational science teams who are leveraging our leading computational platform at scale.
+
+Novartis also signed an expanded multiyear software agreement that's substantially increases their access to our computational technology and enterprise informatics platform. The collaboration and software license agreement with Novartis combines further development of programs from our portfolio, commitment to develop candidates against targets of mutual interest, and increased scale deployment of our software by Novartis. We are seeing increased demand for these combination drug discovery software arrangements that leverage synergies between different components of our business.
+
+Turning to our financial results, total revenue for the third quarter was $35.3 million and software revenue was $31.9 million. While software revenue was slightly below our expectations, we are excited about the opportunities we have to finish the year strongly. Customer engagement is high. We are confident about the expected scale of customer renewals and scale-ups through the end of the year, and we have raised the lower end of our software revenue growth guidance for the year. Geoff will discuss our third quarter financial results and updated guidance in more detail shortly.
+
+We continue to see progress and value from companies we have co-founded. Ajax Therapeutics recently dosed the first patient in their first Phase 1 study. Nimbus announced updated Phase 1/2 clinical data for their HPK1 inhibitor. And we added $48 million to our cash balance as a result of Lilly's acquisition of Morphic. Our proprietary pipeline is also advancing, and we look forward to reporting initial data from all three of our clinical-stage programs next year.
+
+Through the remainder of the year, we see clear opportunities to drive software growth, extend our scientific leadership, and advance our collaborative and proprietary pipeline. I will now turn the call over to Karen who will discuss the Novartis collaboration in more detail and provide an update on our proprietary pipeline.
+
+Karen Akinsanya
+President-Research & Development, Therapeutics, Schrödinger, Inc.
+Thank you, Ramy, and good morning, everyone. The collaboration we announced today with Novartis builds on more than a decade of productive collaborations with pharmaceutical partners and companies we've co-founded. This significant new agreement underscores our track record of generating high-quality candidates for clinical development and the growing interest across the industry in scaling up the use of our physics-based computational platform to solve drug design challenges.
+
+Over the last few years, we have leveraged our expertise in experimental structural biology and protein structure refinement, together with our computational platform, to pursue novel insights and chemical matter for compelling first-in-class targets outside of oncology. A selection of these undisclosed programs were licensed to Novartis as part of this transaction. Schrödinger and Novartis will now combine our existing research efforts to advance therapeutics for these programs, and collaborate on additional targets of mutual interest in Novartis's core therapeutic areas.
+
+The decision to partner these programs with Novartis reflect our view that their deep therapeutic area and clinical expertise will amplify and accelerate the opportunity to move these programs through development after candidate selection and, potentially, to commercialization. This partnership is emblematic of our business development and translational science strategy to leverage the extensive capabilities and experience of specific partners to advance and maximize the potential of certain proprietary programs.
+
+The Novartis collaboration is also an example of an important initiative that we have implemented in recent years. The juxtaposition of a drug discovery collaboration and significantly expanded software access enables peer-to-peer platform learning while pursuing joint therapeutic programs. This enhances knowledge transfer and firsthand understanding of the impact of the platform during the scale-up journey, facilitating wider adoption in the future.
+
+Turning briefly to our proprietary pipeline, we are continuing to make progress in our three clinical-stage programs. SGR-1505, our MALT1 inhibitor, is advancing in a Phase 1 study in patients with relapsed/refractory B-cell lymphomas. SGR-2921, our CDC7 inhibitor, is also advancing through a Phase 1 study in patients with relapsed/refractory acute myeloid leukemia, or high-risk myelodysplastic syndrome.
+
+Earlier this year, we initiated the Phase 1 study of our Wee1/Myt1 co-inhibitor, SGR-3515, in patients with advanced solid tumors. We are encouraged by the progress of the studies and are on track to report initial clinical data from all three programs in 2025.
+
+We recently presented data supporting the differentiated profiles of our molecules. Last month, at the 2024 ENA triple meeting, we presented preclinical data for SGR-3515, demonstrating a favorable pharmacological profile and dosing schedule, enabled by co-inhibition and synthetic lethality of Wee1 and Myt1. Also at ENA, we presented an update on our PRMT5-MTA program, which highlighted a series of highly selective molecules with potential for best-in-class pharmacological properties.
+
+Behind these programs, we are pursuing additional first-in-class and best-in-class opportunities that have the potential to generate value through new ventures, partnerships, or by advancing them independently. We look forward to reporting continued progress across our pipeline over the coming months.
+
+I'll now turn the call over to Geoff.
+
+Geoffrey Craig Porges
+Chief Financial Officer, Schrödinger, Inc.
+Thank you, Karen, and good morning, everyone. Q3 was a very productive quarter for Schrödinger. During the quarter, our software revenue grew by 10%; and for the first nine months of the year, our software growth of 11% is in line with our expectations and the usual timing of large renewal opportunities. We initiated the predictive tox project, funded in part by the grant from the Gates Foundation. And today we announced a significant, new multi-target drug discovery collaboration with Novartis, diversifying our collaborations into new therapeutic areas.
+
+Our clinical programs continue to advance. And during the Q3, we realized $48 million from the successful sale of Morphic to Lilly. We bolstered our cash reserves as a result of this sale, and we expect our capital position to increase as a result of the collaboration we announced today.
+
+Software revenue in Q3 was just below the lower end of our expectations, driven by a slower than expected ramp in our activities for the predictive tox initiative in August and the associated slower recognition of the revenue from the grant from the Gates Foundation, as well as small software opportunities that were deferred or reduced compared to our expectations. We expect the shortfall in the revenue for the Gates-funded grant to be made up over the remaining quarters of the grant. Based on these expectations and our outlook for the quarter, we have narrowed and increased the lower end of the range of our software revenue growth guidance for the year.
+
+Drug discovery revenue was significantly lower in Q3 than Q2 and compared to Q3 in the prior year. This reduction was based on revenue recognized from milestones and u-fronts in the prior periods that did not recur in Q3. Based on the timing of milestones for the remainder of the year, we now expect drug discovery revenue for the year to be in the range of $20 million to $30 million compared to the prior guidance of $30 million to $35 million. Based on the recently announced Novartis collaboration, we expect our drug discovery revenue to increase in 2025.
+
+In Q3, our software revenue was $31.9 million and increased by 10% compared to the same period a year ago. The increase was driven by increases in hosted revenue, as existing large and midsized customers transition to hosted software licenses and existing hosted customers increased the size of their contract during renewals. Hosted revenue increased to 28% of total software revenue, compared to 23% in the same period in 2023. The increase in hosted revenue was partially offset by decreases in on-prem contracts as mid to large multiyear on-prem customers from Q3 2023 did not have scheduled renewals in Q3 this year.
+
+Services and maintenance revenue were relatively flat year-over-year, and this also reflects more maintenance services being incorporated into hosted software contracts. Contribution revenue increased to $3.1 million, driven by the initial revenue recognized from the Gates Foundation for the predictive toxicology initiative added to the pre-existing battery research grant.
+
+Drug discovery revenue was $3.4 million in Q3, compared to $13.7 million Q3 last year. The lower drug discovery revenue was due to the reduced number of collaboration projects in Q3 this year compared to the prior year, and the absence of existing milestones during the quarter. Total revenue was $35.3 million in Q3 and decreased by 17% compared to the prior year. The decrease was due to lower drug discovery revenue in the quarter. Total revenue also declined compared to Q2 based on lower drug discovery revenue.
+
+Our software gross margin was 73.4% in Q3 compared to 75.7% in the same period a year ago and compared to 80% in Q2 this year. The gross margin in Q3 has been affected by the initial revenue recognized in the Gates predictive tox collaboration and is likely to continue at a lower level than 2023 for the duration of the grant. Our cost of services for drug discovery was $9.1 million in Q3, compared to $12 million in Q3 last year and $8.8 million in Q2 this year. The decrease in cost of drug discovery compared to Q3 last year is due to the smaller number of collaboration programs in our portfolio this year compared to last year.
+
+As we have noted in prior periods, some of the FTEs and other expenses previously reported in drug discovery cost of services are now being reported in R&D and are supporting our proprietary internal programs. Looking ahead, this reallocation may be subject to the balance between collaboration and proprietary projects and should move in the other direction as we ramp up our activity for the Novartis collaboration. Our overall gross margin was 50% in Q3 2024, compared to 56% the same period a year ago. The difference was due to lower drug discovery revenue this year and a lower software gross margin.
+
+In Q3 this year, R&D expense was $51 million compared to $47 million in Q3 last year and compared to $51 million in Q2. The year-over-year increase in R&D was mostly driven by increased FTE-associated expenses in both our platform and therapeutic R&D activities. As in prior periods, our drug discovery R&D was a little over half of our total reported R&D expense in the quarter.
+
+Sales and marketing expenses were $10.3 million in Q3 2024 and increased by 13.6% compared to Q3 last year by 7% compared to Q2 this year. The increase in sales and marketing expense was primarily due to higher FTE expenses supporting our software commercialization. G&A expense was $24.8 million in Q3 this year and increased by 4% compared to Q3 in 2023 and by 6% compared to Q2 2024. G&A expense increased based on FTE-driven costs and royalty obligations associated with the sale of Morphic stock. These were offset by reduced professional services expenses and taxes.
+
+Total operating expenses were $86 million compared to $80 million in Q3 last year and compared to $84 million in Q2. The increase compared to last year was mainly due to higher R&D. For Q3, our operating loss was $68.4 million compared to a loss of $56 million in Q3 2023 and a loss of $53 million in Q2 this year. The change in fair value of equity method investments in Q3 was $25.5 million, driven by the increase in the value of our investments in Structure and Morphic during the quarter. In the same period last year, we reported a reduction in the value of these investments of $14.5 million; and Q2, we reported a reduction of $5.8 million in the value.
+
+Other income was $4.7 million in Q3, compared to $5.8 million in Q3 last year, and compared to $4.6 million in Q2 this year. The decrease compared to the prior year was based on a lower cash balance this year. Total other income was $30.2 million in Q3, compared to a loss of $8.7 million in Q3 last year and a loss of $1.2 million in Q2 this year.
+
+Our tax benefit was $0.1 million and our net income was a loss of $38 million or $0.52 per share. In Q3 a year ago, we reported a net loss of $62 million or $0.86 per share. The lower net loss was due to higher gain on equity method investments, offsetting higher loss from operations in Q3. Our diluted and basic share count was 72.8 million compared to 71.9 million in the same period of 2023 and compared to 72.7 million in Q2 this year.
+
+For the nine months of this year, our software revenue was $101 million, increased by 11% compared to the same period of 2023. Our drug discovery revenue declined from $52 million to $18.5 million based on the nonrecurring milestones recognized and larger collaboration portfolio last year. Our total revenue year-to-date is $119 million compared to $142.5 million the same period last year.
+
+Our software gross margin is 76.5% for the first nine months of the year compared to 77% for the comparable period last year. Favorable trends in expenses were offset by the effect of recognizing the revenue and costs from the Gates collaboration in the most recent quarter. Operating expenses increased from $231 million in the first nine months of 2023 to $257 million in the first nine months of this year. The increase was mainly due to higher R&D expenses.
+
+Our loss from operations for the first nine months was $189 million compared to $148 million in the same period a year ago. Other income was $42 million for the first nine months, compared to $222 million for the same period in 2023 when we recognized the distribution from the sale of Nimbus' TYK2 to Takeda. Net income year-to-date is a loss of $147 million, or $2.02 per share. This compares to net income of $71 million and EPS of $1 for the same period of 2023.
+
+Our cash used in operations this quarter was $33 million compared to $50 million in Q3 last year. Our cash and marketable securities balance increased to $398 million at the end of Q3 compared to $382 million at the end of Q2. This increase was based on the realization of $49 million from the sale of shares in co-founded company equity positions during the quarter, which offset our operating cash burn.
+
+Before I share our updated financial guidance for the year, I would like to make some general comments about the financial implications of the collaboration we announced today. First, while the upfront payment is cash that we should receive around year-end, the revenue associated with that cash will be recognized over several years as we execute the drug discovery project in the collaboration. We expect there to be some ramp-up over several quarters associated with these projects. So, the drug discovery revenue contribution this year will be very modest.
+
+The collaboration is also associated with a significant multiyear software contract that substantially increases Novartis' access to our technology. The software contract will contribute considerable revenue in Q4 as on-prem software revenue and will also contribute some revenue recognized ratably over the full three-year period of the contract. This Q4 software revenue contribution is consistent with the updated financial guidance for the year.
+
+Based on our news today and the outlook for the balance of our business, we are narrowing the range of our software revenue guidance from 6% to 13% to 8% to 13%. The remaining uncertainty is not about whether outstanding software renewals occur, but about the scale of the contracts and the final terms and timing and their effect on revenue. We are lowering our drug discovery revenue guidance to $20 million to $30 million from $30 million to $35 million. The lower range reflects our reduced probability of reaching collaboration milestones during the remainder of Q4, and the possibility of recognizing these milestones and other revenue from collaborations in 2025.
+
+The other aspects of our financial guidance are unchanged. We still expect operating expense growth to be significantly lower in 2024 than 2025. Our operating cash use guidance is unchanged but will be influenced by the timing of receipt of payment from Novartis around year-end.
+
+We're very excited about the outlook for the rest of the year and this new collaboration, which sees another global pharmaceutical company recognizing the value of our approach to drug discovery, particularly when deployed at scale. We see many additional opportunities for similar increases in scale at other large biotech and pharma companies, as well as additional collaborations. Our proprietary research efforts were a significant part of this collaboration, and we look forward to disclosing clinical data from our programs next year.
+
+I'll now turn the call back to Ramy.
+
+Ramy Farid
+President, Chief Executive Officer & Director, Schrödinger, Inc.
+Thanks, Geoff. We are very pleased with the progress we have made this year and the opportunities we have to deliver on our full year results. I'd like to acknowledge the extraordinary efforts of our employees. Our achievements are a direct result of their dedication, commitment, and hard work.
+
+At this time, we'd be happy to take your questions.
+
+Question And Answer Section
+Operator
+Thank you. [Operator Instructions] And we will take our first question from Michael Yee with Jefferies. Please go ahead.
+
+Hey. Good morning, guys. This is [ph] Matt (00:22:00) on for Mike. Thanks so much for taking the question. Can you expand just a bit on the key drivers here that give you confidence in the updated software guidance today? And especially can you expand it on the extent that the deal today helps you with that guidance? And any other trends that you would maybe highlight or point to that gives you confidence this quarter and moving forward as well? Thanks.
+
+Geoffrey Craig Porges
+Chief Financial Officer, Schrödinger, Inc.
+Sure, [ph] Matt (00:22:25). The fourth quarter has always been, or at least in recent years, a large proportion of annual revenue. If you look back the last few years, it's been in the range of 42% to 44% of total revenue and the software. And we expect that to be similar this year. So, we are on track to close the renewals necessary to meet that narrowed guidance range. Clearly, Novartis is a significant component of that, but it's not the only component of it. And we are in discussions with multiple other companies about the nature of their renewals.
+
+So, as I said in my prepared remarks, it's – whether the renewals, the number of years of the renewal, the exact mix between on-prem and hosted revenue, all influences where we come in that range. But we're very confident about the range. We're very confident about the discussions we're having. Clearly, we're sort of almost halfway through the quarter now, so that's the basis for the increased confidence that we've conveyed within our range.
+
+Thank you.
+
+Operator
+Thank you. And we will take our next question from Mani Foroohar with Leerink Partners. Please go ahead.
+
+Mani Foroohar
+Analyst, Leerink Partners LLC
+Hey, guys. Thanks for the question and congratulations on the deal. As I'm looking at the updated guidance, Geoff, should we think about the narrow drug discovery guidance as reflecting a timing event, i.e., should we be looking to perhaps a more fulsome 1Q, 2Q next year in drug discovery? And I have a quick follow-up.
+
+Geoffrey Craig Porges
+Chief Financial Officer, Schrödinger, Inc.
+Thanks, Mani. Yeah, I think in my prepared remarks, I indicated that the basis for the reduction in the range was related to uncertainty about timing of events around the end of the year. So, I think our confidence about next year is considerable already. We're not giving formal guidance about next year, but you could see some of the opportunities that we were anticipating towards the end of the year we're being cautious about in terms of timing. And then, clearly, the Novartis deal [indiscernible] (00:24:42) announcement with respect to next year as well. So, all of those things give us a pretty high degree of confidence going into the year.
+
+Mani Foroohar
+Analyst, Leerink Partners LLC
+That's helpful. And from the commentary on the Novartis deal, can you give us some color on how you guys are thinking about the opportunity set on renewals with large existing partners? If you guys could comment a little bit on what you're seeing in terms of new partner, new client, new customer adds; and to what extent we should think about opening of the capital markets and exposure to biotech funding cycles in terms of new client formation as being a contributor over the next few months? And what you guys are seeing in that slice of the end market for you guys.
+
+Geoffrey Craig Porges
+Chief Financial Officer, Schrödinger, Inc.
+Yeah. Thanks, Mani. We are seeing positive new inquiry with respect to smaller companies interested in using our software. I think it's premature for us to be saying that they will be a significant contributor to our software growth. I mean, to a certain extent, the numbers are getting fairly large. And so, it would take quite a number of emerging biotech companies initiating use of our software to offset what we're seeing with large companies. So, we remain very excited about the many large and, frankly, mid-sized companies who aren't using our technology at scale yet. And we're focusing our efforts on that group of customers.
+
+But, equally, we're open for business with emerging companies. And I think much of the inquiry we're seeing there is actually for private companies, pre-IPO companies. I don't think we're seeing a significant tailwind in terms of companies that have accessed public markets yet. That may be something we see next year, and we're certainly prepared to respond to that. And our sales organizations are in dialogue with those sort of companies and, frankly, their investors. But so far, it's not hitting our numbers.
+
+Mani Foroohar
+Analyst, Leerink Partners LLC
+Great. Thanks. That's really helpful.
+
+Operator
+Thank you. And we will take our next question from Scott Schoenhaus with KeyBanc. Please go ahead.
+
+Hey, guys. This is [ph] Steve (00:27:19) on for Scott. Just wondering what percent of your software book of business is now cloud versus on-prem?
+
+Geoffrey Craig Porges
+Chief Financial Officer, Schrödinger, Inc.
+So, [ph] Steve (00:27:28), was your question what percentage of our book of business is hosted versus on prem?
+
+Yes, that's correct.
+
+Geoffrey Craig Porges
+Chief Financial Officer, Schrödinger, Inc.
+Okay. So, of our total software in Q3, 28% was hosted, up from 23% last year. If you focus on just the contracts with customers, then that percentage is going to be even higher. I mean, I don't have the number in front of me, but it's going to be probably in the high-30% range. Now that number does go up and down from quarter-to-quarter. So, as I indicated in my prepared remarks, because a significant part of the software license to Novartis will be on-prem, the on-prem piece will pop up. But I would encourage you to look at some sort of smooth, long-term trend to see trajectory of the transition to hosted, which we think is going to continue over the next few years.
+
+Great. Thank you.
+
+Operator
+Thank you. And we will take our next question from Vikram Purohit with Morgan Stanley. Please go ahead.
+
+Gospel M. Enyindah-Asonye
+Analyst, Morgan Stanley & Co. LLC
+Good morning, everyone. This is Gospel on for Vikram. With the initial MALT1 data expected shortly, could you recap for us your expectation of what you expect to report with data release, and how you are internally defining success and establishing the [indiscernible] (00:28:58) for this readout? Thank you.
+
+Karen Akinsanya
+President-Research & Development, Therapeutics, Schrödinger, Inc.
+So, we've spoken about releasing data in the first half of 2025. This will be the first disclosure about our ongoing Phase 1 dose-escalation study. The focus of that study is safety, PK, PD, and early evidence of efficacy. So, in the disclosures next year, we expect to share an update on those data. In terms of the type of data we're looking for, obviously, MALT1 is a very new mechanism. There's only one other set of clinical data out there, but we'll be looking to see positive data, obviously, on the performance of our molecule from a drug property point of view but also, of course, looking for evidence of activity in relapsed/refractory B-cell malignancy patients.
+
+Now, again, I want to remind you this is a dose-escalation study. It is not powered to do a full efficacy analysis but, of course, we'll be sharing whatever data we can when that release comes out.
+
+Gospel M. Enyindah-Asonye
+Analyst, Morgan Stanley & Co. LLC
+Thank you very much.
+
+Operator
+Thank you. And we will take our next question from Evan Seigerman with BMO Capital Markets. Please go ahead.
+
+Evan David Seigerman
+Analyst, BMO Capital Markets Corp.
+Hi, guys. Thank you so much for taking my question. Geoff, could you just talk a little bit more about how you're thinking about your P&L management and, going forward, especially with all of these more advanced clinical programs? And maybe just remind us, as we get to this readout, what's the bar for efficacy or how are you thinking about making these go/no go decisions to advance your clinical programs beyond kind of Phase 1? Thank you, guys.
+
+Geoffrey Craig Porges
+Chief Financial Officer, Schrödinger, Inc.
+Okay. Karen, I'll jump in and talk about P&L, then you can talk a little bit about the efficacy bar. So, we are pretty focused on bringing our expense growth rate down and seeing some operating leverage emerging from the top line. And I would say we've guided that our expense OpEx growth this year is going to be at lower end of the prior range. So, back into the single digits, and we are optimistic that we can continue to bring that down.
+
+Now, conversely, we are committed to continuing to invest in our platform and to invest in our proprietary molecules. The collaborations, so to go through the income statement, as you know, in a different place, so what you're seeing in our R&D expense, which is the largest driver of expenses, is platform and proprietary molecules.
+
+As we look ahead for certainly the immediate future, there isn't a lot of pressure to drive those expense items up. So, on the therapeutic R&D, you correctly point out that we're facing questions about further clinical development. But I think we've been pretty clear that it would be very unlikely that we would advance on our own account all of the molecules in our portfolio. That's not our intention or our expectation. It's not what we're planning for financially.
+
+So, though we're optimistic that there are some opportunities to take them forward, [indiscernible] (00:32:44) the data next year, but not that we will be committed to all of that. So, I think that we're on a pretty good path to managing the OpEx growth next year consistently with the trend that we've seen this year and start to really see that operating leverage kick in. So, I apologize for the vague answer. We're in process of finalizing our outlook, and we'll give more detailed guidance for next year. But that hopefully gives you a sense of the color.
+
+[indiscernible] (00:33:15)
+
+Karen Akinsanya
+President-Research & Development, Therapeutics, Schrödinger, Inc.
+Sorry.
+
+Evan David Seigerman
+Analyst, BMO Capital Markets Corp.
+Yeah. And then on just the – sorry [ph] Karen (00:33:18). On the kind of go/ no go, I know I asked you the thought, but now we're getting close. I'm curious this year if your views have changed or just how they've evolved. Thank you.
+
+Geoffrey Craig Porges
+Chief Financial Officer, Schrödinger, Inc.
+[indiscernible] (00:33:28) efficacy for MALT1.
+
+Karen Akinsanya
+President-Research & Development, Therapeutics, Schrödinger, Inc.
+Okay. So, first of all, this is a mechanism where we believe that there has to be evidence of monotherapy activity. This mechanism is sort of designed to really work in combination with standard of care. And, I mean, BCL2 or BTK inhibitors where you'll see the opportunity to expand the activity of those molecules or those mechanisms as people become relapsed or refractory.
+
+But we think it's really important that MALT1, also CDC7 and Wee1, offer monotherapy activity. And so, that's the bar, is looking for clear evidence that these mechanisms are having activity alone in terms of patient response and are contributing essentially to duration of response once we get to combination studies.
+
+Operator
+Thank you. And we will take our next question from Joe Catanzaro with Piper Sandler. Please go ahead.
+
+Joseph M. Catanzaro
+Analyst, Piper Sandler & Co.
+Great. Thanks for taking my questions. I actually had a quick one on the PRMT5 space given your recent poster. There's been a couple of recent clinical updates for competitive PRMT5 programs. So, just wondering if you believe those data provide real clinical validation for that target. And when you look at those data, where do you see opportunities for your program to differentiate? Appreciate you're sort of still early in development there. Thanks.
+
+Karen Akinsanya
+President-Research & Development, Therapeutics, Schrödinger, Inc.
+Yeah. I mean, I think your point is the fact that PRMT5 is an exciting mechanism that sort of burst onto the scene a couple of years ago, benefiting obviously from the synthetic lethal relationship between PRMT5 and MTA. Very interesting clinical data released last year at the triple meeting, showing a monotherapy activity in a very broad number of tumor types, actually, and that includes really tough tumors like glioblastoma.
+
+The update this year, I think, has demonstrated that there is evidence of activity, again, across a number of tumors. But the question, I think, that we're all wondering about is whether the molecules that are out there today in the clinic are best-in-class. And we have pursued molecules that we believe offer the greatest opportunity to go after the broadest set of tumors. That includes brain-penetrants. We think that's really important given the strength of the signals that have been seen previously in glioblastoma, but also other activity around DDR, where we think that PRMT5-MTA is going to be combining with other drugs, actually, to maximize the potential of the mechanism and the efficacy that's seen in combination.
+
+And so, these are some of the factors that we've been really focused on in our drug discovery efforts. And we also, I think, in this abstract, reported, we think we have an angle on maximizing that synergy between PRMT5 and MTA, which we think could lead to deeper responses. So, as you said, it's early days for this program. We still are enthusiastic about PRMT5-MTA. And I think, again, early days for our program, but excited to display what we think is going to remain an important mechanism for cancer patients.
+
+Joseph M. Catanzaro
+Analyst, Piper Sandler & Co.
+Great. Very helpful. Thanks for taking my question.
+
+Operator
+Thank you. And we will take our next question from Matthew Hewitt with Craig-Hallum. Please go ahead.
+
+Hello. This is [ph] Todd (00:37:25) on for Matt. I was wondering if you could give us an update on the predictive toxicity platform and if that is available to customers yet. Thank you.
+
+Ramy Farid
+President, Chief Executive Officer & Director, Schrödinger, Inc.
+Sure. Yeah. I can comment on that. It is not yet available sort of widely to our software customers. We're making now very good progress on expanding the number of targets that are part of the virtual panel. We're using that technology very extensively in our collaborations. And we expect to engage with customers in a sort of a select way, as we always do with technology like this where partners sort of get early access to it. But it's not widely available yet.
+
+Thank you.
+
+Operator
+Thank you. And we will take our next question from Brendan Smith with TD Cowen. Please go ahead.
+
+Brendan Smith
+Analyst, TD Cowen
+Hi. Thanks very much for taking the questions. Just a quick one from kind of expanding on the earlier question. I guess looking earlier in the pipeline and you have a few non-oncology programs kind of listed there. Just really wondering, as you kind of continue to expand some of your collaborations, how should we think about kind of the prioritization of programs in different spaces as they near the clinic?
+
+Is it fair to assume the non-oncology assets are still the prime targets for collaborations, and your focus remains on oncology; or do you have plans today to eventually invest internally in actual clinical infrastructure, even for Phase 1 for some of those other areas yourself? Thanks very much.
+
+Karen Akinsanya
+President-Research & Development, Therapeutics, Schrödinger, Inc.
+Yeah. I actually really like that question. Something we've been thinking about a lot. Obviously, there's still significant unmet need in oncology. We think that our platform allows us to design really great molecules with great properties for that particular set of targets in that therapeutic area. And so, we remain committed to highly validated targets in that space.
+
+However, we also think that some of [indiscernible] (00:39:40) to come up with molecules for first-in-class targets and other large disease areas that include immunology, neuroscience, other huge disease areas that have very limited small molecule options. This is very important to us, and I think that we've been able to make significant progress [indiscernible] (00:40:01) undisclosed programs.
+
+And in terms of how we think about development of those, we believe that we are very well equipped, not just to develop compounds in oncology. We've got a really great team that's executing on our current global programs. But we also believe that there is very strong opportunity for us to take a subset of programs in areas outside of oncology into Phase 1 studies and potentially beyond.
+
+We think that some of the targets we're focusing on have very clear value inflection points that will be apparent in Phase 1 very early on. And this comes from, I think, the validation of the pathways that they're in, where we know what the biomarkers and endpoints are that we can study in those Phase 1 studies. So, it is not the case that we are restricting our clinical development to just oncology, but we intend to pursue a select number of our non-oncology assets into Phase 1 as well.
+
+Brendan Smith
+Analyst, TD Cowen
+That's very helpful. Thank you.
+
+Operator
+Thank you. And we will take our next question from Michael Ryskin with Bank of America. Please go ahead.
+
+John Kim
+Analyst, BofA Securities, Inc.
+Hi. This is John Kim on for Michael. Good morning. You guys talked about the reduced probability of hitting the milestone in 2024. But outside of the Novartis collaboration in the first half of 2025, or even 2025 altogether, is that reduced probability mean that you're unsure those milestones would be hit in general; or can we think of them as of it just pushed back?
+
+Geoffrey Craig Porges
+Chief Financial Officer, Schrödinger, Inc.
+Yeah. Look, I don't want to say that any milestone that's in the future is 100% certain, but I think trying to convey that our expectation is that those milestones will still be recognized next year rather than this year. But they're not – and until we get to the point as we do experiments, so we have to wait until the data comes through, and then we have the discussions with partners. But that's our expectation.
+
+The other factor, of course, is also when various elements of the Novartis collaboration will start to get revenue recognized as well. I indicated in my prepared remarks that our expectation right now is that the drug discovery revenue contribution will be very small from that collaboration, and that's simply because of the timing when we start doing work on the projects and then to recognize the revenue.
+
+But, equally, I hopefully conveyed that we think that, that will be a significant contributor to our revenue next year because, by then, we'll have the project teams up and running and we'll be executing the work on a number of programs in that collaboration.
+
+John Kim
+Analyst, BofA Securities, Inc.
+Got that. Noted. All right. I'll just keep it to one. Thank you.
+
+Operator
+Thank you. [Operator Instructions] And we will take our next question from David Lebowitz with Citi. Please go ahead.
+
+Good morning. [ph] John (00:43:35) on for David. Thanks for taking our question. Can you talk about the revenue recognition and pricing dynamics of a hosted contract versus a non-hosted contract versus execution? And how do these revenue recognition dynamics differ for a standard one-year contract versus a longer-term agreement? Thanks.
+
+Geoffrey Craig Porges
+Chief Financial Officer, Schrödinger, Inc.
+Great question. So, the hosted contracts are recognized ratably over the period of the contract. So, if it is a one-year contract, then let's just say the ACV is $1 million, then roughly $250,000 per quarter of that year. And if it's a three-year contract of $1 million a year, roughly $250,000 per quarter for the three years. An on-prem contract where the license server is on the premises of customer, the revenue shifts to be substantially recognized in the period in which the contract is in this year. So, ballpark would be if it's a one-year contract that is an on-prem license, we could see as much as 80% of the revenue recognized in the period in which the license was signed. So, that would be using my $1 million contract, $800,000 in the quarter.
+
+Now, these numbers are gross generalizations. All of our contracts have maintenance components. So, we're providing services, we're providing updates, we're making sure that the technology is running for the customer. And so, maintenance is recognized ratably as well. So, this depends upon how much services component there is that can shift things over to ratable as well.
+
+And then, lastly, on let's just say a three-year contract, as much as two-thirds of the revenue could be recognized in the period in which the contract is signed. But, again, that depends on the balance between maintenance services and the actual software in the contract. So, all of these contracts differ, but there are some broad principles that you could use up to thinking about recognizing the value.
+

@@ -1,0 +1,285 @@
+Good afternoon and thank you for joining Paragon 28's third quarter 2024 financial results and earnings call. Presenting on today's call are Albert DaCosta, Chairman and Chief Executive Officer; and Chadi Chahine, Chief Financial Officer and EVP of Supply Chain Operations.
+
+Before we begin, I would like to remind you that management will make statements during this call that include forward-looking statements within the meaning of federal securities law, which are made pursuant to the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995. Forward-looking statements include statements made as to the company's or management's intentions, hopes, beliefs, expectations or predictions of future events, results or performance. These forward-looking statements are subject to a number of risks, uncertainties, estimates and assumptions that may cause actual results to differ materially from these forward-looking statements.
+
+All forward-looking statements are based upon current available information and Paragon 28 assumes no obligation, except as required by law, to update these statements. Additional information concerning certain risks and uncertainties that may impact these forward-looking statements is contained from time-to-time in the company's SEC filings and in the press release that was issued earlier today.
+
+During this presentation, we will refer to the non-GAAP financial measures of adjusted EBITDA, free cash flow and constant currency net revenue growth. A reconciliation to the most comparable GAAP financial measures, net income, cash from operating activities and reported net revenue growth, respectively, are contained in our press release issued earlier today.
+
+And with that, I will now turn the call over to Albert.
+
+Albert DaCosta
+Chairman, Chief Executive Officer & Co-Founder, Paragon 28, Inc.
+Thanks, Matt. Good afternoon and thank you for joining us for our third quarter 2024 earnings call. To start, I want to thank the Paragon 28 team for their continued dedication. Thanks to their collective effort, P28 has been able to help improve the lives of over 52,000 patients worldwide year-to-date. I am truly grateful for their commitment to always ensure we are there for our surgeon customers, and I am inspired by the impact we are continuing to make as a company.
+
+2024 has been one of the most pivotal years in P28's journey as a public company, marking a period of tremendous progress and transformation. This year was incredible, with 13 launches year-to-date, which truly demonstrates our deep commitment to delivering best-in-class solutions to our surgeons and patients and raising the bar in foot and ankle. Our continued focus on innovation and commercial execution is why we have been able to grow well over twice the market rate in every quarter since going public in 2021 and really since the company's inception. And we are now quickly ramping up our operational efficiency to put us on a trajectory for sustainable and profitable growth. Our consistent growth, combined with the momentum we have in driving operational excellence, has Paragon positioned exceptionally well.
+
+Now, turning to our third quarter performance. Global revenue for the third quarter of 2024 was a record $62.3 million, representing 18.1% reported and 17.6% constant currency growth. We had strong growth across our portfolio at over twice the rate of the broader foot and ankle market, and continue to have significant momentum from our recent product launches.
+
+Looking at the US business performance, revenue for the third quarter of 2024 was $51.2 million, representing 14.8% reported growth. We had one extra billing day in the US this quarter, contributing approximately 150 basis points of tailwind in the quarter. We finished the quarter with 2,244 active surgeon customers, representing a 9% increase compared to the third quarter of 2023. Over the same time period, we increased our US producing sales rep roster by 10.5% to 284 reps and saw a 4% increase in productivity across our rep base.
+
+Third quarter international revenue was $11.2 million, representing 35.7% reported and 32.8% constant currency growth. International growth continues to be driven by our core markets of the UK, Australia, South Africa, Canada and Spain, where we have made focused investments in market expansion in recent years. Across all geographies, our top line performance continues to be driven by our innovative product portfolio, delivered by our dedicated sales force.
+
+As noted during our previous earnings call, we saw some degree of choppiness in our sales trends entering the third quarter. Those fluctuations we experienced abated later in the quarter, and we continue to see steady demand for our products. Our balanced portfolio offers a wide variety of product options to our surgeon customers, enabling P28 to continue growing despite shifts in surgeon preference or patient demand. We see tremendous growth opportunity for the foot and ankle market over the long term, and believe we are well-positioned to deliver sustainable, profitable growth.
+
+I will now turn to a few key updates on our product portfolio. We've done an incredible job as a company continuously innovating and bringing novel products to market, and 2024 really stands out with 13 new product launches to-date and many of our recent launches were in high growth and highly strategic end markets, including our first SMART28 module. I cannot overstate how pleased I am with our development team's ability to deliver such meaningful products at the pace and quality we've done so this year, and I am incredibly excited to see these products changing the standard of care.
+
+I receive updates every day, sometimes several an hour from both our sales team and surgeon customers, with results from recent cases that demonstrate we are achieving our mission to improve foot and ankle patient outcomes. As a reminder, we launched 11 products through our last earnings call, including our first SMART28 module. And in October, we launched two new products.
+
+The first was the Phantom Fibula Nail System designed to offer surgeons a less invasive option for treating ankle fractures. There's a lot of excitement for that product to start the fourth quarter, and it's also highly complementary to our broader ankle trauma and soft tissue products.
+
+The second launch was a Short Stem Tibia implant for our APEX 3D Total Ankle Replacement System, which allows us to cater to a broader range of total ankle patients, specifically those with complex anatomy. The Short Stem Tibia implant and our recently launched Right-Angle Drill are both on limited market release, and we expect they will be key drivers for our ankle portfolio in the future.
+
+The products we launched so far this year are setting new benchmarks for the company and for our market. There are too many great products this year to go through each in specific detail, but the adoption and feedback across the board has been overwhelmingly positive from our surgeons and reps alike. We believe our strong foundation and the momentum from our recent product launches put us in a great position to drive sustainable growth moving forward.
+
+We remain laser focused on growth, while also sharpening our focus on operational efficiency and capital allocation, as highlighted in our last quarter's earnings call. Chadi will share details momentarily. But from my perspective, I am pleased to say our efficiency plan is progressing better than expected and resulted in substantial improvement to operating expense and free cash flow.
+
+In summary, we are pleased with our performance in this pivotal third quarter. We have incredible momentum driven by our new products, and we are tracking well against our key operational efficiency plans. We believe that now more than ever, P28 is positioned for long-term sustainable growth and operational excellence. We are highly confident in our ability to execute and believe we are very well aligned to drive shareholder value with every dollar invested.
+
+I will now turn it over to Chadi, but before I do, I want to say that Chadi has been an incredible addition to our team and as a partner to me in particular. His leadership has had a meaningful impact on our organization, and he has been critical in our ability to drive the results we are able to share this quarter. We are very happy to have him.
+
+All right. Chadi, the floor is yours.
+
+Chadi Chahine
+Chief Financial Officer & Executive Vice President-Supply Chain Operations, Paragon 28, Inc.
+Albert, thank you very much for your kind words. Here, we are a little over 90 days since our last earnings call, and I believe we've made significant progress. I've had the opportunity to immerse myself in every facet of the company, having met with many stakeholders across North America, Europe and Australia, including teammates, sales representatives, suppliers and surgeon customers. I've been inspired to see the team's dedication to driving Paragon 28's mission and continuously improving the business in every way. From our investment in innovation and sales force to our operational efficiency initiatives, it's clear to me that P28 has a strong foundation for sustainable success in foot and ankle.
+
+Last quarter, we said our top priorities beyond continuing to deliver above market and strong top line growth are to achieve EBITDA positivity in 2025 and cash flow positivity in 2026 by maintaining a disciplined focus on operational excellence and optimizing our cost structure. As seen in our third quarter results, we are pacing ahead of schedule compared to our expectations. While there is still work to do, we are confident in our ability to continue to execute on the cost optimization actions needed to drive further leverage in the P&L. We are working to ensure every dollar invested goes towards strengthening our market position, delivering innovative solutions, and ultimately, creating value for all stakeholders. I'm excited about the progress we are making and know that I speak for the entire company when I say, this is just the beginning and we remain committed to delivering on these operational priorities to position the company for long-term profitable growth.
+
+Now, turning to the rest of the P&L. Gross margin for the quarter was 74.1%, a 90 basis point sequential decrease compared to 75% in the second quarter of 2024. We expect gross margin will stabilize at around 75% for the full year of 2024 and have several initiatives in place to drive improvement, including actions to reduce pricing of legacy SKUs to pre-COVID levels and overall inventory optimization. In addition, we expect a tailwind over time as we sell through high-cost inventory.
+
+Third quarter total operating expense was $54.6 million, representing 87.6% of net revenue for the quarter. This represents a 969 basis point improvement compared to the prior year period and a 500 basis point sequential improvement compared to the second quarter of 2024.
+
+Operating expense in the third quarter included $986,000 of non-recurring severance costs, a 150 basis point non-recurring headwind to our OpEx year-over-year and sequentially. We are proud of these results and the improvement we have made in the quarter to right-size our cost base. Looking ahead, the fourth quarter will be our first full quarter where we expect to see the full effect following the implementation of our restructuring program.
+
+R&D expense in the quarter was $5.6 million or 9.1% of revenue, compared to $7.2 million or 13.7% of revenue year-over-year. The $1.6 million improvement was driven by the implementation of cost saving initiatives to lower outsourced consulting services, partially offset by increased investments in personnel. Furthermore, the decrease was driven by a shift in timing of certain development and regulatory activity to the fourth quarter of 2024 and into 2025.
+
+SG&A expense in the quarter was $49 million, a $4.8 million or 11% increase compared to the third quarter of 2023. As a percentage of revenue, SG&A improved over 500 basis point to 78.6% compared to the prior year period. The year-over-year increase in SG&A expense was primarily driven by increased variable commission expense related to net revenue growth and an increase in professional services associated with the restatement and remediation plan, which we expect will decrease over the next few quarters. These costs were partially offset by our restructuring program and cost optimization plans announced last quarter.
+
+Adjusted EBITDA for the third quarter of 2024 was a profit of $432,000, an improvement of $3.2 million compared to the third quarter of 2023 and a $3.4 million sequential improvement compared to the second quarter of 2024. This is an inflection point for the company and marks the first full quarter of positive adjusted EBITDA since the company IPO in October of 2021. We believe it's also a strong indicator that we are quickly delivering on our stated priorities to drive improved operating leverage.
+
+Now, turning to our cash flow and liquidity. Free cash flow for the third quarter of 2024 was a use of $6.3 million, marking a 69.5% improvement compared to a use of $20.7 million in the third quarter of 2023. Sequentially, free cash flow improved 54.7% compared to $13.7 million in the second quarter of 2024. The step up was driven by the [ph] company ability (00:16:12) to drive strong earning improvement, optimized kit and instrument CapEx deployment, and reduced net working capital.
+
+Taking a closer look at our net working capital, since it's a major driver of our free cash flow, we have seen solid improvements. Starting with our days sales outstanding, we ended the third quarter at 52 days compared to 58 days in the third quarter of 2023. Looking at days payable outstanding, we ended the third quarter at 118 days compared to 210 days in the third quarter of 2023. Lastly, on days inventory outstanding, we ended the third quarter at 545 days of net inventory compared to 683 days in the third quarter of 2023.
+
+We ended the third quarter of 2024 with $89.1 million of total liquidity, consisting of $39.1 million of cash on the balance sheet and $50 million available through our credit facility. At this time, we are comfortable with our existing capital structure and have enough cash on the balance sheet to fund the operations. The sizable improvement across operating expense and working capital add to our conviction and demonstrate our ability to balance strong growth, while also managing our cost and cash position effectively under our current capital structure.
+
+Now, turning to revenue guidance and future outlook. We are increasing our net revenue guidance and now expect net revenue for the full year of 2024 ranging from $252 million to $256 million, representing reported growth of 16.5% to 18.3% at current foreign exchange rates. Furthermore, we expect continued focus on operational excellence to deliver improved earnings and free cash flow sequentially in the fourth quarter.
+
+Looking ahead at 2025, we have the track record to outpace the broader foot and ankle market growth. We'll be coming off a year with several significant product launches and remain highly confident in our commercial strategy. And as we have demonstrated in the third quarter, we are taking the necessary step to optimize all aspects of the company: to improve operations, manage costs and preserve cash.
+
+Last quarter, we communicated two major operational priorities to be adjusted EBITDA positive in 2025 and free cash flow positive in 2026. As you saw from our Q3 performance, we are executing well and ahead of schedule to deliver on those priorities. Considering our ability to execute against our strategy, we are comfortable with our current capital structure, including our cash balance, and do not see an operational need for incremental dilutive capital to achieve our goals.
+
+We will now start our Q&A session. Operator, may we have the first question, please?
+
+Question And Answer Section
+Operator
+Absolutely, Chadi. [Operator Instructions] We have Matthew O'Brien with Piper Sandler on the line. Please go ahead.
+
+Phillip Dantoin
+Analyst, Piper Sandler & Co.
+Hey. This is Phil on for Matt. Thanks for taking our questions and congrats on the quarter. For starters, guidance for the year was taken up by a bit more than the beat today, especially the low end. Curious to hear your thoughts on how the foot and ankle market fared in Q3? Was there still softness that you called out on the Q2 call, and how do you expect this trend to continue into Q4?
+
+Albert DaCosta
+Chairman, Chief Executive Officer & Co-Founder, Paragon 28, Inc.
+You got it. Thanks for the question, Phil. This is Albert. For starters, I think some of the other companies were characterizing that as softness, I think we called it a little bit more choppiness. And the reason being just always wasn't really confined to a product segment or any particular region. It was more of a week-to-week fluctuation. I'm happy to say that, that mostly abated at the end of Q3 and some of the momentum going into Q4 has us optimistic that that's behind us.
+
+Phillip Dantoin
+Analyst, Piper Sandler & Co.
+That's helpful. And I guess, just level setting up for 2025 and I understand you probably won't say much here, but is your expectation for the foot and ankle market to have more normalized growth, call it, the historic 7% and then, given all these products, 13% year-to-date, is your belief still that Paragon can grow somewhere in the 2 to 3 times the rest of this market?
+
+Albert DaCosta
+Chairman, Chief Executive Officer & Co-Founder, Paragon 28, Inc.
+Yeah. That's a great question. So, one, I want to just remind you, the foot and ankle market for one is really exciting just because there's still really high complication rates. And for a company like Paragon, that's really positioned with innovative technology to meet those needs, it positions us perfectly. So I'm really optimistic that this market still has a lot of runway for growth.
+
+2025, I think, is going to have some nice energy around it, coupled with one of the most exciting years for product launches for us. 2024, yes, I should say, historically, Paragon 28's had a really nice year-to-year trajectory of product introductions. This year was monumental. We launched 13 so far year-to-date meaningful product introductions that I think it's carried a lot of excitement in 2024, but even more so is going to be a real nice driver momentum for us in 2025 and beyond.
+
+So, really excited about 2025. We'll be commenting on 2025 at our Q4 earnings call in February. We'll be offering a little bit more information on the year. But as far as your question goes, I think 2025 is going to be an exciting year.
+
+Phillip Dantoin
+Analyst, Piper Sandler & Co.
+Thanks so much.
+
+Albert DaCosta
+Chairman, Chief Executive Officer & Co-Founder, Paragon 28, Inc.
+You got it.
+
+Operator
+Thanks. We now have the next question from Caitlin Cronin with Canaccord. Please go ahead.
+
+Caitlin Cronin
+Analyst, Canaccord Genuity LLC
+Hey. Thanks so much for taking the questions and congrats on a great quarter. So you talked about Q4 being where you will see the full effect of your restructuring program. Any more color you can provide for where you expect the rest of these cost savings? And do you still expect kind of the $8 million in annualized OpEx savings on the whole in the second half?
+
+Chadi Chahine
+Chief Financial Officer & Executive Vice President-Supply Chain Operations, Paragon 28, Inc.
+Thank you, Caitlin. This is Chadi. Really the way I would like you to look at this is, we had somewhat a one-time non-recurring restructuring program that we've announced where it was a reduction in force and we announced it in August. The purpose of this was to right-size the organization and streamline our processes, and this is largely complete. And this is what we've spoken about when we spoke about the $8 million savings on an annualized basis. We expect most of this to happen from a phasing point of view in Q4 and some of it will be completed in 2025.
+
+Having said that, there is another portion that is the overall cost optimization. And this is something that, that I'm driving to make sure that our investments are in the right areas, serving our surgeon customers and our patients. And that is an ongoing effort starting and I can share with you with a zero-based budgeting for our operating plan to make sure that we allocate our funds in the areas that drive surgeon – supporting surgeon customers and patients.
+
+Caitlin Cronin
+Analyst, Canaccord Genuity LLC
+That's great. Thanks so much. And you also talked last quarter about your expectations to achieve EBITDA positivity in 2025 and talked to it this quarter as well. And having hit that on a quarterly basis this quarter and expectations for the Q4, can you talk about the cadence of just the quarterly EBITDA positivity going forward in 2025?
+
+Chadi Chahine
+Chief Financial Officer & Executive Vice President-Supply Chain Operations, Paragon 28, Inc.
+Sure. So let's speak about 2024 first. Really we are very happy with what we delivered in Q3 and expect this to be incrementally better in Q4. In regards to 2025, as you know, our market is seasonal and we tend to have a lot of our expenses happening in the first half of the year versus second half. Having said that, the actions that we are taking to be EBITDA positive are well in place and ongoing, and I expect really a significant improvement year-on-year when it comes to EBITDA deliverables in 2025 versus 2024.
+
+Caitlin Cronin
+Analyst, Canaccord Genuity LLC
+Awesome. Thanks so much.
+
+Albert DaCosta
+Chairman, Chief Executive Officer & Co-Founder, Paragon 28, Inc.
+Thank you, Caitlin.
+
+Chadi Chahine
+Chief Financial Officer & Executive Vice President-Supply Chain Operations, Paragon 28, Inc.
+Thank you.
+
+Operator
+We now have Mike Matson with Needham & Co. on the line.
+
+Mike Matson
+Analyst, Needham & Co. LLC
+Yeah. Thanks for taking my questions. I guess, first, just given all of the new products that you did launch in 2024, how should we think about how the impact of those carries through into 2025? And I would imagine that you still get a pretty big benefit, particularly from the ones that were launched maybe more in the second half of 2024. Is that a reasonable assumption?
+
+Albert DaCosta
+Chairman, Chief Executive Officer & Co-Founder, Paragon 28, Inc.
+Yeah. I thanks for the question, Craig. The product launches typically have about a six month to a year ramp-up period. It takes a little while for our sales reps to get acquainted with the technology and our surgeons to become familiar with it. And it also takes a little bit of time to get the hospitals open to bring in some of that new technology. And so, generally speaking, we see about a year lag in the real ramp-up phase. This year, in particular, we've been pretty excited it's over-performed our expectations, some of the products we've launched, the ones in Q1, but also the ones in Q2 and even Q3.
+
+In October, we launched the Fibula Nail and we launched the Short Stem Tibia component, which is a complement to our total ankle franchise and really a critical piece for patients with more severe deformities. Those products are off to an incredible start beyond our expectations.
+
+So, to answer your question, yeah, we'd expect to see some real boost in the energy going into 2025 more so maybe for the ones in the second half of the year. But this year has been, like I mentioned before, has been pretty monumental for products. So we're excited about what that means for 2025.
+
+Mike Matson
+Analyst, Needham & Co. LLC
+Okay. Got it. Thanks. And then just one on the balance sheet. So it was good to see that the inventory came down as much as it did the inventory days. But it's still pretty high, I guess, by orthopedic industry standards. So, what are you doing to get that down to more normal levels? And I guess, what is a normal level or appropriate level for Paragon? And it seems like most orthopedics companies are kind of in the one-year range, but I don't know, 365 days, I don't know if that's right or not, but.
+
+Chadi Chahine
+Chief Financial Officer & Executive Vice President-Supply Chain Operations, Paragon 28, Inc.
+Thank you for the question. We're really very happy about what the team has done in relatively short period of time in reducing our inventory levels. This is not an easy nut to crack and it's going to take time because we are a growth company and we need to invest in our capital deployment. But where we can be smart is how we deploy and efficiency in deployment.
+
+All I can say at this point in time is I'm laser focused on reducing our inventory over time and I expect this to be a continuing effort year-on-year and quarter-on-quarter. Notwithstanding that, there could be some seasonality in that inventory reduction. But the focus is there. And as you mentioned, the orthopedic, I would caution you as usually we are much more on the trauma side of orthopedic than on the high joints and that is much less predictive. And, therefore, we need more inventory in the field to manage it. Having said that, we are absolutely right and I agree with you that there is room for improvement and [ph] we're going to continue (00:30:03) to improve our inventory levels for the rest of 2024 and going into 2025 and beyond.
+
+Mike Matson
+Analyst, Needham & Co. LLC
+Okay. Got it. Thanks.
+
+Operator
+Thank you, Mike. We now have David Turkaly with Citizens JMP. Your line is open.
+
+David Turkaly
+Analyst, Citizens JMP Securities LLC
+I'd say go Gators, Albert, but it's a tough one. I think you guys mentioned a 4% increase in rep productivity in the quarter. And I just wonder if you might give us any color as to like what is driving that.
+
+Albert DaCosta
+Chairman, Chief Executive Officer & Co-Founder, Paragon 28, Inc.
+Yeah. Thanks. And we'll talk about the Gators maybe after hours, but we've actually had a really promising year in terms of bringing new reps on board and the timing of that's been pretty excellent with some of the product launches we've had this year. And so I think what you're seeing is we're expanding the base of producing sales reps, while at the same time, we're really penetrating some of our existing accounts with some of this new technology. So it's been a great year. Usually, when you add reps to that producing base, they come in at a lower level, so you see some fluctuations in productivity. This year, again, just highlighting the product launches and some of the excitement around that, it's been a pretty exciting year for both bringing on new reps and to seeing that productivity increase.
+
+David Turkaly
+Analyst, Citizens JMP Securities LLC
+And then as a follow-up, you mentioned the Short Stem Tibia. I'm just curious, what percent of that market do you think has a complex anatomy and could you maybe even talk about the competitive landscape there. Do other people have that as well? Thank you.
+
+Albert DaCosta
+Chairman, Chief Executive Officer & Co-Founder, Paragon 28, Inc.
+Yeah. That's a great question. One thing I'll point out is, I've made this comment before that I think the total ankle franchise is one that's going to grow for the foreseeable future. And when I say grow, it means we're going to keep considering more and more deformities in our optionality that we're building into the system. This is one of those options. So for patients that might present with more tilt in their ankle, more varus/valgus deformity, they tend to have more soft tissue instability. And those patients we look for augmenting that with a little bit more stability in the tibia in particular. And so that's what we're calling out with the Short Stem Tibia.
+
+We're really careful not to call it a revision component because some of these patients are presenting as primary patients for their total ankle. And so it's just more of a complex consideration, but really helpful in our entire ankle franchise. So I can't break down the volume of patients that are presenting with that. And some of this is surgeon preference. Some surgeons just like to see a little bit more fixation in the tibia. And this is an implant that I think is just going to keep complementing that franchise.
+
+And by the way, sorry, one more thing there. We're also coupling with that the 90-degree drill, which is – it's game changing, in our opinion. This is now an instrument that can really improve the precision with that short stem and even our existing primary component to get that installed into patients with either harder bone or just difficult to access environment.
+
+David Turkaly
+Analyst, Citizens JMP Securities LLC
+Great.
+
+Operator
+Thank you.
+
+Albert DaCosta
+Chairman, Chief Executive Officer & Co-Founder, Paragon 28, Inc.
+You got it.
+
+Operator
+We have a question from Craig Bijou with Bank of America on the line. Please go ahead.
+
+Craig William Bijou
+Analyst, BofA Securities, Inc.
+Good afternoon, guys. Thanks for taking the questions. I've been hopping around calls. So I apologize if you guys have already touched on this, but Albert, I guess, I wanted to ask. I know I try it every quarter, but just in terms of your segments or the segments in foot and ankle market, if any, stood out more than others and I ask maybe ask again this quarter just because there had been comments this year of some of the segments having some more pressure than others from some of the other players in the space. So just wanted to get your sense for – or get a sense for your portfolio and how that's performed. And then, if you're seeing any pressure in any one of the segments within the market growth.
+
+Albert DaCosta
+Chairman, Chief Executive Officer & Co-Founder, Paragon 28, Inc.
+Yeah. Thanks for the question, Craig. And I know you're bouncing around, so we really appreciate you jumping on the call. So, to start maybe, this is an area for us to do what we would call a humblebrag, right? And that's – our business model has been really focused on the entire foot and ankle environment. So all five sub-segments really matter to us and we feel like addressing those means a lot to our foot and ankle surgeons. But it also means we're creating a more diverse business and that diversity really helps us when there's fluctuations in the market.
+
+This year, in particular, has been a little bit unusual for us to try to rationalize what we're hearing in the space because of the energy around some of our product launches. For example, this has been a pretty strong year for us in launching both forefoot procedures, so we've launched a lot in the distal MIS environment for bunion correction. We've launched a power console there. We also launched our SMART28 Bun-Yo-Matic module, which has had a lot of excitement. And so, in one sense, I feel like we're growing through any sensation in the market.
+
+The choppiness for us wasn't – we couldn't characterize it by any one particular segment. It was more of a week-to-week fluctuation. And we were growing. Our fracture franchise also had a lot of excitement. We launched a couple of key products around soft tissue repair, particularly related to ankle fractures, game-changing technology, and the R3FLEX and the R3INFORCE products there. They were pushing a lot of energy there. And then, even more recently, we launched the Fibula Nail, which has had an incredible reception.
+
+So the short way of saying we've heard some of our competitors talking about softness in the market. We've looked carefully. We feel like we've grown through that. We also feel like our business model position focused in foot and ankle, but spread across all of foot and ankle has really helped us to weather any of those types of headwinds.
+
+Craig William Bijou
+Analyst, BofA Securities, Inc.
+Got it. Thanks, Albert. And maybe I'll touch on free cash flow as well. Obviously, you saw a big improvement this quarter. It was a focus of your initiatives on cost control. So, I guess, the question is, maybe big picture, how to think about what you're doing from a free cash flow perspective, what you're going to do going forward, and I guess, also the ability to ensure that you can maintain the top line revenue growth, while still managing the free cash flow – managing your spend? So maybe just a little bit of perspective on how to think about that for obviously Q4, but then even as we look forward for the next couple of years.
+
+Chadi Chahine
+Chief Financial Officer & Executive Vice President-Supply Chain Operations, Paragon 28, Inc.
+Sure. Craig, thank you. Thank you for your question. I think great question because this is not about the P&L or about cost, and this is about the company. And Albert, in the last quarter, really set the tone in highlighting the key operational priorities that are being EBITDA positive in 2025 and cash flow positive in 2026. And as you saw from my prepared remarks, we are not only delivering on these priorities, but really very happy to report that we are exceeding these deliverables starting with Q3. And this is not only about cost containment. This is really cost optimization. This is rightsizing the organization. But this is also looking at the balance sheet, looking at our inventory, and putting actions in place and owners to make sure that we also right-size the inventory over time.
+
+In addition, looking at our receivable, make sure that we are collecting on time, make sure that we are also a partner to our suppliers and we pay them on time. So this is really about our DNA going forward that we want to make sure that while capitalizing on the growth prospect of Paragon 28 and Albert rightly discussed the market, the company, we also are able and we proved that in Q3 that we are able to grow at 2 times and 3 times the market, while delivering EBITDA positivity and improving our cash position. And I expect this to continue, especially when you compare year-on-year in the rest of 2024 and 2025 and beyond.
+
+Craig William Bijou
+Analyst, BofA Securities, Inc.
+Thanks for taking the questions.
+
+Albert DaCosta
+Chairman, Chief Executive Officer & Co-Founder, Paragon 28, Inc.
+Of course. Thank you.
+
+Chadi Chahine
+Chief Financial Officer & Executive Vice President-Supply Chain Operations, Paragon 28, Inc.
+Thank you, Craig.
+
+Operator
+Thank you, Craig. [Operator Instructions] And your next question comes from Brandon Vazquez with William Blair. Your line is open.
+
+Brandon Vazquez
+Analyst, William Blair & Co. LLC
+Hey, everyone. Thanks for taking the question. Albert, maybe just for you to start, we're a couple of months into the launch of SMART28. That's, of course, been a big focus for you for a long time here. Can you just talk a little bit about how the first cases are going? What are you excited about? What's kind of the future going on there and any updates we can expect from SMART28 going into 2025?
+
+Albert DaCosta
+Chairman, Chief Executive Officer & Co-Founder, Paragon 28, Inc.
+Yeah. Look – thank you, Brandon, for that question. I'm really happy that you brought it. We spent a lot of time on the last earnings call talking about some of the technology. So we really wanted to focus on the financial performance. But I'm sitting here trembling because [ph] I really want to talk (00:41:07) about the success of some of these products in particular. Look, I think one of the best ways to characterize SMART28 so far, that first module is once you see what you see with that, it's hard to go back, right? The ability to really, on a fine scale, understand the deformity better, what these patients are truly presented with, what the combination of deformities are, and then mapping out a solution that's really patient specific, we're really mapping out a solution based on how exactly that patient is presenting.
+
+And when a surgeon sees that valuable information and we're able to recreate that in the operating room, I think it's really hard to go back. And at least, that's the feedback that we've gotten. One of our surgeons described it best. He's a surgeon out of Utah. He said, it's like flying a plane at night, right? You're flying that plane instrumented. And that's how he sees the value of SMART28 now. He's in the operating room and some of the tools that we use in the operating room, in particular fluoroscopy, is a very imperfect science. So, depending on the position of the foot and the position of that C-Arm, it could really just show us a distorted view of what that patient really is presenting there. This gives us the ability to not rely on that imperfect imaging to correct these patients, but to use that imaging only to confirm that we've corrected these patients.
+
+So it's a really, really comforting perspective that he used. And I was excited that he said that because I hadn't thought about it that way. But it's so far, the short way of answering that, Brandon, is the response has been really strong. This is a new way of thinking about, in particular, forefoot procedures. And it happens to be a really, really three dimensionally complex environment for surgeons replicate in the operating room. And we're happy that we can improve that.
+
+Brandon Vazquez
+Analyst, William Blair & Co. LLC
+Great. And maybe since...
+
+Albert DaCosta
+Chairman, Chief Executive Officer & Co-Founder, Paragon 28, Inc.
+You got it.
+
+Brandon Vazquez
+Analyst, William Blair & Co. LLC
+...on your note that you mentioned, we're talking a little bit more finance maybe, Chadi, for you, as you look at gross margins, I appreciate the comments you gave in your prepared remarks that you have line of sight to improvement. Can you just talk a little bit about what are kind of the milestones you need here to kind of get back up to 80%-plus gross margin and how does that progress over the next several quarters as we think about 2025 and 2026 for updating our models? Thanks.
+
+Chadi Chahine
+Chief Financial Officer & Executive Vice President-Supply Chain Operations, Paragon 28, Inc.
+Yes. Thank you. Thank you, Brandon. Really, we – since last quarter, we moved away from the 80%. The way I'm looking at our business and all the priorities of EBITDA positivity and cash flow positivity I assume this is we have a somewhat a floor of around 75% that we expect to improve from as we move into 2025. Now, the level of incremental, we will be talking about this in February for 2025, but really we're moving away from the 80%. And I would like us to focus on where we are today. And the actions that we are taking are across the board, negotiation with our supplier to reduce our cost of purchase of inventory. And however, this is going to take time to flush through the P&L.
+
+We are looking at our freight expense and looking to reduce it and stabilize it. We're looking at our inventory adjustments. We've highlighted some inventory – significant inventory adjustments in prior period and we're aiming to reduce that. And the way we reduce it is by reducing our inventory and buying what we need and having that product where we need it. So these are the actions that we are taking, but this is going to be a continued effort to improve on our margin over time. But this is not going to be overnight.
+
+Matthew Brinckman
+Senior Vice President-Strategy & Investor Relations, Paragon 28, Inc.
+All right. If there's no further questions, operator, I will go ahead and wrap things up here. So, thanks, everybody, for your time today. Really appreciate you jumping on here. If you have any further questions, please reach out. Otherwise, we look forward to seeing many of you at our future investor conferences coming up. That concludes our call. Have a great day.
+
+Albert DaCosta
+Chairman, Chief Executive Officer & Co-Founder, Paragon 28, Inc.
+Thank you.
+
+Chadi Chahine
+Chief Financial Officer & Executive Vice President-Supply Chain Operations, Paragon 28, Inc.
+Thank you.

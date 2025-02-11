@@ -1,0 +1,307 @@
+Thank you, operator and thank you to everyone joining us today. I'm Greg Crawford, Chairman and CEO of Quipt Home Medical. I'm pleased to have Hardik Mehta, our Chief Financial Officer; and Tom Roehrig, our Chief Accounting Officer also joining me today.
+
+Quipt Home Medical is a diversified healthcare services company delivering a comprehensive range of home medical equipment and services to patients across the United States. Our commitment is to clinical excellence, powered by a patient-centric model and advanced technology-enabled solutions. These, combined with our specialized respiratory programs, allow us to effectively meet patient needs in the comfort of their own homes. At present, Quipt has expanded to over 135 locations across 26 states, with over 314,000 active patients, which has enabled us to strengthen our coast-to-coast reach.
+
+Our go-to-market strategy is anchored in delivering an end-to-end respiratory care solution, supported by a diverse portfolio of durable medical equipment offerings. By operating as a one-stop solution for patients and healthcare providers, we've built a scalable model designed to meet the complex and evolving needs of the DME ecosystems.
+
+Respiratory care represents approximately 80% of our product mix, highlighting our commitment to serving the patients with pulmonary and cardiovascular conditions. This focus aligns with powerful macro trends, including the aging population, the increased prevalence of COPD and the significant untapped potential in the sleep apnea market. These factors, combined with our expertise and scale, position us to meet the rising demand for high quality in-home respiratory care solutions.
+
+On today's call, we will review our fiscal fourth quarter and full year 2024 results, as well as provide insights into emerging demand trends, operational highlights and the strategic initiatives shaping our growth trajectory into fiscal 2025. For fiscal 2024, we achieved record revenue of $245.9 million, representing 16% year-over-year growth, alongside a consistent adjusted EBITDA margin of 23.5%, leading to adjusted EBITDA of $57.9 million, an increase of 14% over last year. In real time, we are experiencing consistent demand across all major product categories with notable gains in our primary sales channels. We are pleased with the progress achieved in fiscal fourth quarter, particularly as we continue to navigate through several unique industry wide challenges.
+
+In Q4, we returned to positive sequential organic growth of 1%, a meaningful improvement that reflects the resilience of our business. As discussed on previous conference calls, we have officially transitioned from IFRS to GAAP reporting standards, aligning us with our US peers. As part of this change, bad debt expense is now reported within the revenue line, which inherently reduces the reported revenue figures. It's important to emphasize that this adjustment represents a change in presentation and does not represent a sudden loss of revenue. Bad debt expense has always previously been reported as a separate line item, and this adjustment simply reflects its inclusion within the revenue under GAAP.
+
+As mentioned, we returned to positive sequential revenue growth. Year-over-year organic growth was approximately 3%. Real-time strength in referral activity across our product offerings has us well-positioned to achieve sustained, consistent organic growth in calendar 2025.
+
+Turning to our sleep business, we are pleased to report that GLP-1 medications continue to have no negative impact on demand. Referral activity for new device setups remain steady while replacement supply volumes have been strong. Recent real-world data shared by a leading sleep device manufacturer involving 989,000 patients underscores the positive effects of GLP-1 on treatment adherence. The study found that individuals with an obstructive sleep apnea, OSA diagnosis, who were prescribed the GLP-1 were 10.8% more likely to start CPAP therapy compared to those not on GLP-1s.
+
+Additionally, these patients exhibited higher resupply order rates over both 12 and 24-month periods. We believe GLP-1 medications will serve as a long-term tailwind for our sleep business, introducing more motivated patients into the healthcare system as they focus on improving their overall health.
+
+Moving to the ongoing civil investigative demand known as the CID, we continue working diligently to resolve this matter as quickly as possible. I want to again make the point that the government has not determined that any wrongdoing has occurred at this time. We remain committed to transparency and will provide updates as appropriate.
+
+As it relates to the regulatory environment, late last week, the Centers for Medicare and Medicaid Services announced positive CPI adjustments for 2025 fee schedules, ranging from 2.4% to 3%, depending on the item and the location. Competitive bidding program items in former competitive bidding areas will see a 2.9% increase, while competitive bidding program items in non-CBA areas will receive a 3% increase. In rural areas, the 50/50 blended rate will continue with the 3% increase applied to the adjusted portion of the rate. This positive CPI adjustment will provide further support to our organic growth objectives for calendar 2025.
+
+During fiscal Q4, we prioritized creating additional efficiencies within our core operations, ensuring our organic growth ambitions for calendar 2025 are met. As we emerge from the industrywide challenges faced in 2024, we are actively exploring opportunities to allocate capital for further growth and value creation. As we head into calendar year 2025, we expect to see a return to our historical organic growth rate.
+
+Moving to the M&A landscape, it remains highly dynamic with numerous opportunities aligning with our disciplined acquisition criteria. Our pipeline is expanding and we remain focused on executing synergistic acquisitions at attractive multiples to enhance our scale.
+
+We are managing our debt conservatively with net leverage at 1.6 times, which gives us the flexibility to invest in strategic initiatives. As we move forward, we are confident in our ability to deliver exceptional patient care, strengthen relationships with payors, and execute a disciplined, scalable growth strategy. Through these efforts, we are well-positioned to drive consistent long-term value for our shareholders.
+
+With that commentary, I'd like to hand the call over to Hardik to discuss our fiscal fourth quarter and full year 2024 financial results.
+
+Hardik Mehta
+Chief Financial Officer, Quipt Home Medical Corp.
+Thanks, Greg. On Monday evening, we announced our fiscal fourth quarter and full year 2024 financial results representing the 3 months and 12 months ended September 30, 2024. Please note that all financial values are in US dollars and are now reported under GAAP accounting principles, with the comparison periods also reported in GAAP for consistency.
+
+Here are some key highlights. Respiratory resupply set-ups and deliveries increased to 480,000 for the year ended September 30, 2024, compared to 396,000 for the year ended September 30, 2023, reflecting a growth of 21% driven by our use of technology and centralized intake processes. The customer base grew 10% year-over-year, serving 314,000 unique patients in fiscal year 2024, compared to 286,000 unique patients in fiscal year 2023. We completed 854,000 unique set-ups/deliveries in fiscal year 2024, an increase of 13% from 754,000 unique set-ups/deliveries in fiscal year 2023.
+
+Revenue for fiscal year 2024 was $245.9 million, compared to $211.7 million in fiscal year 2023, representing a 16.2% year-over-year increase. Approximately $7.1 million or 3% was driven by organic growth. As part of GAAP, revenue is now inclusive of our bad debt expense. This change does not represent a sudden loss in revenue, but a different way of presenting bad debt in our financials. It's important to emphasize that bad debt expense has always existed and been reported separately from revenue. The difference now is its inclusion within revenue figure under GAAP. All comparison periods reflect this change.
+
+Recurring revenue remained strong, exceeding 78% of total revenue in fiscal year 2024. Adjusted EBITDA for fiscal year 2024 was $57.9 million, with a 23.5% margin compared to $50.6 million and a 23.9% margin in fiscal year 2023. It represents a 14% increase year-over-year. For fiscal Q4 2024, revenue was $61.3 million, up 3% from $59.6 million in fiscal Q4 2023. We returned to positive sequential organic growth of 1%.
+
+Adjusted EBITDA for fiscal Q4 2024 was $13.4 million, reflecting a 21.8% margin compared to $14.7 million at 24.6% margin in fiscal Q4 2023. This represents an 8.8% decrease year-over-year.
+
+Cash flow from continuing operations was $35.7 million for the 12 months ended September 30, 2024, compared to $37 million in the prior year. Excluding the impact of these reporting adjustments, Quipt achieved positive sequential revenue growth of 1%, signaling that our underlying business fundamentals are improving. We expect that calendar year 2025, which begins with fiscal Q2 2025, will see a return to our historical organic growth rate.
+
+Operating expenses as a percentage of revenue came in at 49.8% in fiscal year 2024, compared to 48.7%, the corresponding period in 2023. Acquisitions contributed approximately $8.6 million of the increase. Professional fees related to the CID and the loss in foreign private issuer status contributed approximately $3.3 million to the increase in fiscal 2024. For fiscal 2025, we anticipate lower CID professional fees with the objective to find resolution. Medical equipment CapEx also known as rental equipment transfers from inventory during the years ended September 30, 2024 and 2023 was $33,566,000 and $29,279,000.
+
+As of September 30, 2024, the company reported $16.2 million in cash on hand, compared to $14.4 million in cash on hand as of June 30, 2024. The company has total credit availability of $34.7 million, including $13.7 million available on the revolving credit facility and $21 million on the delayed draw term loan facility. We maintain a conservative balance sheet with the net debt to adjusted EBITDA leverage ratio of 1.6x.
+
+Fiscal 2024 marked a year of resilience for our business in the face of multiple industrywide challenges that we observed which negatively impacted our financial performance and prevented us from achieving our target of 8% to 10% annualized organic growth. The pause of the Medicare 75/25 relief as of January 1, 2024, and the withdrawal of Medicare Advantage members due to the capitated agreement engaged with other providers in the industry, impacted revenue by approximately $5 million for the year ended September 30, 2024. Moreover, the estimated impact on collections on accounts receivable from the Change Healthcare cyberattack is estimated at approximately $3 million.
+
+Despite the headwinds, we achieved record breaking results of $245.9 million in revenue and achieved an adjusted EBITDA margin of 23.5%, which reflects our ability to drive operational efficiencies and scale. This results demonstrate the consistency of our performance, even in periods of uncertainty and our ability to adapt to changing market dynamics. Our operating metrics remain strong, supported by consistent demand trends and referral patterns across our diversified product and service mix.
+
+Importantly, the strength in this referral patterns offset the majority of the lost Humana Medicare Advantage patients, highlighting the resilience of our business model. As we transition into calendar 2025, we are optimistic about our ability to sustain this underlying positive trends, supported by strong referral activity and demand for our end-to-end respiratory solutions. Fiscal 2024 showcased the stability and resilience of the business, and we are well-positioned for sustained growth and long-term success.
+
+We expect consistent organic growth in calendar 2025 to return and that it will persist as we continue to drive volume through our organic sales team, the cross-selling of products and continued expansion of the continuum of care in adjusted market. For fiscal 2025, our guidance continues to be for 6% to 8% free cash flow, a non-GAAP measure. The company defines free cash flow as adjusted EBITDA, less capital expenditures, both in cash and those financed with equipment loans and repayments of leases. The company believes free cash flow is a useful supplemental financial measure for it and investors in assessing the company's ability to pay interests, repay the senior credit facility, and pursue business opportunities and investments, including making acquisitions. For fiscal 2024, the company reported $16.2 million, or 6.6% of revenue in free cash flow.
+
+The continued consistency of our revenue base is driven by our highly recurring revenue model, which accounts for more than 51% of our total revenue mix. Our resupply program is a major proponent of this recurring revenue base, as we have significantly scaled, now consist of 172,000 patients as of September 30, 2024. The resupply program represents an amazing growth area for us, extending our patients' lifecycle with us.
+
+Our healthy balance sheet with $50.9 million of liquidity provides ample flexibility to execute both our organic growth initiatives and strategic acquisition pipeline. With the modest net leverage of 1.6 times, we are well-positioned to deploy a balanced mix of debt and cash to scale our business thoughtfully. With the expectation that the cost of capital environment will improve over time, we are confident in our ability to capitalize on strategic opportunities while maintaining financial discipline. The combination of our operational scale, financial strength, and disciplined growth strategy positions us to deliver enhanced value for our shareholders in 2025 and beyond.
+
+As we continue to scale, the inherent operating efficiencies in our model will drive margin enhancement and long-term value creation. Scale is a critical component of our strategy as it enhances our ability to meet increasing demand, deepens our market penetration, and creates durable competitive advantages across our platform. Thank you.
+
+And with that update, I'll turn the call back to Greg.
+
+Gregory J. Crawford
+Chairman & Chief Executive Officer, Quipt Home Medical Corp.
+Thank you, Hardik, for that comprehensive overview of our financial performance and operational highlights. As Hardik outlined, fiscal 2024 was a resilient year for Quipt, and we've entered into fiscal 2025 with regained momentum across our core business in light of the industrywide challenges that we faced. As we think about the opportunities ahead, I want to emphasize how we're positioning Quipt for sustained success by continuing to execute on our growth road map.
+
+Delivering exceptional patient care is the foundation of our strategy. Our focus remains on addressing chronic respiratory conditions such as sleep apnea, COPD, and other pulmonary diseases in ensuring that patients receive high-quality care in the comfort of their homes. As we look to the future, we are constantly exploring ways to expand our reach and serve more patients by entering new markets and performing strategic partnership with payors, referral sources, and other healthcare providers.
+
+Our competitive edge lies in the combination of growing our market share, coast-to-coast footprint we have built, and our robust clinical expertise. These strengths allow us to leverage economies of scale and deliver a seamless, patient-centric experience that meets the rising demand for home-based care solutions.
+
+Looking at our growth road map, driving organic growth is our top priority with the target of returning to historical organic growth levels in 2025. We're leveraging demographic tailwinds such as the aging population and the increasing prevalence of chronic conditions to meet the growing demand for home-based medical solutions. Our expanded sales force is focused on deepening connections with hospitals, networks, physicians, and other referral partners, which is continuing to drive increase in referral activity.
+
+We also continue to make strategic investments in technologies to streamline workflows, reduce inefficiencies, and improve patient outcomes. These tools not only support operational excellence, but also enhance our recurring revenue streams. As it relates to the execution of our growth strategy, we are committed to leveraging technology in every way we can to consistently improve our operational performance. We focus on enhancing our workflow processes, which creates real value and removes friction points.
+
+To this end, we are working to expand our operating scale by making smart synergistic acquisitions in conjunction with our tried and true integration approach, which, since 2018, effectively integrated 19 acquisitions, representing over $150 million of annualized revenue. Our intention is to focus on heavily weighted respiratory businesses, which can be successfully incorporated into our scalable infrastructure. Our overall objective continues to be to increase our payor base and geographic reach into advantageous geographies, with a high prevalence of COPD.
+
+Given our sound fundamentals and our clear goals for calendar 2025, which includes returning to consistent organic growth, we will continue to actively engage with investors on both sides of the border and participate at conferences and roadshows to share our ongoing financial and operating achievements and our long-term growth objectives.
+
+As we look ahead to fiscal 2025, we've remained focused on driving sustainable organic growth, expanding our adjusted EBITDA margins and further strengthening our nationwide healthcare network. Our flexible capital structure and disciplined approach to financial management provide a solid foundation for executing our strategic initiatives while our 1.6 times leverage balance sheet ensures that we have the resources to capitalize on growth opportunities as they arise.
+
+Importantly, we are seeing consistent demand across our product portfolio in real-time during fiscal Q1 2025, reinforcing our confidence in the momentum we are building going into calendar 2025. We are excited about the opportunities ahead and look forward to sharing our fiscal Q1 results with you in February.
+
+In closing, I would like to take this chance to thank the entire Quipt team for their tireless work and our stakeholders for their continued support.
+
+Question And Answer Section
+Operator
+We will now begin the analyst question-and-answer session. [Operator Instructions] Our first question is from Richard Close with Canaccord Genuity. Please go ahead.
+
+Richard Close
+Analyst, Canaccord Genuity LLC
+Yeah, thanks for the questions. You guys called out the headwinds 75/25 expiration Humana capitation agreement. So as I think about those, I think those you'll be lapping in the, I guess, in January. So should we think about the organic growth in here, the December quarter as being somewhat similar to the 1% you just posted in 4Q? And then as the second quarter, third quarter and fourth quarter of fiscal 2025 come, you're more in that 8% to 10% annual range?
+
+Gregory J. Crawford
+Chairman & Chief Executive Officer, Quipt Home Medical Corp.
+Yeah. I think that would be accurate. I think we are seeing that as we go into calendar 2025, we should start – hopefully start seeing organic growth rates that are kind of consistent with what we have been able to deliver in the past.
+
+Richard Close
+Analyst, Canaccord Genuity LLC
+Okay. And then with respect to, I guess, CID and the foreign issuer, the foreign issuer sort of goes away, right. If those two were, I think you said $3 million in costs last fiscal year. What would you expect CID costs to be running this year, in fiscal 2025?
+
+Gregory J. Crawford
+Chairman & Chief Executive Officer, Quipt Home Medical Corp.
+That is extremely difficult for us to handicap. It really comes down to the underlying activity. We believe at this point we have gone through a lot of the questions that have been asked. And we hope that at this point we start trying to see what the resolution is versus all the discovery costs and stuff like that. So having said that, we have no idea what the government is on the other side of it. So it's really hard to project or give an estimate.
+
+Richard Close
+Analyst, Canaccord Genuity LLC
+Okay. And then, Hardik, maybe just on cash from operations, going from the previous reporting now to GAAP reporting, I guess, last year, your cash from operations was like $40.5 million in this 10-K filing. 2023 was $37 million cash. What exactly on the treatment did change there? Can you call that out?
+
+Hardik Mehta
+Chief Financial Officer, Quipt Home Medical Corp.
+Yeah. It's really related to the classification of real estate leases that went from finance to operating. So if you look at, it's literally the exact same dollar amount that the leases from financing activity would change.
+
+Richard Close
+Analyst, Canaccord Genuity LLC
+Okay... [indiscernible]
+
+(00:26:17)
+
+Hardik Mehta
+Chief Financial Officer, Quipt Home Medical Corp.
+...dollar for dollar.
+
+Richard Close
+Analyst, Canaccord Genuity LLC
+Okay, great. And then just, since you're focusing in on organic growth in fiscal 2025, you called that out a couple of times. It doesn't sound like acquisitions are necessarily imminent right now. With free cash flow that you generate in the business, do you expect to pay down some of the credit facility or how are you thinking about that?
+
+Hardik Mehta
+Chief Financial Officer, Quipt Home Medical Corp.
+Yeah, I mean, we will definitely continue to pay down the credit facility as per the schedule. We do – again, while acquisition is not something we necessarily called out, but it's still a part of our strategy and it's still something that we continue to look and evaluate consistently for the right opportunity to come along. That will yield us the returns that we have always strive to achieve. So, I wouldn't call that acquisitions is not part of the strategy or anything like that. It's just – yeah, so that's that. But yeah, we will continue to pay down the debt facility as per the schedule and continue to make sure we make the best decision so that our borrowing cost are as minimal as possible.
+
+Richard Close
+Analyst, Canaccord Genuity LLC
+Okay, I'll jump back in the queue. Thanks.
+
+Hardik Mehta
+Chief Financial Officer, Quipt Home Medical Corp.
+Thanks.
+
+Operator
+Our next question is from Bill Sutherland with The Benchmark Company. Please go ahead.
+
+Bill Sutherland
+Analyst, The Benchmark Co. LLC
+Thanks. Good morning, guys. So, on the M&A question, nothing done in fiscal 2024. What are the factors looking ahead that might make M&A activity more active? Is it cost of capital or – so it seems like there's no shortage of targets.
+
+Gregory J. Crawford
+Chairman & Chief Executive Officer, Quipt Home Medical Corp.
+Yeah, there's certainly no shortage of targets out there. I think for us it will be the right target in the right geography and that for the right price. And we feel pretty confident that we've got some things in the pipeline and that's it, we'll work out for it at some point in calendar 2025.
+
+Hardik Mehta
+Chief Financial Officer, Quipt Home Medical Corp.
+Yeah. 2024 had a lot of other considerations going on in the background which are either, I don't want to say settled, but there's certainly lot more visibility on. CID was the perfect example. So going into 2025, I think we have a better understanding, better visibility, and then the cost of capital was also something that we were watching in the inflationary environment we were now. Now all those things are kind of going in the direction that we were hoping they would. So it just [indiscernible] (00:29:16) there's a lot more visibility to take informed decision.
+
+Bill Sutherland
+Analyst, The Benchmark Co. LLC
+Okay, that's helpful. And then, just one quick number question on fiscal – on the just completed fiscal 4Q. What was the revenue growth when you adjust for the 75/25 and the Humana impact?
+
+Hardik Mehta
+Chief Financial Officer, Quipt Home Medical Corp.
+I'm not sure I completely followed the question as asked.
+
+Bill Sutherland
+Analyst, The Benchmark Co. LLC
+So you had [ph] today (00:29:47) with the year-over-year growth was for fiscal 4Q, but the...
+
+Hardik Mehta
+Chief Financial Officer, Quipt Home Medical Corp.
+About 15%.
+
+Bill Sutherland
+Analyst, The Benchmark Co. LLC
+...the sequential was 1%, I guess.
+
+Hardik Mehta
+Chief Financial Officer, Quipt Home Medical Corp.
+Right.
+
+Bill Sutherland
+Analyst, The Benchmark Co. LLC
+And so if you eliminate the impact of the 75/25 and the Humana capitation impact, what would the growth have been?
+
+Hardik Mehta
+Chief Financial Officer, Quipt Home Medical Corp.
+What would the growth be, should we keep the Humana? Is that what you're asking?
+
+Bill Sutherland
+Analyst, The Benchmark Co. LLC
+If you – year-over-year, you have those two impacts limit your growth or...
+
+Hardik Mehta
+Chief Financial Officer, Quipt Home Medical Corp.
+Right. Right.
+
+Bill Sutherland
+Analyst, The Benchmark Co. LLC
+So I was just kind of curious what the opt-in – because I think I ballparked it, but I'm just wondering if I'm in the right ballpark.
+
+Hardik Mehta
+Chief Financial Officer, Quipt Home Medical Corp.
+Right. So if you – yeah, I think we just called that out that we were approximately about 5-ish million dollars in delta. So if you take that, divide by kind of 4, that would put us another $1 million on top of what we reported in terms of the impact for 75/25 and Humana.
+
+Bill Sutherland
+Analyst, The Benchmark Co. LLC
+So that captures – the $5 million would capture both of those impacts?
+
+Hardik Mehta
+Chief Financial Officer, Quipt Home Medical Corp.
+Yeah.
+
+Bill Sutherland
+Analyst, The Benchmark Co. LLC
+Okay. That's clarification I didn't have. Okay. Appreciate it. Okay. Thanks, everybody.
+
+Gregory J. Crawford
+Chairman & Chief Executive Officer, Quipt Home Medical Corp.
+Thank you.
+
+Hardik Mehta
+Chief Financial Officer, Quipt Home Medical Corp.
+Thank you.
+
+Operator
+The next question is from Julian Hung with Stifel. Please go ahead.
+
+Julian Hung
+Analyst, Stifel Nicolaus Canada, Inc.
+Hi, this is Julian sitting in for Justin today. My first question is just a clarification on the DOJ investigation. Reading the MD&A, from my understanding, the SEC concluded last month that they found no evidence of any wrongdoing, but the investigation overall still hasn't concluded. Is that right?
+
+Gregory J. Crawford
+Chairman & Chief Executive Officer, Quipt Home Medical Corp.
+That is correct. The SEC and that declined in that – in any further investigation. But the DOJ, as it relates in that to the CID, and that is still open.
+
+Julian Hung
+Analyst, Stifel Nicolaus Canada, Inc.
+So like, what else is there left for them to look through or sort through?
+
+Gregory J. Crawford
+Chairman & Chief Executive Officer, Quipt Home Medical Corp.
+Yeah. I mean, at this point, we feel like that the heavy lift is there. We've given them everything, and we're kind of waiting on them to decide whether or not there was any wrongdoing or anything. So we haven't been notified of anything. Once again, we feel pretty strong in that – about our billing practices and everything like that. So we're pretty confident in that, that we end up on the right side of this at some point.
+
+Julian Hung
+Analyst, Stifel Nicolaus Canada, Inc.
+Okay. And then, I believe a couple quarters ago, the company launched the diabetes business. Can you just provide an update on that and how is uptake?
+
+Gregory J. Crawford
+Chairman & Chief Executive Officer, Quipt Home Medical Corp.
+Yes, sure. So that's going along well, and that we're continuing to see growth in that. And in fact, in that – surprises didn't come up in that, maybe earlier or we kind of thought this may come up is that we feel like that's maybe some effect on our margin, because it does have a lower margin in that historically than what our respiratory products have had.
+
+Julian Hung
+Analyst, Stifel Nicolaus Canada, Inc.
+Okay. Thank you so much for taking my questions today.
+
+Gregory J. Crawford
+Chairman & Chief Executive Officer, Quipt Home Medical Corp.
+Sure. Thank you. [Operator Instructions]
+
+Operator
+The next question is from Doug Cooper with Beacon Securities. Please go ahead.
+
+Doug Cooper
+Analyst, Beacon Securities Ltd.
+Hey, good morning, guys. Just had a question on EBITDA margins and I guess the sustainability going forward. So if I adjust your revenue on a quarterly basis to subtract bad debt expenses and just go with the EBITDA that you actually reported in those periods, I got EBITDA margin dropping from 24.5% in Q1 to 24.3% in Q2, 23% in Q3 and now 21.9%. So that gives you your blended for the year of 23.5%. What is your expectations for fiscal 2025 on the margin front?
+
+Gregory J. Crawford
+Chairman & Chief Executive Officer, Quipt Home Medical Corp.
+Yeah, we think for fiscal 2025 and that primarily fiscal 2025 Q2, that there are changes that need to be made in the business and that we're actively in that doing right now, Doug. And frankly, we thought we would grow our way out of the 75/25 and the loss of Humana. So we've carried a lot of additional cost structure through the year that we just weren't able to outgrow. So now we have to make those changes.
+
+Doug Cooper
+Analyst, Beacon Securities Ltd.
+Okay. And then moving on to the resupply business, I have in my notes and I guess this could be wrong that you had 172,000 patients on the resupply program in Q1, and you just said you ended the year at 172,000. So that doesn't look like it's growing at all this year?
+
+Hardik Mehta
+Chief Financial Officer, Quipt Home Medical Corp.
+Yeah. I mean, it's – we wouldn't call it it's not growing. I think – again, it is not growing despite losing some of the patients. So, it's really not that. But also the underlying some of the metrics that we go in our resupply program in terms of how many boxes is going in an order and what's the average size of that box in terms of allowable and stuff like that. So those underlying operating metrics have performed in the right direction throughout the year. So we do see some improvements on that side. Again, while the patient count looks flat, you have to keep in mind that, that was despite of the underlying loss of the patient count.
+
+Doug Cooper
+Analyst, Beacon Securities Ltd.
+Okay. Just in terms of a broader question, you guys returned a bit of growth sequentially, but still looks like underperforming the market, certainly underperforming in some of your peer group. So, what do you need to do to get back to that historical, you just noted 8% to 10% growth? What needs to happen in the business to make that happen? Because obviously you underperformed at 2024?
+
+Gregory J. Crawford
+Chairman & Chief Executive Officer, Quipt Home Medical Corp.
+Yeah, Doug, good question. And then, I mean, we really have to expand – continue to expand our sales team and really make a lot of pushes there and that to bring back that organic growth that we've historically seen. I think another piece of it for us too has been the acquisitions and that we've been able to historically and that buy a lot of these smaller companies and really watch them grow. So that's really helped in that with the organic growth along the way. And I think we didn't make any acquisitions in 2024, that was probably one of the levers there and that that we weren't able to pull, especially on the resupply program because we used to see a really big bump in that kind of post integration on that side.
+
+Doug Cooper
+Analyst, Beacon Securities Ltd.
+But I guess with your stock trading where it is at about 3 times EBITDA, it's got to make M&A quite difficult. What are kind of prices have you seen out there from the M&A perspective?
+
+Hardik Mehta
+Chief Financial Officer, Quipt Home Medical Corp.
+I think the pricing are certainly more favorable than they have been in the past. There are quite a bit of opportunities, I think from – I think less on the smaller side, more on the higher – the larger sized DMEs. There's a lot of hospital based DMEs that are kind of coming out in the market. They have a very different dynamics to it than a straight-up DME. But I think overall, slightly better favorable valuations for sure, maybe slightly lesser competition as well, given some of the other players are also involved in their own stuff. So I mean, as far as the acquisition landscape goes, that's kind of what we are seeing right now.
+
+Doug Cooper
+Analyst, Beacon Securities Ltd.
+Got it. Okay. That's it for me. Thanks.
+
+Gregory J. Crawford
+Chairman & Chief Executive Officer, Quipt Home Medical Corp.
+Thank you.
+
+Operator
+This concludes the question-and-answer session. I'd like to turn the conference back over to Mr. Crawford for any closing remarks.
+
+Gregory J. Crawford
+Chairman & Chief Executive Officer, Quipt Home Medical Corp.
+Thank you, operator. And thank you, all, for your participation today. As always, you can find us on the Web at quipthomemedical.com, where we will be posting a transcript of this call and also our updated investor deck on the site for some of the exciting products and developments discussed on this call. Happy holidays and goodbye.

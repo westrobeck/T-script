@@ -1,0 +1,398 @@
+Thank you, operator. And thank you to everyone who's joining us today on this call. I'm Priyam Shah, Head of Investor Relations at Akoya Biosciences. On the call today, we have Brian McKelligon, Chief Executive Officer; and Johnny Ek, Chief Financial Officer.
+
+Earlier today, Akoya released financial results for the third quarter ended September 30, 2024. A copy of the press release is available on the company's website. Before we begin, I'd like to remind you that management will make statements during this call that include forward-looking statements within the meaning of federal securities laws, which are made pursuant to the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995.
+
+Any statements contained in this call that relate to expectations or predictions of future events, results or performance are forward-looking statements. Actual results may differ materially from those expressed or implied in the forward-looking statements due to a variety of factors. For a list and description of the risks and uncertainties associated with Akoya's business, please refer to the risks identified in our filings with the US Securities and Exchange Commission, including in the Risk Factors section in the 10-Q filed today, November 14, 2024. We urge you to consider these factors, and you should be aware that these statements are considered estimates only and are not a guarantee of future performance.
+
+This conference call contains time-sensitive information and is accurate only as of the live broadcast today, November 14, 2024. Akoya disclaims any intention or obligation, except as required by law, to update or revise any financial projections or forward-looking statements whether because of new information, future events or otherwise. The audio portion of this call will be archived on the Investors section of our website later today under the heading Events.
+
+And with that, I will now turn the call over to Brian.
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+Thank you, Priyam, and good afternoon or evening to everyone. We appreciate you joining us today. During today's conference call, I will provide an overview of our performance in the third quarter, highlight our operational advancements, new products, recent partnerships, and strategic decisions aimed at positioning our company for long-term growth. Following that, Johnny will go into our financials, key trends, and our outlook for the future.
+
+First, let me make some important introductory and thematic comments. Revenue for the third quarter came in below our expectations, largely due to ongoing capital equipment purchase constraints seen across the life sciences tools market. We remain optimistic in the long-term growth outlook of our industry and are actively addressing the temporary challenges the current macro environment imposes. We work to anticipate these challenges throughout the year with our organizational restructuring, which, while difficult and temporarily disruptive, was the right decision and enhanced our readiness to absorb these headwinds.
+
+That said, we expect to see continued pressure on customer spending and now expect full-year revenue in the range of $80 million to $85 million. The midpoint implies a minor step-up in our fourth quarter revenue from this quarter's performance.
+
+2024 has been an incredibly challenging year for Akoya and the life sciences market. Throughout this year, we have built a strong foundation that we believe positions us for long-term success and a return to growth. We implement a more operationally efficient cost structure and a Manufacturing Center of Excellence that is delivering solid and improving margins and a growing list of new reagent product offerings. We continue to advance our companion diagnostic pipeline and believe that it will be a significant contributor to our growth and value in the near-term.
+
+We lead with the largest installed base and supporting publications in the spatial biology market, a market that we believe is a current and future pillar of the life sciences research and diagnostics.
+
+Last week's Society for Immunotherapy of Cancer Conference, or SITC, was a strong point of reference, where spatial biology as a theme was the most prominent we've seen to date.
+
+We are a company solely dedicated to spatial biology. From our founding until the end of 2023, we realized the high growth potential and the benefits of being a leader in this rapidly emerging market and consistently delivered solid top line growth. Because of the improvements in our cost structure and margins, we now have the ability to manage through today's more challenging market environment. We remain confident that Akoya's technologies will continue to be the preferred platform in the spatial biology market, from discovery to diagnostics, supporting a return to top line growth in 2025 and beyond, and we remain committed to achieving our profitability goals.
+
+Let me now walk through our quarterly revenue numbers. We reported top line revenue of $18.8 million in the third quarter, a 25% year-over-year decrease compared to the prior-year period. Much of the top line miss was driven by instruments where total revenue for the quarter was $5.7 million. We placed 35 instruments in the third quarter versus 30 in the first and 51 in the second quarter. As noted, the underperformance and volatility are driven primarily by extended sales cycles and limited capital equipment funding, especially in the North Americas market.
+
+Akoya's total installed base increased to 1,299 instruments, a 15% increase over the prior-year period. Reagent revenue totaled $6.3 million, an 11% increase over the prior-year period. Services and other revenue totaled $6.5 million, a 10% decrease over the prior year, primarily driven by underperformance on our instrument sales.
+
+Gross margin was 62.3%, an improvement on the 60.6% from the prior-year period and is a byproduct of our now fully operational Manufacturing Center of Excellence.
+
+Operating expenses were $20.1 million, a 25% decrease over the prior-year period. Even with a reduced top line, the result is an improvement in our loss from operations year-over-year. Our loss from operations was $8.3 million, a 28% improvement over the $11.6 million in the prior-year period.
+
+We ended the quarter with 251 combined PhenoCycler-Fusions, or PCF, the industry's top-selling spatial proteomics platform for the discovery and translational markets, supporting both high-plex tissue analysis and high-throughput low to mid-plex studies. Our PhenoImager HT systems, or just HT, now total 376. As a clinical-grade system on the path for regulatory approval, the HT is at the forefront of establishing spatial biology as a technology that we believe can truly impact patient care. Akoya continues to lead the market in publication volume, having reached a total of 1,578 publications citing our platform technologies as of the third quarter, a 47% increase from the prior year.
+
+Over the last month, we have announced several important partnership and product introductions. Let me briefly review those. In early October, we announced that the Francis Crick Institute and the Royal Morrison NHS Foundation Trust in the UK announced a large multi-institutional study to better understand why certain patients do or do not respond to cancer immunotherapy and what drives side effects to these drugs. This multimillion-dollar program titled MANIFEST, which stands for Multiomic Analysis of Immunotherapy Features Evidencing Success and Toxicity, has the ambitious goal of identifying all the biomarkers predictive of response to immunotherapies. The initial testing will include 3,000 patients who have already started their treatment and at least 3,000 new patients in breast, bladder, kidney, and skin cancer over the subsequent four years.
+
+We are proud that the PCF and HT were chosen as the spatial proteomics platforms for this large-scale study.
+
+Akoya's platforms were also the leading spatial proteomics solutions, with the PCF as the only ultra-high-plex platform, prominently featured in recent high-impact Nature publications from the [ph] Human Tumor Atlas Network (00:20:08), which trace the origins and evolution of 20 cancers across 2,000 individuals and were highlighted by Eric Topol in his popular media outlet, Ground Truths. This was on the heels of major initiatives such as HuBMAP and the Human Cell Atlas, which have now incorporated spatial profiling and preferentially selected Akoya's platforms to analyze their samples.
+
+Akoya's inclusion in these programs is a strong endorsement, driving visibility, adoption, scientific value, and a meaningful revenue stream for our platforms. Because of the now robust content engine out of our Manufacturing Center of Excellence, we have the ability to rapidly and affordably produce additional high-value content to drive increases in system utilization, reagent revenue, and pull-through.
+
+At last week's SITC meeting, which I previously referenced, Akoya introduced several new reagent product offerings. First, we announced our PhenoCode IO60 Panel. The IO60 Panel is an [ph] immuno-oncology-dedicated (00:21:24) solution, covering 60 key protein biomarkers on a single panel, enabling interrogation of whole tissue samples or multiple tissue samples per slide at scale and high resolution.
+
+With ready-to-use and off-the-shelf panel that is pre-validated and pre-optimized, researchers can quickly begin large-scale discovery and translational projects with little to no setup in panel development time.
+
+At SITC, our partner, Precision for Medicine, an industry-leading, high-volume global contract research organization and an early adopter of the HT, announced that they have now also incorporated the PCF as a spatial proteomics discovery platform of choice and will actively promote the IO60 Panel. Based on the positive feedback from SITC and our customers, we are confident that the IO60 will be a meaningful driver of PCF adoption and utilization.
+
+Second, Akoya unveiled a new 24-plex mouse panel optimized for preclinical immuno-oncology applications to drive translational research and insights in both biopharma and academia.
+
+Lastly, Akoya expanded our PhenoCode catalog of molecular barcodes to enable routine ultra-high-plex 100-biomarker spatial experiments. These additional molecular barcodes will simplify our customers' ability to easily supplement our high-plex panels with their own markers of interest, or more rapidly develop their own high-plex panels. We will continue to strive to make 100-plex routine, fast, and affordable.
+
+Now, moving on from our core research business, let me provide some updates on the transformative clinical business we're building at Akoya. Throughout the year, we announced several significant late-stage clinical development updates and the strong momentum we now have in this emerging business segment.
+
+First, our biopharma partner, Acrivon Therapeutics, had a very promising Phase 2 registrational intent clinical trial update at the European Society of Medical Oncology, or ESMO, in September on the ACR-368 therapy and the accompanying OncoSignature Assay deployed on our HT platform and run out of our CLIA lab. They showed incredibly promising results, and Akoya is increasingly confident that our partnership with Acrivon could yield our first commercially launched companion diagnostic. I would encourage you to watch their September 14 corporate R&D event to get a full update.
+
+Additionally, earlier this year, we also announced our exclusive partnership with NeraCare to enable personalized therapy selection for early-stage melanoma. NeraCare's Immunoprint assay has demonstrated robust clinical performance in identifying early-stage melanoma patients at high risk of relapse through multiple independent prospective and retrospective clinical studies.
+
+This data demonstrates that the Immunoprint high-risk patient group is ideally suited to potentially benefit from therapeutic options that would usually only be administered in later stages. We believe that this would represent a significant expansion of the TAM for current melanoma therapies. Along with opportunities in the antibody drug conjugate market, Immunoprint has been a key driver of our rapidly expanding companion diagnostic partnership pipeline, with our HT system reagents and our CDS capability as key enablers.
+
+Should these partnerships be realized, they have the potential to yield meaningful revenue in the coming years and add significant shareholder value as Akoya realizes our clinical aspirations.
+
+Our priorities remain clear. First, continue to efficiently implement platform improvements and content menu expansion to drive system utilization, adoption, and revenue growth at increasing margin. Second, advance and accelerate our pipeline of clinical trial and companion diagnostic partnerships. Third, drive to meet our profitability goals. And as part of our ongoing commitment to maximize shareholder value, the company is also actively evaluating a range of strategic alternatives to identify the best path forward for sustainable growth, profitability, and long-term success.
+
+With that, I will now turn the call over to Johnny to discuss our financials in more detail. Johnny?
+
+Johnny Ek
+Chief Financial Officer, Akoya Biosciences, Inc.
+Thanks, Brian. As Brian highlighted, total revenue for the third quarter of 2024 was $18.8 million, a 25% year-over-year decrease compared to the prior-year period.
+
+Product revenue, including instruments, reagents, and software, totaled $12.3 million for the third quarter. Instrument revenue totaled $5.7 million as we placed 35 instruments in the field this quarter and a 53% year-over-year decrease compared to the prior-year period. Our industry-leading installed base now totals 1,299 instruments, including 388 PhenoCyclers and 911 PhenoImagers. The PCF, the combination of a PhenoCycler and a Fusion, totals 251 in the field and there are now 376 HTs in the field. We delivered $6.3 million in reagent revenue in the third quarter, an 11% year-over-year increase from $5.7 million in the prior-year period.
+
+Service and other revenue totaled $6.5 million for the third quarter, a 10% year-over-year decrease from $7.2 million reported in the prior-year period. Services include instrument warranty and field service revenue in addition to our lab services. The decrease is primarily due to the underperformance on this year's instrument sale.
+
+Gross margin was 62.3% in the third quarter, compared to 60.6% reported in the prior-year period. This increase in gross margin is the result of leveraging the full capacity of our recent manufacturing investments and executing on our operations' optimization efforts. We expect to continue to expand our gross margin as we drive increases in our reagent revenue mix while realizing these operating efficiencies. Operating expenses were $20.1 million in the third quarter, compared to $26.8 million in the prior-year period, a 25% year-over-year reduction. Loss from operations were $8.3 million in the third quarter, compared to $11.6 million in the prior-year period, a 28% year-over-year decrease.
+
+As Brian noted, we made these cost improvement efforts throughout the year which have enabled us to streamline our operating costs for the balance of this year. We ended the quarter with approximately $39.3 million in cash, cash equivalents, and marketable securities. Common shares outstanding and fully diluted shares, including the impact of outstanding option and unvested restricted stock awards, are 49.5 million shares as of September 30, 2024.
+
+In summary, Akoya has implemented critical operational changes to optimize for short-term challenges while positioning the company for long-term success. Throughout the year, we have successfully proven our ability to enhance efficiency, drive gross margin improvement, and achieve cost advantages.
+
+Given the evolving challenges we've encountered this year, including a constrained end market, we expect revenue for the full-year 2024 to now be in the range of $80 million to $85 million versus a prior range of $96 million to $104 million.
+
+Our expanding margins and gains in operational efficiencies throughout the year has enabled Akoya to drive an improved bottom line with recent top line constraints. Our improved expense profile, coupled with belief in the long-term market opportunity in spatial, provides an opportunity to evaluate a range of strategic alternatives to identify the best path forward for sustainable growth, profitability, long-term success, and to maximize shareholder value.
+
+Back to you, Brian.
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+And thank you, Johnny. We look forward to executing on our strategic and financial objectives throughout the remainder of the year as we drive the business forward. We're thankful for the hard work of our fellow dedicated Akoyans, as well as for the continued support of our customers and shareholders. And at this point, we'll open the call up for questions. Operator?
+
+Question And Answer Section
+Operator
+Thank you. [Operator Instructions] Our first question comes from the line of William Bonello with Craig-Hallum. Your line is open.
+
+William Bonello
+Analyst, Craig-Hallum Capital Group LLC
+Hey, guys. Thanks for taking the call. Johnny, can you give us a sense of, there was no cash flow statement, on what the cash burn in the quarter was and then your expectation for the burn over the next several quarters?
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+That was for you, Johnny, yeah. Sorry, it cut out a little bit. Thank you.
+
+Johnny Ek
+Chief Financial Officer, Akoya Biosciences, Inc.
+Yeah. Sorry. Yeah, so we – while we didn't achieve on the top line, as mentioned, but our ability to drive that gross margin really [ph] what's (00:32:18) allowed us to keep cash from ops, burning cash from ops, sort of in that $8 million to $9 million range for Q3. And we expect it to be meaningfully less in Q4 as we expect margin to continue to expand and be able to realize the full effect of the OpEx reductions that we've put in place. That's assuming sort of a midpoint of the new guide revenue number.
+
+And then, we haven't spoken to out in the 2025, but really what – the way we see it is we've set ourselves up from a cost profile and a margin profile, that as we see revenue start to return to growth in the next year, we'll be able to crest that cash flow breakeven that we've talked about. Likely won't hit it as we exit this year, but we expect to have an adjusted EBITDA that's in the low single-digits and then really start to achieve that cash breakeven going into next year.
+
+William Bonello
+Analyst, Craig-Hallum Capital Group LLC
+Okay. And is there anything meaningful in the quarter you just had or upcoming in terms of capital expenditures?
+
+Johnny Ek
+Chief Financial Officer, Akoya Biosciences, Inc.
+No, the capital expenditures are primarily – for the year are primarily behind us. We spent a bit in Q1 and Q2 really to finalize the buildout of our Center of Excellence. And so, there's not a meaningful CapEx in the back half of the year, not a lot in Q3 and not a lot expected in Q4.
+
+William Bonello
+Analyst, Craig-Hallum Capital Group LLC
+Okay. That's really helpful. And then just, can you remind us, I think your principal payments start to kick in in December of 2025 on maybe a monthly basis? Just size that for us.
+
+Johnny Ek
+Chief Financial Officer, Akoya Biosciences, Inc.
+Yeah, sure. So, we continue to work closely with our lender and recently amended our agreement to push out that interest-only period and rework some of the financial covenants a bit. And so, that IO actually now is in March of 2026. So, pushed it out a quarter for now. And again, we'll continue to work closely with our partners as we look at that debt in the next year.
+
+William Bonello
+Analyst, Craig-Hallum Capital Group LLC
+Okay. And then just the last one and I'll hop back in the queue. You both mentioned you're exploring a range of strategic alternatives. Can you give us a sense of maybe what – if there's anything off the table in those explorations?
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+So, this is Brian. I'll take that. So, maybe just a little bit of context around that to reiterate. So, I think as we look at that statement and put some color around it, as we talked about in the script, we really tried to establish that we – we showed really high growth all the way through the end of 2023. And as Johnny just articulated, the commitments we made to securing the bottom line, even with the top line constraints, really put us in a solid position. And when we think about that, coupled to kind of the robust clinical opportunity, we feel like we've got ourselves in really a solid foundational position, having a belief in the long-term value of the spatial market.
+
+So, in short, no, there's nothing off the table. And as a public company, obviously, we've got a fiduciary responsibility to and always are constantly evaluating these strategic opportunities. And I would say we're also being evaluated and so everyone is. And in this current market environment, that's absolutely heightened. So, to your question again, directly, no, nothing is off the table.
+
+William Bonello
+Analyst, Craig-Hallum Capital Group LLC
+Okay, that's great. Thank you so much.
+
+Operator
+Thank you. Please stand by for our next question. Our next question comes from the line of Mason Carrico with Stephens. Your line is open.
+
+Mason Carrico
+Analyst, Stephens, Inc.
+Hey, guys. Thanks for taking the questions here. Could you guys just talk to, I guess, your level of confidence around reaccelerating the top line next year given the cost adjustments you've made over the next 12 months – or last 12 months? And if things were to improve, what incremental investments do you think would need to be made to stay competitive, fuel the pipeline, and really just continue driving that momentum?
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+Yes. I think as we – thank you, Mason. I think as we look into 2025 kind of on a product line basis, areas where we have confidence and expect growth to continue, I think with the recent reagent introductions really is the first time as a company we've pivoted our instrument sales and our commercial priorities around content. And so, that really is a byproduct of the Manufacturing Center of Excellence, and some of the announcements you saw of the new product introductions of the IO60, of the mouse panels, and more to come. So, we think as we get into 2025, we really become focused on application-driven selling. So, reagent revenue growth with a strong foundational instrument, installed base, and productivity, I think that is area number one where we think growth will continue at strength.
+
+Area number two is we've made incredible progress throughout 2024 to build a really robust clinical trial pipeline. And as we look at the deliverables on that into 2025, that's going to make meaningful contribution to our top line, probably more than historically.
+
+And then as we look at instruments, we'll be, not surprisingly, very conservative and metered, particularly in the first half, kind of having low expectations for growth on top of instruments, even in light of sort of a pretty weak comp. So, I would, Mason, map it out in those – in that order in terms of contribution to top line growth in 2025.
+
+Mason Carrico
+Analyst, Stephens, Inc.
+Okay. That's helpful. And then, Brian, can you talk just a little bit about quarterly trends in instruments this year? I mean, I think Q3 in the revised guide is a fair amount below your expectations in Q2. So, what just changed during that timeframe? Has the competitive environment changed at all or any incremental color you can give us there?
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+Yeah, it's really interesting. And obviously, you try to really be metric-driven. And what we look at across each region on a quarterly basis are sales cycles, it's in-quarter conversion rates. And it's looking that on a region-by-region basis and a quarterly-by-quarterly basis. And what we've seen from Q1 to Q2 to Q3 is an incredible amount of volatility across all of those metrics relative to historical on sales cycle and conversion rates.
+
+So, that is what's driven to really the challenging predictability. And so, what we've tried to do in this quarter is look at the low points of those sales cycles, look at the low points of those conversion rates, and really [ph] baselining (00:39:26) on that. And as you look at the areas where we're seeing the most challenges, in terms of the highest volatility, it's really been primarily in North America and really within the academic environment. So, hopefully, that gives you some color, Mason.
+
+It's not – I wouldn't say it's necessarily competition. I think the macro is the overwhelming driver. That said, we do see additional competition out there from our colleagues at [indiscernible] (00:39:55). But I would say it really is the macro as you look at the volatility of those numbers. And what we're trying to do as we look at Q4 and into 2025 is look at that average across those volatile quarters and baseline off of that.
+
+Mason Carrico
+Analyst, Stephens, Inc.
+Got it. Thank you, guys, for the questions.
+
+Operator
+Thank you. Please stand by for our next question. Our next question comes from the line of Kyle Mikson with Canaccord. Your line is open.
+
+Kyle Mikson
+Analyst, Canaccord Genuity LLC
+Hey, guys. Thanks for the questions. I guess, Brian, you guys have the largest installed base in spatial. Is it possible that you – like, it's so big, you just penetrated so much of this market that it's very difficult to return to growth with the cuts that you've made to the workforce. [ph] A (00:40:43), like, is that playing a factor here as well?
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+No, it's a good question. It's a good point. Have we reached saturation? I just don't – I don't think at all. And I think if you pull the aperture back and just look across peer groups in terms of the challenges in capital equipment, in areas like NGS and others. It's not a saturation question. It's really, really primarily a funding question. So, I think we're far from saturation, Kyle.
+
+Kyle Mikson
+Analyst, Canaccord Genuity LLC
+Okay. Yeah, that's exactly – no, that was the point. [indiscernible] (00:41:23) sounds good. And then just looking at the financials on [indiscernible] (00:41:28) here. So, on consumables, I mean, pull-through looks like that continues to decline quarter-over-quarter, like mid-single-digit decline, if I'm doing the math right. And then, I mean, I guess based on the guidance, if instruments remain flat and then service remains flat quarter-over-quarter, [ph] both needs to (00:41:45) like increase like $10,000, basically, to beat the guidance [indiscernible] (00:41:50). So, what's – what are the bottlenecks there to getting pull-through up so far? Why does that continue to be kind of a thorn in your side despite launch of the new offerings, everything over the years? And what are your expectations for 2025?
+
+And then just a second question I wanted to ask, Brian, is the service line, what's going on there? It seems to be stable after that was a big growth driver in prior years. Thanks.
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+Yeah. I'll let Johnny speak to the service line, but just maybe a portion of that service line are our clinical services. And as we spoke about, I think in Q1, some of that was deferred and you'll see some of that step up in the Q4 number. But with respect to reagents, we calculate the pull-through on a rolling 12-month basis. And so just as you look at, for example, last year's quarterly reagent revenue, it was generally in the mid to high 5s, in terms of million dollars per quarter. And then Q4, we were just under $7 million dollars per quarter. And in Q1 and Q2, we were around $7 million, and a slight step-down here in Q3.
+
+That's a temporary dynamic, Kyle, as we look at how we started Q4, it's a pretty robust start compared to Q3. And I think the underlying dynamics of the slight step-down in Q3 reagent revenue relative to Q2 was really just because of the reagent availability challenges we cycled through in Q1. There was just a little bit of stocking up as we exited out of Q2. But with those trends, we think kick back up into Q4 where we're in the sort of $7 million range, and relative to 2023, we're in the mid-5 range in terms of millions per quarter, that trend, I don't think is declining in terms of pull-through. It's just very – it's volatile along with the other numbers.
+
+Johnny Ek
+Chief Financial Officer, Akoya Biosciences, Inc.
+And, Kyle, just jump in on the services line, as a reminder, that captures the lab services we perform, freight, software, spare parts, warranty for the instruments sold. And so, on every instrument sold, we defer a portion of that sales price and recognize it over the first year of service. And so, as in Q1, for example, we had a lower instrument number, that didn't contribute to that service baseline that then would get recognized through the year. So, it's really a derivative factor of the instrument because the lab services line is as we expected and as Brian mentioned. Early on in Q1 and Q2, I think we mentioned that some of that lab service revenue pushed in the back half and we still see that with an expectation in Q4. So, to Brian's point, a bit of a step-up in that in Q4. It's really a bit lumpy sometimes as we complete some of those service contracts as well. That's what it all is there.
+
+Kyle Mikson
+Analyst, Canaccord Genuity LLC
+Got it. That's interesting. Okay. Thanks, guys. Appreciate it.
+
+Operator
+Thank you. Please standby for our next question. Our next question comes from the line of David Westenberg with Piper. Your line is open.
+
+David Westenberg
+Analyst, Piper Sandler & Co.
+Hey, guys. Yeah. Thank you for taking the question. So, first, just maybe talk about some of the stuff that came and went in Q2, and then maybe as we go into Q3. Did you see any stocking in Q2 because you did have a sequential step-up from Q1 that might have impacted you in Q3? And then just can you talk about expectations for potentially a budget flush? And if you aren't going to see a budget flush, can you maybe to discuss pursuing [ph] maybe rental rate models (00:45:29)? I know that's less effective in things that are outside of clinical diagnostics, but just how would you think about there in Q4?
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+Yeah. So, I think – so, to Kyle's question and yours, we did see some stocking up a little bit as we exited Q1 and into Q2. And I think a large part of that was some of the behaviors that we actually helped drive as we are transitioning from external manufacturing to internal throughout Q1 and we get that direct feedback from our customers. And I think we're through that, David, as we look at the start of Q4 in terms of our sort of first half of Q4 reagent numbers.
+
+And then in terms of on the instrument side, reagent rentals is not something that you see people typically do on the life sciences discoveries and tools markets. It's more often that where you seek sort of external financing for your instrument. That's a more common theme.
+
+David Westenberg
+Analyst, Piper Sandler & Co.
+Got it. Okay. And just can you help us categorize how the sales – what the sales cycle actually looks like or give maybe some color on that? I mean, are you just seeing the customer, they still want it, they're just maybe next month we're going to get some cash? Is it stop in kind of the middle? Is it you had something and then all of a sudden, you see a customer coming around – I mean, sorry, a competitor coming around? If you could maybe just categorize it, I mean, as far as is this just purely extension of length of the sales cycle? Or is there actually kind of some of that dropping out? And then I don't know if you've never in the past given color on kind of book-to-bill, but how that's maybe trending as we – how'd that trend in the quarter?
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+Yeah. So, let me give you some specific metrics. As we look at our sales cycle from, call it, a year ago, it's grown by about 35% in terms of the length of time it's taken from a conversion of an opportunity.
+
+So, that's true across all geographies. That's accelerated a bit. And you're talking, there's error bars here as you think about North America versus EMEA. So, call that kind of a baseline of seven months plus or minus, plus the 35% in terms of the extension of the length of time to convert.
+
+And then the other thing you have [ph] to date there (00:48:04) is the actual conversion rate, which is if you have an opportunity in the quarter, what's the probability that you get that closed? And that's been incredibly volatile, particularly in North America, where the overwhelming variable on those conversion rates has been straight availability of funding, securing that funding, not that it goes elsewhere. So... [indiscernible]
+
+(00:48:25)
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+...the metrics that you look at as you look at the sales cycles and the conversion rates across different geographies. And I think that's directionally probably consistent with some of our peers as well in terms of the trends over the last year.
+
+David Westenberg
+Analyst, Piper Sandler & Co.
+Got it. Okay. And just kind of continuation of Kyle's question on the size of the company. But I actually want to – actually, I'm curious, just because consumables obviously have a better gross margin and you're being very thoughtful with the way you're spending, I mean, is there a – can you talk about how your sales force is structured? And what I mean by this is do you have a farming function and then a hunting function? And is there a way to maybe get a little bit more into the farming function and kind of help up that pull-through? And just thinking about like that in terms of an ability to do profitable, thoughtful growth, with maybe some of that constrained capital and [indiscernible] (00:49:26).
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+Yeah, it's a really insightful question. So, as I talked about our conversion from a company, that selling a instrument into a market and a technical sale of an instrument platform, we are now migrating, and I think so is the market, to an application-driven sale where you have a panel of 60 biomarkers in immuno-oncology and you're targeting those researchers. You have a panel and mouse model, so you're targeting the preclinical groups and pharma. You have a neurobiology panel and you're targeting those customers.
+
+So, right now, to go back to your question and tie that together, our commercial sales team is generally set up on a territory basis. And the farming function that you're talking about, our re-investments into commercial would likely be on something like an inside sales basis where you're identifying all the researchers and PIs across these therapeutic areas and farming that way. So, it's an incredibly cost-effective way to drive to drive pipeline, to qualify leads, and then to hand those off to the territory sales reps. So, that is sort of the underlying structure that's both more economically efficient but also in line with how we're pivoting our kind of strategic commercial approach.
+
+David Westenberg
+Analyst, Piper Sandler & Co.
+Thank you.
+
+Operator
+Thank you. Please stand by for our next question. Our next question comes from the line of Tejas Savant with Morgan Stanley. Your line is open.
+
+Tejas Savant
+Analyst, Morgan Stanley & Co. LLC
+Hey, guys. Thanks for the questions here. Brian, I want to start with a couple of clean-ups in the quarter. Can you just elaborate a little bit on how much of the 3Q shortfall was due to CapEx pressures versus disruption from [indiscernible] (00:51:22)? The press release made it sound like the latter dynamic also played some sort of a role in the shortfall. And then one for Johnny. Can you just remind us how much of a contribution from those milestones that had gotten pushed out earlier in the year you guys expect to come through here in the fourth quarter?
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+Yes. So, to the first part of the question, you're correct that we think the dominant contributor, as we've been discussing, was overwhelmingly just availability of capital. That said, when you do meaningful restructuring, it does present challenges across the org. So, there were certainly pockets of coverage, particularly within the North America territory, that contributed. I would say, I don't want to be – get into false precision, Tejas, but I would just say, as you look at the instrument expectation shortfall, and in part the reagents, because you're selling reagents on a project-driven basis, you're probably talking about maybe 15%, 20% of the contribution was from some of that reorganization, which I think as we get through the remainder of this year, will sort of settle down and solidify.
+
+Tejas Savant
+Analyst, Morgan Stanley & Co. LLC
+Got it.
+
+Johnny Ek
+Chief Financial Officer, Akoya Biosciences, Inc.
+And, Tejas, I'll just – so, jumping in. Yeah. So, a reminder, in that services line is ongoing business in our funnel sort of proof-of-concept type work that we do in our lab in addition to some contracted work that we have pretty good visibility to. So, we had spoken about that contracted work and it's a couple million dollars that will land, we expect to land in Q4 pretty confidently. It's we complete the work and the revenue is in that quarter. So, I would say in the $2 million to $3 million range is what we have.
+
+Tejas Savant
+Analyst, Morgan Stanley & Co. LLC
+Okay. And then, Brian, I think you called out academic weakness, especially in North America. Not sort of to put you on the spot here, but what do you think are sort of implications from the election outcome, especially with the news that RFK may be the nominee for HHS secretary, what does that mean for the NIH budget, do you think, at this stage or staffing levels at the NIH, assuming he gets confirmed?
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+That's a really tough and loaded question. I guess all I can speak to is the existing data that we know. You look at this first month in the NIH budget and it's up, in terms of cash outlays, it's up 21%. But that's typical in a month one. I think as we look back historically, I can't speak to the RFK factor, over Trump's prior term, I think it was a 5% to 6% growth. So, I think that's all we can lay back and bank on right now. I think that's the most I could say.
+
+Tejas Savant
+Analyst, Morgan Stanley & Co. LLC
+Got it. Fair enough. And then, I guess my last question here. It's sort of a two-parter. First of all, I mean, are you running into any sort of issues with customer hesitancy around pulling the trigger on a purchase? They've lived through disruption at NanoString, and Vizgen and Ultivue are now one company. And I'm sure that that created a degree of disruption as well.
+
+So, whenever a company is in the midst of evaluating strategic options and has a relatively limited sort of cash runway situation going on, that can have an impact on how customers feel about tying themselves into that ecosystem. So, that's the first part.
+
+And then the second part really, guys, is, Brian, you've mentioned multiple times today, earlier forums as well, that spatial biology demand is still strong and you do believe it'll come back eventually. But the question is making sure that Akoya is around to see that there, right, either as a standalone entity or as part of another larger [ph] pairing (00:55:28) perhaps. So, any color you can share on how far along are you in that process of evaluating strategic options? And any sense of when we might get to see some resolution on that front?
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+Look, those are those are very important and very fair questions, and I'll take the latter first. I think what we've said today is probably the most that we can signal. But the reason why a company like Akoya signals those is to assure our shareholders, our employees, and our customers that we're confident that we have a path to remove those concerns. I think that's the extent of which I can address that. But you don't put, Tejas, a statement out there lightheartedly. You only do so with confidence. So, that's part one.
+
+Part two, I completely get your statement around disruption. And I think there's a scale there on potential impact. I think when you have something like really hardcore litigation, bankruptcy events, I think those absolutely have material impact. I would say where we are right now as a company, as we look at our historical performance and our opportunities going forward, our current financial position, at least the visibility we have to our customers' decision-making process, that has not been determined. That doesn't mean it's not part of it, but it's not something that's risen to an area of concern. So, I don't think we're at the level of some of the scenarios that our market has faced historically.
+
+Tejas Savant
+Analyst, Morgan Stanley & Co. LLC
+Fair enough. Appreciate the color, Brian.
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+Thank you.
+
+Operator
+Please stand by for our next question. Our next question comes from the line of Subbu Nambi with Guggenheim Securities. Your line is open.
+
+Subbu Nambi
+Analyst, Guggenheim Securities LLC (Research)
+Hey, good evening. Thank you for taking my questions. Your gross margin has improved to what we saw in first half of the year. Is this a function of bringing reagents manufacturing in-house? Is this product mix given placement of the instruments [indiscernible] (00:57:44)? I'm wondering if you've been able to maintain stable ASPs for your instrument, and I ask this in part because there are other companies in the space that have had to discount to place instruments in this challenging macro environment.
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+Yeah, those are great questions. And, Johnny, I think you should probably run with those... [indiscernible]
+
+(00:58:02)
+
+Johnny Ek
+Chief Financial Officer, Akoya Biosciences, Inc.
+Yeah, yeah. [indiscernible] (00:58:04) Yeah. We are continuing to see sort of consistent and stable ASPs. Our ASPs are not something that's moving materially that impact margins, really driven by the realization of all the things we've put in place in Q1. And we hoped and planned for that to happen, and we're seeing the realization. As we bring in-house the manufacturing of these reagents that are consumable, it really does make a difference as we're able to scale internally. Certainly, there's an impact of mix in the current quarter, absolutely. As you have lower instruments, naturally, that'll – and more towards reagents, it'll impact your margin. But that's what we've always sort of anticipated. But on a standalone basis even, we're seeing stable and strong margins on reagents and instruments.
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+I think... [indiscernible]
+
+(00:58:57)
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+...I'm sorry, if you don't mind, one more kind of longer-term view. As we get into 2025 and begin introducing new reagent offerings, coming out of our in-house manufacturing, and being able to control much more tightly what we put on inventory, certainly going to help margins. It's also going to help working capital. And as we're now into 2025, looking to kind of renegotiate our instrument manufacturing supply agreements, that will also give us an opportunity throughout 2025 to also improve the working capital on the instruments, in the face of what we've seen historically here, some of some of the challenges on selling capital. So, I think two additional things to think about as we look longer-term.
+
+Subbu Nambi
+Analyst, Guggenheim Securities LLC (Research)
+Thank you for that color, Brian. So, just [ph] can I play it back to you, so it's okay (00:59:50) – the gross margins are expected to stay at this level heading into 2025. Did I hear that right?
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+Johnny, did you hear that?
+
+Johnny Ek
+Chief Financial Officer, Akoya Biosciences, Inc.
+Sorry, had muted. Yeah, that's what we've always sort of communicated, that we thought we would be in the low-60s sort of exiting the year and then see a couple hundred basis point improvement sort of year-on-year going into the future, driven by the factors that Brian highlighted. So, part of the efforts we took throughout the year in OpEx and in gross margin allow us to have pretty good visibility to margin and OpEx, and ultimately, to bottom line, as we see return to growth on revenue.
+
+Subbu Nambi
+Analyst, Guggenheim Securities LLC (Research)
+Got it. And Brian and Johnny, I hear you on the reagents dynamics that you previously responded to, but where did you see this mainly, from the PhenoCycler franchise or the PhenoImager and – or was it for all of them? I only ask this because if it were a competitive dynamic, is it more focused on PhenoCycler or PhenoImager? That's what I'm getting at.
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+Oh, it was most certainly the PhenoCycler reagents and the antibodies. As people are building out their larger panels, they're trying to ensure during the period where we had non-continuity of supply, they were looking to sort of stock up on the portions of their panels as they were accumulating them. Now, as we sit here today, if an order comes in for 60 antibodies, we're shipping all out in three to five days complete. So, those were the prior dynamics versus the current dynamics today.
+
+Subbu Nambi
+Analyst, Guggenheim Securities LLC (Research)
+Got it. Thank you for that.
+
+Operator
+Thank you. Please stand by for our next question. Our next question comes from the line of Mark Massaro with BTIG. Your line is open.
+
+Mark Anthony Massaro
+Analyst, BTIG LLC
+Hey, guys, thanks for the questions. Maybe first for you, Brian. I understand there's certainly some challenging capital market conditions. I guess there have been questions about competition within spatial biology. Maybe I'll just ask it again. Are you seeing any competitive pressures from the product that was recently introduced in the market in spatial? But I also more broadly want to ask about to what extent are you competing for research dollars in other applications, like, for instance, NGS or proteomics?
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+Yeah, it's a good question. I'll take those in reverse order. So, in areas like core labs, CROs, people that are providing shared services, you are competing for dollars versus competing head-to- head on should I buy a spatial proteomic platform from Akoya or somebody else. So, that is a different competitive dynamic and that most certainly exist because there's zero-sum dollars. And I think for us, one telltale sign is as we look at the contribution of core labs to our revenue, that's been an area of meaningful weakness this year, and that would be a dollar for dollar.
+
+And in terms of a head-to-head competitive dynamic, I would say where we are potentially losing in the discovery side with the PhenoCycler-Fusion is where we don't have content. And that's why we're investing in content, so not only do we drive higher pull-through on existing systems, but we get to application areas where content is ready-made. So, that is an area where the competition is probably the most fierce.
+
+In terms of the overall contribution to, if there were no competition, how many more units would we have sold, I think, Mark, it doesn't get us back to the point where . it's minor with respect to the competitive – to the headwinds we're facing in terms of the funding environment.
+
+Mark Anthony Massaro
+Analyst, BTIG LLC
+Yeah, that makes sense. Some of us noticed the press release you guys put out shortly after your quarter ended that you nominated Scott Mendel as the Chairman of the board. I know Scott's been part of the board for – since 2021. Many of us know him and like him. I guess I want to ask just about whether or not if you could expand on why the change at the Chair level? And could there perhaps be any philosophical differences or maybe perhaps changes as we consider the coming quarters here with respect to cash flow, breakeven targets, spending, and hiring?
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+Yeah, I really appreciate you asking that question. There's absolutely no difference philosophically. I think as a leadership team, we have a great board and we have a great dynamic with the board. I think the – Scott has been an operator in tough environments and, for me personally, and for Johnny, who's got a longstanding relationship with him, navigating environments like this, getting your company to become operationally efficient and proficient, getting your bottom line to be positive, that is – those are experiences that Johnny has been through multiple times, that Scott has been through multiple times. And so, this indicates the Akoya company and leadership's desire to really lean on a member of our board that has been through scenarios like this and signals a really active involvement for him personally to help us navigate through these challenging times.
+
+Mark Anthony Massaro
+Analyst, BTIG LLC
+Yeah, that's helpful. Maybe last one from me. Just to clarify, Johnny, I think I heard you say that you're likely not going to hit your cash flow breakeven target at the end of this year. Can you give us a sense now as to when you think that can happen? And then I know you guys expect to return to growth in 2025. To what extent do we need to see a recovery in funding for you to get there? Thanks.
+
+Johnny Ek
+Chief Financial Officer, Akoya Biosciences, Inc.
+Yeah. So, yeah, we had previously mentioned we thought we would exit the year in Q4 at a breakeven point given our – the revenue we expect at the midpoint of the guide, call it, for Q4, we don't quite get there, but we have put the – the cost side, it's really right where we want it to be, where we think it's appropriate, so that once we get – we're not speaking specifically to when we think we would do that, but naturally, Q1 is a cash-heavier quarter. So, even under our past statements, we knew Q1 cash ticks up, and then you start to turn back to cash flow positivity into the mid of next year. And we still sort of see that as our view.
+
+A reminder, with the bottom line adjusted EBITDA target that I sort of mentioned exiting the year, we still – I still think that's sort of mid, low-single-digit adjusted EBITDA exiting the year. The big movers, as always the case with a company at our stage and in where we are is working capital, right? If I haven't sold quite as many instruments this quarter, naturally, I have a cash usage with inventory for a quarter or two, and so I start to sell through that inventory. So, that's really, I look into 2025 and I'm confident I'd get that target because I have the cost structure in place, but not speaking any specific quarter right now.
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+So, to your question on growth, returning to growth in Q1 first half of next year, we are not making an assumption that that is reliant on external factors like a meaningful return to funding. What we're making – what we're relying on for that are our fundamentals on continued reagent growth, our opportunities in lab services, and some incremental performance for example, over Q1, where we sold 30 boxes. So, in that order, Mark, and in terms of if you were to look at how Q1 would qualitatively shape up, that's how we would look at it.
+
+Mark Anthony Massaro
+Analyst, BTIG LLC
+All very helpful. Thanks, guys.
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+Thank you.
+
+Operator
+Thank you. Ladies and gentlemen, I am showing no further questions in the queue. I would now like to turn the call back to Brian for closing remarks.
+
+Brian McKelligon
+Chief Executive Officer & Director, Akoya Biosciences, Inc.
+Listen, thank you all for your time. I know it's a challenging and complex market environment. We appreciate your question. We appreciate you giving us a chance to talk this through. And we look forward to following up with each of you individually and collectively. So, thank you all for your time.

@@ -1,0 +1,168 @@
+Thank you, operator, and good afternoon, everyone. Welcome to Standard BioTools' third quarter 2024 earnings conference call. Leading the call today is Michael Egholm, President and Chief Executive Officer; Alex Kim, Chief Operating Officer and Interim Chief Financial Officer. At the close of market today, Standard BioTools released its financial results for the quarter ended September 30, 2024.
+
+During this call, we will review our results and provide an update of our financial and operational performance, 2024 outlook, market trends and strategic initiatives. During the call, we will make forward-looking statements about events and circumstances that have not yet occurred, including plans and projections for our business, our outlook for 2024 and future financial results, market trends and opportunities, and our expectations related to the combined operations with SomaLogic, including potential synergies and our business outlook for the combined company. These statements are subject to substantial risks and uncertainties that may cause actual events or results to differ materially from current circumstances. The forward-looking statements on this call are based on information currently available to us, and we disclaim any obligation to update these statements, except as that may be required by law.
+
+During the call, we will also present some financial information on a non-GAAP basis. We believe these non-GAAP financial measures are useful in evaluating our core performance and as a baseline for assessing the future earnings potential of the company. We use these non-GAAP measures in our own evaluation of continuing operating performance. We encourage you to carefully consider our results on a GAAP and non-GAAP basis. The reconciliation between non-GAAP measures and their GAAP equivalents are provided in the tables accompanying today's press release as appendix to today's presentation slides.
+
+Please note that management will be referring to a slide presentation, including updated supplement financial information within the webcast today. Following prepared remarks, we will host a question-and-answer session. Today's slide presentation, along with a replay of the webcast, will be available on the Investor section of our website.
+
+I would now like to turn the call over to Michael Egholm, President and CEO of Standard BioTools. Michael?
+
+Michael Egholm
+President, Chief Executive Officer & Director, Standard BioTools, Inc.
+Thank you, David, and good afternoon, everyone. We appreciate you joining us today. Before we discuss our quarterly results, I want to welcome Alex Kim to the call, who is acting CFO and will be covering our financial performance for the third quarter 2024. Alex has been with Standard BioTools since its inception, instrumental to its founding and fundamental to its growth. As a Co-Founder, Chief Operating Officer, Alex brings to the CFO role a deep understanding of our business and seasoned operational acumen honed from a decade at Danaher. In addition, Sean Mackay, our Chief Business Officer, who now heads our organic and inorganic growth efforts, is joining the call and will be available to answer questions.
+
+With that, let's discuss our results, of which I will be speaking to pro forma numbers. In the third quarter, we delivered $45 million in revenue, sequentially up 21% from last quarter, but down 5% year-over-year, and $128 million in revenue year-to-date, which is down 9% versus 2023. From last quarter to this one, the industry backdrop remains challenged with customer budgets for CapEx equipment tight and purchasing behaviors conservative. Operating in a dynamic environment like this one requires deep operational discipline and continuous focus on improvement.
+
+Against these metrics the team delivered, we met our adjusted revenue target and accelerated operational efficiency. Our team is now three quarters into the SomaLogic integration and a full year ahead on cost reduction, having already operationalized and expected 80 million synergies. While the savings are expected to be fully realized in 2025, we have already seen a 24% year-over-year reduction in non-GAAP operating expenses year-to-date and a 50% improvement in adjusted EBITDA in the quarter.
+
+Our operating system, Standard BioTools Business System, or just SBS, has become deeply embedded in the new businesses. Examples of the power of SBS include improved forecasting, improved delivery performance, and an inherent focus on quality. For example, we now have an industry-leading delivery for – on-time delivery for products and services of 98% versus 78% two years ago for legacy Standard BioTools. We also have reduced complaints per installed base for our highest selling instrument more than fourfold in the same period. This allows our customers to be focused on their exciting research with less downtime and our sales force to be focused on generating new leads. We believe we can still be even more efficient and expect you will see the benefit of our continuous improvement culture in both our bottom and top line going forward.
+
+With these results and with full awareness of the current operating environment, we are reiterating our full year 2024 revenue guidance in the previously communicated range of $170 million to $175 million. With $368 million in cash and short-term investment as of September 30, we're well capitalized to advance our strategic vision of building a scaled and profitable life science company.
+
+At Standard BioTools, we're building a top-tier life science company leveraging consolidation to overcome the sector's innovation bottleneck and inability to scale. Our goal is to become the preferred industry partner to customers and to innovators. We're focused on providing a portfolio of consumables, instruments, and services which share a platform that drives reliability, performance, and profitability for stakeholders and shareholders alike.
+
+We recognize the importance of achieving our profitability objectives, and we are targeting an adjusted EBITDA breakeven for the full year 2026, which will further position the company to partner and consolidate a fragmented and capital-constrained industry.
+
+With a high performance culture, streamlined infrastructure, team of seasoned operators, and access to capital, we are positioned to execute this vision. However, it is early in our journey, if not just the first innings, and we are far from done and far from optimized, but we are on our way. We have a clear strategy and a world-class team operating in one of the most challenged environments, which opens new opportunities for us.
+
+Turning to results, our revenue mix in the third quarter was split between Lab Services at 41%, [ph] Instrument (00:09:09) Field Services at 14%, Instruments at 12% and Consumables at 31%. Our sequential quarter-over-quarter revenue growth was driven by our service offerings, which is today chiefly SomaScan services. We saw a bounce back from last quarter's result from favorable timing from a few large accounts. To this end, we're pushing hard to expand our overall customer mix. And then currently outside our top five SomaScan customers, [ph] Soma's service (00:09:40) revenue grew double-digit in the quarter year-over-year.
+
+One component of our strategy is to expand our footprint beyond our core lab located in Boulder and deeper into our authorized SomaScan sites. In the quarter, one of these sites we added was a major US-based biopharma customer, which should help us expand the customers use of our product. Another diversifier to our service revenue is our Omics as a Service offering, which leverages all of our products, SomaScan, CyTOF, and Imaging Mass Cytometry and future platforms developed, acquired or partnered. This offering expands our assay lab services revenue stream and provides customers premium data with clinical research support. This will increase adoption while avoiding the capital budget constraints currently facing the broader biopharma market.
+
+Turning to our Instruments business, which is down year-over-year by 42%, with the biggest impact coming from our higher price mass cytometry instrument. The industry headwinds have not cleared and we're working hard with our customers to unlock budgets and adjust to their new purchasing behaviors where we can. Our Genomics business, including fluidics instruments, consumables and OEM, while down year-over-year is contribution margin positive and it's a case study of the value the SBS culture can create, a lean profitable business unit with upside potential. Hence, we're working on additional OEM relationships and identifying new niche growth opportunities, which leverages our infrastructure and which will be accretive to the bottom line.
+
+Consumable is and remains our most attractive product margin profile and in an industry with dark clouds is a continued bright growing spot in our business. This revenue stream was up 13% year-over-year in the quarter. Consumables are the most attractive products in the industry and at the top of our product pyramid and a top strategic focus for us both organically and inorganically. A major example of what we can do with Consumables is the distributed SomaScan solution on Illumina sequencing platform, which we believe is becoming with increasing clarity the next big thing in proteomics and is an exciting new growth vector for the company.
+
+SomaScan is a powerful and competitively differentiated platform with tremendous upside potential, and recent studies confirmed the assays unique ability to scale with precision. With this alternative distributed solution, we can further unlock our potential to be supplying the leading proteomics solution. Our partnership remains on track with full commercial release in the first half of 2025, democratizing the SomaScan Assay on Illumina's installed base of more than 2,000 NovaSeq instruments.
+
+Having now spent time with the team, the technology and customers, it is clear to us that the SOMAmer technology has more headroom and much more commercial potential than we originally envisaged. We are exploring new ways to leverage the technology and today, we announced the launch of single SOMAmer reagent as a minimal viable product offering, making each of the 11,000 individuals SOMAmers available for purchase. This is a highly differentiated solution in an all-important and large protein reagent end market. This meets an unmet need for protein identification and quantification, and insight derived through voice of customer process. We'll proceed with care to ensure the utmost quality of our product and prepare for the full product launch in the future.
+
+As we look to the next several quarters and beyond, we believe we're well-equipped to execute our vision on – for Standard BioTools. We're in the business of delivering solutions to our customers, not just focusing on individual applications, as those can evolve over time. What's important is that we have strong exposure to attractive end markets today, particularly in academia and pharma. As we continue to strategically allocate capital to bolster our portfolio, we will expand into other attractive markets.
+
+We have an experienced leadership team committed to our continuous improvements initiatives with a track record of driving growth, expanding gross margins, and reducing operating costs. The current market environment is offering many unique opportunities, and we're actively assessing how to accelerate our consolidation thesis. Our story is not complete, and we remain focused on scaling the business, driving end market diversification, evolving to a higher margin consumable offerings, and delivering long-term shareholder value.
+
+With that, I'll now turn the call over to Alex. Alex?
+
+Hanjoon Alex Kim
+Chief Operating Officer & Interim Chief Financial Officer, Standard BioTools, Inc.
+Thank you, Michael, and thank you all for joining our call today. I'm honored to be representing Standard BioTools on this call as an acting CFO. As Michael said, I've been with the company since the inception and I've been happy to jump into the role as CFO, bringing my knowledge and experience as a business leader and operator to the finance function. I will take us through our financial results in more detail and provide additional context.
+
+I want to remind you that on an as reported basis, our third quarter and year-to-date 2024 results include the combined operations of Standard BioTools and SomaLogic since the close of the merger on January 5 of this year, while the same periods in 2023 include the financial results of the legacy Standard BioTools business only. Therefore, for comparative purposes, we think it's much more meaningful to look at the results of both businesses combined. And so, as I speak to our Q3 financial results, my commentary will focus on the pro forma combined results of operations for both Standard BioTools and SomaLogic for 2023 and 2024. Please do refer to today's press release and the appendix to our Investor deck for more information, including a reconciliation of GAAP to non-GAAP measures that I will be discussing here.
+
+Starting with revenue on slide 9. Our third quarter came in at $45 million, down 5% year-over-year and year-to-date revenue was $128 million, down 9% year-over-year. Sequentially, our third quarter revenue increased 21% versus the second quarter. Breaking revenue down further, Consumables revenue was $14 million in the third quarter, up 13% year-over-year and $45 million year-to-date, up 21% compared to 2023. Our Consumables growth particularly benefited from continued expansion in our SomaScan authorized sites and the Illumina early access program. As we've discussed in the past, we believe having distributed solutions for SomaScan is critical to compete and establish market leadership. We see this ability to supply more new sites worldwide as highly complementary to our existing Lab Services business.
+
+Instruments revenue was just under $6 million in the third quarter, down 42% year-over-year and just under $20 million year-to-date, down 28% compared to 2023. This was largely driven by the external capital spending constraints in the life sciences sector, as well as extended weakness we're seeing in China. This is elongating our sales cycle, delaying orders as customers secure funding. But we are encouraged as our funnel continues to grow, and particularly with our IMC spatial biology platform.
+
+Lab Services revenue was $18 million in the third quarter, up over 1% year-over-year and $41 million year-to-date, down 23% compared to 2023. The third quarter benefited from favorable timing from a few large customer projects alongside new SomaScan customers continuing to commit to the platform. Historically, our SomaScan Lab Services business has been heavily reliant on a few large customers for the majority of our revenue. And while our year-to-date performance has been impacted by fewer projects from these top customers, we are encouraged by the broadening of the customer base. Beyond our largest customers, our Lab Services business delivered double-digit revenue growth year-to-date, positioning us well as we continue to expand and diversify our base.
+
+Field Services revenue was just over $6 million in the third quarter, down 4% year-over-year and $19 million year-to-date, flat compared to 2023. Field Services revenue was impacted by lower installation services on fewer instrument sales, offset by continued maintenance contracts. By our application segments, our proteomics business, which includes our SomaScan, CyTOF and IMC product lines was 77% of our revenue and was down 4% for the quarter and down 10% year-to-date. While our genomics business represented by our Biomark product line was 23% of revenue and was down 8% for the quarter and down 7% year-to-date.
+
+Moving on to our operating performance on slide 10. Our non-GAAP gross margin on a pro forma combined basis was 57% in the third quarter versus 52% year-over-year and 53% year-to-date compared to 52% in 2023. Our third quarter was positively impacted by a shift in revenue mix driven by higher consumables relative to instruments, as well as by underlying improved quality yield, lower scrap and lower warranty costs.
+
+There are lingering gross margin headwinds and one-time costs that we continue to navigate through the rest of this year. But we are encouraged by the positive gross margin impact of our SBS activities to reduce waste and improve quality, as well as our ability to continue to drive gross margin expansion over the long run.
+
+Moving to our operating expenses on slide 11. Our non-GAAP operating expenses on a pro forma basis was $40 million in the third quarter versus $53 million last year, which is a 24% year-over-year reduction and $137 million year-to-date versus $176 million in 2023, which is a 22% reduction. Sequentially, from quarter two, we delivered a 17% reduction.
+
+Our third quarter improvement is a result of the ongoing realization of merger cost synergies that we've spoken out before, as well as a one-time benefit from reduction in our annual bonus accrual in line with our current full year expectations. There will still be a few one-timers, restructuring and integration costs, and timing of year-end marketing investments that we'll come across in quarter four. But we head into 2025 with the full $80 million in target synergies identified and at a run rate of $170 million non-GAAP annualized operating expenses versus our 2023 first half pro forma annualized operating expenses of approximately $250 million.
+
+On slide 12, our adjusted EBITDA was a $14 million loss in the third quarter compared to a $28 million loss last year, which is a 50% year-over-year reduction and a $69 million loss year-to-date versus $102 million loss in 2023, which is a 32% reduction.
+
+This brings me to cash, on slide 13. We ended the third quarter with about $368 million in cash, cash equivalents, restricted cash and short-term investments. Our total cash burn was $28 million in the third quarter versus $68 million in the second quarter, representing a 58% reduction. This includes about $5 million for transaction, restructuring and integration costs. Excluding the impact of these items, our adjusted cash burn was about $21 million, representing a 23% reduction versus the second quarter adjusted cash burn of $28 million.
+
+We are beginning to see material reductions in our cash burn coming through, as a result of our restructuring efforts and the ongoing realization of merger cost synergies. We're well positioned with our strategic plan and our balance sheet to support the growth of our business to cash flow breakeven.
+
+As we look to the fourth quarter, as Michael said, we are reiterating our full year revenue guidance of $170 million to $175 million. To remind you, our quarterly results can be lumpy as a few Instruments and/or Lab Services projects can move from one quarter to another. And as I've mentioned, we're still working through some cost headwinds as we end the year. However, over the long run, we are driving strategic initiatives to more reoccurring Consumables revenue and we are committed to delivering long-term profitable revenue growth.
+
+Back to you, Michael.
+
+Michael Egholm
+President, Chief Executive Officer & Director, Standard BioTools, Inc.
+Hey. Thanks, Alex. We thank you all for your continued support as we navigate these tough end markets. We look forward to seeing many of you at the UBS Global Healthcare Conference on November 12, in Rancho Palos Verdes, California, and at the Jefferies London Healthcare Conference on November 19.
+
+And now, I hand the call back to Wyatt for Q&A. Wyatt?
+
+Question And Answer Section
+Operator
+We'll now begin the question-and-answer session. [Operator Instructions] And the first question comes from Dan Brennan with TD Cowen. Please go ahead.
+
+Hey. Good afternoon, guys. This is [ph] Kyle (00:24:47) on for Dan. Thanks for taking the questions. I was just wondering to start, if maybe you could quantify what percent of assay services revenue in 3Q was timing based? Is there a way you can quantify that? Thank you.
+
+Michael Egholm
+President, Chief Executive Officer & Director, Standard BioTools, Inc.
+What we had said before – hey, [ph] Kyle (00:25:09). Good to hear you. And as we had talked about before, our SomaScan services have historically relied on a few large customers, like five or so. And as Alex pointed out, outside that, we see – outside those, we see double-digit growth in the SomaScan Assay Services, which [ph] we see (00:25:33) as an encouraging sign. We had favorable timing in Q3 and unfavorable in Q2. For the year, from those five large customers, we have a hefty headwind on the order of $15 million to $20 million, as we've shared before. So, it's really encouraging to see the broadening of the SomaScan Assay Service businesses.
+
+And then just remind everyone, it is – these large projects are highly dependent on getting the PO and then getting the samples and getting it all run. The quarter-to-quarter timing can push numbers one way or another. But if you take a step back, we like where this business is headed.
+
+Got it. Thank you. And then maybe just on the guide, you reiterated your guide, $170 million to $175 million for the year. The midpoint of that, I think, for Q4 implies maybe flat to a little bit down Q-over-Q. Are you expecting any year-end budget flush or anything, any year-end spending dynamics that are any different from what you saw in 3Q? Thank you.
+
+Michael Egholm
+President, Chief Executive Officer & Director, Standard BioTools, Inc.
+We don't, but it would be really nice if it came. So, we do build in a little bit of an uptick on instruments here in Q4, but we're not relying on a market recovery or new budgets becoming available. Anything to add to that, Alex?
+
+Hanjoon Alex Kim
+Chief Operating Officer & Interim Chief Financial Officer, Standard BioTools, Inc.
+I think that was a good summary. We continue to actively work our funnel, and we feel comfortable where our funnel is at to hit the guidance that we've shared with you here. As we've mentioned before, any quarter can be impacted as an instrument and/or a large service project may shift from one quarter to another. But we have a funnel that we feel comfortable with the guide that we've provided.
+
+Got it. Thank you, guys.
+
+Operator
+And the next question comes from Matt Stanton with Jefferies. Please go ahead.
+
+Matthew Stanton
+Analyst, Jefferies LLC
+Hey. Thanks. Maybe to pick up there on the instrument side, clearly kind of [ph] there remained weak (00:27:50) for you guys in the broader industry. Can you just talk a little bit more about if you're starting to see any green shoots or funnel improvement? When could we start to see maybe demand improve not just easy comps? And you called out China. Can you just unpack a bit more what's going on over there in China and when we could potentially see things improve over there? Is it really tied to stimulus dollars starting to flow? Thanks.
+
+Michael Egholm
+President, Chief Executive Officer & Director, Standard BioTools, Inc.
+Yeah. No. Hey, Matt. Good to hear you. And, like, if you just sort of zoom out a little bit, Instruments are down year-to-date 28% versus last year where we were up 46%. And I think it's largely in line with our peers. We are selling high cost instruments that still work in niches. So, we're in a tough environment here. As Alex alluded to, our funnels are building, which we see as an encouraging sign. And for – specifically, for China, our team are talking about it looking a little better, but we don't expect it to flow through in Q4. Hopeful, it will be a tailwind in 2025. Historically, up until the last quarter, China has been a bright spot for us, and we're certainly looking forward to China growth coming back.
+
+And then maybe on green shoots, we are seeing VC money flowing into biotech again, and we are beginning to see more leads being generated there, but it is not translated into dollars to us yet. So, cautious optimism, I would characterize it as.
+
+Matthew Stanton
+Analyst, Jefferies LLC
+Okay. Great. That's helpful. And then maybe one on the cost side, a lot of really good progress there. You called out in your script kind of certain growth areas within multi-omics, the launch of single SOMAmers, Omics as a Service, some of the items you talked on the strategy update back in May. So, can you talk a little bit more about the areas you're investing in, some of those launches? And I think on the single SOMAmer, you talked about kind of a limited launch and then a broader launch later. So, any finer point you can talk about just in terms of rolling that product out, customers will be targeting, what you tend to consider a successful launch if we look out 12 months to 18 months from now?
+
+Michael Egholm
+President, Chief Executive Officer & Director, Standard BioTools, Inc.
+Yeah. No. A great question. So, we're taking out $80 million now, and I want to thank my team for doing all the heavy lifting here. So, we're really, really well set up with significantly reduced cash burn. We are protecting our growth – like, our growth investments and we are protecting investments in sales and marketing as a backdrop. And so to that end, we launched the individual SOMAmers on what we call a minimal viable product. But it's minimal viable product because we have not shipped individual reagents before for revenue. So, there's a whole infrastructure that's set up and there's limited support for the number of applications that you can use them for. And then, we do not have an [ph] e-based (00:31:33) site that eventually will be there where it will be click on a protein and then get individual SOMAmers. And to that end, it's limited in that we are – we have rolled it out to all our existing customers and then we'll do a broader launch yet when we have fixed all that infrastructure. And again, we are still investing heavily in ID, because we believe in for our technologies, there's a long runway ahead.
+
+Matthew Stanton
+Analyst, Jefferies LLC
+Okay. Great. Thanks. And then maybe understanding the backdrop remains pretty fluid out there. I mean, if you start to think about 2025, back half of this year, you're kind of at $45 million a quarter, call it. If you analyze that, we're at $180 million. Any kind of directional commentary you're willing to provide? As we start to think about 2025, obviously, instruments will have easy comps. You have Illumina ramping. Should we think about a kind of $180 million base and some growth [ph] there (00:32:37), but any finer point you're willing to put on that as we start to dial in our models for next year? Thank you.
+
+Michael Egholm
+President, Chief Executive Officer & Director, Standard BioTools, Inc.
+I'll let Alex handle that one. Yeah.
+
+Hanjoon Alex Kim
+Chief Operating Officer & Interim Chief Financial Officer, Standard BioTools, Inc.
+Yeah. Not at this time, we're not providing guidance on 2025 yet. Our focus is very much on Q4 and closing out this year strong. We'll come back to you in the future with our updated view on 2025 later.
+
+Michael Egholm
+President, Chief Executive Officer & Director, Standard BioTools, Inc.
+Yeah. I'll just say, like, so, our – we reiterated our guidance of $170 million to $175 million. It remains a challenging environment, and then on top of a business where you can get a big order that can sway it one way or the other. As for 2025, we are – as you have heard repeatedly, we're very encouraged by our relationship with Illumina, which we think, in the long-term, with good access to a much, much broader customer base, we believe we have the best solution out there. It's the solution so far that can scale with precision currently 10,000 proteins. So, long-term, really good. I've been doing this for 30 years and rollouts always and the adoption of new workflows always take longer than you want. So, I wouldn't [ph] over-index (00:33:56) on the Illumina launch or impact on next year. For the out-years, we're certainly expecting healthy growth, if that is helpful, Matt.
+
+Matthew Stanton
+Analyst, Jefferies LLC
+Yeah. That's great. Super. I'll leave it there. Thanks, guys. [Operator Instructions]
+
+Operator
+Our next question comes from Paul Knight with KeyBanc. Please go ahead.
+
+Hi. This is [ph] Lucas (00:34:25) on for Paul Knight at KeyBank. It sounds like you recognized revenue from some of those projects like pushed out last quarter. Would you say that all of that work is behind you now, or are there some delayed projects that'll actually get recognized still here in Q4? Thank you.
+
+Michael Egholm
+President, Chief Executive Officer & Director, Standard BioTools, Inc.
+Yeah. Hey, [ph] Lucas (00:34:48). The way I would characterize it is we had favorable timing this year as we said in the script and unfavorable timing last year. It's not a matter of recognition per se. As I said, from our top five customers, we have a $15 million, $20 million headwind year-over-year, not because they're not spending on – committed to the technology, it's just we had a very favorable 2023. So, that's the backdrop. What I would point to, as we also talked about in the script, is we have rigorous application of SBS now across the organization and so we've much better visibility to when these large projects, where we – when we get the PO and when we can get the samples and when we can get them run.
+
+Thanks. That's helpful. Understood on the timing. I guess, turning over to the Instruments side of the equation, obviously, you saw weakness in China. But what were you seeing in markets outside of China?
+
+Michael Egholm
+President, Chief Executive Officer & Director, Standard BioTools, Inc.
+We're doing well in the Americas. The Rest of Asia, like particular, Japan and Korea has – it's been a tough backdrop for a long time, sort of macroeconomics. And in Europe, we just installed a new leader there, and we'll focus on rebuilding the funnels there.
+
+Okay. Great. That's all I had.
+
+Operator
+This concludes our question-and-answer session. The conference has now concluded. Thank you for attending today's presentation. You may now disconnect.

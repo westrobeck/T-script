@@ -1,0 +1,397 @@
+Thank you, Paul, and good afternoon, everyone. Welcome to our third quarter conference call. With me today are Pete Anevski, CEO of Progyny; Michael Sturmer, President; and Mark Livingston, CFO. We will begin with some prepared remarks before we open the call for your questions.
+
+Before we begin, I'd like to remind you that our comments and responses to your questions today reflect management's views as of today only, and will include statements related to our financial outlook for the fourth quarter and full year 2024. Any assumptions and drivers underlying such guidance, including the impact of our sales season and client launches and our expected utilization rate and/or mix, our anticipated number of clients and covered lives for 2025, the potential benefits of our solution, our ability to acquire new clients and retain and upsell existing clients, our market opportunity and our business strategy plans, goals and expectations concerning our market position, future operations, and other financial and operating information, which are forward-looking statements under the federal securities law. Actual results may differ materially from those contained in or implied by these forward-looking statements due to risks and uncertainties associated with our business as well as other important factors. For a discussion of the material risks, uncertainties, assumptions and other important factors that could impact our actual results, please refer to our SEC filings and today's press release, both of which can be found on our Investor Relations website. Any forward-looking statements that we make on this call are based on assumptions as of today, and we undertake no obligation to update these statements as a result of new information or future events.
+
+During the call, we will also refer to non-GAAP financial measures such as adjusted EBITDA and adjusted EBITDA margin and incremental revenue. More information about these non-GAAP financial measures, including reconciliations with the most comparable GAAP measures, are available in the press release, which is available at investors.progyny.com.
+
+I would now like to turn the call over to Pete.
+
+Peter Anevski
+Chief Executive Officer & Director, Progyny, Inc.
+Thank you, Jamie, and thank you, everyone, for joining us this afternoon. In the third quarter, we continued to execute against strategic objectives that we outlined for you at our recent Investor Day, laying the foundation that will enable us to accelerate growth, while meeting the needs of our clients and members and creating long-term value for shareholders. I'll expand on those areas shortly, but I want to begin with third quarter member activity, which continued to unfold differently from historical patterns with respect to how members progressed through treatment. Consequently, our third quarter results are below the ranges we set in August.
+
+I understand this is disappointing. To help you better understand what we're seeing, what we're doing in response and how we think about the business moving forward, we're going to walk you through several areas; first, what's been different and unexpected with respect to the member activity in 2024; second, how we're reflecting this variability in our guidance; third, while despite how the year has unfolded differently than expected, we firmly believe the business is not only fundamentally strong, but also uniquely positioned to expand upon our leadership role in a large and growing market.
+
+I'll begin with member activity, which is actually two separate, though, related components. The first is the overall utilization rate which captures the percentage of our 6.4 million members who have taken action to pursue care at a fertility clinics, which includes initial consultations during the given period.
+
+The second is the measure of consumption, which reflects the volume and types of services that the utilizing members have done also during the period. With respect to the utilization rate, we continue to see that members are pursuing care at levels that are consistent with historical patterns and that has continued in 2024. Third quarter utilization was 0.47%, both consistent expectations and equal to Q2's level. In fact, 0.47% is not only within the historical range, it's towards the higher end of that range, emphasizing that not only are members pursuing care, they're doing so at levels that reflect a strong sustained need for our solution.
+
+Challenges with respect to forecasting our recent periods relate to the other component, consumption, as we've seen activity in Q3 that differs meaningfully from historical patterns. Primarily two aspects. First, the progression to treatment has slowed down modestly as people are taking slightly longer to go from the consult, which is the first step in the critical journey, to the treatment stage itself. The difference of even just a few days translates into lower overall consumption within a given period.
+
+And second, once people are progressing, we're seeing them consume fewer average stimulation related ART Cycles than we've historically seen, specifically for freeze-alls and egg freezing. As this is a relatively new phenomenon during Q3, there isn't enough data to determine whether or not this is a new trend. The activity we're seeing thus far in Q4 is the best evidence that it may not be a new trend as we're seeing modest growth in average stimulation-related ART Cycles per utilizer as compared to Q3 in 2024.
+
+In light of this seemingly contrasting data, we believe it's more instructive to look at the recent ART Cycle consumption in comparison to longer periods. For example, the three-year growth we've seen in egg freezing is consistent with the long-term pattern over many years, even though the volume more recently has been more variable from year to year.
+
+However, we're not factoring the improved levels of pacing in both utilization and ART Cycle consumption that we're presently seeing in our fourth quarter guidance. Instead, given how this year has presented more variability than we could have anticipated, we believe it's prudent to guide with the expectation of a return to the unfavorable trend that we saw in Q3, even though that would be below the activity we're actually seeing right now.
+
+While that reflects the what that we're seeing, the why side is inherently more difficult to understand. Our PCAs are focused solely on member experience and success, supporting members through whatever their journeys entail based on their needs. And we help members navigate through every step of their unique journey, and we don't ask them to justify the time it takes for them to get through those steps. That's because we're sensitive to factors that can affect a member's timing, whether it's medical options or life events that may impact that timing.
+
+We've ruled out a few things that are not causing this unexpected pattern. First, we know members have at least as much, if not more, coverage and that they [ph] aren't (00:07:12) maxing out of their benefit. And second, we also aren't seeing a backlog at clinics. Members are getting the appointments they want when they want them. And despite the fluctuations we've seen this year, these don't in any way reflect upon the health and strength of our business and our ability to deliver for our members.
+
+We've successfully supported tens of thousands of member journeys, delivering a better experience, achieving higher clinical success rates, and driving meaningful savings for our clients. That's what ultimately creates value for our key constituencies, our clients, our providers, our members, and our shareholders. And we're more committed than ever to continuing to deliver against our strategic priorities in those areas.
+
+In any year, the selling season is obviously one of the most important priorities, and we're pleased with this year's results, which produced 1.1 million new lives from over 80 new client commitments. This is our fourth straight year of adding over 1 million lives, demonstrating once again the importance of fertility, family building, and women's health solutions to employers and the differentiation of our solution.
+
+This year's season is similar to past seasons in a number of important ways. Our newest clients continue to select robust levels of coverage, offering an average of two or three Smart Cycles, affirming that employers aren't suddenly looking to offer a skinnier version of the benefit. And we saw a mid-90% take rate for Progyny Rx, affirming the better member experience and cost savings we deliver through our integrated solution.
+
+Our wins represent a broad cross-section of nearly two dozen industries, including energy, consumer goods, healthcare, media, financial services, automotive manufacturing and software. This continues our sector diversification and emphasizes how truly universal the need for our services is amongst all types of employers.
+
+And lastly, we continue to see a broad distribution by client size, with our newest logos contributing anywhere from 1,000 to over 100,000 lives. In fact, the distribution of our newest clients by size is nearly identical to the base as it is today, highlighting the diversity of our opportunities and our room for ongoing growth.
+
+A notable difference this year from past seasons is a slightly higher skew amongst our largest here. As those groups tend to do the deepest assessments and diligence, this reaffirms our confidence in our competitive position. You'll recall that we previously told you our commitments were pacing ahead of last year and the pipeline was strong overall.
+
+So, we understand that you may be looking at the 1.1 million lives in the context of the 1.3 million we achieved a year ago. I'll remind you that last year's 1.3 million included approximately 300,000 lives without access to our medical benefit. So, on a like-for-like basis, our new fully loaded lives are higher than last year.
+
+When we spoke to you in August, there were a number of jumbo opportunities in our pipeline, jumbo reflecting our largest deals, that gave us visibility to well over 1.3 million new lives as of August. Of the jumbo opportunities that remained and made a decision, we won all of them. The ones who didn't come to a decision represent over 400,000 lives and remain open and active opportunities in our pipeline, though we aren't able to project whether or when a decision will be made.
+
+This is no different than any sales year where some portion of our prospects end the sales year as a not-now. They may have had competing priorities to consider or they just weren't in the position to make a final decision. As we've seen in the past, we'll enter next year with a very healthy pipeline of advanced opportunities, which are in addition to the new pipeline generated through our traditional methods, including working with channel partners who play a key role in broadening our reach and improving our sales efficiency.
+
+This year we made significant strides with expanding those channel partner relationships. You'll recall how we signed our first regional health plan partner a year ago. This year, we're extremely excited to have added our first national health plan in addition to another large regional health plan and additional TPAs. And some of these groups are also becoming our clients, entrusting Progyny to serve their own employee populations. This is an incredible testament to the demonstrable value we create. We couldn't be more proud of that and are excited to share more details as the partnerships grow.
+
+As important as our new sales and new partnership activities are, our selling season also includes renewals and upsell activity. So, let me give you some updates there as well. As previously disclosed, a large client made a decision to exercise an option to conclude their services agreement with Progyny. Every client's decision always requires introspection and this was no different. We also heard from the 99% of our clients who remain with Progyny into 2025, given the positive impacts we made to both these clients as well as their workforce.
+
+While retention is one validator to our service, so are upsells and expansions. This year, we continue to see existing clients looking to deepen their Progyny relationship with approximately 30% of clients increasing their program in some way in 2025. Historically, that meant more Smart Cycles are adding Progyny Rx. While those still occur, upsells now include those clients who are adding our newest services in maternity, postpartum and/or menopause.
+
+We're extremely pleased with the reception we've seen for these newer services in the first year we've offered them. [ph] Roughly (00:13:19) 20% of our existing clients and 40% of our newest clients are adopting one or more of these programs in 2025. Taken together, more than 1.5 million of our covered lives or more than 20% of our base overall will have at least one additional program beyond the core fertility and family building solution.
+
+As 2025 will be our first year in market with these services, we don't have a sense for what the usage patterns will be. We don't expect meaningful revenue contribution from these products next year. Nevertheless, the interest and adoption we've seen from our clients speaks to their willingness to entrust Progyny with even more aspects of their health programs.
+
+And with that, let me turn the call over to Mark to discuss the quarter in more detail and provide our expectations for the balance of the year. Mark.
+
+Mark Livingston
+Chief Financial Officer, Progyny, Inc.
+Thank you, Pete, and good afternoon, everyone. I'll begin with our third quarter results and then provide our expectations for the remainder of the year. Third quarter revenue grew 2% over the prior year to $286.6 million. The growth was primarily due to the increase in clients and covered lives as compared to a year ago, which was then offset by the lesser rate of consumption overall that Pete described earlier. So, let me take a moment to walk you through this dynamic in greater detail.
+
+Female utilization was 0.47% in the third quarter. This was a modest decrease, as we had told you to expect, from the near-record 0.49% that we reported in the third quarter a year ago, but flat on a sequential basis from the 0.47% that we reported in August. While utilization can vary modestly from period to period, it continues to be highly consistent with what we've seen for many years, reinforcing our belief that we aren't seeing some underlying change in either medical need, member demographics, or the desire for people to pursue family building.
+
+The different pattern of consumption in Q3 that Pete was describing earlier is reflected in reported ART Cycles. Approximately 14,900 ART Cycles were performed in the quarter, reflecting a decline of just under 1% from the year-ago period. So, while the rate of people pursuing care is consistent, the pattern of consumption is different, creating the challenge with respect to our forecast and guidance.
+
+Today's press release included a table on the last page to help you see how ART Cycles per unique female utilizer during the quarter diverged from past patterns. We've historically seen an increase in ART Cycles per unique utilizer over the course of any given year. However, this year, in a complete divergence from past patterns, we instead saw a decrease in Q3.
+
+Thus far in Q4, even though we've seen an improved level of pacing in both utilization and consumption as compared to what we saw in Q3, we believe it's prudent to assume that another variance could occur. The high end of our guidance assumes similar levels to what we saw in Q3, while the low end contemplates a further decrease. I'll walk you through those impacts in a moment.
+
+As of September 30, we had 468 clients with at least 1,000 lives, representing an average of 6.4 million covered lives over the third quarter. This compares to 392 clients and an average of 5.4 million covered lives a year ago. Covered lives increased nearly 50,000 versus June 30, reflecting the last batch of client launches from last year's selling season, which was offset by a slight net reduction of lives from our existing clients during the quarter.
+
+While we've continued to see the impact of workforce reductions at certain clients, others have grown, which further highlights how important it is to have a diverse customer base that spans many different areas of our economy, and why we are so pleased with the results of our most recent selling season, given that our newest clients, once again, are coming from nearly two dozen industries.
+
+Turning back to the components of the top line this quarter, medical and pharmacy revenue grew at essentially the same rate over the year-ago period, to $179 million and $108 million, respectively. As the penetration of Progyny Rx will reach approximately 94% in 2025, the growth rates for medical and pharmacy revenue should continue to be more closely aligned on an annual basis moving forward.
+
+Turning now to our margins and operating expenses. Gross profit decreased 5% from the third quarter last year to $59.2 million, yielding a 20.7% gross margin, a 160 basis point decline from the prior year period, due to investments made in our care management services as well as the impact of the unanticipated decline in cycles per utilizer in the quarter. On a year-to-date basis, gross margin is more comparable to the first nine months of 2023, demonstrating the flexibility of our cost structure, even when the top line unfolds differently than expected.
+
+As we look over the remainder of the year, I'll remind you that we typically see a sequential decline in fourth quarter gross margin, as we onboard the head count that's needed to support the new lives starting on January 1. We expect a lesser impact than usual this year, as we aren't onboarding as many new hires following the previously disclosed loss of a large client in 2025.
+
+Sales and marketing expense was 5.7% of revenue in the third quarter, comparable to the 5.3% in the year-ago period, as the investments to increase our go-to-market resources and channel partner relationships were somewhat offset by the leverage we've gained through our client acquisition and retention activities.
+
+G&A costs were 10.6% of revenue this quarter, in line with the 10.5% in the year-ago period, though year-to-date, G&A is down 50 basis points as compared to the first nine months of 2023, reflecting the efficiencies that we continue to realize in our back office operations. While our OpEx line items were comparable to the third quarter last year, adjusted EBITDA declined 7% to $46.5 million, and adjusted EBITDA margin declined 160 basis points to 16.2%, reflecting the impact of the lower gross margin.
+
+Net income was $10.4 million or $0.11 per diluted share. This compared to net income of $15.9 million or $0.16 per share in the year-ago period. The lower income and EPS as compared to a year ago reflects lower operating income as well as higher tax expense in the current period, which was only partially offset by the reduction in shares outstanding following our buyback programs in 2024.
+
+Turning now to our cash flow and balance sheet, operating cash flow during the quarter was $44.5 million, which compares to $54.2 million generated in the year-ago period. The change reflects the timing of certain favorable working capital items in the prior year period as well as higher cash payments for income taxes in the current period.
+
+Over the first nine months of the year, we've generated $127 million of operating cash flow, representing an 84% conversion of our adjusted EBITDA over the same period. As of September 30, we had total working capital of $338 million, reflecting over $235 million in cash, cash equivalents, and marketable securities, and no debt.
+
+The decrease in our cash position versus June 30 reflects our stock repurchasing activity during the quarter. In the third quarter, we repurchased 2.8 million shares for approximately $61.4 million. Since launching the first program in February and including the activity in Q4, we've returned value to our shareholders through the repurchase of nearly 12.4 million shares overall. This completes our previous authorizations and has reduced our shares outstanding as of the start of the year by 13%.
+
+Turning now to our expectations for the fourth quarter and full year 2024. As you can see on the table in the back of today's press release, our range for the full year assumes utilization of 1.05% at the low end, which assumes a slightly lower level of Q4 utilization than what we've seen thus far this year, and 1.06% at the high end. The low end of the range also assumes that ART Cycles per unique utilizer declines in the fourth quarter as compared to Q3, while the high end assumes consumption stays flat sequentially, even though at this point in Q4, we've seen an improved level of pacing in both activity and treatment volume as compared to Q3.
+
+As I said before, we believe it's prudent to assume yet another variance occurs and have contemplated the ranges accordingly. With those assumptions, we expect revenue of $266.2 million to $281.2 million for the fourth quarter. This translates to revenue of $1.135 billion to $1.150 billion over the full year.
+
+Turning to our profitability, we expect adjusted EBITDA of $37.8 million to $42.8 million in the fourth quarter and net income of $6.1 million to $9.5 million. This equates to $0.07 and $0.10 earnings per diluted share, or $0.31 and $0.35 of adjusted EPS on the basis of approximately 91 million fully diluted shares.
+
+For the year, we now expect adjusted EBITDA of $189 million to $194 million, along with net income of $49.9 million to $53.3 million. That equates to $0.52 and $0.56 earnings per diluted share, or $1.54 and $1.57 of adjusted EPS on the basis of approximately 96 million fully diluted shares. I'll remind you that our net income projections do not contemplate any discrete income tax items.
+
+I'd now like to turn the call back over to Pete for some closing remarks.
+
+Peter Anevski
+Chief Executive Officer & Director, Progyny, Inc.
+Thanks, Mark. I hope today's call has helped you understand how the business remains fundamentally strong and uniquely positioned to take advantage of our large and growing market opportunities, despite the headwinds that have impacted our recent results.
+
+As we look forward into 2025, consistent with our past practice, we expect to provide our financial guidance when we report year-end results in February, when we'll have insight into the client's launching on January 1. At this point, even with the loss of the one large client, we expect to continue generating strong profitability and meaningful cash flow in 2025, which is a testament to the diversity of our business and the strength of our business model.
+
+With that, we'll open up the call for your questions. Operator?
+
+Question And Answer Section
+Operator
+Thank you. At this time, we will be conducting a question-and-answer session. [Operator Instructions] And the first question today is coming from Anne Samuel from JPMorgan. Anne your line is live.
+
+Anne E. Samuel
+Analyst, JPMorgan Securities LLC
+Great. Thank you. I was hoping maybe you could speak a little bit to how you get visibility or understanding into what's going on with your utilization and consumption. Are the PCAs perhaps able to offer any insight on trends from recurring conversations that they're having around what might be causing some of this disruption?
+
+Peter Anevski
+Chief Executive Officer & Director, Progyny, Inc.
+So, relative to understanding our utilization and consumption to-date, which is, I think, the first part of your question, Anne, we look at...
+
+Anne E. Samuel
+Analyst, JPMorgan Securities LLC
+Right.
+
+Peter Anevski
+Chief Executive Officer & Director, Progyny, Inc.
+...contextualized data, so same point in the quarter in Q3 versus now, and we look at both overall unique utilizers, i.e. utilization rate as compared to that time period, and then we look at the ART Cycles per utilizer that are at that point scheduled versus what was scheduled in Q3, right?
+
+Relative to the PCAs, as I mentioned, their conversations are primarily around the members' needs, the journey they're going on, helping them answer their questions, helping them schedule appointments, et cetera. They're not talking to them about any other type of activity relative to timing or anything else. As you might imagine, there's roughly 30,000 unique utilizers in a given quarter. Aggregating those conversations, even if they were happening, is not something that is realistic, but either way, they don't occur that way. The way I said it in the prepared remarks, they're just helping them get through and fulfilling their needs relative to what their current needs are.
+
+Anne E. Samuel
+Analyst, JPMorgan Securities LLC
+That's helpful. Thanks. And just wondering maybe is the kind of the national conversation around fertility and the recent election, maybe would you attribute some of the disruption that you've seen to that? Saw one of your competitors recently launched a faith-based fertility program. Are your members asking for anything like this? Do you think that that's factoring in at all?
+
+Peter Anevski
+Chief Executive Officer & Director, Progyny, Inc.
+Well, I haven't heard a request around the second part of your question in terms of faith-based programming or anything else like that, from our members or PCAs hearing that. I'm sorry what was [ph] the other (00:27:40) question?
+
+Michael Sturmer
+President, Progyny, Inc.
+[ph] Election (00:27:42).
+
+Peter Anevski
+Chief Executive Officer & Director, Progyny, Inc.
+Oh, it's hard to say whether or not the election had any impact on utilization or not. As you rightly point out, the election cycle did have fertility as part of the overall conversation. But, as we said earlier in year, the good news is that, on both sides of the aisle, they talked about protecting fertility. And so, that's positive. So, it's hard to know. We haven't heard of that or haven't heard anything around that in terms of it impacting it. So, I'd be guessing if I commented further.
+
+Anne E. Samuel
+Analyst, JPMorgan Securities LLC
+Great. Thanks. And if I could just squeeze in one more. We're just curious, now that you have a more kind of fulsome total women's health benefit, we've been hearing a lot from employers that they're looking for a really comprehensive benefit spanning all of women's health. Did that catalyze any of your conversations this year, maybe for the uptake of the core fertility benefit? And did that enable you to get maybe more employers than you were anticipating?
+
+Peter Anevski
+Chief Executive Officer & Director, Progyny, Inc.
+I will let Michael comment, and then I'll add some comments, if needed.
+
+Michael Sturmer
+President, Progyny, Inc.
+Yeah. So, thanks for the question. So, definitely saw good, strong interest in our new products, which certainly helped contribute to a successful sale season this year. That goes for both – from both a new logo prospect perspective as well as our existing book of business and adoption rate there. I'll turn it back to Pete for some additional color.
+
+Peter Anevski
+Chief Executive Officer & Director, Progyny, Inc.
+Yeah. So, the other color I would give is that if you look at – simply if you look at RFP activity, there was a greater percent of RFPs that were looking for a full suite – a fuller suite of solutions, even if they didn't buy them all, than there was in the prior year. But I think the most positive data point is that 40% of the new clients bought the additional products in addition to the fertility benefit. So I think, overall, it's supportive of the demand that you're talking about relative to more and more clients looking for a more fulsome solution.
+
+Anne E. Samuel
+Analyst, JPMorgan Securities LLC
+Great. Thank you.
+
+Operator
+Thank you. The next question will be from Allen Lutz from Bank of America. Allen, your line is live.
+
+Allen Lutz
+Analyst, BofA Securities, Inc.
+Good afternoon and thanks for taking the questions. Mark, one for you. The gross margin was under a little bit of pressure this quarter, and you called out care management services or investments in care management services. Can you talk about what exactly is driving the gross margin compression as it relates to that care management investment?
+
+And then, as we shift to 2025, can you provide just high-level commentary on what's going to drive the gross margin next year? I know you're dealing with a client loss, you have new offerings, there's these investments in care management that you're talking about. But how should we think about whether or not you can increase the gross margin into 2025? Thanks.
+
+Mark Livingston
+Chief Financial Officer, Progyny, Inc.
+Yeah. So, as it relates to this quarter, we do, and we have in each year, begin to build our staff in anticipation of the launches in the prior year, and we did that. So, that's part of what's showing a decline just sequentially in gross margin. The other is obviously the impact of the unexpected level of contribution from ART Cycle revenue, which was not planned for.
+
+And then as it relates to balance of the year, we're obviously looking at moderating the – and it was in my prepared comments – we're moderating the hiring in and around gross margins and the care management services teams that support them, although we will be growing next year. So – or at least, from our prepared comments, our membership will be growing next year.
+
+A little bit early, I think, to comment on exactly what we'll do in 2025, we typically give guidance for the year in February. We're in the middle of our budgeting processes right now. And as always, we'll be looking at all of our costs with a pretty close eye and planning for next year, given we now understand where our selling season's turned out and how our retention season has also turned out.
+
+Allen Lutz
+Analyst, BofA Securities, Inc.
+Great. And then one housekeeping question, 6.4 million members today, adding 1.1 million, that gets you to about 7.5 million, minus the disclosed client loss, gets us to about, call it, 6.83 million. That's a little bit of a delta versus the 6.7 million that you called out. Is there anything else to mention there, any other churn going on, or is it just sort of rounding? Thanks.
+
+Mark Livingston
+Chief Financial Officer, Progyny, Inc.
+Yeah. No, it's the – there's about 100,000 or so that actually went live this year. So, they're already part of the 6.4 million from the current selling season. So that's your – that's pretty much what your delta is.
+
+Allen Lutz
+Analyst, BofA Securities, Inc.
+Perfect. Thank you.
+
+Operator
+Thank you. The next question will be from Sarah James from Cantor Fitzgerald. Sarah, your line is live.
+
+Sarah E. James
+Analyst, Cantor Fitzgerald & Co.
+Thank you. I'll continue on the lines of just checking these numbers. So, if I add 80 clients to the current book, I get 548, not 530. There's an 18-account delta there. Are any of those account losses? And if so, is there any commonality?
+
+Peter Anevski
+Chief Executive Officer & Director, Progyny, Inc.
+Yeah, there's roughly – and again, as I talked about them, the roughly 100,000 lives that went live already, there's roughly 10, 12 new clients. And then, overall, in terms of losses, I think we have five losses overall.
+
+Sarah E. James
+Analyst, Cantor Fitzgerald & Co.
+Okay. Are you seeing demand in the market for plans that can offer a more moderated utilization trend? And do you anticipate having an offering that can serve that type of client?
+
+Peter Anevski
+Chief Executive Officer & Director, Progyny, Inc.
+I'm not sure if you could be more specific on what you're referring to relative to a moderated utilization trend. If you talk about a skinnier benefit or a sort of more pullback benefit or the ones that are out there already, which are dollar maximum benefits which effectively achieve that, they're out there, but we don't believe in those, in particular because when a dollar maximum benefit, you run out of your money in the middle of treatment, literally, and it's not a good experience. And members then operate in a world where they're operating with economic scarcity in their mind and try and preserve dollars and, therefore, forgo portions of treatments that have higher probability of success from a high birthrate. So, it's not something we believe in as a good member experience. But if you can clarify, if I'm thinking about something else, then I'm happy to answer the question.
+
+Sarah E. James
+Analyst, Cantor Fitzgerald & Co.
+Sure. Yeah. I was thinking about not just an employer that maybe wants to offer less cycles, but one that maybe wants to make those cycles harder to access, so technically offering, but not really having the level of utilization that you're used to.
+
+Peter Anevski
+Chief Executive Officer & Director, Progyny, Inc.
+Yeah. I'm not sure sort of what type of benefit that is. Again, we wouldn't support that. Either you believe your employees need the benefit and you believe your network and your network management, the physicians in your network are making decisions for appropriate treatment. But to restrict access sort of arbitrarily I don't believe in – we don't believe in. We believe in the doctors in the network making the medical decisions necessary for appropriate treatment.
+
+Sarah E. James
+Analyst, Cantor Fitzgerald & Co.
+Great. Thank you.
+
+Operator
+Thank you. The next question will be from Michael Cherny from Leerink Partners. Michael, your line is live.
+
+Michael Cherny
+Analyst, Leerink Partners LLC
+Hi. Good evening and thanks for taking the question. Maybe if I can dive into a little bit of the maternity and menopause services you talked about for 2025, again, not trying to get to guidance in any way, shape, or form at this point in time, but as you think about the materiality of those businesses for next year against your 2028 targets, which I recall were about for $200 million of run rate revenue by then, how is the sell-through on the new products that you expected tracking? And is there any way we should think about, qualitatively, how they should ramp at the start and then over the course of the year?
+
+Peter Anevski
+Chief Executive Officer & Director, Progyny, Inc.
+The sell-through, I think, was positive relative to our first year in market expectation. Having now launching – being live with the 1.5 million lives across the number of clients that we talked about, both new and existing, I think is really positive. It's the utilization patterns of those benefits, the take rate, if you will, awareness create across those members that are at those employers will be – what will be the progress that we'll see over not just the next year, but over the next couple of years.
+
+Michael Cherny
+Analyst, Leerink Partners LLC
+Got it. And I know the international acquisition you made was a small deal, but how do we see that flowing through into the model? Is there anything else you can give us financially on that in terms of are there lives covered that are part of your recent adds? Is there anything – I know it was tiny, but how are you thinking about the growth characteristics and the potential for contribution on that business?
+
+Peter Anevski
+Chief Executive Officer & Director, Progyny, Inc.
+Yeah. It's more of an opportunity for us relative to employers that are multinational employers that are looking to do something with their global employees in addition to doing something with their US employees. It's a recent investment, as you said, and a continued investment relative to having an offering not just in the fertility and family building space, but beyond that, even for global. But at this point, there weren't – I don't think there were lives.
+
+Mark Livingston
+Chief Financial Officer, Progyny, Inc.
+No, we did not attribute...
+
+Peter Anevski
+Chief Executive Officer & Director, Progyny, Inc.
+We did not attribute lives to global populations in the reported numbers. And given the recent timing of the acquisition, it's probably more of an opportunity for us for the 2025 selling season.
+
+Michael Cherny
+Analyst, Leerink Partners LLC
+Helpful, Pete. Thanks so much.
+
+Operator
+Thank you. The next question will be from Glen Santangelo from Jefferies. Glen, your line is live.
+
+Glen Santangelo
+Analyst, Jefferies LLC
+Hi. Yeah. Thanks for taking my questions. Hey, Pete, just two quick ones for you. I was wondering if you could just give us some sort of qualitative commentary on the selling season in terms of what you're seeing across the competitive landscape, because it certainly seems like your competitors, Maven and Carrot, are certainly starting to get more aggressive. And we've been starting to get questions around additional renewals you may have coming up because you obviously signed a lot of those clients back several years ago when maybe the competitive landscape was less intense. And so, I'm just kind of – any sort of qualitative commentary in terms of what you're seeing out there would be helpful. And then I just had a quick financial follow-up.
+
+Peter Anevski
+Chief Executive Officer & Director, Progyny, Inc.
+Yeah. I'll take the second part first, and then I'll have Michael comment on the selling season and competitive environment. As it relates to renewals, as you might imagine, right, our base of clients has been growing over years. So, every year, we have a significant amount of renewals coming up each and every year. right? They're three-year – generally three-year terms. And as I mentioned in the previous question, we only lost five clients, notwithstanding the large one that we announced, this past renewal season. So from a renewal perspective, we still maintain 99% of our client base. Go ahead, Michael.
+
+Michael Sturmer
+President, Progyny, Inc.
+Yeah. So just, overall, we've been operating in that competitive environment, as you referenced here, for at least a couple of years from sort of VC, privately held companies. And then, of course, we've operated from a health plan perspective, we really compete with them on each and every sale. Sort of from both perspectives, particularly when you look at our new sales this year, we saw consistent win rates against those competitors, especially – or I should say, including those jumbo clients that Pete referenced earlier, where, as you would imagine, those are some of the most competitive bids. And we fared well there and feel really good about our position there. And then as it relates to the health plans, again, that's an area that we've been competing for a number of years. And as we referenced earlier, starting to add on some of those health plans, sort of shifting them from competitors to partners, also we view as a positive competitive sign.
+
+Glen Santangelo
+Analyst, Jefferies LLC
+Okay. Awesome. Maybe if could just quickly follow up on the membership question. I mean, Pete, it looks like your membership's going to be up 3.5%, 4% on a sequential basis going into 2025, and I appreciate you don't want to give any guidance around fiscal 2025 at this point, but given where utilization rates trended in fiscal 2024, it's hard to imagine maybe to get much [ph] more growth (00:41:52). Is it reasonable for us to at least be thinking about the company generating revenue growth in fiscal 2025? Is that a fair assessment?
+
+Peter Anevski
+Chief Executive Officer & Director, Progyny, Inc.
+It's a fair assessment. Certainly, we've always talked about looking at lives relative to directional growth for the company. That said, given, A, the variability we've seen this year, plus having no visibility into the new clients and what their utilization might be, including what we talked about already relative to what we're seeing for Q4, but didn't guide to, I think it's prudent for us to withhold any sort of definitive comments for 2025 at this point.
+
+Glen Santangelo
+Analyst, Jefferies LLC
+Okay. Thank you.
+
+Operator
+Thank you. The next question will be from Jailendra Singh from Truist Securities. Jailendra your line is live.
+
+Jailendra Singh
+Analyst, Truist Securities, Inc.
+Thank you, and thanks for taking my questions. I want to go back to the issue of less consumption in Q3. First, I want to confirm, this is the same issue you guys called out for a miss and guidance cut on Q2 call, or are there any differences in trends or behaviors you're seeing, or just the same trend getting worse in Q3? And related to that, the recovery you're seeing in consumption in Q4 thus far, are you able to somehow figure out if this is pickup from members who started engaging in Q2 or Q3, or these are new members who are driving faster consumption? Just trying to understand if there's any structural change driving the timing lag between utilization and consumption.
+
+Peter Anevski
+Chief Executive Officer & Director, Progyny, Inc.
+Yeah. So, the first part of your question, what we saw in Q2, if you recall, was the increase in utilization – ART Cycles per utilizer that you would normally see sequentially from Q1 to Q2, we didn't see as big of an increase. The difference in Q3 is we now have seen a decline, which we've never seen before. So, that's the most stark difference relative to Q3 and what we saw there versus what we saw in Q2 was just a slower rate of growth. As it relates to the members in Q4 so far, they're across the board, new [ph] end (00:44:14) and those that have already begun their journey. And as we had commented for Q3, with impact to the ART Cycles per utilizers, that journey getting slightly elongated, and so by definition, it's going to get elongated into Q4 as opposed to having ended up in Q3 for a portion of those members.
+
+Jailendra Singh
+Analyst, Truist Securities, Inc.
+Okay. That's helpful. And then my follow-up, given all the volatility you have seen in results in 2024 around utilization and consumptions, Pete, what are your thoughts on business models where you have exposure to member utilization like today versus having a model which is much lighter and illustrative in nature while still adding value to clients through member engagement services? Are you open to having such arrangements with employers given the recent developments?
+
+Peter Anevski
+Chief Executive Officer & Director, Progyny, Inc.
+The short answer is yes. But beyond thinking about it, there's not anything that we've done with clients at this point. But we are thinking about different ways to mitigate utilization variability, but not much more to talk about at this point.
+
+Jailendra Singh
+Analyst, Truist Securities, Inc.
+Great. Thanks a lot.
+
+Operator
+Thank you. The next question will be from Stephanie Davis from Barclays. Stephanie, your line is live.
+
+Stephanie July Davis
+Analyst, Barclays PLC
+Hey, guys. Thank you for taking my question. We have seen just such a prolonged period of a typical mix in utilization and consumption, I kind of want to pull on the same thread that Jailendra was. Have you talked to any of your clinic partners to see if this is reflective of the broader trends such as new tech or higher incidence of PGT testing that's improving the efficacy of transfers, or potentially GLP-1s having some impact like PCOS and driving improved fertility? Because this is – I mean, it's too early to call a trend, but it's been a few quarters.
+
+Peter Anevski
+Chief Executive Officer & Director, Progyny, Inc.
+So, thanks for the question, Stephanie. Regarding the last two points, we haven't heard anything from the clinics related to GLP-1s or higher PGT or PGT-A testing, which would result in more favorable clinical outcomes, which I think we are alluding to.
+
+As it relates to trends in consult to treatment timing, a few of the clinics have observed the same thing, especially on the West Coast, and also have observed lighter utilization of egg-freezing benefits, and we're also seeing some of that. But, again, in Q4, we're seeing a reversal of that, if you will, or at least the beginning of a reversal versus what we saw in Q3, which is why in my remarks I talked about it's too early to call it a trend, and it's more of a short-term phenomenon, I'll call it, which right now we're not guiding differently to, but we are seeing the beginning of a reversal, if you will, relative to overall ART Cycles per utilizer, and within that, related to my comment now, within that, on the egg-freezing side, particularly.
+
+Stephanie July Davis
+Analyst, Barclays PLC
+Now, I have a follow-up for Mark, and you're kind of going to hate this question, so I just want to keep that in mind. But given some of the lessons learned from guidance this past year, are you thinking of maybe taking a more conservative approach to guidance as you look at 2025 or how are you changing your philosophy?
+
+Mark Livingston
+Chief Financial Officer, Progyny, Inc.
+Well, look, I think we've certainly learned lessons throughout 2024, but really they're about the variability that's happening within the business itself. And so, what we're doing here this quarter is incorporating a greater emphasis on the variability that we're seeing, and a little bit less reliance on the most current data point to drive where we think those ranges should be set. And so, that's the philosophy that we're going with right now.
+
+Stephanie July Davis
+Analyst, Barclays PLC
+All right. Thank you much.
+
+Operator
+Thank you. The next question will be from Scott Schoenhaus from KeyBanc. Scott, your line is live.
+
+Scott Schoenhaus
+Analyst, KeyBanc Capital Markets, Inc.
+Thanks, team, for taking my question. I just want to kind of dig into the selling season more. So, the 6.7 million lives that you stated for next year, the 1.1 million you added this year, I just want to make sure the 300,000 federal that were added this past year, those are still consulting only. They're not full ART Cycles. And then I wanted to ask about the 1.1 million lives added for next year. Can you give us any color on where the distribution, what kind of industry, is it broad-based or is it more in the middle of the country? Like you kind of referenced last selling season, you were making more progress towards the middle of the country. Sort of any more color there on the cohort of these new clients added.
+
+Peter Anevski
+Chief Executive Officer & Director, Progyny, Inc.
+Sure. I'll comment, and then Michael will add anything. Regarding your first question, yes, the 300,000 lives are still – don't include the full benefit. So, they're same as what they were. This year is the easiest way to describe it. As it relates to the distribution on the new sales, they're across – regarding the industry question first, they're across a couple of dozen industries. I listed out a bunch of them in the prepared remarks, and they're also – from a size distribution perspective, they almost reflect our existing book of business in terms of distribution, small to big, relative to size distribution, if that's what you're referring to in terms of distribution.
+
+Michael Sturmer
+President, Progyny, Inc.
+Yeah, I mean, very similar makeup to prior years from a demographic and distribution of industry perspective as well as, as Pete said, from a size perspective. As was referenced in the comments, we did have a nice season with jumbos this year. And outside of that, again, nothing different necessarily from a makeup of the sale season.
+
+Operator
+And the next question will be from Richard Close from Canaccord Genuity. Richard, your line is live.
+
+Richard Close
+Analyst, Canaccord Genuity LLC
+Yes. Thanks for the questions. Congratulations on the selling season. Just on the losses that you talked about and then there's the large client as well, is there anything, any similarities or commonalities in those losses that you've gleaned in looking back at those?
+
+Peter Anevski
+Chief Executive Officer & Director, Progyny, Inc.
+The short answer is no. Again, there were only five, and – including the large one that we announced, and there's sort of no commonalities. There are different reasons. Sometimes their loss is relative to the parent company being acquired or them being acquired, which was one of them. So, not always dissatisfaction or anything else like that relative to the benefit. But, with five of them, the answer is no, there weren't really any commonalities.
+
+Richard Close
+Analyst, Canaccord Genuity LLC
+Okay, great. That's good to hear. And then with respect to the health plans and the success there, obviously, that's relatively new beginning, I guess, what, last – second half of last year, and then now a national and another regional. As you think about how – bringing those customers on, is there any difference versus employers in terms of maybe utilization or consumption in those populations, or is it just too early to tell?
+
+Michael Sturmer
+President, Progyny, Inc.
+Yeah. So, just to clarify the sort of difference in unique partnerships there. So, when we talk about the health plans, they really function more as partners as we go to market versus sort of a utilization the way we would think about clients. Then, within those partnerships from the health plan side, again, similar to other partners that we have today, we'll bring employers on sort of through that partnership, and then we've seen then utilization of those employers, again, function similarly to how whether an employer comes on direct or through a partner, the utilization of those, we haven't seen differences in depending on how they contract with us.
+
+Peter Anevski
+Chief Executive Officer & Director, Progyny, Inc.
+Yeah, there's no impact – said a different way, there's no impact whether or not to direct sale or through a partner on utilization, there's nothing structural there that would impact it in any way. And then we had made a comment that some of them trusted us with their employees as well as a client in-house account, that's just normal utilization, normal onboarding for employees, no different than any other client.
+
+Operator
+Okay. The next question will be from David Larsen from BTIG. David, your line is live.
+
+David Larsen
+Analyst, BTIG LLC
+Hi. When I was at the health conference recently, I heard from a couple of your competitors, Kindbody, Maven, and also Carrot. A couple of the things, broadly speaking, that I was hearing were things like maybe a company wants a $10,000 or a $20,000 or a $30,000 max sort of benefit, which I think maybe you would describe as being low. I think the way you described it, Peter, was $1 max benefit or something like that. I mean, do you have a product or a program that can accommodate something like that and then maybe, however you want to describe it, upsell them or grow the product over time? Just any thoughts there would be helpful. Because the mix – it seems to me like you're winning more blue collar accounts, so they have less money to spend, so they'll buy fewer IVF cycles, which basically explains your consumption challenge. Just any thoughts there would be very helpful. Thank you very much.
+
+Peter Anevski
+Chief Executive Officer & Director, Progyny, Inc.
+Yeah, let me clarify that. So, I'm not sure what you're referring to in terms of blue collar accounts. The clients we're winning are adopting the benefit the same way they've been adopting it, two-cycle, three-cycle benefit. They're full treatment bundles. They're full cycles. They're not limited by an arbitrary dollar constraint. So when I refer to a dollar maximum benefit, regardless of the amount you pick, you're limited – the person is limited in their lifetime with their employer as to how much actual dollars they can spend against the benefit.
+
+So, when a company and a vendor offers a $10,000 maximum benefit, they're not even offering enough money for one actual medical treatment for IVF, not even close, right? Whether they offer a $20,000 maximum benefit, they're not offering enough statistically to have a baby for most people because national live birthrates are below 50% and a cycle with the drugs is going to be in the $20,000-plus range. So, mathematically, you're not going to get there, right?
+
+And so, the clients that are buying our benefit understand that an arbitrary dollar maximum benefit is an inequitable benefit. And because around the country, especially if you're a national employer, reimbursement rates vary dramatically. And so, certain people in the middle of the country, where reimbursement rates are lower, are going to have more attempts under a dollar maximum benefit than employees that you might have on the East and West Coast where reimbursement rates on average are higher.
+
+But either way, a dollar maximum benefit drives, as I said before, different behavior by the patient in the doctor's office as they're making decisions for treatment. And those decisions are made from a position of economic scarcity where they're trying to preserve dollars and, therefore, select things that otherwise would help them achieve success. And so, sort of the upsell concept is a good one, but we have an offering. And the offering is if you want to do a one-cycle benefit, you could do it, but having a dollar maximum, we believe, is not the right way to do it.
+
+Operator
+Thank you. That does conclude today's Q&A. I'll now hand the call back to James Hart for closing remarks.
+
+James T. Hart
+Vice President-Investor Relations, Progyny, Inc.
+Thanks, Paul, and thanks, everyone, for joining us this afternoon. We hope you found the call informative, but as always feel free to reach out to me at any time for any follow-up. Otherwise, we look forward to speaking to you at the start of the year.

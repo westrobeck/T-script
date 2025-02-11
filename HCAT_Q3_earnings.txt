@@ -1,0 +1,382 @@
+Good afternoon, and welcome to Health Catalyst's earnings conference call for the third quarter of 2024, which ended on September 30th, 2024. My name is Jack Knight. I'm the Vice President of Investor Relations for Health Catalyst. And with me on the call is Dan Burton, our Chief Executive Officer; Jason Alger, our Chief Financial Officer; and Dan LeSueur, our Chief Operating Officer.
+
+A complete disclosure of our results can be found in our press release issued today, as well as in our related form 8-K furnished to the SEC, both of which are available on the Investor Relations section of our website at ir.healthcatalyst.com. As a reminder, today's call is being recorded and a replay will be available following the conclusion of the call.
+
+During today's call, we will make forward-looking statements pursuant to the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995 regarding our future growth and our financial outlook for the remainder of 2024 and full year 2025. Our ability to attract new clients and retain and expand our relationships with existing clients, trends, strategies, the impact of the macroeconomic challenges, including the impact of inflation and the interest rate environment, the tight labor market, bookings, our pipeline conversion rates, the demand for deployment and development of our data and analytics platform, M&A activity and the general anticipated performance of our business. These forward-looking statements are based on management's current views and expectations as of today and should not be relied upon as representing our views as of any subsequent date. We disclaim any obligation to update any forward-looking statements or outlook. Actual results may materially differ. Please refer to the risk factors in our Form 10-Q for the second quarter 2024 filed with the SEC on August 8th, 2024 and our Form 10-Q for the third quarter of 2024, that will be filed with the SEC.
+
+We will also refer to certain non-GAAP financial measures to provide additional information to investors. Non-GAAP financial information is presented for supplemental informational purposes only as limitations as an analytical tool and should not be considered in isolation or as a substitute for financial information presented in accordance with GAAP. A reconciliation of non-GAAP financial measures for the third quarters of 2024 and 2023 to their most comparable GAAP measures is provided in our press release. However, we have not provided forward-looking guidance for professional services gross margin, the most directly comparable GAAP measure to adjusted professional services gross margin discussed today. Technology gross margin, the most directly comparable GAAP measure to adjusted technology gross margin discussed today, or net cash from operating activities, the most directly comparable GAAP measure to adjusted free cash flow discussed today. And have therefore not provided related reconciliations of these non-GAAP measures to their most comparable GAAP measures because they are items that are not within our control or cannot be reasonably forecasted.
+
+With that, I will turn the call over to Dan Burton. Dan?
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+Thank you, Jack. And thank you to everyone who has joined us this afternoon. We are pleased to share our third quarter 2024 financial performance and other recent highlights. I will begin today's call with summary commentary on our third quarter 2024 results and outlook. We are encouraged by our third quarter 2024 financial results, including total revenue of $76.4 million and adjusted EBITDA of $7.3 million, both of which exceeded the midpoint of our previous guidance. Additionally, we are updating our expectations for both revenue and adjusted EBITDA for 2024.
+
+On revenue, we now anticipate 2024 revenue will be between $305 million and $311 million. On 2024 adjusted EBITDA, we are raising our expectations to between $25 million and $27 million. Likewise, we are pleased with our bookings performance through Q3 2024 and we are reiterating our full year 2024 bookings expectations, inclusive of net new platform subscription client additions and dollar-based retention rate. We will discuss in greater detail shortly.
+
+Now, let me highlight some additional items from the quarter. You will recall from our previous earnings calls that we measure our company's performance in the three strategic objective categories of improvement, growth and scale. And we'll discuss our quarterly results with you in each of these categories.
+
+The first category improvement is focused on evaluating our ability to enable our clients to realize massive, measurable improvements, while also maintaining industry leading client and team member engagement. Let me begin by sharing an example of a client improvement from a recently published case study. Archiving unique and complex data is challenging for health systems, as data resides in multiple disparate systems and includes both structured and unstructured data. Traditional healthcare data archiving methods can be costly and inefficient, which hinders data sorting and utilization efforts.
+
+Guy's and St. Thomas' NHS Foundation Trust recognized the need for a scalable and sustainable approach to archiving and accessing clinical data. The organization was committed to maintaining access and utilization of historical data dating back as far as 30 years. But it lacked scalable and sustainable approaches to archiving, and quickly accessing clinical data from decommissioned legacy systems. Several legacy systems were built on aging technology, which increases the risk of data breaches and system failures. As a result, Guy's and St. Thomas' initially attempted to build an in-house solution, but increasing costs and complication slowed development time, and the organization needed to find a better solution quickly to preserve historical data. To combat this issue, Guy's and St. Thomas' partnered with Health Catalyst to ingest data from 60 source systems into the Health Catalyst data platform to streamline its data archiving processes.
+
+The Health Catalyst data platform offers many advantages compared to cold storage, as our platform can provide a secure, modern and reliable system, ensuring that teams across the organization can continue to access the data. Together with Guy's and St. Thomas', we built analytics applications to visualize data and provide comprehensive reporting to help drive actionable improvements. By leveraging Health Catalyst data platform, the organization created a robust, scalable and cost-effective long-term solution that helps Guy's and St. Thomas' improve patient outcomes and realize operational efficiency, resulting in over $8.5 million in cost savings. Following these positive results, the organization plans to build additional analytics and aggregate data from 70 more source systems into the data platform. Also in the improvement category, we have been fortunate to receive additional external recognitions.
+
+First, we are excited to be named one of the best workplaces in healthcare by Fortune for the second year in a row. As a top workplace in Utah by the Salt Lake Tribune for the 11th year in a row, and as one of America's greatest workplaces for people with disabilities by Newsweek. We were also honored as part of the Utah 100 by Mountain West Capital for the 10th time, a list that includes the fastest growing companies in Utah.
+
+Lastly, we are excited to share that Jessica Curran, our Vice President of Data Science and Analytics was recently named a finalist for the Women Tech Awards by the Women Tech Council, recognizing the exceptional work Jessica does as the product owner for Health Catalyst's Healthcare.AI, a suite of AI products and expert services that help hospitals and health systems dramatically expand the use of AI to improve healthcare decision making.
+
+Our next strategic objective category is growth, which includes expanding existing client relationships and beginning new client relationships. Consistent with what we have shared over the last few quarters, we are encouraged to see health system operating margins steadily improving and stabilizing. This improving end market contributes to our robust pipeline and our continued confidence in our expectation that our top line growth will accelerate back to double-digits in 2025. As such, we are reiterating our full year 2024 bookings expectations, inclusive of net new platform subscription additions in the low-20s, and our dollar-based retention rate between 100% and 106%. We are excited that low-20s net new platform subscription additions will represent the best year in Health Catalyst's history for this metric, underscoring the significant client demand we continue to see for our solutions.
+
+Related to our full year 2024 bookings expectations, let me first share q reminder that similar to prior years, Q4 is anticipated to be an important bookings quarter. For new clients, we continue to anticipate the average ARR plus non-recurring revenue for 2024 net new platform subscription clients will be between $400,000 and $1 million. As it relates to our 2024 dollar-based net retention, we are reiterating our expectations shared on our Q2 call of 100% to 106%. Q4 bookings will have a significant impact on where we end up on our new client performance and dollar-based net retention for 2024.
+
+As a reminder, dollar-based net retention excludes items such as non-recurring professional services revenue, as well as expansions within our non-platform application only client base. We anticipate these two categories of existing client expansion, which fall outside of the current definition of dollar-based retention will be meaningful drivers of revenue growth, and we expect they will also contribute to our adjusted EBITDA growth in 2025 due to their higher margin profile than TEMS expansions. Given that these important growth categories fall outside of our current definition of dollar-based retention and our desire to provide shareholders with meaningful insight into our growth drivers, we are continuing to consider whether it would be helpful to update the growth metrics we have historically shared. We anticipate we will be in a position to share this potential update in early 2025. Given the importance of our next generation Ignite platform and enabling our growth and product strategy and consistent with last quarter's earnings call, our Chief Operating Officer, Dan LeSueur has joined this earnings call. We expect that he will join future earnings calls to provide status updates and to help answer Ignite-related questions.
+
+With that, let me turn some time over to Dan LeSueur.
+
+Dan LeSueur
+Chief Operating Officer, Health Catalyst, Inc.
+Thank you, Dan. We continue to see strong demand among existing clients to migrate to Ignite and steady progress with implementing migrations that are underway. We are generally on schedule relative to forecasted timelines for migrations and we have a dedicated team that is assisting with these migrations and we anticipate, we will continue to migrate our existing DOS clients to Ignite over the next couple of years. We also continue to welcome new clients directly onto the Ignite platform.
+
+Given the advantages of the Ignite platform related to elastic compute modularity, we're pleased to offer a flexible menu of options for clients to benefit from these improved efficiencies. These options include expanding their relationship and spend by purchasing additional applications and features, immediate savings while maintaining the same functionality through a price reduction as part of the migration or maintaining existing spend and realizing improvements in operations and functionality from the enhanced capabilities of Ignite. Over the course of the next few years, we anticipate our clients will continue to follow along the spectrum of these three options.
+
+Importantly, during this migration, we will continue to be proactive in cross-selling and upselling additional applications to drive expansion within our existing client base, while also ensuring that we provide compelling value to our clients.
+
+With that update, let me turn it back to Dan Burton.
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+Thank you for that update, Dan. Next, I want to highlight a meaningful expansion with a longstanding client. Wisconsin Statewide Health Information Network, or WISHIN, an independent, not-for-profit organization dedicated to bringing the benefits of widespread, secure, interoperable health information technology to patients and caregivers throughout Wisconsin, has expanded its partnership with Health Catalyst. This multi-year expansion includes migration of technology and services to Ninja Universe, Health Catalyst's Ignite interoperability platform. Ninja Universe is an end-to-end cloud-native platform with applications purpose built for health information exchanges like WISHIN. We are excited and grateful for the opportunity to expand our partnership and look forward to continuing to help support WISHIN in our shared commitment to improve the health of individuals and communities in Wisconsin.
+
+Additionally, I'm excited to announce a meaningful new client partnership with CyncHealth. CyncHealth also recently selected Health Catalyst's Ninja Universe Solution, our Ignite interoperability platform. By leveraging Ninja Universe, we are excited to help CyncHealth achieve its mission to bring trust and value to health information technology by creating solutions for moving health data forward. Additionally, we are pleased to announce that we recently signed a new Ignite partnership with [indiscernible] (00:16:53) Nebraska to provide them with a robust data and analytics infrastructure to support their strategic initiatives. We continue to anticipate a return to double-digit revenue growth and approximately 50% growth in adjusted EBITDA in 2025 as compared to 2024. consistent with our prior commentary and even after raising our 2024 adjusted EBITDA guidance. As always, execution against our Q4 bookings targets is an important contributor to achieving our 2025 growth expectations.
+
+I would also like to share a few comments related to our acquisition strategy. Consistent with what we have shared in the past, we are excited to announce we have signed a definitive agreement to acquire Intraprise Health. Intraprise is a tech-enabled cybersecurity provider, offering an end-to-end cybersecurity risk management platform and services to protect its clients from cyberattacks and manage follow-on liability in the event of an incident.
+
+Cybersecurity is a critically important area for our clients. And Intraprise is ranked number one in classes recent rankings in this category. We look forward to welcoming Intraprise to Health Catalyst and are excited about how this combination will help drive growth and help us continue to address the areas that are most important to our clients, including a robust security infrastructure as part of our Ignite solution. The purchase price is $43 million and will be a combination of cash and equity. We anticipate this acquisition will close by the end of the year and it will be immaterial to our financial statements in the near term.
+
+Over the last several years, we've made a number of strategic acquisitions. We have developed an integration playbook that allows us to efficiently and effectively integrate a new asset into the broader Health Catalyst solution ecosystem so that we can drive maximum value for our clients and create maximum value for our shareholders. That integration playbook includes cross-training sales teams, quickly identifying areas of redundancy and driving toward an optimal cost structure.
+
+Further, we have continued to maintain a pipeline of acquisition opportunities that enable us to act as a consolidation platform and support our clients and their improvement goals. We anticipate we will continue to be a consolidator, which will help us deepen our relationships with clients through our cross-selling efforts, where as a reminder, we are more than twice as effective in selling to clients when we have an existing relationship compared to a new prospect that doesn't have a relationship with Health Catalyst. We've heard consistent feedback from our clients that they will continue to focus on consolidating their vendor relationships, and we believe our acquisition strategy positions Health Catalyst well to be one of these long-term strategic partners.
+
+Before turning the time over to Jason, I also want to share that we are honored to announce that Dr. Jill Hoggard Green will be joining the Health Catalyst Board of Directors effective December 1st, 2024. Jill is the former Chief Executive Officer of The Queen's Health System and has been an extraordinary leader throughout her career. A registered nurse, whose career includes work with oncology, bone marrow transplant units and hospice programs, and at leading hospitals, ambulatory and home health services in Utah, Oregon, and North Carolina, Jill has dedicated her life to improving patient care. We are excited for Jill to join our Board of Directors and anticipate her contributions will be significant and impactful over the months and years to come.
+
+With that, let me turn the call over to Jason. Jason?
+
+Jason Alger
+Chief Financial Officer, Health Catalyst, Inc.
+Thank you, Dan. Before diving into our quarterly financial results, I want to echo what Dan shared and say that I am pleased with our third quarter performance. Before jumping into our strategic objective category of scale, I would be remiss if I didn't highlight Dan Burton's continued commitment to servant leadership. Dan was recently awarded both a Decade of Impact Award by the Women Tech Council and as a Healthcare Hero by Utah Business Magazine. We feel fortunate to have Dan leading our company, and it's a great pleasure to work alongside such a tremendous leader.
+
+I will now comment on our strategic objective category of scale. For the third quarter of 2024, we generated $76.4 million in total revenue. This represents an outperformance to the midpoint of our guidance, and it represents an increase of 3% year-over-year. Technology revenue for the third quarter of 2024 was $48.7 million, representing 6% growth year-over-year. Professional services revenue for Q3 2024 was $27.7 million, roughly flat year-over-year. For the third quarter of 2024, total adjusted gross margin was 48%, representing an increase of approximately 70 basis points year-over-year.
+
+In the Technology segment, our Q3 2024 adjusted technology gross margin was 65%, a decrease of approximately 330 basis points relative to the same period last year, and roughly in line with previously shared expectations. This year-over-year performance was mainly impacted by upfront costs associated with the deployment of Ninja Universe, Ignite's interoperability platform without associated revenue, which generally ramps six months or more after contract signing, as well as temporary headwinds due to the ongoing migration efforts from DOS to Health Catalyst Ignite.
+
+In the Professional Services segment, our Q3 2024 adjusted professional services gross margin was 17%, representing an increase of approximately 550 basis points year-over-year and a decrease of roughly 330 basis points relative to the second quarter of 2024. This quarterly performance was primarily driven by a combination of ongoing service costs prior to recognition of revenue on project-based arrangements and slightly more TEMS resourcing in ambulatory operations.
+
+In Q3 2024, adjusted total operating expenses were $29 million. As a percentage of revenue, adjusted total operating expenses were 38%, which compares favorably to 44% in Q3 2023 and highlights our continued focus on driving additional operating leverage and cost discipline. Adjusted EBITDA in Q3 2024 was $7.3 million, exceeding the midpoint of our guidance and representing an increase of $5.3 million relative to the same period last year. This Q3 2024 adjusted EBITDA result was mainly driven by the quarterly revenue outperformance mentioned previously, along with the timing of some non-head count expenses that we anticipate will be pushed out to the fourth quarter. Our adjusted net income per share in Q3 2024 was $0.07. The weighted average number of shares used in calculating adjusted basic net income per share in Q3 was 60.4 million shares.
+
+Turning to the balance sheet, we are pleased with the strength of our financial position, which provides us with meaningful financial and strategic flexibility. We ended Q3 2024 with $387.2 million of cash, cash equivalents and short-term investments, compared to $308.3 million as of Q2 2024. In terms of liabilities as of the end of Q3 2024, the face value of our outstanding convertible notes is a principal amount of $230 million due in April 2025. And the face value of our initial term loan is $125 million. As it relates to our financial guidance for the fourth quarter of 2024, we expect total revenue between $78 million and $84 million and adjusted EBITDA between $6.8 million and $8.8 million. And for the full year 2024, we expect total revenue between $305 million and $311 million and adjusted EBITDA between $25 million and $27 million, which represents an increase of $1 million to both the bottom and top ends of the range.
+
+Now let me provide a few additional details related to our Q4 2024 guidance. We continue to anticipate that our year-over-year total revenue growth will be higher in the second half of 2024 compared to the first half of 2024. With that said, we have seen a few dynamics that are impacting our second half and Q4 revenue growth, which helped inform our wider than typical revenue range for Q4.
+
+First, as we mentioned on our prior earnings call, we signed more contracts in the first half of 2024 related to International and Health Information Exchange clients. These contracts generally take longer to ramp into revenue than traditional Ignite contracts. These extended timelines can have an impact on our quarterly revenue expectations as the revenue recognition for some of these contracts could be delayed into early 2025.
+
+Next, we've also seen a few projects that would result in one-time revenue recognition be pushed into early 2025, where we initially forecasted that these would be finalized in 2024, which would have allowed us to recognize the revenue in 2024.
+
+Lastly, as we have mentioned previously, throughout 2024, we have proactively shifted our focus towards the higher margin solutions in our pipeline. And we are pleased that this mix has contributed to our adjusted EBITDA progress, which is ahead of our initial guidance. The shift in our focus has also resulted in lower TEMS bookings than we had initially forecasted. While we are very encouraged with our profitability progress, this lower bookings performance in TEMS has a near-term impact on our Q4 and 2024 revenue. In terms of our adjusted gross margin, we anticipate our Q4 adjusted technology gross margin will be roughly in line with Q3 performance as we continue to focus on migrating our clients from DOS to Ignite and as Ninja Universe costs continue prior to revenue recognition.
+
+In the professional services segment, we anticipate that our Q4 adjusted professional services gross margin will be down compared to Q3 2024. Some of this decline relates to incremental resourcing of TEMS specifically for ambulatory operations. Additionally, similar to prior years, there is some seasonality in expenses such as medical claims, which hits disproportionately in Q4. We anticipate this professional services' gross margin performance will improve moving into Q1 2025.
+
+As it relates to our operating expenses, we expect to continue to see material operating leverage moving forward, and generally anticipate that quarter-over-quarter performance in our operating expense categories will be roughly flat compared to Q3 2024. We are very encouraged with our profitability progress thus far in 2024, which informed our decision to raise our expectations for adjusted EBITDA for 2024. Additionally, we are encouraged that through Q3 2024, our operating cash flow was $18.1 million. We anticipate our adjusted free cash flow will be meaningfully positive in 2024 and in 2025. This is a testament to our commitment to financial discipline, operating leverage and profitable growth.
+
+With that, I will conclude my prepared remarks. Dan?
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+Thanks, Jason. In conclusion, I would like to recognize and thank our committed and mission aligned clients and a highly engaged team members for their dedication and contributions to these results and this progress, as well as express my optimism for our future.
+
+And with that, I will turn the call back to the operator for questions.
+
+Question And Answer Section
+Operator
+Certainly. And the floor is now open for questions. [Operator Instructions] Our first question comes from [ph] Jesse Hasse (00:31:05) with William Blair. Please go ahead.
+
+Jared Haase
+Analyst, William Blair & Co. LLC
+Yeah. Jared Haase here on for Ryan Daniels from Blair. Thanks for taking our questions. Maybe I'll ask one just on the outlook here and kind of the setup for 2025 and returning to double-digit growth. Obviously, you mentioned a couple of times in the prepared remarks, kind of the importance of the fourth quarter here as a bookings period to set up next year's performance. Just hoping to hear a little bit of color around, I guess, what you're seeing in the pipeline, how those sales opportunities are progressing today, sort of relative to what you need to hit that double-digit growth profile in 2025?
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+Yeah, thank you for the question, Jared. So happy to talk about those three building blocks as we see them playing out and contributing to that growth profile in 2025 that we did reiterate our confidence in achieving. So the first is our new client additions. And as we mentioned in the prepared remarks, we're on track for in that particular metric, what would be the best year in Health Catalyst's history in terms of the net new logos that we add, the net new platform subscription clients that we add in the low-20s. We also shared that average ARR range, ARR plus in our range of between $400,000 and $1 million on average. That would then contribute to that first building block of growth. And we feel good about where we are year-to-date. We feel good about the pipeline that we have and we're excited to execute well against that pipeline. So that's the first building block.
+
+The second building block is expanding with our existing clients. We're pleased to see continued strength and progress as it relates to our gross client retention rates, with churn levels coming down this year meaningfully relative to last year, and we're encouraged to see meaningful expansions happening, particularly in areas that are higher profit margin within our pipeline, in our portfolio, including tech expansions with existing clients. Those non-recurring contracts that are being signed as part of expansions that those non-recurring contracts do fall outside of the current definition of dollar-based retention, but nonetheless do directly contribute to that existing client expansion as the second building block of our growth moving forward. And we feel good. And that informed our reiteration of that second metric as well coming into the end of the year here.
+
+And then the third building block of growth is our inorganic activities. And while each individual acquisition that we've now announced throughout 2024 has been small and contributes immaterially on its own, from a revenue perspective. Those new applications, those new solutions go into our growth engine. And in particular that cross-sell engine that has proven very efficient and very productive and effective where we see a conversion rate that's more than double that conversion rate when we're cross-selling to an existing client where we have a relationship. And when we're selling at the apps there, that's among the highest profit margin aspects of our portfolio. So, you get a double benefit in that third building block of growth, a smaller benefit initially as it relates to any individual acquisition from a revenue contribution. But it flows into that growth engine of cross-sell, which is so effective for us. Those three building blocks will contribute to that return to double-digit top line revenue growth in 2025. And we feel good about where we are.
+
+As is always the case, Q4 is always an important quarter, but we're encouraged by the pipeline that we have, by the progression within that pipeline. And that informed, our decision to reiterate that confidence level and return to double-digit revenue growth for next year.
+
+Jared Haase
+Analyst, William Blair & Co. LLC
+Perfect. That's super helpful, and appreciate all the color.
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+Thanks, Jared.
+
+Operator
+Thank you. We'll take our next question from Elizabeth Anderson with Evercore ISI. Please go ahead.
+
+Hi. Thanks for taking the question. This is Joanna [ph] for Elizabeth. So I guess my question is, looking to 2025, are you expecting a similar bookings mix in 2024? Like with more bookings coming from international and information exchange customers followed due to the traditional healthcare system base? Thank you.
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+Yeah, great question. So we are encouraged to see some really strong performance year-to-date in 2024, among those two groups, our international growth opportunities as well as our health information exchange growth opportunities. And those are meaningful expansions. They tend to be higher profit margin expansions where there's a high proportion of that revenue base, that is technology revenue, which we really like. One of the dynamics that is a little bit more challenging at least in the near-term is those implementations tend to be a little bit more complex, a little bit more involved. That's more of a near-term challenge. And once we get through that initial implementation, then those clients will behave in many of the same ways as our other clients in terms of their predictability, those are recurring revenue relationships, and so they contribute to the business model overall at Health Catalyst of 90-plus-percent of our revenue being recurring in nature and therefore we have a lot of visibility.
+
+Now as I think about 2025 moving forward, I will share with you we're encouraged to see a meaningful pipeline of both international opportunities and health information exchange opportunities among other meaningful opportunities that we see in our pipeline. And we're encouraged to see some pretty meaningful market leadership in the Health Information Exchange space. We want that to continue. Absolutely, which brings a little bit of a near-term complexity in terms of those initial implementations, but brings lots of long-term advantages and lots of similarities to the advantages of the rest of our business in terms of that recurring revenue sticky, really fundamentally important solution set that we're providing that tends to skew a little bit more towards technology revenue.
+
+Operator
+Thank you. We will take our next question from Jessica Tassan with Piper Sandler. Please go ahead.
+
+Jessica E. Tassan
+Analyst, Piper Sandler & Co.
+Hi, guys. Thank you for taking the questions. I think you guided to a couple points of growth in 2025 related to one-time or non-recurring services contracts. Can you just first off, help us understand, are those related to existing customers or new customers? And then secondarily, are those -- should we think about those as like international implementations? Because as I guess that would make sense to me and I'm curious to know in these international deals, are you accompanying the software with services or are these again, just I think you sort of mentioned this, but are they strictly software contracts outside of implementations? Thanks.
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+Yeah, great question, Jess. So, as it relates to the first question, those non-recurring services contracts skew very heavily towards existing client relationships. And they include the existing client relationships in the US and internationally. We've really seen an expansion of those non-recurring contracts really related to ongoing initiatives that are focused on clinical, operational and financial improvements. And we've found that clients appreciate the budget structure of a non-recurring contract that has a starting point and an ending point. It's easier to get those approved internally because they have a starting point and an ending point and a finite number of dollars that we're asking for. And we prefer it because we see our clients continuing to stack more and more of these non-recurring contracts on top of each others, such that there's a component of ongoing spend that is reoccurring, even though the contract structure itself is not recurring. So, it is a meaningful expansion. That's not just one time in what we're observing, even though the contract structure is non-recurring in its nature. So we're seeing it across US, as well as international. And we are seeing it as an important complement to our technology revenue that services piece is often accompanying. In most cases, there is a services component that is accompanying the check revenue contracts that we're signing.
+
+Operator
+Thank you. We will take our next question from Stephanie Davis with Barclays. Please go ahead.
+
+Anna Kruszenski
+Analyst, Barclays Capital, Inc.
+Hi, guys. This is Anna Kruszenski on for Stephanie. Thank you for taking my question. I was hoping to hear more about the Intraprise acquisition. And while we know that there is cybersecurity demand, given all the breaches seen this year, could you talk more about what synergies the asset has with Health Catalyst's core platform and value proposition? Thank you.
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+Yeah, great question. Anna, thank you for the question. So, one of the recurring themes that we try to follow as a strategy at Health Catalyst is that we keep our ear to the ground and we have ongoing client discussions about areas of most importance to them. And security is essentially every CIO, every CISO that we talk with among our client base. And that's only been strengthened by some of the recent incidents that have occurred over the last nine months or so. So, it's a huge area of focus for our health system clients. It's a really important area of need.
+
+And for many years, we've been asked at Health Catalyst, because we're an important part of the technology infrastructure to provide a level of visibility and reassurance to our clients that we are really strong and robust in terms of our own security infrastructure as it relates to Ignite and before Ignite, other instances of the data platform. And fortunately, we have a very strong long-term track record, we have been investing very meaningfully and we have a robust infrastructure and a strong track record. So, that was one of the synergies that led us to think a little bit more broadly as our clients would ask us usually a two-part question.
+
+The first part was focused on, how well is your security infrastructure supporting your solutions? And then as they got more and more confidence in our own infrastructure. A second question was could you help us to strengthen our infrastructure more broadly? And that's what led us to really think about this as an area of complimentary strength that we could offer as a real natural extension to what we do with our clients already, both from a technology and a services perspective of providing that robust infrastructure that includes the need for security, the need for certifications that, that then, by extension can provide our clients with an ability to build trust and build and strengthen their own relationships with their members or their patients to showcase that they're providing the right amount of investment. They're paying attention to this important area. And that's hard to do on your own as a health system.
+
+And so, as we dug into the space and as we tested the potential of us offering more to our clients, it was very warmly received. And that really led us and guided us strategically to prioritizing this area. And thus far, we're really encouraged and excited to be able to have an offering to these clients that already rely on Health Catalyst, already have a sense of Health Catalyst natural strength in this area, because we've been providing a really secure infrastructure for our data and analytics platform to be able to naturally extend that to strengthen their own environment from a certification perspective and a risk management perspective.
+
+Jason Alger
+Chief Financial Officer, Health Catalyst, Inc.
+Yeah, just one comment. Anna, from a financial synergies standpoint, we did mention in the prepared remarks that the revenue contribution related to this acquisition is expected to be immaterial. But one area where we do focus as we're looking at these acquisitions is bringing these targets over at or near adjusted EBITDA breakeven. That does give us opportunity as the company grows and as we are able to cross-sell and improve that sales motion. It gives us opportunity to improve that EBITDA profile.
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+And just to that point, thanks for bringing that up, Jason. The two areas where we've most commonly found meaningful cost synergies as we have pursued these combinations that we've discussed in the past are in the R&D and in the sales and marketing line items. And from an R&D perspective, we really appreciate and this is the case with Intraprise that they have invested meaningfully in developing the technology components of their solution, and it's well built and it's very positive. We think there's leverage there and synergy there moving forward.
+
+And secondly, from a sales and marketing perspective, the fact that we have over 600 existing client relationships and a cross-sell motion that we have is so efficient. It's so much more productive and efficient than knocking on the door from the outside. And so, we can leverage that more efficient motion from a cross-sell engine perspective that often provides meaningful sales and marketing leverage as well. And that's part of that integration playbook that we talked about in our prepared remarks that over time, we've gained increased confidence that we can execute well against that integration playbook and really see these acquisitions not only contribute to our growth engine, but also contribute to our profitability engine.
+
+Operator
+Thank you. We will take our next question from John Pinney with Canaccord Genuity. Please go ahead.
+
+John Pinney
+Analyst, Canaccord Genuity LLC
+Hi. John Pinney on for Richard Close. Thanks for the question. So I guess you mentioned in the prepared remarks that there is some elevated costs related to TEMS contracts. And I just want to get some clarification there? Is that just a one-time cost for near-term to throw some additional resources or is this like something that could potentially be a longer-term higher cost? And could you comment higher level about how gross margin expansion is going at the installed TEMS base? Thanks.
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+Yeah, absolutely. So, thank you for the question, John. We continue to be encouraged to see meaningful margin improvement in the areas of tech-enabled managed services that we do the most. And that includes areas like chart abstraction and low-level data management and analytics, where we have been performing those TEMS functions for a decade, in some cases with clients. We have a lot of experience and we found that there are meaningful efficiencies and we've developed that playbook of improved efficiencies that are gained through the use of technology, through the pooling of resources and process improvements. So, we feel really good about those areas where we have the most experience.
+
+We are seeing a new area, which is ambulatory operations, that we're still learning. We're still coming up the learning curve there. And while we're pleased and encouraged with some of the progress at a fundamental level, in terms of the overall operational improvement from a client partnership perspective, we're still working through the cost structure elements. Now this is a smaller part and it's a new area of TEMS, so we're really -- we've just taken a few steps into that space, but we're still within the first year and a half or so of our experience base there. And it's to be expected that we continue to learn. And we wanted to make sure, first and foremost, that what we were providing as a solution was really providing meaningful value to our clients and then we'll continue to be focused on learning in this new area. But in those areas of most experience, that represents the vast majority of our TEMS solutions and our TEMS client relationships, we're encouraged and we're progressing nicely, including through the use of AI, we're seeing some continued meaningful encouraging cost structure benefits in particular in areas like chart abstraction.
+
+Operator
+Thank you. We will take our next question from Daniel Grosslight with Citi. Please go ahead.
+
+Hey, this is Luis [ph] on for Daniel. [indiscernible] (00:49:11) of a quick question. [indiscernible] (00:49:14) Steward facilities closing and others auctioned off, and you mentioned previously that you keep all the functions. It's in the continuation of [indiscernible] (00:49:22) Steward. Are there any updates to expectations and how should we think about the impact of Steward? Thank you.
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+Yeah. I'll share a few thoughts and then Jason can share as well. So we are fortunate and grateful to receive -- to have received really meaningful positive updates there that as Steward has completed the sale of some meaningful ambulatory assets that Health Catalyst was successful in transferring that client relationship and that we were identified as a critical partner. And as such, we did receive a full repayment of all that was owed.
+
+I think from a strategy perspective, it is a testament to the must have importance of the solutions that we provide in the case of Steward Health that Ignite that data platform infrastructure that then powers such important solutions like measures and registries that have such a meaningful in terms of incentive payments, incentive bonus payments as it relates to quality measures and performance and the complexity of providing those measures in the right way with the right combination of data, with the right domain expertise, so that they can qualify for those incentive payments. All informed, I think the reality that we realized that really positive outcome. So we're really grateful for that specific example of the importance of our solutions and how that played out at Steward Health, even in a really difficult financial situation that we did receive that full repayment of all that was held.
+
+What would you add, Jason?
+
+Jason Alger
+Chief Financial Officer, Health Catalyst, Inc.
+Yeah. Appreciate the question. Luis [ph] , we have strived to be a great partner for Steward over the years and during these challenging few months of the bankruptcy process, as Dan mentioned, our contract has been assigned to a new party and we're looking forward to that relationship moving forward and continuing the service. So we have continued to include expected revenue related to that ongoing contract and in our guidance and in our expectations moving forward. We'll work through the impact of the repayment of the pre-petition or pre-bankruptcy receivables balance as part of our Q4 financial statements.
+
+Thank you.
+
+Operator
+Thank you. We will take our next question from Sean Dodge with RBC Capital Markets. Please go ahead.
+
+Thomas Kelliher
+Analyst, RBC Capital Markets LLC
+Hey, good afternoon. This is Thomas Kelliher on for Sean. Thanks for taking the questions. Just wanted to follow-up on the TEMS question earlier. Can you give us an indication of the size, the potential incremental EBITDA dollar contribution remaining within existing clients as these newer contracts kind of ramp to those mature target margins?
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+Yeah. Happy to share a few thoughts and then Jason, please also share. So, as we've discussed in the past, when we begin TEMS relationship, we're often starting at a 0% gross margin or somewhere around a 0% gross margin. And over time, as we introduce technology that automates processes that were manual in the past, as we introduce and benefit from other efficiency gains, we see that operating margin -- that gross margin grow from 0% in the first year -- the first couple of years, up towards our target margin profile of 25%. Now that was before any of the recent innovations that we've been pursuing as it relates to AI improvements. What we've shared in the past as we have implemented some of the chart abstraction specific AI, efficiency gains, we see another 20%, 25% efficiency gain.
+
+So that would just be additive to that longer-term gross margin profile of 25%. But we're still early in the implementation and most of our AI use cases have been focused on chart abstraction. So it's a subsegment of our overall TEMS footprint, but it is encouraging for us to see and we are on track in those areas of most experience that we have in chart abstraction analytics across those client relationships where we see a nice progression from a gross margin perspective, from that beginning point of 0% up towards that 25% mid-20s gross margin in years three, four or five of the relationship.
+
+What would you add, Jason?
+
+Jason Alger
+Chief Financial Officer, Health Catalyst, Inc.
+I think you covered it well, Dan. The only thing I would add is, we are still early on those. As Dan mentioned in the previous question, are still early in and still learning as it pertains to the ambulatory TEMS relationships. We did have some incremental resourcing and investments in Q3, which put a little bit of pressure on our professional services gross margin in our third quarter.
+
+Thomas Kelliher
+Analyst, RBC Capital Markets LLC
+Great. Thanks for the color.
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+You bet.
+
+Operator
+Thank you. We will take our next question from David Larsen with BTIG. Please go ahead.
+
+David Larsen
+Analyst, BTIG LLC
+Hi, Dan. Can you give an example or two of what you're seeing in the broader market? It sounds like demand is picking back up. Just any thoughts around labor constraints that maybe improve the impact of inflation and any thoughts on the election here would be great. Thanks very much.
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+Yeah. Absolutely, David. Thank you for the question. So I think, we are seeing across the Board, a general continued improvement back to really pre-pandemic levels of normalcy from an operating margin environment. I think, the factors that you mentioned, those first two factors of labor constraints and inflation really becoming more manageable for our clients. I think are very -- they're interrelated and they're very significant improvements where we're seeing both on the labor and the supply side that inflation rate coming down from low double-digits all the way down to low single-digits today. That makes a huge, huge impact on the bottom line of most of our clients.
+
+Now our clients are still across our spectrum. But I would share that the vast majority of our clients on that spectrum find themselves in a positive operating margin territory. And often, approaching what some of the other external sources are presenting, like the Kaufman Hall monthly report, where they show operating margins in a pretty healthy range, 3%, 4%, 5%, which not for profits in particular is certainly a solid performance. And it really allows them to think more holistically about the future and it provides them with enough breathing room to think about innovation and think about technology innovations, AI innovations. And that's where, as it relates to our Ignite progression, we're really pleased to see many of our clients wanting to leverage the scalability of Ignite to pursue more AI-based use cases that might require a more significant footprint from a scalability perspective. And so that is certainly encouraging to us.
+
+As it relates to the election, as we saw the election play out, healthcare at least particularly the healthcare, the portion of healthcare that we play within in terms of data and analytics, technology, infrastructure to enable improvement was not a primary focus of the election for either candidate. And so, we don't anticipate a significant impact in the near to mid-term as it relates to the election. As it relates to the Ignite migrations, Daniel, anything you would add?
+
+Dan LeSueur
+Chief Operating Officer, Health Catalyst, Inc.
+You brought up, Dan, the excitement and enthusiasm around some of the emerging use cases around AI and a lot of our application-oriented solutions kind of tap into that capability, which we're seeing increased demand and interest in that. And so, that's kind of an exciting tailwind for us as we think about our modular capabilities with Ignite, enabling those types of use cases. So, yeah, I think that was well said.
+
+David Larsen
+Analyst, BTIG LLC
+Just one more quick follow-up. For 2025, what are your EBITDA expectations or just -- what sort of ballpark estimate can be used for perhaps margin expansion? It looks like your service gross margin obviously pulled in a little bit. Just any thoughts on margins for 2025 will be great? Thank you.
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+Yeah. We continue -- thank you for the question, Dave. We continue to feel confidence in our ability to see a meaningful continued progression in our EBITDA. And we're pleased with the track record that the company has demonstrated over the last several years of really meaningful EBITDA progression and 400 basis points, 500 basis points per year of margin improvement from an EBITDA perspective, meaningful year-over-year growth where this year with the raise of our EBITDA for this year of another $1 million in EBITDA at the midpoint, we're talking about, 135 plus percent year-over-year growth in EBITDA.
+
+When we shared the perspective that even with that increase to our guidance, we still feel confident that we can see EBITDA grow 50 -- approximately 50% next year on that $26 million base. The reasons that we feel confident and comfortable include, at the gross margin leverage perspective, we continue to see meaningful technology growth ramping back up. You see that a little bit in our Q3 results, we've shared that we're seeing a ramp take place as it relates to the second half of this year versus the first half of this year. That's true overall. It's even more true as it relates to our tech growth, outpacing our overall company growth. That's encouraging, and I think that's a trend that will continue in 2025, which means that our mix will skew a little bit more towards technology, that will help -- that mix shift will help from an overall gross margin perspective for the company. So that's a tailwind that gives us some increased confidence that some of that will drop to the bottom line.
+
+The second tailwind that we've been able to execute really well against over the last number of years is in the operating leverage category. And there's really two primary drivers there. One is R&D, the other is sales and marketing. As it relates to R&D, we continue to see real success building out our offshore capabilities, particularly in our India office. It's one of our fastest growing areas of team member growth and we're seeing really positive progress as it relates to that. We're going to continue to invest and think that will be a meaningful source of operating leverage in R&D.
+
+And then as it relates to sales and marketing, we continue to see that efficient, highly productive primary growth engine of the cross-sell motion, where especially as we add clients through acquisition, and through our sales efforts as well, and begin an existing client relationship, our ability to cross-sell in a very effective way is more than 2x as productive as when we're just knocking on the door from outside. That provides meaningful sales and marketing leverage. Each of those items, again are items that we've already demonstrated over a number of years that we've been able to execute. And they inform our confidence. Even when we raise our EBITDA guide for this year, that will still be able to grow it another 50% next year.
+
+Anything you'd add, Jason?
+
+Jason Alger
+Chief Financial Officer, Health Catalyst, Inc.
+Yeah. Yeah. I was just kind of tag on with that last point, Dan. It is important to note that we are still expecting to grow adjusted EBITDA by roughly 50% even after the raise on our adjusted EBITDA range by $1 million on both the bottom end and top end. And the other thing I would note, Dave is, we do anticipate providing additional gross margin color in early 2025.
+
+David Larsen
+Analyst, BTIG LLC
+Thanks very much.
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+Thanks.
+
+Operator
+Thank you. We will take our next question from John Ransom with Raymond James. Please go ahead.
+
+John W. Ransom
+Analyst, Raymond James & Associates, Inc.
+Hey, good evening, afternoon. I've always had the opinion that technology is sold, not bought. And so, we've been through some cycles where we are doing face-to-face. We're doing Zoom. There's a hybrid world. But yes, you're hiring a new sales rep or as you're talking to your people throughout the territories. What is the rhythm of they're meeting with the customers look like now in the kind of hybrid world we're in?
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+Yeah, it's great question, John. Hybrid is a good word for it. I think we have realized as we came through the pandemic that we had really missed that opportunity to have those face-to-face interactions. And so, I think that coupled with the extreme financial pressure because of inflation, that our health system clients found themselves in. We did a lot of face-to-face work, and we continue to do meaningful face-to-face work with our clients, but made a lot of progress there in the back half of 2022 and throughout 2023. We found a good rhythm at Health Catalyst in that hybrid model, where I think having at least a quarterly opportunity with our larger clients to be together face-to-face is really positive. And we use the structure of a quarterly business review with them to really sit down and be in the same room and talk about what we've accomplished over the last quarter together, how we've measured the value of what we've accomplished together and what we're planning to move forward with. That's a very helpful face-to-face series of discussions. It deepens the relationship. And I think in between those quarterly sessions, we found a really good cadence in rhythm in following up virtually with regular contact, regular discussion about how those initiatives are going.
+
+And I would also share back to some of our earlier commentary. We found that leveraging and just strengthening those existing client relationships of whatever kind we have, even when they're small app layer relationships in that cross-sell motion is really, really effective. And so, we're focusing more and more of our investment because it's so efficient and so effective in that cross-sell motion. And again, there's a rhythm there of quite a bit of work that we can do really effectively, virtually, and then maybe on a quarterly cadence have a face-to-face component that also strengthens.
+
+John W. Ransom
+Analyst, Raymond James & Associates, Inc.
+So, Dan, let's say, it's a large system you don't have a relationship with. Where do you get that lead now? Is it word of mouth? And then what are you leading with now? Is the hook? And then conversely, let's take a long-standing relationship. What were you doing for a longer standing customer today versus where you started?
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+Yeah. It's a great -- two great scenarios and questions, John. So as it relates to a large system where we don't have a relationship, first of all, that's becoming increasingly rare. As we have grown our installed base, both organically and through acquisitions. We have a relationship with the vast majority of the top 100, top 200 healthcare organizations already. So that's already a stronger place to be. And I think, what we're trying to do is get better and better. Many of those relationships are just at the apps layer. And so, getting better and better at the specific use case that's most adjacent to whatever app they've already bought is the cross-sell motion that we're getting better at. So if you're a VitalWare client and you're using our Rev Cycle Chargemaster Management Solution, let's learn how to really pivot adjacent to that and talk about labor management. On the cost management side, it's still within the finance function. Let's make sure that you understand how we can build that on in a really positive way and help those individuals really shine up through to the CFO and really showcase the ROI of those solutions. So I think that adjacent talk track of cross-sell is a real focus.
+
+And I would say that, that is by extension in a longstanding relationship, the same kind of motion. We just have more things to talk about and more things to leverage in terms of those longstanding relationships. Our Ignite clients, they often are consuming one or two or three applications already. So we have a few natural cross-sell opportunities to talk. So there's more to talk about and there's probably more of a face-to-face opportunity for us to really dive in and try three or four different options of expansion with them, whereas it's more limited, it's smaller to start with when it's in a single app only client relationship.
+
+John W. Ransom
+Analyst, Raymond James & Associates, Inc.
+Last one from me. Is there anything that you wish you could sell for your customers that you don't have the capability in-house?
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+Well. I would have told you security, three months to six months ago, John. And I think we're really excited because that always comes up. We try to be good listeners with our clients. And in those quarterly business reviews, we always have a segment where we're just listening, like, what keeps you up at night? Security was always on that list. And again, there was a natural strength that we had where our own security infrastructure was really solid, but we didn't have an offering for a client to purchase. And so, we're excited to have that adjacency now that we can talk with clients about.
+
+John W. Ransom
+Analyst, Raymond James & Associates, Inc.
+Yes. So maybe recommend double authentication of [indiscernible] (01:08:41) of $2 billion. All right. Thank you so much. All right.
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+Thank you, John.
+
+Operator
+Thank you. We will take our next question from Scott Schoenhaus with KeyBanc. Please go ahead.
+
+Scott Schoenhaus
+Analyst, KeyBanc Capital Markets, Inc.
+Thank you. And I'll be brief here. I know we're going over an hour here. So, Dan, I think you mentioned in your prepared comments that you're actually being choosy within your pipeline. You focused on higher margin tech business versus lower margin services business. Just trying to think about how that plays out into 2025 if these end markets continue to be strong and healthy demand for your Ignite platform? You mentioned double-digit revenue growth and that technology could end up being more of a higher growth part of that algorithm. Just trying to think if you can use your pipeline which projects to go after. Does that mean we could really see much higher elevation in tech growth versus services for next year? Thank you.
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+Yeah. Great comments and questions, Scott. I think you're right. And that's how we think about our growth. Of course, we always want to meet clients where they are. Every solution that we sell, we always want to have a really meaningful measurable ROI. But if there is an opportunity and there's an openness across our portfolio of offerings and we're sitting down in that quarterly business review, we would prefer to be talking about the higher margin parts of our portfolio. And in some cases and in some financial environments that full portfolio isn't open. And that was true in the back half of 2022. That was true for a lot of 2023. And at that point, I was really grateful that we had other parts of our portfolio that offer that near-term heart dollar guaranteed cost savings, so that there was, something for them to buy. Now that tended towards TEMS for example, and a few other parts of our portfolio and a lot of other parts of the portfolio. There just wasn't an openness or an ability to really consider. So, we're really grateful to be back to a more normal full portfolio discussion. And we are choosing to prioritize those areas that are most profitable. And of course, that also provide a great ROI to our clients.
+
+But that's one of the reasons why we've seen overperformance in areas like tech expansion within our existing client base or areas of new logo additions, which really means, can be an existing client that was just at the apps layer is now adding a name, and meaningfully expanding in that way. Those all skew towards more tech.
+
+And to your point, when you're starting to see that play out from pipeline on to the P&L where in Q3 for example, we shared an overall growth rate. But our tech grew faster than that overall growth trajectory. And that will continue in Q4 and it could likely continue through into 2025. We like that. That's a tailwind for us. Then from a gross margin mix perspective, it's going to provide more of an opportunity for that profitable growth, more of an opportunity for us to get ahead of schedule like we are this year as it relates to our EBITDA performance. And we believe that drives a lot of fundamental shareholder value.
+
+Scott Schoenhaus
+Analyst, KeyBanc Capital Markets, Inc.
+Thank you.
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+Thanks, Scott.
+
+Operator
+Thank you. We will take our final question from Stan Berenshteyn with Wells Fargo. Please go ahead.
+
+Stan Berenshteyn
+Analyst, Wells Fargo Securities LLC
+Hi. Thanks for squeezing me in here. Just wanted to quickly follow-up on the reader view comments regarding the new client growth in the low-20s. So outside of the timing-related impacts you discussed in the prepared remarks, how should we think about the timing of anticipated go-lives for these clients? Just framing here that's about twice as many clients as last year. So, any changes on the timing or the pacing of the go-lives here? Thanks.
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+Yeah, good question, Stan. So I think one of the factors that we have spoken to in 2024 has been, we performed really strongly as it relates to the Health Information Exchange market. Now that has manifested both on the new client side as well as some existing client expansions as well. Those implementations do tend to take a bit longer and be a little bit more complex when we have a meaningful new client or a large expansion. So, that has been a factor in 2024. I hope that that continues, that we continue to dominate, that subsegment of the market. And so that would and could be a component to the way that we think about and plan for 2025. Now that tends to be a near-term element where we're getting to a go-live is one near-term dynamic that affects revenue. But then once realized, it's recurring revenue ratably recognized much like the rest of our business. And so, then it becomes very, very predictable and easier to manage and understand.
+
+So don't think, it's a material significant impact. And even as we've seen, an overrepresentation, a little higher performance than what we had forecasted in that subsegment of our overall portfolio, our pipeline, we still see the same dynamics of over 90% of our revenue being recurring in nature, which enables us to have a lot of visibility as to how we see that revenue ramping and displaying throughout the P&L going into next year. So, we still feel a lot of confidence in how we think that will play out. There is a bet on the margin and that's where you see a little bit wider range to our Q4 revenue guide and our full year revenue guide, just because we have a little more in terms of our implementation work than we normally do of those more complex implementations.
+
+Anything you'd add, Jason?
+
+Jason Alger
+Chief Financial Officer, Health Catalyst, Inc.
+Yeah, the only thing I would add is the timeline to deploy a standard Ignite deal is shorter than these health information, Ninja Universe types of deals. It would typically take us a couple to a few months to deploy an Ignite deal and ramp that into revenue. So depending on timing of deal closures, that will impact that revenue ramp going into 2025.
+
+Dan LeSueur
+Chief Operating Officer, Health Catalyst, Inc.
+And I would also just share as a final comment. We continue to try to keep the focus on making sure that those implementations go really, really well. And we don't want to artificially rush an implementation. And so, yes, in the spirit of the client relationship, it makes more sense for us to take a few extra weeks. And that means, some of that revenue pushes into the next quarter. We think that's the right trade to keep the focus on the client relationship. We'll still recognize that revenue. And then after that implementation is complete, that revenue becomes very predictable and very smooth. But we want to make sure that our clients feel great about those complex implementations. So, that'll continue to be a Northstar for us.
+
+Stan Berenshteyn
+Analyst, Wells Fargo Securities LLC
+Great. Thanks for the color.
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+Thank you.
+
+Dan LeSueur
+Chief Operating Officer, Health Catalyst, Inc.
+Thank you, Stan.
+
+Operator
+Thank you. And there are no further questions at this time. I'll turn the floor back over to Dan Burton for additional or closing remarks.
+
+Daniel D. Burton
+Chief Executive Officer & Director, Health Catalyst, Inc.
+All right. Thank you all for your continued interest in Health Catalyst. We appreciate this opportunity to provide you an update and look forward to keeping in touch in the future. Take care, everyone.

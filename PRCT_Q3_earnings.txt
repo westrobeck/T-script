@@ -1,0 +1,371 @@
+Good morning and thank you for joining PROCEPT BioRobotics' third quarter 2024 earnings conference call. Presenting on today's call are Reza Zadno, Chief Executive Officer; Kevin Waters, Chief Financial Officer; and Sham Shiblaq, Chief Commercial Officer. Before we begin, I'd like to remind listeners that statements made on this conference call that relate to future plans, events or performance are forward-looking statements as defined under the Private Securities Litigation Reform Act of 1995.
+
+While these forward-looking statements are based on management's current expectations and beliefs, these statements are subject to several risks and uncertainties, assumptions and other factors that could cause results to differ materially from the expectations expressed on this conference call. These risks and uncertainties are disclosed in more detail in PROCEPT BioRobotics' filings with the Securities and Exchange Commission, all of which are available online at www.sec.gov.
+
+Listeners are cautioned not to place undue reliance on these forward-looking statements, which speak only as of today's date, October 28, 2024. Except as required by law, PROCEPT BioRobotics undertakes no obligation to update or revise any forward-looking statements to reflect new information, circumstances, or unanticipated events that may arise.
+
+During the call, we will also reference certain financial measures that are not prepared in accordance with GAAP. More information about how we use these non-GAAP financial measures as well as reconciliations of these measures to their nearest GAAP equivalent are included in our earnings release.
+
+With that, I'll turn the call over to Reza.
+
+Reza Zadno
+President, Chief Executive Officer & Director, PROCEPT BioRobotics Corp.
+Good morning and thank you for joining us. For today's call, I will provide opening comments and a general business update, followed by Sham, who will provide an overview of the HYDROS Robotic System's commercial launch. Lastly, Kevin will provide additional detail regarding our financial performance and updated 2024 guidance.
+
+Starting with our quarterly revenue results, we are pleased to report another quarter of strong financial performance with total revenue for the third quarter of 2024 of $58.4 million, representing growth of 66% compared to the third quarter of 2023. Growth in the quarter was driven by strong demand and higher average selling prices for our robotic system, increased utilization from our expanded US install base, and record international revenues.
+
+We exited the third quarter of 2024 with a US install base of 445 systems, representing growth of 64% compared to the prior-year period. Additionally, we exceeded our utilization per account expectations for the quarter despite substantial growth in our US install base and the temporary removal of sales representatives from the field as we began training our sales team on the HYDROS system.
+
+We knew following our HYDROS announcement that the third quarter was going to represent unique challenges for our company given we were launching a new robotic system midway through the quarter, but I'm incredibly proud of the entire PROCEPT team for their collective efforts.
+
+During the third quarter, we successfully converted the capital pipeline, manufactured sufficient quantities of commercial product, reported record gross margins of 63.2%, began training our field-based teams, while mitigating downside pressure on procedures and effectively managed the market during this transition. As a result, we delivered a very strong quarter that reflects the team's dedication and steady commercial execution.
+
+Turning to international market development activities, we generated $6.2 million of international revenue in the third quarter of 2024, representing growth of 86% compared to the prior-year period. Growth in the third quarter was once again driven primarily by strong sales momentum in the United Kingdom. Our international pipeline continues to increase nicely, giving us further confidence as we enter 2025.
+
+With that, I will turn the call over to Sham to provide more detail on our HYDROS launch.
+
+Hisham Shiblaq
+Chief Commercial Officer & Executive Vice President, PROCEPT BioRobotics Corp.
+Thanks, Reza. First, I want to reiterate Reza's comments on the team's exceptional performance in a quarter that required flawless execution and dedication from every part of the organization. Turning to the HYDROS launch itself, once we received FDA clearance in mid-August, the capital sales team immediately shifted their focus to educating hospitals and surgeons on the benefits of the HYDROS system and converting the immediate AquaBeam pipeline to HYDROS. Awareness and excitement around the launch spread quickly, which certainly played into our favor, allowing for a fairly smooth transition and resulting in an outstanding capital quarter.
+
+Initial feedback from customers is very encouraging. Aside from HYDROS' fully integrated and sleek design, surgeons were very impressed with the new FirstAssist AI feature. As a reminder, FirstAssist AI supports the surgeon in interpreting the live ultrasound image for key anatomical landmarks and suggests an optimal treatment plan for each patient. The addition of AI to our precise robotic-assisted resection has the potential to enable all urologists to improve outcomes for their patients. This is very appealing to both surgeons and administrators.
+
+Other feedback we received particularly from hospital support staff is how improved the surgeon and staff experience is at every stage of the Aquablation therapy procedure. Specifically, with its single footprint and improved user interface, the integrated tower facilitates efficient operating room setup, procedural workflow, and operating room turnover.
+
+Additionally, hospital CFOs were happy to see that the new HYDROS handpiece utilizes a single-use digital scope that eliminates the need for scope reprocessing and further streamline setup which saves time and money. With the third quarter and the initial launch phase behind us, we feel very good about the underlying trends we are seeing today, particularly around system average selling prices, customer demand and HYDROS user sentiment. Additionally, HYDROS has certainly energized the capital sales team, which has translated into a robust pipeline, where we expect to sell a record number of new systems in the fourth quarter of 2024.
+
+Speaking briefly on utilization trends, as a reminder, we began sales team training sessions on the HYDROS system in September. We plan to continue training sessions throughout the fourth quarter, which will remove reps from their respective territories for a period of time. Given this dynamic, this will modestly impact volumes due to the reduced case coverage. As we communicated in mid-August, properly training our sales teams is critical to our commercial and procedural success of the transition into 2025.
+
+While pleased with the team's execution in the third quarter, we realize there's a much bigger opportunity ahead for both robot system sales and expanded utilization over time. As we enter the next phase of our commercial growth, I believe this launch will be a significant milestone in our journey, driving widespread adoption and making a profound difference in the lives of our patients.
+
+With that, I will turn the call back over to Reza.
+
+Reza Zadno
+President, Chief Executive Officer & Director, PROCEPT BioRobotics Corp.
+Thanks, Sham. Before I pass it over to Kevin, I want to discuss our recent announcement to initiate our new randomized clinical study for prostate cancer. On October 7, we announced that the FDA granted Breakthrough Device Designation to investigate the use of Aquablation therapy for prostate cancer and approved a pivotal investigational device exemption clinical trial comparing Aquablation therapy to radical prostatectomy. Receiving Breakthrough Device Designation is particularly exciting as it expedites the review process of technologies that the FDA considers innovative and that can improve the lives of people with life-threatening or irreversibly debilitating diseases or conditions.
+
+The trial we will be enrolling known as the Water IV PCa is a global, multicenter, prospective, randomized clinical study assessing the safety and efficacy of Aquablation therapy compared to radical prostatectomy in men with Grade Group 1 to 3 localized prostate cancer. This study will enroll up to 280 patients at up to 50 centers, most of which are in the United States. The FDA agreed to a six-month co-primary endpoint based on morbidity, specifically, rates of incontinence and erectile dysfunction.
+
+Additionally, the FDA agreed to include a 12-month secondary efficacy endpoint measuring the rate of grade group progression. Patients will be followed up to 10 years with annual secondary endpoint evaluation focusing on both the reduction in treatment-related to harm and oncological events. Water IV PCa is a unique trial design that will focus on harm reduction when using Aquablation therapy as a first line treatment in comparison to radical prostatectomy. If successful, we believe Aquablation therapy has the potential to significantly alter the way urologists approach localized prostate cancer for millions of men.
+
+To date, PROCEPT is the only company sponsor to ever receive an IDE for a randomized clinical trial comparing a novel localized prostate cancer treatment to standard of care. This significant opportunity exists to improve safety and quality-of-life outcomes for men needing treatment for prostate cancer and we believe Aquablation therapy has the ability to become the first line treatment for localized prostate cancer. Initiating a randomized trial against radical prostatectomy is the first big step in pursuing a prostate cancer-specific indication which no other treatment has today.
+
+Lastly, we completed enrollment of PRCT002 in September and plan to share six months follow-up data in April 2025 at the American Urological Association Conference in Las Vegas. Furthermore, over the next 12 to 18 months, we will likely share more details regarding our broader prostate cancer commercial strategy.
+
+To conclude my prepared remarks, multiple factors continue to trend positively, allowing us to execute our long-term strategic plan. In summary, the US HYDROS launch is off to a great start and customers are thrilled with the improved features. Our pipeline and sales funnel continue to grow nicely at average selling prices of HYDROS that are trending higher than our previous AquaBeam system. Our international business continues to build momentum in the UK and Japan. Our commercial organization is the largest and most tenured in the company's history, which we believe will lead to increased productivity.
+
+We are the first company ever to receive IDE approval from the FDA to enroll a randomized trial against the radical prostatectomy for prostate cancer. We view this as the first big step in pursuing a prostate cancer-specific indication which no other treatment has today. And lastly, we have continued to exceed our guidance around profitability metrics, primarily with the expansion of gross margins throughout 2024. We believe these underlying fundamentals reflect a technology that is laying the foundation to become the BPH surgical standard of care and a business that will be a leading global urology company.
+
+And with that, I will turn the call over to Kevin.
+
+Kevin Waters
+Chief Financial Officer & Executive Vice President, PROCEPT BioRobotics Corp.
+Thanks, Reza. Total revenue for the third quarter of 2024 was $58.4 million, representing growth of 66% compared to the third quarter of 2023. US revenue for the quarter was $52.2 million, representing growth of 62% compared to the prior-year period. In the third quarter, we sold 45 robotic systems with blended average selling prices of approximately $432,000. Of these 45 systems, approximately 80% were HYDROS.
+
+Our HYDROS sales were primarily greenfield accounts, although we did have a few sales included in the 45 systems that are second systems at existing accounts. Additionally, we recorded approximately $200,000 of incremental system revenue for a few AquaBeam system sales executed in previous quarters that were exchanged for HYDROS in the third quarter. We do not view these as true replacements as this is a limited offering for customers who recently purchased our AquaBeam system. To be clear, these exchanged systems are not included in the reported number of 45 systems sold and thus did not impact the install base.
+
+When accounting for all of these variables, we generated total US system revenue $19.6 million, representing system revenue growth of 46% compared to the third quarter of 2023. US handpiece and consumable revenue for the third quarter of 2024 was $29.6 million, representing growth of 74% compared to the third quarter of 2023. Handpiece growth was driven by an increase in the install base of robotic systems. Additionally, monthly utilization per account increased approximately 7% compared to the third quarter of 2023.
+
+We shipped approximately 8,740 handpieces in the US in the third quarter, representing unit growth of 79% compared to the third quarter of 2023. Third quarter average selling prices were approximately $3,200. We also recorded approximately $1.8 million of other consumable revenue in the third quarter of 2024.
+
+International revenue for the third quarter was $6.2 million, representing growth of approximately 121%. Gross margin for the third quarter of 2024 was 63.2%, representing an all-time high. Gross margin expansion in the third quarter was primarily due to strong execution from our operations team and significantly higher HYDROS system average selling prices.
+
+It is important to note that following a full quarter of manufacturing our new HYDROS system, it is roughly 10% more costly than AquaBeam today. Over time with scale, we expect material costs to come down. However, this headwind is being more than offset by increased average selling prices.
+
+Moving down the income statement, total operating expenses in the third quarter of 2024 were $59.3 million compared to $44.5 million in the same period of the prior year and $58.3 million in the second quarter of 2024. The year-over-year increase was driven primarily by increased sales and marketing expenses, mostly to expand the commercial organization, and increased general and administrative expenses, offset by lower sequential research and development expenses following the significant effort around HYDROS development in the second quarter of 2024.
+
+We are very pleased with the operating expense leverage we have demonstrated year-to-date. When comparing revenue growth to operating expense growth, revenues increased 69% in the first nine months of 2024 on 32% operating expense growth. Net loss was $21 million for the third quarter of 2024 compared to $24.6 million in the same period of the prior year. Adjusted EBITDA was a loss of $12.4 million compared to a loss of $19.4 million in the third quarter of 2023. Our cash, cash equivalents and restricted cash balances as of September 30 were $200 million and we reported cash usage in the quarter of $17.3 million.
+
+Moving to our 2024 financial guidance, we now expect full-year 2024 total revenue to be in the range of $222.5 million to $223 million, representing growth of approximately 63% to 64% compared to 2023. Starting with US systems, we continue to expect to sell approximately 186 robotic systems in 2024, which is approximately 56 new systems in the fourth quarter.
+
+While pleased with the direction of new system pricing in the third quarter, we want to maintain pricing flexibility at this point in the HYDROS launch as we work through our fourth quarter pipeline, thus our updated guidance assumes new system pricing in the fourth quarter to be in the range of $420,000 to $430,000.
+
+Turning to US handpieces, we expect to sell approximately 9,950 handpieces in the fourth quarter which would equate to full-year handpieces of approximately 33,500, representing 80% unit growth compared to 2023. We expect fourth quarter handpiece average selling prices comparable to the third quarter. We also expect other consumables revenue to be approximately $7.3 million for the full year.
+
+Additionally, we now expect US service revenue to be approximately $11 million for the full year. Lastly, on international revenue, given another strong quarter and positive momentum in the United Kingdom, we now expect full-year international revenue to be approximately $22.4 million, representing annual growth of 88%.
+
+Moving down the income statement, we now expect full-year 2024 gross margins to be approximately 61%, an increase from our previously issued guidance of 59%. Turning to operating expenses, we continue to expect full-year 2024 operating expenses to be approximately $231.5 million, representing growth of 29%. Given current interest rates, we expect to generate net interest income of $5.5 million in 2024. Given the increase in revenue and gross margin along with our continued view on operating expenses, we now expect full-year 2024 adjusted EBITDA loss to be approximately $60 million, which is an increase of almost $13 million from our initial guidance provided in February.
+
+At this point, I'd like to turn the call back to Reza for closing comments.
+
+Reza Zadno
+President, Chief Executive Officer & Director, PROCEPT BioRobotics Corp.
+Thanks, Kevin. In closing, I want to thank our employees, customers and shareholders for all their support to help us along our journey to becoming the standard of care for BPH. We will continue to leverage our commercial and clinical investments to execute on our long-term strategy. Have a great day and I look forward to seeing many of you at upcoming investor conferences. At this point, we will take questions. Operator?
+
+Question And Answer Section
+Operator
+Thank you. [Operator Instructions] Please stand by while we compile the Q&A roster. And our first question coming from the line of Craig Bijou with Bank of America Securities. Your line is open.
+
+Craig William Bijou
+Analyst, BofA Securities, Inc.
+Good morning, guys. Thanks for taking the questions and congrats on another very strong quarter. I want to start with HYDROS. And so it seems like HYDROS ASP, if you kind of back in the numbers, is somewhere around $450,000. And, Kevin, I understand your comments on you wanted to be I guess conservative now with the ASP to start, but how should we think about your ability to get price there?
+
+And then maybe if you could just give a little bit more color on the customer reaction to HYDROS. It sounds like it was pretty strong, but more specifically, did you see new customers either purchase or kind of get in the pipeline that may have been hesitant or reluctant before?
+
+Reza Zadno
+President, Chief Executive Officer & Director, PROCEPT BioRobotics Corp.
+Hi, Craig. Thanks for the question. I'm going to give some general comments about HYDROS. The reaction has been extremely positive. Surgeons are excited about the AI assist, digital scope, the dual screen. The staff is excited about the ease of setup and faster setup and, of course, the hospital saves time for sterilization. So, overall, the reaction has been fantastic. Sham, do you want to add anything?
+
+Hisham Shiblaq
+Chief Commercial Officer & Executive Vice President, PROCEPT BioRobotics Corp.
+Yeah. Hi. Good morning. Yeah. I think that the immediate positive reaction by our customers showed in our results the ability for us to flip a pipeline in just over a month with many processes that are required from a hospital's perspective to purchase capital, shows the excitement of our surgeons to drive administrators to make that happen. So, we're very excited. Reza touched on the features. When you think about FirstAssist AI, this is something that is not something that routinely gets approved nowadays in a surgical environment, and so we've been able to really, really capture a lot of excitement.
+
+The ease of use from the staff to set up the intra-procedure, the takedown, the efficiencies in the OR, we're just beginning to launch these programs and we're seeing immediate excitement from our surgeons.
+
+Kevin Waters
+Chief Financial Officer & Executive Vice President, PROCEPT BioRobotics Corp.
+And may – I'll just close the loop on your HYDROS ASP question, Craig. So, we are very pleased with what we saw in the quarter given the HYDROS ASPs compared to previous AquaBeam sales. Today, we're not going to comment specifically on kind of where we can see this number going, but we definitely feel good about the launch, we feel good about current ASPs. At the end of the day, we want HYDROS in as many hands, customers' hands as possible, and we just want to continue to maintain some flexibility there which is why we provided that range in the fourth quarter, $420,000 to $430,000.
+
+Craig William Bijou
+Analyst, BofA Securities, Inc.
+Got it. Thanks, guys. And I did want to ask on utilization. And I think in – Kevin, correct me if I'm wrong, but I think implied utilization in Q4 might be a step-down year-over-year. I know you had a pretty strong quarter, but maybe if – let me know if that's correct, but then if – when you think about the impact or disruption to utilization during Q3, I don't know if you'd be willing to quantify that and then if that would be higher or lower in Q4. Just maybe a little bit more color on the impact that you're seeing, and even if that bleeds into 2025 at all. Thanks.
+
+Kevin Waters
+Chief Financial Officer & Executive Vice President, PROCEPT BioRobotics Corp.
+Yeah. Let me start with Q3 and then I'll address Q4 and I'll hand it off to Sham at the end here to talk about some of those dynamics. So, yeah, I can't specifically dollarize what that impact was in the third quarter, taking reps out of the field. But what we will say, as we move throughout the quarter, we definitely saw a strong September in procedures even with our reps coming out of the field.
+
+So, it was definitely a headwind, but the procedure environment itself in September felt really strong for us. And as we head into the fourth quarter now transitioning, I'll first say that we do believe our 2024 results reflect a very strong underlying business that continues to gain share and momentum from all other resective procedures out there. But specifically, your Q4 utilization is a fair one and it does suggest that year-over-year on a per account basis, utilization would be down, which, by the way, was the same dynamic that has always been implied in our guidance that we have been providing for the full year.
+
+But specifically, we do expect reps to continue to be removed from the field with HYDROS for training in the fourth quarter. I'm going to have Sham talk a little bit about that at the end, and that is going to have an impact on procedures. Our guidance also, Craig, does allow for some of these macro factors that we're all hearing about, particularly some of the things we saw in October around the hurricane incident in the southeast, we have obviously been somewhat impacted by the saline shortages. But all of those macro factors are considered in our Q4 guide as well, and maybe I'll turn it over to Sham to close here.
+
+Hisham Shiblaq
+Chief Commercial Officer & Executive Vice President, PROCEPT BioRobotics Corp.
+Yeah, it – the one part I guess I'll just add a little bit on is the rep trainings as we've talked about in the past. So, coming off of the HYDROS approval, as a PROCEPT team, we felt prepared, fully prepared to help our customers convert their purchases over to HYDROS, get them trained and ready to go. So, we were ready on our end, we just didn't have visibility to how quickly customers could complete the acquisition process and then how quickly surgeons and staff could get ready for the training aspect of it.
+
+So even though we did begin our training process in September with our field team, what we're going to see is the majority of these launches for HYDROS that were purchased in Q3 will now become November and December launches. So those rep trainings and the staff trainings and the surgeon trainings, you want to time those so that they're trained before the launch, not in months before a launch. So, we'll see that begin to really start to pick up here in October and November. So we're excited about those launches happening before the end of the quarter.
+
+Craig William Bijou
+Analyst, BofA Securities, Inc.
+Great. Thanks, guys.
+
+Operator
+Thank you. And our next question coming from the line of Brandon Vazquez with William Blair. Your line is open.
+
+Brandon Vazquez
+Analyst, William Blair & Co. LLC
+Good morning, everyone. Thanks for taking the question and congrats on a nice quarter here. I'll just start with maybe keeping on the train of the last question here. I'll ask it slightly different. Are you guys able to disclose at this point what percent of your sales reps have been trained already so we can get a better understanding of how many reps are left to be trained as we go into Q4? And then piggybacking on that, are you guys getting the sense that when a rep is pulled, you lose that procedure to another therapy or are they waiting for that rep to come back and perform that procedure with Aquablation?
+
+Hisham Shiblaq
+Chief Commercial Officer & Executive Vice President, PROCEPT BioRobotics Corp.
+Hey, Brandon. It's Sham. I'll take that question. So, we're not going to comment on the specific percentage of reps, but I will tell you, the vast majority of launches will happen in the fourth quarter. Many of them are now scheduled for November and December launches. So, I think that you can kind of do the math on the impact of the sales force coming out of the field.
+
+We have a very thorough process. We feel very good that what we're doing is the right thing for the business to ensure that we have great outcomes from day one with the HYDROS launch. That's going to help us long term, have a great business and our patients will be happier and our surgeons will be happier as well.
+
+Regarding the loss of cases, I don't at any time believe we're losing cases by taking reps out of the field. Are we delaying procedures? We are, by having surgeons leave their practices to go get trained, by having hospitals put procedures on further in the quarter. So, we don't believe we're losing cases. We're just delaying them to make sure we have a proper launch and great outcomes.
+
+Brandon Vazquez
+Analyst, William Blair & Co. LLC
+Okay. And maybe going a little higher level in terms of you guys made comments about placing some additional second unit systems this quarter. I know this is not something that you guys had really contemplated in your original analysis of the market opportunity or the TAM. So, can you guys just talk a little bit about where – what is it that's kind of driving these second unit systems? Any updates you can give us on the number of accounts with second units and what that might mean for kind of your long-term opportunity here? Thank you.
+
+Kevin Waters
+Chief Financial Officer & Executive Vice President, PROCEPT BioRobotics Corp.
+Yeah. So, yeah, I'll take the near term and long term here, Brandon. So, specific to our Q4 guidance and what it implies, for the 56 units that we're guiding to in the fourth quarter, those are primarily greenfields. We may have – think of less than a handful of second systems, but we still believe the biggest driver of our business today is greenfield opportunities.
+
+Although we did see in the third quarter some key KOLs that bought a second system and, therefore, they've kept our AquaBeam system, they also bought a HYDROS system. So, that's the near term.
+
+And when we look longer term with – when we think of a replacement cycle, we definitely see that the demand is there. But as we communicated in mid-August, our primary strategy for the remainder of 2024 is to sell HYDROS systems to new accounts. It's what we're focused on, it's how the sales force is compensated and we believe we still have a huge market to penetrate on greenfield.
+
+So, only a few months in, it's too early to talk really about a replacement cycle, but this will probably come in connection with our 2025 guidance on our next call.
+
+Operator
+Thank you. And our next question coming from the line of Richard Newitter with Truist Securities. Your line is open.
+
+Richard Newitter
+Analyst, Truist Securities, Inc.
+Excuse me. Hi. Thanks for taking the questions. Congrats on the quarter. Maybe just on the replacement and trade-in aspect here, Kevin, what was the cutoff for trade-ins for the third quarter, the handful, or how many did you say there were that had purchased recent enough that you allowed them to swap out? Was there any true-up kind of associated with that and what's the ballpark?
+
+And then, how should we think about your strategy and/or cutoff thresholds for timing of purchases? Like if you made a purchase in the last 12 months, on a rolling basis, are they eligible potentially for some sort of deal, because they were recent enough in their last purchase? So, that's my first question and I'll have a follow-up. Thanks.
+
+Kevin Waters
+Chief Financial Officer & Executive Vice President, PROCEPT BioRobotics Corp.
+Yeah. And it's important to note there is a difference between these exchanges that I've brought forth today and a true replacement cycle. So, in connection with our launch, we always were aware of customers that had recently purchased AquaBeam. Think in the last two quarters where perhaps the system hadn't even been installed yet, the account hadn't been launched. So, therefore, we were always allowing for and had a program in place to address those as exchanges as opposed to – or compare those to replacements.
+
+And those are the few that I mentioned in my script that contributed a nominal amount of revenues, a couple hundred thousand dollars. And that could persist into the fourth quarter, but I wouldn't view that as a material aspect of how we're thinking about the HYDROS launch now that we've kind of gotten past those initial accounts. And we then get into 2025, Rich, where we do expect to initiate more of a replacement cycle. Again, we're not going to provide a lot of color around that here today, but that will have an impact on overall ASPs.
+
+But with that said, as we communicated mid-August, we have many accounts that purchased AquaBeam three, four or five years ago that we think are going to be right for replacement and, frankly, the ASPs of those shouldn't be terribly different than a greenfield system.
+
+Hisham Shiblaq
+Chief Commercial Officer & Executive Vice President, PROCEPT BioRobotics Corp.
+Rich, only I'll add to this is we have such a massive opportunity that remains with greenfield hospitals. We're talking about thousands of hospitals that we believe are potential opportunities to acquire a system. The sales force has zero incentive right now to trade a system. They're hyper-focused the rest of this year on adding new hospitals, new accounts to ensure that we do everything we can to get these up and going. And 2025, we'll comment more on the trade and replacements, but for now, we're going to be hyper-focused on launching new hospitals.
+
+Richard Newitter
+Analyst, Truist Securities, Inc.
+Okay. That's helpful. Thanks. And just I know you're not giving 2025's guidance today, but we all have models that are going to have some flow-through consequences to the back half updated information here, particularly ASPs on the system side. If we even don't think about additional revenue streams from replacements, of which it sounds like there will be some, if we just take your fourth quarter jump-off point for ASP, you get to something north of 10% upside to Street numbers right out of the gate.
+
+I guess help us think through any early commentary as we adjust our models for how to think about next year, puts and the takes. Don't limit it to the revenue, and particularly if you can comment on what should happen with system ASPs directionally. Thank you.
+
+Kevin Waters
+Chief Financial Officer & Executive Vice President, PROCEPT BioRobotics Corp.
+Yeah. So, like you hit the nail on the head there, we're not going to get 2025 guidance, but I'll just reiterate our comments, that we do feel very good about the HYDROS launch, we feel very good about the receptivity around the ASPs that we saw in the third quarter. But we really, Rich, want to get through our first full quarter of having this product out in the market before we nail down a 2025 ASP. But directionally, as we've commented, we feel great about the launch and our ability to continue to capture robust average selling prices.
+
+Operator
+Thank you. And our next question coming from the line of Josh Jennings with TD Cowen. Your line is open.
+
+Joshua Jennings
+Analyst, TD Cowen
+Hi. Good morning. Thanks a lot and congrats on another very strong quarter. Wanted to just ask about the concomitant BPH and localized prostate cancer opportunity. I think there have been some citations that in the US, there's maybe over 400,000 cases that need to be intervened upon annually. Was hoping if you guys could just review kind of your outlook on the size of that opportunity in terms of the number of procedures.
+
+And then also just help fill in – I mean, so I understand that currently, it's on label clearly, and just to check the box, so it's our understanding that all those cases that are being done are reimbursed. And then have you seen any uptick in utilization over the first nine months of this year since that prostate cancer update was put on the – was – or prostate cancer warning was removed from the label?
+
+Reza Zadno
+President, Chief Executive Officer & Director, PROCEPT BioRobotics Corp.
+Yeah. Thanks. So, yes, as we had said previously, there are about 3 million men in the United States with prostate cancer and there are about 300,000 new cases. And what we want to accomplish with our clinical study is really generate a Level 1 data so that we get in the guidelines. Our goal – from the beginning, we have said our goal is to expand the market, because out of those 3 million men who have prostate cancer, vast majority of them sit on the sidelines because of the side effects of current treatments. With our randomized study, our goal is to show, one, the safety of the product and efficacy, and then expand the market. And as we gather more information in the future, we can provide more color into the commercialization strategy.
+
+Hisham Shiblaq
+Chief Commercial Officer & Executive Vice President, PROCEPT BioRobotics Corp.
+Yes. Hey, Josh, so on the concomitant use with – meaning a BPH patient that also have localized prostate cancer, I think surgeons have been using BPH technologies or effective surgeries for many years and felt confident in the safety of treating BPH patients with prostate cancer. We don't specifically know for years what's been happening with Aquablation as it's all the surgeons' decision as to how to treat their patients.
+
+But I do believe that the reason we wanted to prove that – the safety of it, the FDA remove that contraindication, to also show that the safety was there, very similar to other resective procedure. So, to answer your question, specifically, we don't have an answer other than we do believe that surgeons always felt safe treating cancer patients that have – localized cancer patients that have BPH.
+
+Joshua Jennings
+Analyst, TD Cowen
+Thanks for that. Appreciate it. And then just wanted to – I may have missed it on the call, was hoping to hear an update on the ASC channel and the pilot program and any updated outlook on that opportunity as we think about 2025. Thanks.
+
+Hisham Shiblaq
+Chief Commercial Officer & Executive Vice President, PROCEPT BioRobotics Corp.
+Yeah. So I'll take that one as well. So, we continue to have a lot of success as we've begun that pilot program and get very excited about the opportunity in the ASC setting. Right now, there's one center out of Canada that's published great data showing the ability to get patients through ASC setting same day with high success rates. We have the one center in the US which has been our pilot.
+
+We do expect to expand that pilot in 2025 to a limited number of sites, I think a handful of sites in 2025. And that is very deliberate. Once again, kind of going back to what I said a few minutes ago, we have thousands of hospitals that still need to acquire a system for Aquablation therapy. We'll remain hyper-focused on that, and then we expect the ASC opportunity to be an accelerator for us in the years to come.
+
+Operator
+Thank you. And our next question coming from the line of Matthew O'Brien with Piper Sandler. Your line is open.
+
+Samantha Munoz
+Analyst, Piper Sandler & Co.
+Good morning. This is Samantha on for Matt. Congrats on a great quarter and thank you for taking our question. I'd like to start with the competitive dynamics in BPH. What are you seeing in terms of share shift and maybe are you seeing this accelerate from TURP and laser in Q3?
+
+Reza Zadno
+President, Chief Executive Officer & Director, PROCEPT BioRobotics Corp.
+So from a competitive on the resective side, we do not see new technologies coming. As we have said previously, when we talk to our surgeons, vast majority of the cases that we are performing come from TURP and GreenLight. And at the same time, anecdotally, when we are asking the question, do they see the market expansion, the majority of them say yes, the number of cases they are doing is more than what they were doing a year or two years ago.
+
+Samantha Munoz
+Analyst, Piper Sandler & Co.
+Okay. Thank you. And then I guess second, we were wondering if you could provide any more color on profitability expectations, maybe both in the short term, thinking about our models in – next year, and then also in the longer term.
+
+Kevin Waters
+Chief Financial Officer & Executive Vice President, PROCEPT BioRobotics Corp.
+Yeah, we're not – thanks for the question, this is Kevin. We're not going to provide kind of any specificity around dates, but what we would suggest is the results that we've demonstrated in 2024 show that we are a company that has a very clear pathway to profitability. We've always said with our revenue growth, it really comes down to our ability to control operating expenses, which I think we've demonstrated quite well this year by raising our revenue guidance now every quarter while keeping operating expenses flat.
+
+And at the same time, our gross margin expansion is really a nice jumping off point here in the third quarter at a record level over 63%. Our guidance does suggest another sequential improvement in the – 2024, ending the year at 61%. I think we'll show that for a business that has our revenue growth, it's just a matter of time for profitability. But at this point, we still think it's prudent to be focused on making investments in the business to continue to grow our top line at outsized amounts so, therefore, we're not going to give any specificity around dates.
+
+Samantha Munoz
+Analyst, Piper Sandler & Co.
+Right. Thank you.
+
+Operator
+Thank you. And our next question coming from the line of Chris Pasquale with Nephron Research. Your line is open.
+
+Chris Pasquale
+Analyst, Nephron Research LLC
+Thanks. Congrats on getting the Water IV study approved. Can you talk a little bit about the thought process and the decision to actually go for specific labeling here? I know initially, that was something you were kind of on the fence about how important you think that is to broad adoption long-term. And then just curious, is there a pre-specified radiation component to the treatment regimen just to make sure that that piece is balanced between the two arms?
+
+Reza Zadno
+President, Chief Executive Officer & Director, PROCEPT BioRobotics Corp.
+Yeah. Thanks. So the thought process, as you mentioned, was to generate Level 1 clinical data so that with a randomized study, if successful, we could get into the guidelines, and the goal is to expand the market. Harm reduction is an important benefit that FDA sees for patients because current treatments have high incidence of incontinence and erectile dysfunction. So the primary endpoint, six months, as we have mentioned, is to reduce statistically significant incontinence and erectile dysfunction.
+
+And, of course, the efficacy on the secondary endpoint shows the benefit, and that is defined as progression to the – progression of cancer. So that is how efficacy is defined.
+
+Hisham Shiblaq
+Chief Commercial Officer & Executive Vice President, PROCEPT BioRobotics Corp.
+Chris, can you briefly restate your question on radiation?
+
+Chris Pasquale
+Analyst, Nephron Research LLC
+I was just curious, are these patients going to be getting radiation and is there sort of a pre-specified protocol there to make sure that there's not an imbalance between the two arms?
+
+Hisham Shiblaq
+Chief Commercial Officer & Executive Vice President, PROCEPT BioRobotics Corp.
+So, yeah, this is a randomized study that we're looking at with Aquablation specific to prostatectomy. And so, the radiation component is obviously a different – when you think about moving to definitive surgery for prostate cancer, obviously, many times, prostatectomy and radiation are their options for patients. We're looking at localized disease which should either be a prostatectomy patients or an Aquablation patient.
+
+Chris Pasquale
+Analyst, Nephron Research LLC
+Okay. So they're not going to be getting any radiation. And then, just wanted to clarify the comments around the saline shortage and the impact of the hurricanes and what you guys are seeing there. Have you seen procedures delayed because of that? And can you just remind us what the fluid utilization looks like in a typical Aquablation procedure and is the waterjet itself comprised of clinical-grade saline?
+
+Reza Zadno
+President, Chief Executive Officer & Director, PROCEPT BioRobotics Corp.
+So from a quantity of saline use, in fact, the quantity of saline used during the procedure, our procedure uses less saline than TURP does. So broadly, it doesn't – it hasn't impacted. But depending on the accounts, yes, there has been some impact, but broadly no. And as I mentioned on the quantity of saline, it's not more than TURP. I don't know, Kevin, do you want to add?
+
+Kevin Waters
+Chief Financial Officer & Executive Vice President, PROCEPT BioRobotics Corp.
+Yeah. No, just regarding guidance, specifically, our guidance, we did see procedures canceled in October. You could think in the hundreds, not the thousands if that helps kind of quantify how we're thinking about it in October. And our guidance does allow for that saline, in particular, to continue to persist somewhat into November, but it also suggests that the current environment doesn't get worse, right?
+
+I think our guidance would assume the worst is behind us, obviously, with weather and with the saline shortage. But we, again, feel very good about the underlying trajectory of the business coming off a very strong September from a procedure standpoint.
+
+Chris Pasquale
+Analyst, Nephron Research LLC
+Thanks.
+
+Operator
+Thank you. And our next question coming from the line of Ryan Zimmerman with BTIG. Your line is open.
+
+Ryan Zimmerman
+Analyst, BTIG LLC
+Hey, guys. Good morning and congrats on the quarter. Want to ask, we've been picking up some comments in the field from urologists about a number of dynamics related to reimbursement. I think I've spoken with Barry about this previously, but there has been more chatter about things such as Medicare audits, specifically with RAC auditors, and the risk of [ph] claw-backs (00:44:43) with AquaBeam case as well as some pushback from Cigna and Humana on what they're covering, [indiscernible] (00:44:53). And so I'm just wondering if you can speak to that, whether that's impactful, whether it's small, just maybe put that to bed if you can.
+
+Reza Zadno
+President, Chief Executive Officer & Director, PROCEPT BioRobotics Corp.
+Yes. Thanks, Ryan. So, related to RAC audit, as you know, this is a common procedure in healthcare that's done. For us, it started in about October of 2023. In the last 12 months, I'm happy to say we have been able to execute despite that audit. FDA, when we received FDA approval, there was no size restriction, but with some of these – these are specific to Medicare, by the way. There's a size restriction and we are working with surgeons and payers to remove this restriction.
+
+For example, we have been able, in other cases that there were some age restriction with some Medicare carriers, to remove that. It's just a matter of time. It is not an obstacle for our growth. This is something that we have to resolve. We are working with them. As far as Cigna that you mentioned, what Cigna mentioned was they retired as of September their policy. When a carrier retires a policy, basically, what that means is surgeon can recommend Aquablation, in other words, there is no restriction. So, that is definition of retirement.
+
+Hisham Shiblaq
+Chief Commercial Officer & Executive Vice President, PROCEPT BioRobotics Corp.
+I'll add a little bit on the RAC audits of Medicare, Ryan. So, specifically with Aquablation, we know that Medicare has an outsized proportion of patients we treat due to the demographic of patients going to have BPH and are getting treated. The RAC audits are specifically focused on traditional Medicare.
+
+And so, when you think about 25% of the market, 25% of market being traditional Medicare, less than 10% of Aquablation procedures are less than 150 grams, which is a restriction currently of Medicare. This size limitation has had a minimal impact on our ability to expand and achieve our utilization targets due to the size range limitation and then the traditional Medicare number of patients we're treating.
+
+Also, you mentioned Humana. Humana is the only major private payer to have a size limit – restriction, 150 grams, a very small percentage of our patients we treat. And once again, when you look at the major payers, we don't have restrictions on most of them other than Humana's 150-gram limitation.
+
+Ryan Zimmerman
+Analyst, BTIG LLC
+Okay. Very, very helpful. And then just, Kevin, in terms of the guidance philosophy, I can appreciate there's some macro dynamics with IV solutions and reps are out of the field for training. But seasonally, I mean, even if that were the case, why wouldn't fourth quarter kind of follow similar quarter-to-quarter step-up, if you will, particularly for systems in the fourth quarter as it did maybe last year?
+
+Kevin Waters
+Chief Financial Officer & Executive Vice President, PROCEPT BioRobotics Corp.
+Well, we are – so I'll address systems first. I mean, we are guiding to a number of 56 systems, which is up significantly, it's up 27% compared to prior year, up 11 incremental units compared to the third quarter and will represent an all-time high for PROCEPT by a significant margin. I think our all-time high number of systems in any quarter previously was 47. So, we feel a ton of momentum around systems.
+
+When we think of the utilization dynamic, I do think it's important. Sham has referenced this a few times, that launching a completely new platform and what that requires from a time to installation, it has elongated somewhat when we install these accounts to make sure that we do it the right way. And our guidance suggests that we sell close to 100 systems in the back half of the year, which would roughly be almost 20% of the total installed base as we exited June.
+
+So, we're just going to be very methodical about our launch. Does that mean we sacrifice some procedures in the fourth quarter? It does absolutely, but we feel it's the best opportunity to set us up for 2025 moving forward to become the standard of care here.
+
+Ryan Zimmerman
+Analyst, BTIG LLC
+Thank you.
+
+Operator
+Thank you. And our next question coming from the line of Mike Kratky with Leerink Partners. Your line is open.
+
+Brett Gasaway
+Analyst, Leerink Partners LLC
+Hey. Good morning, guys. This is Brett on for Mike. Congrats on another great quarter and a successful HYDROS rollout. I just want to go back to the ASP guide in 4Q. Obviously, there's a little bit of flexibility there with what's been going on with the rollout, but how should we be thinking about if there's any discounting on legacy AquaBeam or if there's any dynamics we should be thinking about that's driving that, that may persist into 2025?
+
+Kevin Waters
+Chief Financial Officer & Executive Vice President, PROCEPT BioRobotics Corp.
+Yeah. I don't see anything unusual here. As we've mentioned, the majority of our sales implied in our Q4 guide, they are greenfield and perhaps a handful of sales second systems to existing accounts. So, I think it's better on an ASP front than we are expecting initially.
+
+And again, we want to just get through a full quarter of launch where we have HYDROS now to sell for a full quarter prior to getting too aggressive on guiding to 2025 ASPs. But there's no unusual dynamics in the fourth quarter regarding replacements or exchanges or trade-ins. These are all primarily greenfield accounts.
+
+Brett Gasaway
+Analyst, Leerink Partners LLC
+Understood. And then just a follow-up there I guess on the profitability side, primarily in the COGS side. Obviously, 10% higher at this point and that's going to scale down over time, but how should we be thinking about just kind of a base level COGS versus legacy AquaBeam long term? And I know you're not commenting on cadence, but just overall, how we should be thinking about that level.
+
+Kevin Waters
+Chief Financial Officer & Executive Vice President, PROCEPT BioRobotics Corp.
+Yeah. Maybe I'll just talk about overall gross margins in general. I did mention and we wanted to update the investment community that HYDROS is currently costing about 10% more than AquaBeam to clarify some, I would say, misinformation that was out there in August regarding the cost being the same. With that said, we do think the ASP of HYDROS is going to more than offset what we're seeing with the increase in costs. We do think over time, HYDROS becomes much more comparable to where AquaBeam was, and over a greater period of time I would expect it to cost less than AquaBeam longer term.
+
+And we continue to have a lot of operational efficiencies in manufacturing. The single biggest lever in manufacturing for us to expand margins really is producing more products and scale, and we're seeing that. And while not commenting on profitability or margins, we do think the third quarter is a jumping off point for our business now at 63%, and we should expand from here. And I feel very good about our margin profile as we head into 2025, not only around production, but we talked in the fourth quarter last year about things like product quality, scrap, yield, all of these metrics that we're focusing on as the business continue to improve and give us a ton of conviction that this again is a business that has a very clear pathway to profitability.
+
+Brett Gasaway
+Analyst, Leerink Partners LLC
+Makes sense. Thanks, guys.
+
+Kevin Waters
+Chief Financial Officer & Executive Vice President, PROCEPT BioRobotics Corp.
+Thank you.
+
+Operator
+Thank you. And I'm showing no further questions in the queue at this time. I will now turn the call back over to Reza Zadno for final comments.
+
+Reza Zadno
+President, Chief Executive Officer & Director, PROCEPT BioRobotics Corp.
+Yeah. I want to thank everyone for joining our earnings call. I hope to see many of you at the upcoming conferences and I wish all of you a happy – a very good day. Thank you.

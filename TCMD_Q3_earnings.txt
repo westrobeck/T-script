@@ -1,0 +1,230 @@
+Good afternoon and thank you for joining the call today. With me from Tactile's management team are Sheri Dodd, Chief Executive Officer; and Elaine Birkemeyer, Chief Financial Officer.
+
+Before we begin, I'd like to remind everyone that remarks and responses to your questions today may contain forward-looking statements that are based on the current expectations of management and involve inherent risks and uncertainties, which could cause actual results to differ materially from those indicated, including those identified in the Risk Factors section of our annual report on form 10-K, as well as our most recent 10-Q filing to be filed with the Securities and Exchange Commission. Such factors may be updated from time to time in our filings with the SEC, which are available on our website. We undertake no obligation to publicly update or revise our forward-looking statements as a result of new information, future events or otherwise.
+
+This call will also include references to certain financial measures that are not calculated in accordance with generally accepted accounting principles or GAAP. We generally refer to these as non-GAAP financial measures. Reconciliations of those non-GAAP financial measures to the most comparable measures calculated and presented in accordance with GAAP are available in the earnings press release on the Investor Relations portion of our website.
+
+With that, I'll now turn the call over to Sheri.
+
+Sheri L. Dodd
+Chief Executive Officer & Director, Tactile Systems Technology, Inc.
+Thanks, Sam. Good afternoon, everyone, and welcome to our third quarter 2024 earnings call. Here with me is Elaine Birkemeyer, our Chief Financial Officer. Today, we will review our financial results for the third quarter, discuss evolving market dynamics across our business and provide progress updates on each of our three key ongoing commercial initiatives. As a reminder, these initiatives cover technology and workflow-related investments in sales and order operations, the development and launch readiness of our next generation lymphedema platform, and the generation of clinical evidence to support further patient access to our platform. We will also provide an update on our full year 2024 revenue guidance and capital allocation strategy.
+
+Total revenue in the third quarter grew 5% year-over-year to $73.1 million. In our lymphedema business, revenue increased 4.4% year-over-year to $65.3 million, and airway clearance revenue increased 10.3% year-over-year to $7.8 million. Our gross margin increased 410 basis points year-over-year. Margin expansion was primarily a result of lower material costs and warranty expenses resulting from improvements in the design of our products over the past several years.
+
+Adjusted EBITDA grew 39.3% year-over-year in Q3, representing the 10th consecutive quarter of year-over-year improvement and reflecting our commitment to delivering continued improvements in operating leverage. From a cash perspective, cash and cash equivalents increased sequentially by $8.5 million, increasing our cash balance to $82.1 million as of September 30, 2024. The sequential growth in both adjusted EBITDA and cash balance are indicative of our operational maturity and continued focus on balancing profitability and cash generation with investments in our business.
+
+While pleased with our third quarter performance across key multiple metrics, our revenue results were below our expectations due to a confluence of two main factors. On our Q2 call, I spoke to the impact of increased documentation requirements on our lymphedema sales rep productivity due to the Medicare administrator's approach to administering the pneumatic compression pump LCD. During the third quarter, we saw strong execution in our mitigation activities. However, growth in the lymphedema business was impacted to a slightly greater extent than originally expected.
+
+In our airway clearance business, we continued to see year-over-year growth, but DME buying patterns led to uneven results. From a business fundamentals perspective, we continued to see strong, patient and clinician demand for our products. We are taking a [ph] concerted (00:19:14) approach to fortifying our sales channels, simplifying our front and back office work through technology modernization, and amplifying the voice of our patients and providers through product and service innovation. Driving further revenue growth and shareholder value remain top priorities, and I'm confident in our ability to do so while sustaining our track record of strong bottom line performance.
+
+With that backdrop, let's review the respective business line performances beginning with lymphedema. Today, I'll focus our lymphedema discussion on two main topics. First, a review of our Q3 performance, particularly relative to Medicare channel dynamics. And second, an encouraging update on the recent major policy announcement from CMS regarding changes to the coverage policy for pneumatic compression devices.
+
+As a reminder, on our Q2 earnings call, we discussed revised expectations for the full year 2024 to account for the unexpected change in the Medicare administrator's interpretation of the 2015 LCD for pneumatic compression devices or PCDs and the associated increase in documentation collection required for complete claims. For Tactile, the sourcing responsibility for this added documentation falls on our sales reps who work with the prescribing clinicians to collect the required details. As a reminder, our sales reps have call points across vascular practices, day-in centers, oncology and lymphatic therapists who treat patients across government and commercial payers. Because our sales reps support all patients regardless of insurance type, the increased burden on this Medicare documentation gathering impacts our reps' productivity as a whole. While this disproportionately impacts claims for Medicare patients, it also impacts sales activities across all channels.
+
+To be clear, while the additional documentation collection tends to extend the timeline from order completion to product shipment and claims submission, it has not resulted in a higher rate of claims denials. We have also not seen an increased number of post-payment Medicare audits. Our collection across channels remains strong as evidenced by our sequential cash generation.
+
+Despite this increased documentation requirement for Medicare patients, lymphedema sales grew 4.4% year-over-year in the quarter and were roughly flat on a sequential basis. With a full quarter of experience now dealing with the changes in LCD interpretation, we've gained much greater insight into how exactly these dynamics are playing out in our revenue cycle management results and have seen our strategies working to mitigate the full impact of this policy turbulence.
+
+Specifically, we've modernized and expanded customer-facing and internal-facing, workflow-related tools. For example, we have migrated to a more efficient electronic method of verifying patient insurance and launched our previously piloted e-prescribing tool nationally to help streamline the prescriber experience with required data collection. We've received positive feedback on the e-prescribing tool and we are seeing strong adoption through these early days of national launch. Importantly, we will continue to update this tool to remain current with coverage policies, further mitigating the administrative burdens on providers and our sales reps.
+
+Further indicative of our strategy to leverage new technologies to drive efficiency, we also accelerated the implementation of select tools from our new CRM, which we plan to fully deploy in early 2025. These tools have better equipped our sales reps to best organize and prioritize their work so they can be as efficient as possible.
+
+From an internal people and process perspective, we've redesigned and streamlined various internal business processes to enhance speed and efficiency in order operations. With respect to our human capital, in Q3, we redeployed portions of our back office resources to work directly with the sales reps and patients to support timely documentation gathering and patient engagement. We also added incremental contractor resourcing to assist with documentation efforts.
+
+Finally, we continue to make progress with increasing the percentage of in-home patient demos that are performed by our patient education consultants, also known as PECs. This quarter's 48% of in-home demos were performed by our PECs versus 45% in Q2 and up from 30% at the end of 2023. We are pleased with this continued growth and continue to expect our PEC staff to complete at least 50% of in-home demos by the end of 2024.
+
+Regarding sales head count, we ended the third quarter with 270 reps, up from 264 at the end of the second quarter and within our target range for the full year. Our lymphedema channel mix was also a positive story in the third quarter. Despite aforementioned impact on the overall sales rep productivity, our VA and commercial sales demonstrated strong growth in the quarter, reflecting solid underlying fundamentals in both channels. Both grew double digits year-over-year with commercial up over 20%. Strength in the VA channel was particularly impressive with 16% year-over-year growth driven exclusively by Flexitouch and aided by the recent publication of positive clinical trial results for veterans using Flexitouch versus standard of care. Collectively, these tools and process enhancements combined with human capital investments and strong underlying demand for our products leave us confident in our ability to build momentum through Q4 and into 2025.
+
+With that context, on the third quarter performance, I want to pivot to an encouraging upcoming change in the Medicare coverage policy for PCDs. Last month, CMS announced that the current LCD policy will be retired as of November 14, 2024 and that the existing national coverage determination or NCD will instead be the sole coverage policy in effect. We view this as a win for lymphedema patients and a positive for our business.
+
+As brief context, the NCD policy for PCDs was established in 2002 and Tactile followed that policy until 2015 when MACs established their own LCD and began adjudicating claims under a more stringent policy which, for example, defines specific reimbursement eligibility requirements for basic versus advanced PCDs. Since the creation of the LCD, the NCD and the LCD policies have coexisted with some similar sets of requirements, but also some areas of conflict particularly in terms of coverage eligibility for Flexitouch. The LCD requires the patient to try a basic pump before receiving an advanced pump even if the basic pump did not meet the advanced clinical needs of the patient.
+
+Tactile adjusted our internal claims processes and related documentation requirements to the LCD. And we've continued to refine and adapt our approach based on the MACs evolving adjudication patterns. With the retirement of the LCD in mid-November the MACs will adjudicate claims moving forward based only on the NCD. This provides for greater flexibility to consider case by case patient needs, including initiating PCD therapy for Flexitouch, if clinically supported. In short, this is a positive for Tactile and for patients.
+
+Coverage policy changes can create disruption, but in the case of this change, we are optimistic. We have over a decade of experience submitting claims under the NCD, including extensive adjudication history, audits and knowledge of where there is ambiguity in the NCD policy language. As needed, we can quickly adapt the e-prescribing tool, mobilize training and education for our salesforce and clinician partners and implement claims processing adjustments while monitoring success rates.
+
+As stated earlier, the NCD policy does have some language ambiguity. If they choose, the MACs can continue to apply their own interpretation of the NCD policy, which may be similar to their current LCD position. Ultimately, we believe the change to the NCD will be good for patient therapy access and we'll be monitoring adjudication behavior and advocating for patients as clinically appropriate.
+
+In summary, we expect the recent turbulence associated with the lymphedema LCD coverage, the policy interpretation to be met in the near and medium terms. With the change to a sole NCD policy, we believe that dynamics that negatively impacted Medicare channel sales directly and commercial channel sales indirectly in Q2 and Q3 will improve moving forward.
+
+While total retirement of the LCD was unexpected, we are pleased with the MACs decision and believe the elimination of the conflicting policies represent a patient-friendly change that will make it easier for Medicare patients to gain access to life changing treatment options for their lymphedema. As the market leader, we have worked closely with the MACs, CMS and professional societies for years to lead societal advocacy initiatives and industry coalitions, which have pushed for policy changes. We feel this is our responsibility as the leader in the space, and I'm proud of the work our entire team has done every step of the way to help influence this policy change.
+
+Turning now to a review of airway clearance. Sales of AffloVest were up on a year-over-year basis, but down sequentially as expected due to seasonal dynamics. While bronchiectasis itself is not strictly seasonal, it is influenced by seasonal changes and the associated increase in respiratory illnesses like allergies, the cold and flu which are most prevalent in November through May.
+
+Beyond these seasonal dynamics, our performance was also affected by uneven buying patterns across a handful of our DME customers. We remain encouraged that there is a large number of bronchiectasis patients that are undiagnosed and undertreated. Our airway clearance sales organization are the experts in educating and training our DME sales partners and providers in bronchiectasis and the role of AffloVest in their care. We continue to believe that AffloVest is a compelling, differentiated offering for these patients.
+
+As mentioned earlier, we had several bright spots in the quarter, both operationally and financially, that demonstrate continued momentum with respect to profitability, leverage, cash generation and growth in our VA and commercial channels. That said, the cumulative effect of Q3's challenges within the Medicare channel and airway clearance business have led us to further revise our revenue guidance for 2024. We now expect total revenue in the range of $292 million to $295 million.
+
+On the profitability side, as mentioned, we continue to deliver year-over-year increases in adjusted EBITDA and expect that strength to continue. And as a result, we are raising our guidance for adjusted EBITDA to a new range of $35 million to $37 million. We have several reasons to be optimistic in our ability to close out the year strong from a revenue perspective. Q4 is typically the strongest quarter for our lymphedema business due to patient co-pays being at the lowest at any point during the year. As shared, we are still in strong execution mode of our current commercial initiatives. We are investing and deploying technology and workflow-related improvements, including the national rollout of e-prescribing and increasing PEC and back office support to perform non-selling administrative activities.
+
+We published strong clinical results which support the value of Flexitouch versus the standard of care, and our launch of Nimbl is generating enthusiasm among clinicians and patients. As many of you are aware, Nimbl is the next generation of our basic PCD and an important addition to our leading portfolio of patient-focused, clinically proven lymphedema therapy solutions. The first phase of Nimbl's introduction to the market is targeted specifically for upper extremity treatment, a patient group dominated by breast cancer survivors. In fact, up to 40% of breast cancer survivors are affected by lymphedema, and they are often surprised and unprepared to learn that after going through the ordeal of breast cancer treatment, they now have been diagnosed with a new, lifelong, chronic, progressive disease with no cure.
+
+For these patients, the constant swelling and discomfort of the breast, trunk, arms and hands limits mobility, activity and travel. It is difficult and time-consuming to treat and patients seek a more convenient option that reduces the physical and physiological burden of treatment while still providing the best therapy possible. They now have that with Nimbl.
+
+From a design and feature perspective, Nimbl is 68% lighter, 40% smaller, and uses 33% less housing than our previous generation device. Nimbl's compact design is the smallest PCD of its kind, making it an ideal therapy for daily use at home or on the go. In addition to these patient-centric design features, Nimbl also offers connectivity to our free Kylee digital application, providing patients a more simple way to track their usage and changing symptoms, and to share results with their care team.
+
+Early feedback from patients and clinicians has been positive as both groups appreciate this compelling treatment option designed to increase adherence and improve clinical outcomes. Patients specifically value the connectivity to Kylee and its role in aiding increased therapy engagement. We are excited about this new platform and we'll be expanding Nimbl to include patients with lower extremity conditions in the first half of 2025.
+
+From a clinical evidence perspective, in September, we announced the publication of positive clinical trial results among VA patients that assessed the use of Flexitouch for the treatment of their lower extremity lymphedema over the course of one year. This was the largest prospective clinical trial investigating PCDs and lymphedema ever published in the US. And the results demonstrated significant improvements across primary and secondary study endpoints, including increases in lymphedema, quality of life scores, reductions in limb girth, cellulitis events, skin [ph] hyperpigmentation (00:33:21) and high compliance with therapy.
+
+Further, mild lymphedema was the most common disease stage among the study group, presenting in 68% of patients. This is important as it shows the value and clinical efficacy of Flexitouch earlier in the care pathway. Our ongoing [ph] RPT (00:33:39) assessing Flexitouch for head and neck lymphedema is also progressing well and remains on track for an initial data readout in early 2025. This is the largest study ever conducted among this patient group, and we look forward to communicating the results as soon as we are able.
+
+Delivering speed and efficiency in the sales and order management process, launching and supporting innovative therapies and solutions, and generating peer-reviewed evidence and patient advocacy support are foundational elements for improving access to care. Having served over 1 million patients since Tactile's inception, improving access to care continues to be a focus of our work today and will become an even more important cornerstone of our strategy in the future. We look forward to sharing specifics of this refreshed access to care strategy next quarter. In the meantime, we're encouraged by our demonstrated momentum in this area to date and pleased to have a strong balance sheet to support appropriate future investments.
+
+Before turning the call over to Elaine, I want to share a brief update on our capital allocation strategy. As communicated during the previous earnings call and mentioned earlier in my prepared remarks, we are increasingly benefiting from generating free cash flow, a trend we expect to continue. This provides us the luxury of continuing to evaluate various investment opportunities to drive growth and increase shareholder value while also initiating a share repurchase program of up to $30 million of outstanding stock. We believe the strategic action and near-term use of cash aligns with our conviction in the trajectory of our business, as well as our ability to execute our financial and operational initiatives. To be clear, our strong balance sheet affords us a multitude of options in terms of meaningful capital deployment, and we will continue to evaluate ways to leverage our market leadership and strong commercial and operational footprint to invest in and drive incremental growth.
+
+With that, I'll now have Elaine review our third quarter financial results and provide an update on our outlook for the remainder of 2024.
+
+Elaine M. Birkemeyer
+Chief Financial Officer, Tactile Systems Technology, Inc.
+Thanks, Sheri. Unless noted otherwise, all references to third quarter financial results are on a GAAP and year-over-year basis. Total revenue in the third quarter increased $3.5 million or 5% to $73.1 million. By product line sales and rentals of lymphedema products, which includes our Flexitouch and Entre systems increased $2.8 million or 4% to $65.3 million. And sales of our airway clearance products, which includes our AffloVest system, increased $0.7 million or 10% to $7.8 million.
+
+Continuing down the P&L. Gross margin was 75% of revenue compared to 70.9% in the third quarter of 2023. Non-GAAP gross margin, which excludes non-cash intangible amortization in both periods, was 75.4% compared to 71.4% in the prior year. The increase in non-GAAP gross margin was attributable primarily to lower manufacturing and warranty costs and improving collections reflected in our revenue.
+
+Third quarter operating expenses increased $6.6 million or 16% to $48 million. The change in GAAP operating expenses reflected a $0.8 million increase in sales and marketing expenses and $0.5 million increase in research and development expenses, and a $1.7 million increase in reimbursement and general and administrative expenses including and primarily driven by strategic technology investments and a $3.7 million onetime earnout benefit that occurred in the prior year related to the final true up of our earnout liability related to the AffloVest acquisition.
+
+Operating income decreased $1.2 million or 15% to $6.8 million. Non-GAAP operating income increased $2.7 million or 50% to $7.9 million. As a reminder, our non-GAAP operating income excludes non-cash intangible amortization and earnout expense, as well as certain non-reoccurring operating expenses. We provided a detailed GAAP to non-GAAP reconciliation in our earnings press release.
+
+Other income net increased $0.9 million or 225% to $0.5 million. The increase was primarily driven by higher interest income on our increased cash position and lower interest expense, primarily driven by the retirement of our revolving line of credit at the end of 2023. Income tax expense increased to $16.8 million or 116% year-over-year to $2.1 million. The year-over-year change in income taxes driven primarily by a onetime adjustment and the prior year releasing of our valuation allowance. This non-cash impact reflected our return to more consistent profitability. The current year expense is driven by our taxable income.
+
+Net income decreased $17.1 million to $5.2 million or $0.21 per diluted share compared to $22.3 million or $0.94 per diluted share. Non-GAAP net income decreased $14.2 million or 70% to $6 million compared to $20.2 million. As mentioned, this decrease is driven by the impact of the prior year valuation allowance where we've had on prior year income taxes.
+
+Adjusted EBITDA increased $10.7 million or 14.6% of sales compared to $7.7 million or 11.1% of sales. With respect to our balance sheet, we had $82.1 million in cash and cash equivalents and $27 million of outstanding borrowings at quarter end. This compares to $61 million in cash and $29.3 million of outstanding borrowings as of December 31, 2023. Our cash growth was driven by a combination of operating income and an increase in net working capital.
+
+Turning to a review of our 2024 outlook. For the full year 2024, we now expect total revenue in the range of $292 million to $295 million, representing growth of approximately 6% to 8% year-over-year. This compares to previous 2024 total revenue guidance in the range of $293 million to $298 million, representing growth of approximately 7% to 9% year-over-year.
+
+Our updated guidance reflects the impact sourcing from Medicare's increased documentation requirements and the DME buying patterns within airway clearance that Sheri discussed earlier. For 2024, total revenue guidance range assumes that the growth in both our lymphedema and airway clearance products will be in a similar range. For modeling purposes for the full year 2024, we now expect our GAAP gross margin to be approximately 74%, our GAAP operating expenses to increase low-double digits as we advance our tech-related investments throughout the year, net interest income of approximately $1 million, a tax rate of 30%, and a fully diluted weighted average share count of approximately 24 million shares.
+
+As a result of our continued progress with improved profitability, we now expect to generate adjusted EBITDA of approximately $35 million to $37 million in 2024. This compares to previous adjusted EBITDA guidance of $34 million to $36 million. Our adjusted EBITDA expectation assumes certain non-cash items, including stock compensation expense of approximately $8.4 million, intangible amortization of approximately $3.8 million, and a depreciation expense of approximately $3 million.
+
+With that, I'll turn the call back to Sheri for some closing remarks. Sheri?
+
+Sheri L. Dodd
+Chief Executive Officer & Director, Tactile Systems Technology, Inc.
+Thanks, Elaine. In closing, my confidence in our team and our business remains high. Our market opportunity is large, growing and underpenetrated, and Tactile brings the largest breadth of clinically proven solutions for our patient population from head to toe. Meanwhile, we are fortifying our business operations for scale, simplifying the patient, provider, clinician and employee experience, and are amplifying the voice of the patient in our policy and payer advocacy, as well as seeing improving CMS coverage conditions in the near horizon. These efforts will continue to bear fruit in the coming quarters and years and leave us optimistic about our ability to continuously adapt, grow and profitably scale.
+
+With that, operator, we'll now open the call for questions.
+
+Question And Answer Section
+Operator
+Thank you. We will now be conducting a question-and-answer session. [Operator Instructions] Thank you. Our first question comes from the line of Margaret Kaczor Andrew with William Blair. Please proceed.
+
+Hey, guys. It's [ph] Jaime (00:43:16) on for Margaret. Thanks for taking the question. Two from me. Obviously, the Medicare documentation impact didn't play out as expected this quarter. So maybe just touch on why that was a surprise relative to your expectations. And I understand you have the LCD reverting back to the NCD, but maybe just give us some more color on the level of visibility you have on Medicare sales improving going forward?
+
+Sheri L. Dodd
+Chief Executive Officer & Director, Tactile Systems Technology, Inc.
+Sure. Thanks so much and thanks for joining. I think the best way I can answer this really comes in two parts. I mean, the first is, from a good news standpoint, we did not see the Medicare MACs get any more strict than they had been before as we saw that transition happening from Q2 into Q3. So it didn't get worse. What we did though learn is with a full quarter under our belt, we really understood more about what was it actually going to take in order to get the documents. And that was both in terms of what was required from the sales reps and how we could augment them with different type of support, whether it was in human capital or using different type of tools, et cetera, as we discussed, both technology process and people.
+
+So with a whole quarter now under our belt, we had a much better idea of what that looks like, which is reflected in our guidance. I think we went in with Q3 having some information of what this would look like. But obviously, it was tougher for our business to collect all that documentation. And as I mentioned in the prepared remarks, it wasn't just for the Medicare business, our reps support, patients across different specialties, as well as independent of what type of insurance they're covered under. So it impacted our Medicare business, of course, and you saw that reduction, but it also impacted our VA and commercial businesses and yet we saw double-digit growth in both of those. So we know that the market dynamics are there. The fundamentals for the market are there, the patients are there. It just took longer than we had anticipated to gather all that documentation to move our orders through the queue and out to shipping.
+
+Okay. That's helpful. And then maybe just a second one on guidance here, you lowered guidance by less of a miss, $2 million roughly at the midpoint. So I guess, maybe what are you assuming Q4 has given you confidence that you can lower by less than a miss? And then are you baking in any contribution from Nimbl? Or maybe you just touched on it, but is most of that improvement stemming from the Medicare documentation impact lessening in Q4, stepping down and potentially exiting the year?
+
+Sheri L. Dodd
+Chief Executive Officer & Director, Tactile Systems Technology, Inc.
+Yeah. So thanks for the question. It's a good one. So I'll kind of go with the last first. So we still expect to see very minimal impact from Nimbl. We only just launched that product. It is in our upper extremity only. We're really excited about the impact it's had thus far. We were able to launch it on time with the Breast Cancer Awareness Month, but we don't expect that to have a material impact on Q4.
+
+We also know that the change from the LCD to the NCD is only going to go effective on November 14 and any orders that are in the queue right now are going to be adjudicated under the LCD, not the NCD. So we also don't expect the change to the NCD itself to have any impact on Q4 and, again, there's still a lot of ambiguity about that. What we are confident in is now having had this full quarter under our belt and having accelerated tools from our CRM out into the sales force, the way that we have deployed and redeployed head count for order operations, the way the successes of taking our e-prescribing pilot into a national launch, all of these factors from technology and people and process, we now have a lot of experience for what it looks like to operationalize under the Medicare stricter requirements. And we've seen the impact in progress of those initiatives.
+
+With that already seeing momentum in Q3, we're going to see more of that full momentum in Q4 and, quite honestly, on into 2025. Many of the initiatives that we put in place are now going to be our standard practice. And so that's what gives us confidence for a Q4 at least stabilizing Medicare, seeing return to growth and continuing to take advantage of our strong market presence in both commercial and VA businesses.
+
+That's very helpful. Thanks for taking the question.
+
+Sheri L. Dodd
+Chief Executive Officer & Director, Tactile Systems Technology, Inc.
+You bet. Thank you very much. Send our best to Margaret.
+
+Operator
+Thank you. Our next question comes from the line of Ryan Zimmerman with BTIG. Please proceed.
+
+Hi, everyone.
+
+Sheri L. Dodd
+Chief Executive Officer & Director, Tactile Systems Technology, Inc.
+Hi, Ryan.
+
+Oh, this is [ph] Izzy (00:48:17) on for Ryan tonight, but thanks for taking the questions. I just wanted to start out...
+
+Sheri L. Dodd
+Chief Executive Officer & Director, Tactile Systems Technology, Inc.
+Hi, [ph] Izzy (00:48:22).
+
+Hi. We're about a year or almost a year out from when the Lymphedema Treatment Act was enacted back in January. So I was just wondering if you guys are starting to see any benefits from that or more patients starting to come into the funnel?
+
+Sheri L. Dodd
+Chief Executive Officer & Director, Tactile Systems Technology, Inc.
+Yeah. It's a great question. That policy came into effect in January, but, of course, brand new policy, it does take a while for the full education and understanding of that policy to start rolling out. I will say that we definitely have heard from our providers and our industry partners that say they are starting to see an impact of patients coming through and taking advantage of the LTA. What's interesting about this or just to make sure that everyone's kind of grounded, for patients to get a garment through the LTA, they still need to get the diagnosis of lymphedema and we know that takes a while for a patient to ultimately get that diagnosis. They have to have the physician visit where measurements need to be taken. There needs to documentation in the medical record to some degree of medical necessity, and they have to get the prescription. So there still is a process that's evolved with the patient being able to take full advantage of the LTA from that reimbursement standpoint. But we are starting to see and hear about those coming through.
+
+While we're not seeing the impact fully in the pumps, we know that that's going to start trickle through as patients both become more aware of the LTA policy, physicians, prescribers become more aware, they're able to get the documentation in place, get the claims approved, use the [ph] garment (35:35) for a conservative trial. And then if those patients fail, then they move on to an opportunity of being in the PCD area. So, yes, we understand that it's starting to gain momentum. No, not material to our business to date, but we're excited we know this is the right thing to do for patients and we're ready and helping to support patients as they transition from conservative therapy into pump therapy.
+
+Got it. That's really helpful. Thank you. And then I know there's a lot of moving pieces with all of the documentation requirements and kind of the headwinds that we're facing right now. But as we start to think about 2025, do you see the opportunity for these headwinds to kind of start to subside and get to a more normalized rate once the e-prescribing tool is more broadly rolled out at a national level? Or do you think we'll still face some challenges as we move into next year?
+
+Sheri L. Dodd
+Chief Executive Officer & Director, Tactile Systems Technology, Inc.
+Yeah. It's such a good question because policy changes do create a degree of turbulence. As I said in Q2 and mentioned a little bit in the prepared remarks, where we're optimistic is that with the change from LCD to NCD, there will now just be one policy. Previously, there had been these two policies. They were sometimes in conflict with each other. We've had experience operating under both of those policies. So we believe that this change to one sole policy is the right thing for patients, and we think it's going to be good for our businesses as well.
+
+We also have experience working under this policy, so we're aware of where there's ambiguity in the language and we have experiences through previous audits, et cetera to see where sometimes that ambiguity can create challenges on different type of documentation, et cetera. So having been there and kind of seen how this plays out, we're also feeling that this change in policy is actually going to be less of turbulence, less headwind for us, and it creates more like a new normal, hopefully, for us as we move forward. So there's a lot of advantage of the one policy.
+
+The other thing, [ph] Izzy (00:52:06), that I would say and allow, ask Elaine to weigh in as well is the mitigations that we put in place, whether it's e-prescribing and moving that from pilot to national launch or e-verify or the CRM tool that helps our reps be more efficient, our back office streamlining and simplifying, all of these things are just good for business. And so if the policy environment changes again, which it could, and you have to be prepared at any time, I think we're ready. We are fortifying truly and simplifying the way we're doing our business. So I anticipate that we're going to be in a good position with the NCD coming forward. And then as policy evolves and we see how the MACs are going to adjudicate under that NCD, we'll be ready.
+
+Very helpful. Thanks for taking the questions.
+
+Sheri L. Dodd
+Chief Executive Officer & Director, Tactile Systems Technology, Inc.
+Thanks, [ph] Izzy (00:52:58).
+
+Operator
+Thank you. [Operator Instructions] Our next question comes from the line of Kyle Bauser with B. Riley. Please proceed.
+
+Sheri L. Dodd
+Chief Executive Officer & Director, Tactile Systems Technology, Inc.
+Hi, Kyle. Welcome and thanks for picking up coverage.
+
+Kyle Bauser
+Analyst, B. Riley Securities, Inc.
+Thank you. Our pleasure. And thank you for all the updates and taking my questions here. So maybe I'll start with guidance. The top line came down a little bit as you talked about, but bumping up is the EBITDA expectations is great. We also saw like 50% growth in non-GAAP operating income in the quarter. So despite the miss, the bump-up in EBITDA for the full year, just kind of curious, how would you rank kind of the factors that are contributing to the expanding margins and kind of outpacing top line growth here?
+
+Sheri L. Dodd
+Chief Executive Officer & Director, Tactile Systems Technology, Inc.
+Yeah. Thank you. We do believe that the bottom line performance on our business sometimes is underappreciated and, definitely, it's not just a onetime event. We've been able to show sequential improvement in our bottom line and then, of course, our cash balances is in such a good place. There's a few things that are contributing meaningfully to that. I would say on the gross margin side, product improvements have really helped kind of reduce our overall warranty costs, so that has just been great for patients and also good on gross margins. It's the manufacturing efficiency is also playing out there. So just good fundamentals from a business standpoint and for patients.
+
+On our other expenses, I'll talk to Elaine because she can walk through some of the big drivers in that area.
+
+Elaine M. Birkemeyer
+Chief Financial Officer, Tactile Systems Technology, Inc.
+Yeah. I think, as Sheri mentioned, the biggest impact has been due to our gross margin. And if you saw, we increased outlook for the year to 74%, we were previously at 73% and we are taking it up all year. And so really just great work on our manufacturing team. We are gaining scale on some of our new products, the costs are coming down, the warranty expense. So all good, durable improvements that we expect to continue. Anyway, I think that's allowed us to continue to make the OpEx investments that we've needed to in order to continue to modernize our technology and also has been helpful in launching some of the initiatives that Sheri talked about that allowed us to mitigate some of the turbulence that we've been seeing with the recent Medicare administrative changes.
+
+Kyle Bauser
+Analyst, B. Riley Securities, Inc.
+Got it. Appreciate that. And maybe a follow up, how has the conversion of trainings done by the patient education consultants instead of the sales reps kind of impacted? I imagine there's a nice tailwind in terms of margin expansion, so that's kind of the first part of the question. And once you get to kind of north of 50%, what's holding you back from trying to just fully convert using the PECs and do the training?
+
+Elaine M. Birkemeyer
+Chief Financial Officer, Tactile Systems Technology, Inc.
+Yeah. So I think, yeah, our sales and marketing expense, we did gain leverage there. And so it's not only due to the trainer that you referenced, but also we did continue to leverage kind of our back office. We continue to give the sales reps some additional tools. We talked about pulling forward some of the CRM tool kit that we're putting in place more robustly next year. So those are all things that have helped from. The specifically your question around leveraging the trainers, we set out a goal for 50%. We thought that was a reasonable goal. Just thinking about where the demos are taking place, geographic density and also just the sales reps, partnership with the PECs and making that transition. So definitely, we continue to evaluate that goal each quarter, but really happy with the progress that we've made this year and the improvement it's made from a sales rep capacity perspective.
+
+Sheri L. Dodd
+Chief Executive Officer & Director, Tactile Systems Technology, Inc.
+Yeah. The other thing that I would say about that is some of our clinicians prefer that the demos are done in their office and they have the relationship most deeply with the sales reps. So in that case, that's the preference of the provider. So we also go with that as being kind of the primary, that's where the providers are comfortable and then very opportunistic in the other ones where it makes sense that the PECs are able to be in the home with the patients for those demos.
+
+Kyle Bauser
+Analyst, B. Riley Securities, Inc.
+Okay. Got it. And then just one quick one, if I may. It sounds like there's no change in the success rate of the Medicare claims on the lymphedema side of the business despite the more stringent documentation requirements, which is great. Does that mean that there could be a buildup or kind of a backlog out there as we kind of move through this issue going forward? Thank you.
+
+Sheri L. Dodd
+Chief Executive Officer & Director, Tactile Systems Technology, Inc.
+So, we actually feel that we're really got ourselves caught up. And so while there was a bit of a backlog, the way we redeployed tools and process and people, we feel generally caught up. One of the challenges, though, is you get some leakage, right? So if patients aren't able to get access to the product, that process takes too long, they drop out. Not different from when there's backorder on elective surgery and a patient may decide to drop out and go to a different vendor or drop out having the surgery altogether. So we feel like we're in a good place for stemming that patient leakage, feel very caught up on the claims. And so now, it's just a matter of the referrals to keep coming in, Medicare referrals keep coming in. We know there's patients there. We know our providers see us as a leader in this space. So none of those market pieces are problematic for us and we have streamlined our internal process. And we'll just continue to do this, do it in a way that's efficient and best for patients.
+
+The other thing on the claims approval, there's been a history where we have had exposure and understanding audits and documentation that was missing. And so for a number of quarters, the process has been getting better for that first pass claims approval. So we're not looking for that to improve at all. In fact, it's very good right now. It's going to continue and sustain to be very good. So not a backlog and not an issue with now suddenly having a bolus of claims that we think are going to get approved. You can see our balance sheet, our revenue recognition, super healthy. So it's just now about continuing to operationalize the tools process and people that we have and continue to serve patients in the best and most effective way we can.
+
+Kyle Bauser
+Analyst, B. Riley Securities, Inc.
+Excellent. That makes sense and I really appreciate all the detail here. I'll jump back in the queue.
+
+Sheri L. Dodd
+Chief Executive Officer & Director, Tactile Systems Technology, Inc.
+Thank you, Kyle. Yeah. Thanks.
+
+Operator
+Thank you. We are currently seeing no remaining questions at this time. That does conclude our conference for today. Thank you for your participation.
+
+ 

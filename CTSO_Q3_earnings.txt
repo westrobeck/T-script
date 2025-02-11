@@ -1,0 +1,183 @@
+Thank you, Catherine. And good afternoon, everyone. Welcome to CytoSorbents' third quarter 2024 financial and operating results conference call. Joining me today from the company for the prepared remarks are Dr. Phil Chan, Chief Executive Officer and Pete Mariani, Chief Financial Officer. For the Q&A portion of the call, Dr. Chan and Mr. Mariani will be joined by Vincent Capponi, President and Chief Operating Officer. Dr. Makis Deliargyris, Chief Medical Officer. Dr. Christian Steiner, Executive Vice President of Sales and Marketing and Managing Director of CytoSorbents Europe and Christian Steiner, Senior Vice President of Business Development.
+
+Before I turn the call over to Dr. Chan. I'd like to remind listeners that during the call, management's prepared remarks may contain forward-looking statements which are subject to risks and uncertainties. Management may make additional forward-looking statements in response to your questions today. Therefore the company claims protection under the Safe Harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. Actual results may differ from results discussed today and therefore we refer you to a more detailed discussion of our performance represented by management, include estimates today as of November 7, 2024. And we assume no obligation to update these projections in the future as market conditions change.
+
+During today's call, we will have an overview presentation covering the operating and financial highlights for the third quarter 2024. Following the presentation, we will open the line to your questions during the live Q&A session with the rest of the management team.
+
+And now it is my pleasure to turn the call over to Dr. Phillip Chan.
+
+Phillip P. Chan
+Chief Executive Officer & Director, CytoSorbents Corp.
+Thank you very much, Adanna. And good afternoon and welcome, everyone to our third quarter 2024 earnings call. CytoSorbents is a leader in the treatment of life-threatening conditions in the intensive care unit and cardiac surgery through blood purification and the removal of harmful substances from blood with our proprietary sorbent bead technology. Cartridges filled with these beads are high margin single-use disposables that are plug and play compatible with the existing blood pump machines found in hospitals today, such as dialysis, ECMO and heart and lung machine.
+
+Our technologies are used in a broad number of blood purification applications. Specifically two important applications are one, the removal of inflammatory agents in common critical illnesses such as sepsis. And two the removal of blood thinners during and after cardiothoracic surgery. Our flagship product, CytoSorb, is approved in the European Union to primarily treat life-threatening conditions in the intensive care unit and cardiac surgery, such as sepsis and liver failure, generates roughly $30 million to $35 million annual high margin sales and is growing with about $34 million and trailing 12-month sales as of the end of the third quarter.
+
+With more than [ph] a quarter million (00:04:03) devices use cumulatively [ph] to-date (00:04:07) across 76 countries worldwide. Our second product is DrugSorb-ATR, an investigational medical device designed to reduce the severity of perioperative bleeding during urgent cardiac surgery by removing blood thinning drugs. We have received two FDA breakthrough device designation for this application, highlighting the significant unmet medical need. Now based on data from our pivotal US and Canadian STAR-T randomized control trial in patients undergoing CABG surgery on the blood thinning drug Brilinta, we have now applied for marketing approval both US, FDA and Health Canada with regulatory decisions expected in 2025.
+
+The goal is to enable safe and timely CABG surgery, while eliminating treatment delays that expose patients to additional risk and consume valuable hospital resources. I am pleased with the progress we made this quarter and year-to-date across key aspects of our business, including solid top line performance, ongoing improvements in operating efficiencies, growth in our core international CytoSorb business.
+
+Our continued development of real-world clinical evidence in support of our therapies and perhaps most importantly, reaching significant milestones in the regulatory process to bring DrugSorb-ATR to the North American market, which we believe represent an initial TAM or total addressable market of $300 million, that could grow to well over $1 billion over time. I will discuss each of these in my prepared remarks and I believe that you'll see, we are well-positioned to launch our next phase of growth and set a foundation for future success.
+
+Our new Chief Financial Officer, Pete Mariani, is off to a fast start and will provide more detail on our financial performance. But let me detail a few key points. First, Q3 2024 product sales were $8.6 million above our previously guided range of $8.3 million to $8.5 million and representing 11% growth year-over-year, reflecting strength in our direct sales channels internationally and in Germany and a growing interest in CytoSorb in international geographies served by our distributor network. Product gross margins were 61% for the quarter above our previously guided range of 50% to 60%, but down 71% year-over-year. This reflected a significantly lower number of CytoSorb devices produced during the quarter due to a planned slowdown in production to rebalance inventory levels as well as a short-term manufacturing issue that we resolved in the third quarter. We expect to return to more normalized production levels and product gross margins in the current quarter.
+
+Operating expenses decreased 25% year-over-year driving a 40% reduction in our operating loss and lowering our cash burn for the quarter to approximately $2.7 million, compared to $5 million in the second quarter of this year. These savings demonstrate our disciplined approach to cash management, allowing us to invest in our therapies to support opportunistic expansion into additional international geographies and prepare for the expected DrugSorb-ATR launch in North America next year, of course pending FDA and Health Canada clearances.
+
+We are excited about our opportunity with DrugSorb-ATR and I want to spend some time talking about the application and the significant milestones we have recently achieved. First, I want to emphasize that with the exception of CytoSorb in the European Union. There are no approved or cleared therapies or reversal agents in the United States, Europe or Canada for Brilinta. DrugSorb-ATR is our investigational blood purification medical device that is designed to reduce the severity of perioperative bleeding in patients on the blood thinner ticagrelor or more commonly known by its brand name Brilinta [ph] who are (00:07:58) undergoing coronary artery bypass graft or CABG surgery.
+
+FDA has granted breakthrough device designation for DrugSorb-ATR to remove Brilinta and its application. Brilinta is sometimes called a super aspirin is frequently administered in the hospital to patients suffering a heart attack or otherwise called an acute coronary syndrome. In Canada, Brilinta enjoys near exclusive market share. While in the United States, Brilinta is growing in dominance with an estimated 50% market share for the acute coronary syndrome treatment protocol. That said, if heart attack patients are not eligible for coronary stent, they will often require CABG surgery or open-heart surgery to restore blood flow to heart muscle, because of the high risk of serious and potentially fatal perioperative bleeding from the use of the blood thinner Brilinta, current guidelines recommend the delay of surgery by three days to five days to allow washout or natural elimination of the drug.
+
+The problem with this approach is several-fold. First the patient is still having a heart attack because the coronary artery is still blocked, exposing them to risk of complications such as sudden death while waiting. Second waiting can lead to significant costs depending on how unstable the patient is and [ph] where they're waiting to washout (00:09:18). For example, below on this slide, you can see 2023 published patient price data from the Cleveland Clinic on room and board charges alone, just to wait in the ICU cost about $6,000 a day, while an ICU stepdown bed is $4,000 a day. And the cardiac monitored ward bed is still about $2,000 to $3,000 a day. And finally, waiting in the hospital bed consumes valuable hospital resources and impacts hospital efficiency.
+
+This led to the 140-patient US and Canadian STAR-T randomized controlled, double-blinded, multicenter trial that evaluated the safety and efficacy of DrugSorb-ATR to reduce the severity of perioperative bleeding in cardiac surgery patients, when used within two days of Brilinta discontinuation. The principal investigators of the study concluded that, based upon the evaluations of the independent data safety monitoring board, the primary safety endpoint of the trial was met. Although the primary endpoint of the study was not met in the allcomers surgery population, the severe bleeding efficacy endpoint, importantly was met in the isolated CABG population. Furthermore, in the isolated CABG population, which represented more than 90% of patients in the study.
+
+The intraoperative use of DrugSorb-ATR was associated with, one, reduced bleeding severity by either the universal definition of perioperative bleeding rate or 24-hour chest tube drainage volume. Two NNT or number needed to treat was 6 to prevent a major bleed. That means that you would have to treat only 6 people with our therapy, with DrugSorb-ATR to be able to prevent one major bleed. And three, an overall favorable benefit to risk profile. A replay of the KOL and analyst Investor Day event where these data were presented can be found at https://lifescievents.com/events/cytosorbents/. This link can be found in the earnings presentation. We know that DrugSorb-ATR is an investigational medical device in the US and Canada and is not yet cleared or approved.
+
+The conclusions on this slide represent the opinion of the principal investigators of the study and were not yet reviewed by the FDA or Health Canada. Although our applications are now under review. Based upon data from our US and Canadian pivotal STAR-T randomized controlled trial. On September 27 of this year, we submitted our De Novo medical device marketing application to the FDA for DrugSorb-ATR, which they accepted in October and have subsequently initiated substantive review of our application.
+
+Notably our application is eligible for priority review as an FDA breakthrough designated device for this application which is intended to expedite the review process. We expect an FDA decision in 2025. Secondly on November 1st of this year, we received our Medical Device Single Audit program certification or MDSAP certification and submitted our medical device license application to Health Canada on the same day. Our successful MDSAP certification is a significant regulatory milestone for CytoSorbents and a prerequisite for filing our MDL or Medical Device License application to Health Canada. The MDSAP is a single audit program that certifies the compliance of our quality management system. With the standard and regulatory requirements of not only Canada, but the United States, Brazil, Japan and Australia as well. In addition, US FDA accept MDSAP certification patient and audit reports as a substitute for their own agency inspections if required.
+
+This slide highlights the culmination of a tremendous body of work, starting with the initiation of the STAR-T clinical trial a number of years ago. And I'm extremely proud of our dedicated CytoSorbents team. Our external clinicians, collaborators and consultants who helped to achieve these major milestones. As I mentioned, our submission to FDA and Health Canada is supported by the results of our STAR-T trial. We again believe that the data show a favorable benefit to risk profile of our DrugSorb-ATR system in patients undergoing CABG surgery within two days of ticagrelor or Brilinta discontinuation.
+
+That said, in the submissions, we have also included supportive supplementary data from our International STAR Registry presented at the Europe PCR Conference in May of this year, highlighting the real-world performance of our technology in an additional 102 patients on ticagrelor undergoing early CABG. Patients in the STAR registry were generally comparable to those in the STAR-T trial and had CABG surgery an average of 22.8 hours after their last ticagrelor dose. This is significantly sooner than the guideline recommended 72-hour minimum washout period, which is often impractical in real world setting. Patients in the STAR Registry using our technology had bleeding rates that were substantially lower than those reported by the multinational European CABG – E-CABG Registry that has recorded perioperative bleeding and isolated CABG patients on Brilinta without the benefit of our technology.
+
+When patients underwent CABG surgery within 24 hours at the last dose of Brilinta. There was a 44% reduction in severe bleeding in those treated with our technology compared to those that were not. And when taken within 24 to 72 hours of the last dose to surgery. The reduction in severe bleeding was 80% compared to what was reported in the E-CABG Registry. These data drawn from real world treatments and an additional 102 patients undergoing CABG on ticagrelor are supportive of the results observed in 140 patient STAR-T trial.
+
+We believe the potential availability of DrugSorb-ATR is very relevant to the US and Canadian markets. Due to the high market share Brilinta enjoys in these markets. Because of this, a future FDA or Health Canada clearance of DrugSorb-ATR has the potential to improve the standard of care in heart attack patients requiring CABG surgery by enabling again safe and timely surgery, while eliminating treatment delays that expose patients to additional risk and consume valuable hospital resources. This could be a win-win-win value proposition all around. For patients, it has the potential to reduce serious perioperative bleeding complications and importantly may minimize delays to definitive surgery and avoid complications of waiting, such as sudden death.
+
+For surgeons, there is no change in workflow and it may help to protect their surgical outcomes. And the surgeon's own quality rating by reducing complications that are not in the surgeon's direct control. And for hospitals, it reduces costly resource utilization for patients who need the washout of the drug. And by avoiding bleeding complications, streamline the scheduling and revenue generation of profitable cardiac surgery. We believe that the availability of DrugSorb-ATR in North America has the potential to transform the current standard of care in patients with acute coronary syndrome treated with Brilinta. The potential North American DrugSorb-ATR total addressable market in patients undergoing CABG surgery on Brilinta currently exceeds an estimated $300 million.
+
+Brilinta, as I mentioned before, already enjoys a dominant market share in Canada and a growing dominance in the United States. This TAM is expected to grow well over $600 million once Brilinta becomes generic and DrugSorb-ATR makes Brilinta the only reversible orally administered antiplatelet drug. And with potential label expansion to include other blood thinner categories including the direct oral anticoagulants like Eliquis and Xarelto. And the direct thrombin inhibitors like Pradaxa that could make DrugSorb-ATR an all-in-one countermeasure for these agents. We further estimate that broadening the use of DrugSorb-ATR to remove blood thinners in non-CABG cardiac surgery, off pump CABG surgery or in other types of non-cardiac surgery like [ph] orthopedic OBGYN (00:18:17) vascular surgery could expand the total addressable market from $1 billion to $2 billion.
+
+Although these are certainly large markets, be assured that we have had years of both manufacturing and commercialization experience in our core international markets and are actively preparing to leverage this experience for our expected North American launch. We continue to invest in real world clinical evidence and closely analyze the usage patterns and outcomes of patients treated with CytoSorb. At the EACTS Conference or European Society of Intensive Care Medicine, ESICM Conference. We presented encouraging data from the International COSMOS Registry which tracks real world usage patterns and clinical outcomes for CytoSorb. The analysis included 150 patients at 16 sites across Germany, Italy and Spain, where CytoSorb was used in the treatment of a diverse range of critical care indications, including, for example, septic shock, cardiogenic shock, rhabdomyolysis caused by muscle trauma, acute on chronic liver failure, ARDS and others.
+
+Compared to baseline CytoSorb treatment, in addition to standard therapy, was associated with significant reductions in key clinical markers such as lactate, creatine, myoglobin [ph] and the requirement for (00:19:39) vasopressin norepinephrine. These reductions led to significant improvements in crucial clinical treatment parameters, including shock reversal, improved fluid balance, improved lung function and importantly an improvement in overall mortality rate that were lower than mortality rates predicted with the use of standardized clinical care score. We believe these data underscore CytoSorb's utility across critical care indications, with the potential to significantly improve outcomes for patients.
+
+Innovation remains a key growth priority for us. And last quarter, as we mentioned, we launched our PuriFi hemoperfusion pump, which is an easy-to-use blood pump that can support early treatment with CytoSorb without the complexity of a dialysis machine. Approximately 60 devices have been received through the end of the quarter, allowing us to place or conduct trial demo [ph] periods (00:20:31) with many of these machines. We continue to receive positive feedback from initial users and expect that this easy-to-use system will be an enabling technology to help drive increased demand for and of course sales of our CytoSorb cartridges in a broad range of applications, across a broad range of geographies.
+
+So in summary, we believe we have a simple and compelling value proposition. Our international critical care and cardiac surgery is solid and we are making steady progress towards achieving operational efficiencies, margin expansion and cash flow breakeven. Now, with key regulatory submissions completed. We expect regulatory decisions from US FDA and Health Canada in 2025 that could be catalytic to our company, allowing us to enter the large and important US and Canadian markets, which we believe would position us well for our next phase of growth.
+
+With that said, let me turn it over now to Pete Mariani, our Chief Financial Officer, to go over financial highlights. Pete?
+
+Peter J. Mariani
+Chief Financial Officer, CytoSorbents Corp.
+Thank you, Phil. And hello, everyone on the call. After spending the last few months with the team and gaining a much deeper understanding of the business, I could not be more excited and encouraged about the future of CytoSorbents. Given my experience across several high growth medical device companies, I believe CytoSorbents blood purification technologies are positioned for growth and expansion. And I look forward to working with the leadership team and all stakeholders as we develop the full potential of this technology.
+
+Today, I'll discuss our third quarter financial results and provide an update on our cash runway. Product revenue was approximately $8.6 million in the third quarter of 2024, above our previously guided range of $8.3 million to $8.5 million, representing a 11% increase and compared to $7.8 million in the third quarter of 2023. Third quarter 2024 grant revenue was approximately $800,000, compared to approximately $1.1 million in the prior year. This decrease was due to the conclusion of several grants over the past 12 months. Total third quarter revenue for the quarter, which includes both product sales and grant revenue, was approximately $9.4 million, representing a 7% increase as compared to $8.8 million in 2023.
+
+Product gross margins were 61% for the quarter above our previously guided range of 50% to 60% and down from 72% in the prior year's quarter, reflecting a planned production slowdown to rebalance inventory, along with a short-term manufacturing issue, which resulted in a lower number of CytoSorb devices produced in the quarter. This issue has since been resolved and we are ramping up to more normalized production levels and product margins through the fourth quarter. As a reminder, we moved into our state-of-the-art manufacturing facility in Princeton, New Jersey, a year and a half ago, in anticipation of expanding into the North American markets.
+
+As such, this manufacturing infrastructure is designed to support significant commercial growth as we continue to support our international critical care business as well as rollout DrugSorb-ATR in the US and Canada. Total operating expenses were $9.7 million and decreased 25% year-over-year, driven by the completion of the STAR-T trial and the impact of additional cost cutting efforts implemented over the previous year, which included a 25% reduction in head count. As a result, operating loss improved by 40% year-over-year. In today's report, we are introducing additional non-GAAP measures, including EBITDA, adjusted EBITDA and adjusted net loss and net loss per share.
+
+We use these non-GAAP financial measures for financial and operating decision making and to evaluate period to period comparisons. We believe that these non-GAAP financial measures provide meaningful supplemental information regarding our performance and that both management and investors benefit from referring to these non-GAAP financial measures in assessing our performance and when planning, forecasting and analyzing future period, adjusted EBITDA loss for the quarter, which excludes the impact of non-cash stock compensation and changes in foreign currency improved to $3.5 million compared to adjusted loss, adjusted EBITDA loss of $5.6 million in the prior year, driven primarily by the reduction in operating expenses.
+
+Net loss for the quarter was $2.3 million compared to $9.2 million net loss in the prior year and adjusted net loss for the quarter, which also excludes the impact of non-cash stock comp and changes in foreign currency improved to $4.5 million or $0.08 per share compared to an adjusted net loss of $6 million or $0.14 per share in the prior year. Our cost cutting efforts have also resulted in lower cash burn in the quarter of $2.7 million versus approximately $5 million in the second quarter of this year. Cash conservation will continue to remain a top priority as we drive further efficiencies in our core business support opportunistic expansion in international geographies and prepare for our expected launch of DrugSorb-ATR.
+
+As of September 30, we had $12.2 million in cash which includes $6.5 million of restricted cash and $5.7 million in unrestricted cash. In June of this year, we entered into a loan and security agreement that can continue to provide additional milestone-based liquidity. Specifically, the agreement provides up to a total of $20 million in debt financing, $10 million was immediately available under the facility and $5 million which is included in our restricted cash. This or the $5 million that's included in our restricted cash is subject to release by March 31, 2025, predicated on the FDA's acceptance of our marketing application for DrugSorb-ATR, which we have recently received and receipt of $3 million to $5 million of new equity proceeds.
+
+Additionally the loan agreement provides for a second tranche of $5 million which may be drawn at the company's request between July 1 and December 31 of next year, provided the company receives FDA marketing approval of its DrugSorb-ATR application. Now as Phil noted, I've been – it's been a very fast start for me at CytoSorbents. I've had the opportunity to spend significant time with our dedicated team in New Jersey understanding the compelling value of our technology and talent. And I've spent two weeks with our European team at two medical conferences, traveling with sales reps, visiting with surgeons and several of our distributor partners and getting a solid understanding of our team and operation.
+
+I've also met with many investors and look forward to connecting with the broader investment community as we tell the story of the credible and relevant value of our therapies for patients, surgeons and hospitals, I'm excited to partner with the team on this journey. We are working hard to ensure that we have the right strategy and operating disciplines in place to drive profitable growth in our core business over the near term and ensure that we are resourced and prepared to execute an effective launch of the DrugSorb-ATR opportunity in the North American CABG Market upon FDA approval.
+
+That concludes my prepared remarks. And we'd like to open to questions. Catherine? [Operator Instructions]
+
+Question And Answer Section
+Operator
+. We will pause for just a moment to compile the Q&A roster. Your first question comes from the line of Tom Kerr with Zacks Small-cap Research. Please go ahead.
+
+Tom Kerr
+Analyst, Zacks Investment Research, Inc.
+Good afternoon, guys.
+
+Phillip P. Chan
+Chief Executive Officer & Director, CytoSorbents Corp.
+Good afternoon.
+
+Tom Kerr
+Analyst, Zacks Investment Research, Inc.
+A question on the FDA submission. The substantive review process is that the only step or the steps after that or can they ask for additional information or kind of what is that review process entail?
+
+Yeah, that is the main review process for our De Novo submission. Historically, the target has been for FDA 150-day review. But post pandemic, it's been about 11 months or so, almost a year. So because of that, we expect the decision from FDA to come sometime in 2025. I would note that, we do have a breakthrough device designation and that makes us eligible for priority review, which provides for more interactive review with the agency, a more of a collaborative back and forth [ph] in informal (00:30:32) discussions. And so that priority review process is known to decrease the overall review time. As is the case De Novo as well.
+
+Tom Kerr
+Analyst, Zacks Investment Research, Inc.
+So approval best case be in the second quarter of 2025. But normally expected in third quarter of 2025, did I get that right?
+
+I think what we've stated is that, we expect that approval will happen sometime in 2025. And we cannot predict timelines of the FDA.
+
+Tom Kerr
+Analyst, Zacks Investment Research, Inc.
+Yeah. Okay, no worries. Any update on the Taiwan launch? Is that going as planned? Is business being done there?
+
+done there?
+
+Yeah, our regulatory approval in Taiwan was just recent. But we have been actually working with that distributor for a long time collaboratively to get that approval. Very motivated distributor, very knowledgeable about the local market in Taiwan. And so, we anticipate that the launch will begin to accelerate, but more likely in the next year or so.
+
+Tom Kerr
+Analyst, Zacks Investment Research, Inc.
+Okay. And then one more and I'll get back in line. The loan proceeds, the $5 million that's in restricted cash. Did that come out of restricted cash in the fourth quarter because you submitted the application? Am I understanding that right?
+
+Peter J. Mariani
+Chief Financial Officer, CytoSorbents Corp.
+No. That restriction comes out. It'll come out once we – now that we've had the acceptance from the FDA, that was the first milestone. And then the second is, we have an opportunity to essentially unleash a unrestricted total of $10 million of liquidity by raising $5 million. So if we raise $5 million in the next – if we raise $5 million of new equity that $5 million will be unrestricted. So it allows us to free up $10 million of liquidity with the raise of $5 million.
+
+Tom Kerr
+Analyst, Zacks Investment Research, Inc.
+Okay. I think I understand it. I'll jump back in line. Thanks.
+
+Peter J. Mariani
+Chief Financial Officer, CytoSorbents Corp.
+Thank you. [Operator Instructions]
+
+Operator
+. Your next question comes from the line of Tom Kerr with Zachs Small-cap Research. Please go ahead.
+
+Tom Kerr
+Analyst, Zacks Investment Research, Inc.
+Sorry, I didn't hear any other question, so I'll jump back in if that's okay. Can you explain, provide more color on the PuriFi pump sort of program? Is that just a usage trial type or is it going to be marketed more extensively? I didn't quite understand, if it's sort of a trial phase or how that's going to work.
+
+Yeah, the purpose of the PuriFi pump is multi-fold. One is to help build an infrastructure of blood pumps that can run our CytoSorb cartridges around the world in places where they don't have the dialysis infrastructure that more westernized countries have, that's one thing. The second thing is that because it's such an easy-to-use pump and we've gotten lots of feedback that it is a very user-friendly machine. It encourages early treatment with CytoSorb which we believe is very important to have a good outcome. I always view critical illness, like walking away from home, the further when you walk away from home, the longer it takes back and lots of bad things can happen in the meantime. It's the same thing with critical illness.
+
+So the goal with our CytoSorb therapy is really to treat aggressively upfront early to stop the deadly inflammatory response that causes organ failure and death. So the PuriFi pump is a key part of our strategy to expand the usage of our therapy. And in the future, I think you'll see it as an important item when we go to other types of applications, such as [ph] hospital wide (00:34:08) removal of blood thinners, for example. Such a machine could be easily used in the emergency room or in the operating room for example. And also in other applications, such as, for example, the treatment of liver failure.
+
+So from a business model perspective, we see PuriFi as an enabling technology. It is not something that we need to make money on, although we in some territories, we sell the device for profit, in other places we subsidize that device with sales of CytoSorb. And so – but the goal is, again, to get that device out there, so people use more CytoSorb cartridges, which is the main goal. CytoSorb at 70-plus percent gross margins is really the high margin disposable, regardless of the pump used. So right now, we are moving that machine, we're ordering and moving that machine to either sales or to trial periods where users are using the device and seeing whether or not they like it. And as in every market launch that sometimes takes time.
+
+But I think the positive thing is that the market reaction to the pump has been outstanding. We've used – we've sold this in the vet market in the United States. We've sold this in very established westernized medicine hospitals. And we've also sold – we've also placed this in distributor territories and it's very well regarded.
+
+Tom Kerr
+Analyst, Zacks Investment Research, Inc.
+Great. That clarifies that a lot. One more quick financial one. The gross margins you said returned to normal in the fourth quarter. Does that mean low-70s or could there be a drag or it's high-60 or can you define normalize at this point?
+
+Peter J. Mariani
+Chief Financial Officer, CytoSorbents Corp.
+Yeah, I think the best way to think about that is, we're returning to more normalized across the fourth quarter. So, yeah I would say in the lower end of that range at this point. But look, the team has done a great job of developing efficiencies and I think we've got a whole lot of clarity around how to get back to very, very solid production levels. And normalized gross margins as we get through the quarter.
+
+Tom Kerr
+Analyst, Zacks Investment Research, Inc.
+Great. That's all I had. What's that?
+
+Sure. No, just to maybe add some color. I mean the long-term goal is to return back to the 75% to 80% range that we've been targeting. And so for – in particular, for CytoSorb product gross margin and we believe that's absolutely possible.
+
+Tom Kerr
+Analyst, Zacks Investment Research, Inc.
+Yeah. So that will happen in 2025 is what you're saying?
+
+I think...
+
+... yeah. We'll provide more – we'll look at guidance and outlook on the next quarter call.
+
+Tom Kerr
+Analyst, Zacks Investment Research, Inc.
+All right. I'm kidding. Thanks. That's all I have for now. I appreciate it.
+
+Okay.
+
+Peter J. Mariani
+Chief Financial Officer, CytoSorbents Corp.
+Sure. Absolutely. Thank you very much.
+
+Operator
+There are no further questions at this time. I will now turn the call back over to CEO, Phillip Chan for the closing remarks.
+
+Phillip P. Chan
+Chief Executive Officer & Director, CytoSorbents Corp.
+Well, thank you, everyone, for joining the call today. If you do have any other questions, please feel free to reach out to us at ir@cytosorbents.com. We look forward to updating you in the future. Have a great evening everyone, and thank you very much. Have a good night.

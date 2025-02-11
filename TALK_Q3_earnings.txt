@@ -1,0 +1,232 @@
+Good morning and welcome to Talkspace's earnings conference call for the third quarter of 2024.
+
+I hope you've had the opportunity to access the press release we posted on Talkspace's IR website and the presentation of our earnings results. We'll use the presentation to walk you through today's remarks.
+
+Leading today's call are our CEO, Dr. Jon Cohen; and our CFO, Ian Harris. Management will offer their prepared remarks, and then we'll take your questions.
+
+Certain measures we'll discuss on this call are expressed on a non-GAAP basis and have been adjusted to exclude the impacts of one-off items. Reconciliations of these non-GAAP measures are included in our earnings release and on our website, talkspace.com. I also want to remind you that we will be discussing forward-looking information today, which may include forecast, targets, and other statements regarding our plans, goals, strategic priorities and anticipated financial results. While these statements represent our best current judgment about future results and performance as of today, our actual results are subject to many risks and uncertainties that could cause actual results to differ materially from what we expect. Important factors that may affect our future results are described in our most recent SEC reports and today's earnings press release. For more information, please review our Safe Harbor disclaimer on slide 2.
+
+Now, I will turn it over to Dr. Jon Cohen.
+
+Jon Roger Cohen
+Chief Executive Officer & Director, Talkspace, Inc.
+Thanks, Jeannine. Good morning and thank you for joining us for our third quarter 2024 call, which reflects on continued strength in our business and progress on our strategic initiatives.
+
+For the third quarter, revenue increased 23% year-over-year to $47.4 million, and we delivered our third consecutive profitable quarter with adjusted EBITDA coming in at $2.4 million. We built on momentum from earlier than the year, working to further solidify our position as a trusted behavioral health provider addressing the nation's massive need for accessible and affordable mental health therapy.
+
+Our largest revenue category, Payor, grew 45% year-over-year as we continue to strengthen our relationships with the key Payor partners and efficiently market our covered services. As a pure-play behavioral health provider focused on clinical excellence at scale, our approach to addressing the behavioral health crisis continues to resonate with the Payor community. We've earned the respect of the payors with our commitment to research that proves the efficacy of our methods and defines best practices in virtual care, and they trust us to connect their members with highly-qualified, vetted mental health providers without delay.
+
+Our competitive position in the Payor space allowed us to grow our total covered lives to nearly 160 million people, an increase of 40% year-over-year, and our total sessions to 316,000, an increase of 38% year-over-year.
+
+In the third quarter, we continue to make progress on our goal to be in network for all Medicare beneficiaries. As of this month, we are now CMS-approved in approximately 40 states and live in 30 states, including Texas, Florida, California, and New York, therefore providing access to the majority of the senior population in the US. Our team is working diligently to complete necessary final state approvals and launch our services in the remaining 20 states, so that we could begin to test our go-to-market strategies more broadly.
+
+In addition to traditional Medicare, we are pleased to report expansion into Medicare Advantage with our October 1 launch announcement into the nation's largest Medicare Advantage plan, furthering our reach to another 7 million-plus lives.
+
+Reaching seniors will be a focus for us. And as a start, we just announced our partnership with Wisdo, an AI-driven social health platform focused on curing social isolation. This partnership will allow us to reach even more new Medicare Advantage plans and to focus on challenges that seniors may have, most specifically, loneliness.
+
+In addition to seniors, we are launching our initiative to offer Talkspace to all active military personnel and their dependents, a population with a significant need for mental health solutions. Recent studies suggest that 23% of active military are living with depression and 11% of active military have attempted suicide or have suicidal ideations, and these numbers are growing. In addition, military families and their spouses reported elevated need for mental health support given that over 30% of military deployments and separations are a month or longer, and a significant number of military children have a treatable mental health condition.
+
+We launched TRICARE East in August covering six million active duty and retired military lives as well as their partners and teen dependents. We expect to be at network nationally for the remaining TRICARE beneficiaries in early 2025. Building on this launch, we have entered into a new direct-to-enterprise pilot program with the U.S. Navy where we will provide Talkspace access to six naval bases across the US, representing more than 25,000 sailors and their dependents 13 years and older. The opportunity to support the mental health of our military and their families is an honor that is profoundly inspiring to our providers and deeply appreciated by our organization as a whole.
+
+With the addition of Medicare, military and several other large regional clients, we expect to be in network for approximately 200 million lives in 2025, about two-thirds of the US insured population. Our priority is to unlock the potential of this enormous opportunity by focusing our efforts to first increase the number of people who recognize and try Talkspace as their therapy option, and, second, keep them engaged and on the platform for subsequent sessions under our provider's care to improve their long-term outcomes.
+
+We will accomplish this by, first, continuing to optimize our marketing effort; second, making significant technology improvements to the patient journey and therapist experience; and, third, increasing outside referrals. To elaborate further, one, our core marketing focus will continue to be about driving awareness, engagement, and activation of these 200 million covered lives. Our efforts are specifically designed to improve capture rate and engagement to ensure that people are aware that Talkspace is available to them at little or no direct out-of-pocket cost. Two, we are laser-focused on continuing to improve every step of the member journey, including enhancing user-friendly processes for determining coverage eligibility, therapist matching, registration, verification, and intake. These improvements include further innovation in the product design to get people to their second and subsequent sessions, improve methods to establish better rapport between the member and the therapist, provide better line of sight for the patient as to how to achieve improved clinical outcomes, and improving the tools our therapists use to understand how they can meet their professional and financial goals. This product improvements to the patient journey will be a strong factor in further optimizing performance in 2025 and beyond.
+
+Three, developing partnerships that refer patients to us because of our national footprint of high-quality clinician and in-network status. To that end, last month we announced our launch of Amazon Health Services as the first behavioral health company within the Amazon Health Conditions (sic) [Condition] (00:13:14) Program. This collaboration makes it easier for millions of people across the US to discover their behavioral health benefits while shopping on Amazon. When people search Amazon for mental health-related topics or services, they can now discover an easy way to check their eligibility for therapy and psychiatry services if they so choose.
+
+Customers can also visit the Amazon Health Web page to see if their insurance covers Talkspace and explore Talkspace's various offerings. Eligible individuals will be guided to Talkspace's website to complete the enrollment process, get paired with a licensed therapist in their state, and schedule online therapy or psychiatrist sessions through audio, video, or live chat or message asynchronously with their therapist. We're excited about what this means for the discoverability of Talkspace and look forward to similar such programs with other potential partners. With the addition of seniors and military and our experience with teens and teachers, we have become an easy solution for primary care physicians to refer these high-need populations, and we'll continue to pursue these additional types of partners.
+
+Moving to our Direct to Enterprise segment, we grew revenue in the quarter 17% year-over-year to $9.4 million driven by our teens initiatives, including our Teenspace program with New York City, which just celebrated its one-year anniversary. The results of the Teenspace program in New York City have been excellent where we are reaching thousands of teams in neighborhoods traditionally hard to penetrate, meeting the needs of a very diverse group of teens and significantly improving clinical results.
+
+We also expanded our specialized support for teens with the September 4 launch of our new peer-to-peer community called Teenspace Community. This product is built into the existing platform that allows teens to talk and share in a safe forum and connect with other teens anonymously. Our successful partnership with the nation's largest city has led to significant interest for our offering from other municipalities and school districts who are interested in applying our teen model to their team populations. The demand for these programs remained strong as we recently signed seven new school districts across the country.
+
+Our DTE pipeline remains strong, and we are pleased with the new deal activity in the quarter. On the employer side, we saw a number of new wins in the third quarter, including a partnership with the Professional Tennis Players Association. Talkspace will serve as the PTPA's exclusive mental health technology partner, granting players, their families, and their support teams. 24/7 access to Talkspace.
+
+There's a lot to be proud of at Talkspace right now, and I want to close out my comments by expressing my gratitude to our exceptional team. Their dedication to our mission of making mental healthcare accessible to all continues to drive our success. I am pleased to share that Talkspace has been recognized as one of Crain's 2024 Best Places to Work in New York City for the second year in a row, serving as a testament to the positive and supportive culture we built together.
+
+As we move forward, I'm confident that with our talented team, strong financial position, and innovative approach, Talkspace is well-positioned to continue leading the transformation of mental healthcare delivery.
+
+Thank you, all, for your continued support and belief in our mission. And with that, I'll turn the call over to Ian to review our third quarter results.
+
+Ian Jiro Harris
+Chief Financial Officer, Talkspace, Inc.
+Thank you, Jon, and good morning, everyone.
+
+My comments today will be based primarily on a year-over-year basis unless otherwise noted. Total revenue for the third quarter was $47.4 million, a 23% increase from a year ago. Adjusted EBITDA was approximately $2.4 million in the third quarter, an improvement of $5.2 million from a year ago and an increase of approximately 100% sequentially. This also marks our third consecutive quarter of profitability on an adjusted EBITDA basis.
+
+Moving to results by revenue category. Payor, our largest segment, accounted, accounted for revenue of $32 million, a 45% increase versus the prior-year period. Payor sessions completed by behavioral health and EAT members grew 6% sequentially and 38% year-over-year to approximately 316,000. Unique active Payor members completing a session grew by 24% year-on-year to just over 93,000. Additionally, we experienced a 12% year-on-year improvement in the number of sessions completed per active member, which was driven by some of the early successes we're seeing in the product enhancements that Jon touched on earlier, which are aimed at increasing member retention and engagement.
+
+In the Direct to Enterprise category, third quarter revenue was $9.4 million, up 17% from last year, driven by our teens contracts such as New York City as well as several other recent wins across schools, municipalities, and employers. Sequentially, DTE revenue was down 2% as a result of certain contract expirations from earlier in the year, which we discussed the last two quarters. In Q3, we grew net ARR, and as Jon mentioned, we see good momentum overall in our Direct to Enterprise pipeline.
+
+In the Consumer category where members pay out of pocket, revenue was $6 million in the third quarter. This was an 8% sequential decline and a 30% decline year-over-year, which was in line with our expectations and a result of our strength in Payor growth. This is driven by our efforts to optimize both traffic conversion and checkout mix towards the highest long-term return on ad spend in our Payor segment.
+
+Moving to gross profit. Our third quarter gross profit increased 15% versus the prior-year period to $21.6 million. Gross margin for the third quarter was 45.6%, in line with last quarter and lower than last year, as expected, due to the further net revenue mix shift towards Payor.
+
+Turning to operating expenses. Our GAAP operating expenses for the third quarter decreased 10% year-over-year to $21.5 million. Excluding stock-based compensation and certain nonrecurring items, our Q3 operating expenses amounted to approximately $19.3 million, a reduction of $2.4 million or 11% versus the same period last year.
+
+As mentioned on our last call, we initiated a number of cost optimization initiatives earlier in the year, which benefited the third quarter. These savings provide us additional flexibility to reinvest into strategic growth initiatives as well as product improvements benefiting both our members and our providers. One example of this is our AI smart notes, which we launched last quarter. This new feature drove a 3% increase in efficiency where providers were able to conduct more sessions during the same working hours. Scaling new features like this will continue to be an area of focus, which allows our network to operate at high volumes while supporting our provider's administrative burdens, thereby reducing costs and increasing productivity.
+
+Moving to profitability. GAAP net profit was $1.9 million versus a loss of $4.4 million a year ago. Adjusted EBITDA was $2.4 million, an improvement of $5.2 million year-over-year driven by higher revenue and gross profit with a lower cost base of normalized OpEx compared to the same period a year ago.
+
+Turning to the balance sheet. We ended the quarter with $119 million in cash and cash equivalents, up from $115 million the prior quarter. Finally, we reaffirm our 2024 financial guidance, which, as a reminder, calls for $185 million to $195 million in revenue and adjusted EBITDA between $4 million and $8 million for the full year.
+
+With that, we can open up the call for questions.
+
+Question And Answer Section
+Operator
+Thank you. We will now open the line for the Q&A session. [Operator Instructions] Your first question comes from the line of Stephanie Davis with Barclays. Please go ahead.
+
+Stephanie July Davis
+Analyst, Barclays Capital
+Hey, guys. Congrats on the quarter and thanks for taking my question.
+
+Jon Roger Cohen
+Chief Executive Officer & Director, Talkspace, Inc.
+Good morning, Stephanie. How are you?
+
+Stephanie July Davis
+Analyst, Barclays Capital
+Good morning. I really wanted to dig in a little bit on the Amazon partnership because I'm good. That win is better. So, I was hoping you give us some color around maybe any associated investments in marketing or affiliate fees you need to ramp on the platform and maybe how we could think about the halo effect to your activation rate as a result.
+
+Jon Roger Cohen
+Chief Executive Officer & Director, Talkspace, Inc.
+Sure. So, we have been in discussions with them for a while. Being the only behavioral health partner on the Health Condition platform is a very important deal for both them and for us relative to exposing Amazon shoppers to mental health services and products. So, I think you probably saw it. The way it works is you're looking for several things on Amazon and we come up and then you check of eligibility, and then they flip it over and we confirm eligibility and then you go through the process.
+
+So, what we've seen is we're very, very excited and we're very, very happy with the early results. Obviously, we're not disclosing what, where, how, or what that means except that I could tell you that it's been a very positive launch thus far. I guess it's four to five weeks into it.
+
+Amazon, just for a background, has their Health Condition Programs. They have Amazon Rx, and then of course they have One Medical right now. This is about our relationship with them on the Health Condition Programs. So, I don't know what else you want me to talk about relative to them. We're obviously very excited about the opportunity. It goes under, what I call, the referral category of increasing the number of BH sessions. First is how do we even get better at our really advertising marketing initiatives. The second category is referral. And then, of course, the third category you heard me talk about is the issues around really significantly improving the journey of the patient and actually the therapist journey through the product.
+
+Stephanie July Davis
+Analyst, Barclays Capital
+Well, maybe one of the things we could dig in is I assume you would be ramping up the amount of lives you're ramping up. You would maybe see some impact to your utilization rate, but it actually held up pretty strong in the quarter. So, how much of that is from something like the Amazon partnership where there's more awareness? How quickly could that improve on kind of the future quarters? Anything like that would be helpful. And maybe as a follow-up, any further color. You talked about this as the first of many partnerships to come. What direction you want to go in with that?
+
+Ian Jiro Harris
+Chief Financial Officer, Talkspace, Inc.
+Hey, Stephanie. This is Ian. Good morning. [indiscernible]
+
+Stephanie July Davis
+Analyst, Barclays Capital
+(00:25:21)
+
+Ian Jiro Harris
+Chief Financial Officer, Talkspace, Inc.
+Firstly, just a reminder. We announced the partnership at the very, very end of September. I think it was the 27th of September, so de minimis to no impact in the Q3 results we put out. I would view this more sort of from a strategic lens. It's obviously a testament to the quality of our network, to our brand, and also our national coverage, right? So, the fact that we're able to have those three pieces really resonate with a partner like Amazon, which, whether it's financial resources or probably more importantly just the depth of human capital they have, for them to look at us and realize the therapist network that we have cannot be built overnight and them wanting to partner with us, really sort of validation of the sort of moat we've created for ourselves.
+
+On your question around the referral, so what that looks like, I would view it, as we do internally, is really just part of another marketing channel. I mean, they obviously will help drive brand awareness given their size and volume. And, ultimately, they're going to be driving very, very high intent. The way this is structured and the way their Health Condition Programs works, it's about driving high intent potential users of Talkspace to us in a manner that's in-network. So, your other question was on... [indiscernible]
+
+Jon Roger Cohen
+Chief Executive Officer & Director, Talkspace, Inc.
+(00:26:51) [indiscernible]
+
+Ian Jiro Harris
+Chief Financial Officer, Talkspace, Inc.
+(00:26:52) So, this goes under really the capture rate more than, I would say, utilization across the platform once we get somebody. But it really is the part of the bigger strategy of eventually 200 million covered lives and how do you increase people's awareness.
+
+Stephanie July Davis
+Analyst, Barclays Capital
+All right. Awesome to hear. Thank you, guys. Congrats again.
+
+Jon Roger Cohen
+Chief Executive Officer & Director, Talkspace, Inc.
+Stephanie, [indiscernible] (00:27:19) you want to know about other. And so, this is – Amazon is one. We've talked about [ph] TalkTalk (00:27:27). And so, there are other relatively large channels like this that we are definitely pursuing.
+
+Operator
+Your next question comes from the line of Charles Rhyee with TD Cowen. Please go ahead.
+
+Hi, guys. This is [ph] Adam (00:27:47) on for Charles. You've seen over $4 million in EBITDA year-to-date and we see the guidance range for EBITDA was reiterated in the $4 million to $8 million range. Given that trajectory, Jon, can you talk about what would get you to the top end versus the bottom end of that range [audio gap] (00:28:00) EBITDA?
+
+Ian Jiro Harris
+Chief Financial Officer, Talkspace, Inc.
+Hey, Adam. Thanks for the question. So, while we don't give quarterly guidance, I understand given we're near the [ph] ask (00:28:14), I'll help you out on sort of both components of our guidance.
+
+So, just to give you a bit of a guidepost on modeling the rest of the year. I would say as it relates to revenue, looking towards our sort of sequential quarter-over-quarter revenue growth rates over the last few quarters in 2024 as the framework is the sort of best help I can give, which [ph] yield (00:28:38) that math and it lands you a little bit below the midpoint on revenue.
+
+And then to your question on EBITDA. Conversely, for EBITDA, you're exactly right year-to-date where we stand. We actually would expect, based on what we know today, to land at the high end of the range. A lot of that, on the EBITDA side, is sort of the OpEx initiatives we actioned shortly after I joined in May. We've seen a lot of success from those already and had a little bit of benefit from those in Q3 and we'll see sort of continued benefit of that in Q4. So, that will get us to the higher end of the EBITDA range.
+
+Just to double click on the revenue side. So, I think this is important nuance that is maybe a little bit hard to parse through on the surface. So, since I joined in the middle of Q2, so essentially all the covered lives we've added have come from Medicare and military, which was obviously very intentional focus for us. We knew that this – the work that goes into launching with these two cohorts are multiyear initiatives that have been going on long before I got here. So, it's a lot of work behind the scenes whether it's rev cycle, compliance, legal, security. Takes a lot of time and focus of the team and that's been a lot of our 2024.
+
+As we've talked about in the past, I just want to emphasize we expect to begin testing these segments this quarter in Q4. But as it relates to your modeling, it's really a 2025 impact. So, you can think about all these initiatives we've been talking about the last few quarters around Medicare and you heard Jon's comments say focusing on military, which we're actually really excited about, it's really about setting the foundation for growth in 2025.
+
+The subtext there is that substantially all the revenue growth we've seen in Payor in Q2 and Q3 has actually come from driving further capture rate in our, call it, the existing base of covered lives as of basically March 31 because since then there's been, like I said, all of the covered lives we've added have been pretty much Medicare and military. So, we'll come back to you with obviously more refined detail in 2025, but I hope that's helpful guidance. So, 2024, I was looking [indiscernible] (00:30:59) for growth and then a reacceleration on the top line in 2025.
+
+Yeah. That's very helpful. Thank you for all the color. And also wondering additionally if you can talk about how you're seeing the trajectory of the B2C business and whether there's a steady state you'd expect to hit there at some point understanding that B2B is the core for the enterprise going forward. But wondering if you can talk about the degree to which you're seeing the conversion of B2C members to B2B members contribute to B2B growth or is it more so a drop-off of B2C members without converting to B2B?
+
+Jon Roger Cohen
+Chief Executive Officer & Director, Talkspace, Inc.
+No, we don't. People come to look for therapy and they – as you probably know, you get a choice. The number one choice is let us determine your eligibility if you are covered by insurance. And then, of course, if not, you can pay for it as a consumer.
+
+So, think of it as people [ph] are showing (00:31:53). Remember, 50% of people are showing up at the door are new to therapy. So, it's not like we're – we're not cannibalizing our Consumer business. What's happening is more people are moving towards a insurance model being fee for service because they don't have to pay for it.
+
+So, what you're seeing is a natural decrease in the percent only being – well, partially – significantly because the number of eligible lives increased. So, let's say you were looking – I'm just going to give you an example. Let's say you were looking six months ago. A certain percentage of people had coverage. If now you're looking, now there were Medicare and military, obviously many more people will choose the other option because they are now eligible. So, what you're seeing is a natural decrease in the percent, and we talked about this before.
+
+There will always be a consumer market. There will always be people with high deductibles. There will always be people who choose to pay for it as opposed to using their insurance. There will always people who, for whatever personal reasons, they'll want their employer to know that they are getting therapy or whatever. So, there will always be a consumer. I can't tell you what that percentage will be in the end, but it will always remain as a piece of the business. [ph]
+
+Ian Jiro Harris
+Chief Financial Officer, Talkspace, Inc.
+And I would say that (00:33:06) just on the step-downs we saw in 2023 and 2024 in Consumer, which was again completely in line with the strategy to lead with a in-network marketing message, those are much more substantial changes in dollar amounts than what we would expect going forward. So, that sort of [ph] lots hold outs (00:33:28) that Jon references of these folks who want to pay out of pocket no matter what. [ph] For the (00:33:33) reason, I'd say we're not quite there but getting very close to approaching that sort of bottom, if you will.
+
+Very helpful. Thank you, guys.
+
+Operator
+Your next question comes from the line of Ryan Daniels with William Blair. Please go ahead.
+
+Jack Senft
+Analyst, William Blair & Co. LLC
+Yeah. Hey, guys. This is Jack Senft on for Ryan. Thanks for taking the questions. Jon, so in your prepared remarks, you mentioned that the core marketing focus will continue to be about driving awareness. And I understand that this is most likely where – it's most likely less about strictly paid marketing, more about the partnerships. But I guess how should we think about the customer acquisition cost going forward for maybe the remainder of the year, and maybe do you have any expectations into 2025. Just kind of thinking with this being an election year, maybe it's less efficient. But just kind of curious if you're seeing any impacts on customer acquisition cost and kind of how we should think about this going forward. Thanks.
+
+Ian Jiro Harris
+Chief Financial Officer, Talkspace, Inc.
+Hey, Jack. Yeah. I mean, we've actually done a really great job avoiding sort of, from our perspective, was anticipated inflation given the election year in the cost of acquisition. I think we've talked about this before. But we have a 16-person marketing team who's – we do it. It's like a fully vertical marketing strategy, marketing operation. We do it – it is extremely dynamic. We're not setting budgets at the beginning of a quarter, a month, or a week and saying, hey, let's see what that yields us at the end of the period. I mean, these folks we're dynamically in the market every day. We're in a great spot in terms of our scale. When we want to test something new, whether it's new content, a new channel, a new messaging, we can very quickly spin up a statistically significant AB test because we have that scale to run it sort of in real time and go from there. So, it's a very, very nimble operation and they've done an incredible job keeping our tax low, and actually, from where we were a couple of years ago, making drastic improvements.
+
+As we start to talk more about these sort of affiliates and partnerships, all of that factors into our overall marketing strategy. So, it's all about driving awareness at the most efficient cost possible. Some of that is paid advertising, a lot of that is organic, and a lot of is brand awareness and partnerships. I think last quarter, Q2, was the first time ever where our brand awareness per this sort of third-party objective surveys that we've done every year for the last number of years, it was the first year ever where our awareness went up with our ad spend going down, right? So, the sort of capital-light, if you will, ways of driving awareness is definitely working.
+
+In terms of looking ahead, I don't want to give CAC guidance for competitive reasons. But suffice it to say we're very data-driven about how we spend our money and marketing is no different here.
+
+Jon Roger Cohen
+Chief Executive Officer & Director, Talkspace, Inc.
+Yeah. Also, I'd be careful about generalizations because there are multiple subcategories that go into acquisitions. So, for instance, the acquisition cost on military personnel or their families is going to be pretty different than a Medicare person, which is also going to be different than a teen. So, we're very careful about making this sort of broad brush like this is what our CAC is because it really is very different subsegment to subsegment. So, I just want you to – I want you to think about that in terms of how we approach this. It's like, Ian said, it's very, very specific to what the needs of the group are almost day to day.
+
+Jack Senft
+Analyst, William Blair & Co. LLC
+No. Understood. I appreciate the color there. I guess just kind of along those lines then to when it comes to growing the capture rate, is there different strategy when it comes to the different populations you're bringing on? I mean, just along the lines of what you're just talking about. I mean, I think that that would – growing the capture rate and Medicare might be different than military, for example. So, can you just talk about the balance here and then just kind of how you think about that?
+
+Jon Roger Cohen
+Chief Executive Officer & Director, Talkspace, Inc.
+So, 100%, right? So, the go-to-market strategy on Medicare, so, for instance, you may have heard me talk about this. So, we know Medicare seniors are very responsive to Facebook, for instance. Believe it or not, we know Medicare patients, particularly in senior communities, retirement communities, read direct mail. I mean, you and I may not, but they actually read direct mail. So, those are just examples.
+
+We know on the military that there's a lot of different strategies relative to how you approach the military bases and how do you approach the spouses and how the teens in military are very different, quite honestly, moving city to city different times. So, the point is is each one of these have a strategy that's directed towards their specific entity. So, the answer is they're very, very different.
+
+The good news is we've done a lot of work on all of them to hopefully figure out what's going to work or what's not. But like we've said, we always test it. Sometimes you have these impressions and they're wrong and then you move on and you try something else.
+
+Jack Senft
+Analyst, William Blair & Co. LLC
+Perfect. Thank you again, guys.
+
+Operator
+Your next question comes from the line of Ryan MacDonald with Needham. Please go ahead.
+
+Ryan MacDonald
+Analyst, Needham & Co. LLC
+Thanks for taking my questions. Maybe to start on the DTE segment. As you look at the pipeline and how it's developing into year-end and into next year, what's the mix between sort of the employer channel versus more of the municipal and district channel? And on the district side, are you seeing a mix of extra funding being utilized for spend on Talkspace? Thanks.
+
+Jon Roger Cohen
+Chief Executive Officer & Director, Talkspace, Inc.
+So, let me go back [indiscernible] (00:39:55). Most of the extra funding you probably know is running out or expired. And that also was tied to a lot of the COVID funding, which is also basically running out. So, we don't report or distinguish that much between employer versus municipalities versus states or municipalities being city, state, county because there's another category in there, which we referred to in the press release for the Tennis Association. They're really not an employer. They're actually a organization. They are an association is the best way to put it.
+
+So, there's another subgroup of we refer to as associations of large groups of people that belong to something that are really not employed by them. So, there's multiple strategies again on DTE. The salesforce on DTE actually approaches all of them. And sometimes, it's geographic based and not targeted based on what the entity is. So, for instance, we may have a rep in a particular region that may be talking to employers, municipalities, and associations, and actually teens, and sometimes even parent groups. So, it is variable region to region. It is variable type of vertical to vertical. So, I can't parse it for you because, again, there's just too many overlaps.
+
+The other is we also have the channel of RFPs. So, not only are we going outbound, but there is a fair amount of inbound nowadays relative to people who know what we're doing, who know Talkspace, who know of our national footprint, who are actually approaching us or sending us RFPs, request for proposals, to ask us to bid on certain books of business.
+
+Ryan MacDonald
+Analyst, Needham & Co. LLC
+That's helpful color there. Jon, I really appreciate it. Maybe just as a follow-up on the Payor channel. To the extent that as you continue to deepen your relationships with these Payor customers, are you starting to get into conversations around value-based care contracting? And if so, what sort of metrics are your Payor partners looking to be tracking as they're measuring effectiveness moving forward? Thanks.
+
+Jon Roger Cohen
+Chief Executive Officer & Director, Talkspace, Inc.
+So, the answer is yes. We've already signed some new value-based contracts. I will tell you that this is really, really at early stage. We have no issue and no problem at all dealing with the metrics as ours. So, I will give you an example. Frequently, the metrics' are what's your time to initial evaluation? Do you do full evaluation? Can someone get an appointment within a certain amount of days? Can you get a follow-up within 30 days? Those are the – I'll just give you examples of some of the value-based contracting metrics' that we're using right now. They are relatively rudimentary. But, for us, because we've been in-network, none of this is an issue. All of this has been built way before these value- based contracts came up.
+
+So, we encourage it. We see it as more and more. But, for us, it's a non-issue relative to the contracting metrics' that they're putting in front of us, quite honestly. It's stuff we already do to be honest.
+
+Ryan MacDonald
+Analyst, Needham & Co. LLC
+Excellent. Thanks for taking my questions.

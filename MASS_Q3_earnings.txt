@@ -1,0 +1,273 @@
+Thank you. This morning, 908 Devices released financial results for the third quarter ended September 30, 2024. If you've not received this news release or if you'd like to be added to the company's distribution list, please send an e-mail to ir@908devices.com. Joining me today from 908 is Kevin Knopp, Chief Executive Officer and Co-Founder; and Joe Griffith, Chief Financial Officer.
+
+Before we begin, our commentary today will include the presentation of some non-GAAP financial measures. These measures should be considered as a supplement to and not a substitute for GAAP financial measures. Reconciliations to the most directly comparable GAAP financial measures can be found in today's earnings press release, which is available in the Investor Relations section of our website.
+
+Additionally, I'd like to remind you that management will make statements during this call that are forward-looking statements within the meaning of federal securities laws. These statements involve material risks and uncertainties that could cause actual results or events to materially differ from those anticipated. Additional information regarding these risks and uncertainties appears in the section entitled Forward-Looking Statements in the press release 908 Devices issued today. For a more complete list and description, please see the Risk Factors section of the company's annual report on Form 10-K for the year ended December 31, 2023 and in its other filings with the Securities and Exchange Commission.
+
+Except as required by law, 908 Devices disclaims any intention or obligation to update or revise any financial projections or forward-looking statements, whether because of new information, future events, or otherwise. This conference call contains time-sensitive information and is accurate only as of the live broadcast, November 12, 2024.
+
+With that, I would like to turn the call over to Kevin.
+
+Kevin J. Knopp
+Co-Founder, Chief Executive Officer & Director, 908 Devices, Inc.
+Thanks, Kelly. Good morning, and thank you for joining our third quarter 2024 earnings call. We ended the third quarter with revenue of $16.8 million, an increase of 17% over the prior-year period. However, our financial results fell short of expectations.
+
+As we noted in last quarter's earnings call, we expected second half 2024 growth to be driven by our handhelds, including a number of 20-plus unit placement opportunities internationally and domestically. While we secured many sizable orders and placed 178 handheld devices in total during the third quarter, placements were less than expected in part due to a compressed spending period resulting from the delay in passing the federal budget and delays with advancing international contracts. In addition, we continued to see softness in the bioprocessing and life science instrumentation market, elongating the sales cycle of our desktop devices.
+
+Our prior 2024 guidance contemplates a quicker and sharper recovery in second half demand, which hasn't yet materialized. Given the muted 2024 spending environment and the delayed opportunity with the ending of the US government fiscal year, we are appropriately lowering our 2024 revenue guidance to be in the range of $56 million to $58 million, representing 11% to 15% growth. Joe will provide more detail on our guidance in a few moments.
+
+The end of October marked six months since the closing of our acquisition of RedWave Technology. We continue to be incredibly excited about the union of our two platforms, and the rationale for bringing the two companies together remains absolutely unchanged. As a combined company, we are now better equipped to serve our customers by offering a full best-in-class portfolio of innovative handheld devices, paired with world-class service, training, and comprehensive decision support.
+
+Reflecting back on our learnings over the last six months, combined with the shifting dynamics in the markets we serve across our entire portfolio, it's become even more evident that operationally, our harmonized platform creates a path for further cost efficiency and expanded gross margins for all of our products.
+
+We are implementing three structural adjustments to fully realize this. We are at the turning point and believe now is the right time to leave in for these changes and accelerate the transformation of 908 as we prepare for 2025 and the growth beyond.
+
+First, we will move manufacturing out of Boston by the end of Q3 2025 to our facilities in Morrisville, North Carolina and Danbury, Connecticut, which are lower-cost manufacturing locations. We successfully moved production of our consumable chips to North Carolina earlier this year, and this site will now take on production of our desktops devices. We completed the expansion of our Danbury facility in the third quarter, and this site will manufacture all of our handheld devices going forward, including our US Department of Defense AVCAD product in partnership with Smiths Detection in the potential full-rate production phase. Our Danbury site offers a roughly 75% reduction in facility rent costs compared to Boston, and this will be leveraged over time to expand device gross margins for our highest volume products, our handhelds, representing approximately $2.4 million of annual savings starting in 2026.
+
+Second, we have rightsized our bioprocessing and life science instrumentation efforts for current market growth. Last week, we took the action to reduce our workforce by 11%, which included positions in sales, marketing, and R&D. This reduction is expected to save approximately $4.2 million annually and, importantly, enhances our team's agility to capitalize on opportunities as the industry recovers.
+
+Third, we're optimizing our full sales organization for new efficiency, focus, and flexibility to quickly take advantage of growth opportunities. For our handhelds, this includes taking a page from the RedWave playbook and efficiently driving device sales through inside sales efforts with virtual demos and leverage of their established Try Before You Buy program, which combined represented about 25% of RedWave sales year-to-date.
+
+For desktops, we're leaning further into our strategy to pursue biopharma partnerships with equipment innovators, particularly in the cell and gene therapy space. To expand our account reach, we will step back from our subscale international direct sales team to gain a larger presence through specialized channel partners in the bioprocessing space across Europe going forward. This model has proven effective for our forensics team.
+
+With these adjustments, we remain confident in our ability to operate in a lower growth environment and capture the opportunities in front of us. But we're also looking forward and remain excited to create an acceleration of growth and believe we remain well-resourced to achieve this.
+
+With our assessment, we've identified five key elements to accelerate our growth in the near, medium, and long term.
+
+One, increasing enterprise adoption of FTIR handhelds. A strength of 908's commercial engine is the ability to penetrate and radiate across government enterprise accounts. Just over the last few months, MX908 was adopted into multiple global enterprise accounts, including the Vietnam Border Guard, the EU DrugDetect program for prisons, and the US National Guard Bureau Counterdrug program. For our FTIR products, we secured initial purchases with the US Coast Guard, US Environmental Protection Agency, and the US Navy in Q3.
+
+Now, six months into our prospecting, we've already identified hundreds of units of enterprise potential for our FTIR handhelds. These large enterprise opportunities take time, sometimes years, to develop, but it's great to see strong initial pipeline development. We're pleased to see RedWave products, including the newest XplorIR device following MX908's trajectory in making inroads with large government customers, which represents a previously untapped opportunity. We anticipate that our new XplorIR product will be a major contributor as year-to-date placements are already double those of all of 2023.
+
+Number two, creating an upgrade cycle with the next generation of our MX908 handheld. Over 2,500 MX908 devices have been deployed since its release in late 2017. We're preparing to disrupt the market yet again with the release of a next-generation device within the next two years, offering a step change in performance and simplicity with half the size and weight, a lower cost of goods, and a higher pull-through opportunity.
+
+Three, winning the full rate production award for the US Department of Defense AVCAD program in partnership with Smiths Detection. We are developing a complementary variant of the MX908 for program-wide adoption across the US Armed Services, which represent thousands of units potential. To-date, under the low rate initial production contract, we have delivered approximately 100 units together with Smiths. The next phase is full rate production, which is anticipated to result in over $10 million annually. The milestone decision is anticipated within the government's 2025 fiscal year.
+
+Number four, return of Biopharma CapEx spending for novel instruments. Market reports on biopharma R&D spending and on the cell and gene therapy outlook give us confidence that the industry will return to growth. The need for novel process analytical tools is fundamental and remains a key point of emphasis for both regulators and front-line workers.
+
+Last year, we launched two game-changing process analytical technology or PAT devices, MAVEN and MAVERICK. While we've had good customer engagement, we've seen prolonged product trials and evaluations. On the positive, our pipeline of engagements for MAVEN now includes multiple 12-plus unit opportunities across PD and GMP manufacturing, and we expect MAVERICK to follow suit. We are expecting sequential improvements in desktops for Q4 and expect this pipeline to more significantly convert as funding headwinds lessen over the next 12 months.
+
+Five, partner integrations reaching scale. We continue to believe an efficient path to market and scale for our desktop devices is through integration partnerships with the innovators of process equipment. We are working to secure design wins with multiple companies to enable our placements to scale with these partners. We have previously announced projects with Solaris and Terumo BCT, and we're progressing well with a pipeline of more than six others across biologics and cell therapies. For Q4, about half of our anticipated desktop orders are a result of this effort, which we started formally only in Q1 this year.
+
+Many of these growth elements are now coming into view as a result of the hard work and dedication of our team and the relentless pursuit of our three focus areas: market expansion, portfolio engagement, and operational excellence. For that, I thank our entire team.
+
+While we aren't expecting a V-shaped recovery in our demand environment, we see encouraging signs of improvement. Stepping back, strong second half seasonality has been the norm for our handheld portfolio since the 2017 launch of our flagship MX908 device. Our government sales team has done a fantastic job executing on these large multi-unit government opportunities over the past seven years, delivering a 27% organic revenue growth CAGR between 2018 and 2023. Handheld growth has certainly been and continues to be lumpy at times, evidenced by our Q3 results and expectations into Q4.
+
+But the positive trend line is clear and remains clear. New opportunities for growth, paired alongside margin expansion opportunities in our fixed cost and manufacturing operations, sets up 2025 to be a transformative year for us, and we plan to provide additional color related to our growth and margin trajectory in subsequent calls.
+
+With that, I'll now turn the call over to Joe for more detail on our financials.
+
+Joseph H. Griffith
+Chief Financial Officer, 908 Devices, Inc.
+Thanks, Kevin. Revenue for the third quarter 2024 was $16.8 million, up 17% from $14.3 million in the prior-year period, primarily driven by an increase in handheld device revenue. This included approximately $3.2 million of RedWave revenue. Excluding RedWave, revenue declined 5% year-over-year.
+
+Handheld revenues serving the forensics market was $14 million for the third quarter 2024, up 19% from $11.7 million for the third quarter 2023. This increase was driven primarily by revenue related to our recently acquired FTIR products and an increase in service revenue. We shipped 178 handheld devices in the third quarter, up from 117 devices in the third quarter of 2023, bringing our installed base to 2,796.
+
+As a reminder, in the third quarter 2023, we recognized $2.4 million of revenue from our initial low-rate production delivery under the US Department of Defense AVCAD program. Our core handheld growth for the third quarter was 20% when we exclude the AVCAD delivery and contributions of RedWave in the third quarter of 2024.
+
+Revenue from our desktop products serving the life science, instrumentation, and bioprocessing markets for the third quarter 2024 was $2.8 million, increasing 8% from $2.5 million in the prior-year period. Eight desktop devices were placed in the third quarter. We ended the third quarter 2024 with a cumulative handheld and desktop installed base of 3,253 devices, up 20% from 2,714 at the end of the third quarter 2023.
+
+Recurring revenue, which consists of consumables, accessories, and service revenue, represented 36% of total revenues this quarter and was $6.1 million, a 70% or $2.5 million increase over the prior-year period, largely driven by service. Recurring revenue in the third quarter consisted of $3.9 million related to handhelds and $2.2 million related to desktops. REBEL utilization remained at approximately half a kit per month for our active users, which has been a consistent run rate. Looking ahead, we expect recurring revenue for our product portfolio to be in the mid-30s as a percent of product and service revenue for the full year 2024.
+
+Gross profit was $8.3 million for the third quarter of 2024 compared to $7.9 million for the prior-year period. Gross margin was 50% for the third quarter 2024, compared to 55% for the prior-year period. Adjusted gross profit was $9.3 million for the third quarter of 2024 compared to $8.1 million for the prior-year period. Adjusted gross margin was 55% as compared to 57% for the prior-year period. The decrease in gross margin was partly due to a higher mix of service revenue and favorable manufacturing variances in the third quarter of 2023. For the first nine months of 2024, adjusted gross margin was 56% as compared to 52% for the prior-year period.
+
+Over the longer term, we continue to expect volume-based improvements to our gross margins as we achieve better leverage over fixed costs. Additionally, we expect adjusted gross margin to be in the mid-50s for the full year 2024, with further expansion in 2025 and beyond as we consolidate our manufacturing facilities.
+
+Total operating expenses for the third quarter of 2024 were $38.5 million, compared to $17 million in the prior-year period. The increase in operating expenses was driven by a $30.5 million noncash goodwill impairment charge, the inclusion of operating expenses related to our acquisition of RedWave and stock-based compensation. This was offset, in part, by a $12.1 million credit for an adjustment to the valuation of our contingent consideration liability.
+
+Excluding the impact of the noncash goodwill impairment charge and contingent consideration liability, total operating expenses for the third quarter of 2024 increased $3.2 million, including a $0.5 million increase in stock-based compensation. The additional $2.7 million increase was primarily due to increased costs associated with the RedWave acquisition, our first full quarter of ownership.
+
+Net loss for the third quarter of 2024 was $29.3 million, compared to $7.1 million in the prior-year period. Adjusted EBITDA for the third quarter was a loss of $6.9 million, compared to $5.7 million for the prior-year period.
+
+We ended the third quarter of 2024 with $71.7 million in cash, cash equivalents, and marketable securities with no debt outstanding. We consumed less than $6 million of cash in the quarter and have used $27.6 million in operating cash during the first nine months of 2024. We expect to finish the year with cash, cash equivalents, and marketable securities in the mid $60 million range. We remain well-resourced to operate in a lower growth environment and execute on our 2025 transformation into five identified growth drivers.
+
+As Kevin shared earlier, in line with learnings from our first six months of RedWave ownership, we have implemented three structural adjustments to create a path for further cost efficiency and expanded gross margins for all of our products. This sets us up for more than $7.5 million of annual savings, with approximately $4.2 million starting in 2025.
+
+Looking ahead in 2024, we now expect revenue to be in the range of $56 million to $58 million, representing reported growth of 11% to 15% over full year 2023. This compares to our prior range of $63 million to $65 million.
+
+Our updated revenue guidance includes the following assumptions.
+
+First, we are lowering our revenue guidance for the core 908 business and now expect an 8% to 4% decline over full year 2023. Our previous guidance range include a number of 20-plus unit handheld orders expected to close before the US government fiscal year end. A few of these larger deals did not materialize in the third quarter, and in one case, a last-minute reduction in our customers' funding resulted in a smaller multi-unit placement win.
+
+Due to delays with the federal budget, and based on our customer meetings in October, many of these opportunities are pushing to 2025 and will require a new budget to initiate purchases. The uncertainties of the election have also led to certain customers pausing available spending in a potential changing environment given a changing administration.
+
+Desktops are continuing to experience headwinds in a recovering market for preclinical instrumentation, resulting in a reduction in our fourth quarter expectations. We now expect a decline in year-over-year revenue in the low-teens versus potential growth. That said, we are encouraged by positive signs of stabilization in our demand environment, and we are tracking toward sequential improvement in desktops in the fourth quarter.
+
+Second, we now expect approximately $10 million in 2024 reported revenue from RedWave, which represents approximately 10% pro forma growth and reflects eight months of ownership. This compares to our prior expectations of $11 million. The reduction is mainly due to the timing of international placements, which are requiring a longer sales cycle and more nurturing than first anticipated.
+
+On a pro forma basis, assuming RedWave ownership for the full year 2023, our updated revenue guidance implies a 5% to 2% year-over-year pro forma decline. For the full year, we continue to expect adjusted gross margins to be in the mid-50s range, possibly pulling back a bit from our nine-month adjusted gross margin of 56% due to a higher mix of international sales in the fourth quarter of 2024 and timing of our production builds in the year.
+
+As Kevin mentioned, we expect 2025 to be a transformational year for 908. We've implemented a number of strategic initiatives, targeting a reacceleration of top line growth, margin expansion, and cost optimization. Combined with an improved market opportunity, we expect 2025 to represent a key transition year, supporting improved growth and scalability.
+
+At this point, I would like to turn the call back to Kevin.
+
+Kevin J. Knopp
+Co-Founder, Chief Executive Officer & Director, 908 Devices, Inc.
+Thanks, Joe. I certainly recognize that Q3 orders did not fully meet our expectations, requiring a reset on our full year. But our multiyear growth trajectory remains healthy and sustainable. I further recognize that the integration with RedWave is hard work and can be disruptive. But these are near-term impacts, and the prize is realizing the clear operational efficiencies and benefits we've outlined and executing on the five identified drivers of growth to transform and scale our business.
+
+As we move forward, we will focus on these initiatives, accelerating synergies, further lowering our cost bases, expanding our margin, and driving us towards profitability while being good stewards of cash, and importantly, setting ourselves up to over-perform and win.
+
+I'd like to emphasize that we are an innovation-driven company with a robust pipeline of products designed to outperform traditional tools and unlock new critical to life applications. We believe that the strategic update we announced today not only reduces costs, but more importantly positions us for sustainable, scalable growth as we aim to be the global leader in point-of-need chemical analysis across forensics, bioprocessing, and life science research. I'm excited, enthusiastic for what lies ahead.
+
+With that, we'll now open it up for questions.
+
+Question And Answer Section
+Operator
+Thank you. [Operator Instructions] First question comes from Puneet Souda with Leerink Partners. Your line is open. Please go ahead.
+
+Puneet Souda
+Analyst, Leerink Partners LLC
+Yeah. Hi, Kevin. Thanks for the questions here. First one, I understand the challenges of the life sciences end market. We've been seeing that for the last year. But the magnitude of the guide down at this point, even after accounting for AVCAD, I mean, it raises the question, if there are any structural or competitive issues in the handheld market beyond the agencies that you're selling these products into. So, just wanted to understand if the – is it largely the pushing out of the budgets because of political uncertainty, which is obviously not lost on anyone? But just wondering if it is – that is the primary driver, or if there is any structural competition that you're seeing in the market.
+
+And on the desktop side, how should we think about the recovery in first half 2025? You pointed sequential improvement here. Should we assume that sequential improvement to continue into first half?
+
+Kevin J. Knopp
+Co-Founder, Chief Executive Officer & Director, 908 Devices, Inc.
+Yeah. Thanks, Puneet. Thanks for your questions there. Yeah. Absolutely, the life science is one part that I'll get to in a moment, but the handheld placements [ph] did push – come in late (00:24:47) in Q3. And as you pointed out, if we strip out the $2.4 million AVCAD revenues from the prior-year period, MX908 actually did see a positive 20% growth in the quarter. And we did see continued traction with [ph] multiple (00:25:03) enterprise accounts, US, international. And we're also pleased today to talk about our largest account win here in the APAC with the Vietnam Border Guard.
+
+So, yeah. I agree that it is more of a timing with the budget uncertainties that really came into play here. And so some of the orders we saw really, call it, fall out of the quarter with that end of the US government fiscal year. Joe mentioned in his prepared remarks a little bit around the election, some pausing, just – some call it rethink. There are always some uncertainty that can develop.
+
+And I – absolutely, I don't see any structural, any competitive, any other dynamic playing out here. Absolutely, I don't. These customers all have a very clear need for a certain number of devices, and they're working to get budget to do that in a particular period. In some cases, they were able to win with them and get an order this quarter. In some cases, that order was a little bit smaller just due to, again, lack of timing, visibility, and the ability to actually contract purchases in a very compressed government fiscal year. So, no structural change there.
+
+From a desktop recovery perspective, yeah, it's a little bit. Like, we've continued to see here headwinds in the desktop placements. And largely, we haven't seen much change to that, sales cycle taking longer for our novel technology in that preclinical instrumentation space. We did mention that we do expect a quarter-over-quarter step-up in desktop device placements in Q3. And that really is being driven around our partnership initiative that we started formally earlier this year, which gives us confidence in that. And it's really kind of a – call it, a force multiplier as those partners win. So, that's coming from, call it, some of the initial placements. So...
+
+Joseph H. Griffith
+Chief Financial Officer, 908 Devices, Inc.
+And I think maybe putting in on first half of 2025 in desktop, there is a bit of Q4 step-up each year with the year-end budget. Each year can vary. So, over the first half of 2024 or about $2.5 million a quarter should be able to get to that level in the first half makes sense, but probably not at the Q4 step-up level off of the $2.3 million in Q3.
+
+Puneet Souda
+Analyst, Leerink Partners LLC
+Okay. Then on the organization being lean, look, if I recall 908, has always been – traditionally been lean compared to most companies in the space. You had a workforce reduction earlier in the year as well and now additional 11% reduction. So, just wondering the size of the organization, is it rightsized for the current times? And just wondering if the markets were to recover, would you be equipped with enough workforce to capitalize on that? And just wondering if the workforce reductions were within US or more outside of US?
+
+Kevin J. Knopp
+Co-Founder, Chief Executive Officer & Director, 908 Devices, Inc.
+Yeah. Absolutely. Always very sensitive to make sure that we have the capabilities to take on opportunities as they develop. We really believe we do. And we really believe that reducing the workforce was across sales and marketing, and it was across R&D, and a little bit in COGS US, but definitely some international for sure.
+
+In the case of our desktops, really, we just needed to work on rightsizing that a bit. It's been a rough eight quarters in that life science CapEx environment. And the timing of that recovery is still a bit more maybe gradual than a sharp snapback. So, with that, we really worked to resize our team there. But we do think we have all the capabilities that we need to drive growth. We are continuing to leverage a direct sales force in the US. And we do have a hybrid direct distribution approach that we're now – that'll lean more on distribution across Europe to get a broader footprint than we've had before. And then distribution in APAC, which has an interesting pipeline that's really been developing nicely for us.
+
+And then on top of that, as we mentioned, we're really pushing on those partnerships, really looking at a way to have a force multiplier on top of our direct effort. So, we believe that we're well-resourced for now and to drive growth in the future. And to be honest, I think by having a sharper focus team, we'll be able to drive efficiencies. And just we're now at that point, with new products in this environment, you're doing a lot of tests and trials connecting dots, senior-level selling, and I think we're going to be better equipped for that.
+
+Puneet Souda
+Analyst, Leerink Partners LLC
+Okay. Thanks. I'll leave it there.
+
+Operator
+We now turn to Matt Larew with William Blair. Your line is open. Please go ahead.
+
+Sam Martin
+Analyst, William Blair & Co. LLC
+Hi. This is Sam Martin on for Matt Larew, William Blair. Just two quick questions. So, one, just focusing in on, really, how a new administration might really change things on the handheld side in terms of priorities and timing and just kind of thinking about the different puts and takes there. What sort of impacts are you anticipating initially in terms of further reductions, further pullback in spend? And is there any way that this new administration could also impact some of the demand and some spending on the desktop side, given their priorities in terms of funding might be a little bit different?
+
+And then on the desktop side, I think you referenced about eight quarters of CapEx weakness in the life sciences space. So, just in terms of the rationalization of bioprocessing instruments, so near term, are you kind of looking across your portfolio and seeing what might be still, what you might need to cut? And then long-term, is it sort of changing what you invest in and what you're not investing in or how you invest? Thank you.
+
+Kevin J. Knopp
+Co-Founder, Chief Executive Officer & Director, 908 Devices, Inc.
+Yeah. Absolutely. So, starting first with the handhelds and the election piece there, yeah, I think when there is an election, it certainly can cause a little bit of a shift, particularly amongst the, call it, middle ranks that are getting their priorities depending upon the administration and, of course, across those senior ranks. I think if you look across the DEA and military spending since 2000s, you'd see that there's been a consistent low mid single-digit growth range, really regardless of administrations. So, I think there are some experts out there, predicting that we may have an increase in the US defense budget.
+
+But – and I think one of the areas that we may see a positive is on the contracting delays. We mentioned part of our Q3 difficulties in getting some of these opportunities closed within that window of time has been that the government has delays in their passing of their budgets each year, and that can last till spring. And then the money actually doesn't reach to our customers' accounts until approximately mid-year. And then our customers know what their priority is, and then they know what there is to work on, and they only really have four to five months to get through the purchasing process, which can be quite complex for these larger enterprise opportunities.
+
+And so I think if you look from the election results and you look at maybe the alignment, House, Senate, and the Presidential side, you may see that there could be a chance to maybe accelerate some of that process. Perhaps get budgets actually done on time with the end of the fiscal year in September. So, I think maybe there's more positives than negatives where we're at right now on that.
+
+And then I think there's also a feeling out there that there's a – maybe the pace of acceleration of new tech could – maybe some barriers might go down there. So that, we'll have to wait and see on that. And there is a ripple effect just regardless of the administration. But, obviously, international is important to us for our business. That had been a growing percent of our business over time. And now I think with the NATO, with uncertainty, unrest across Middle East, it does put pressure on the NATO countries to step up. And there has been pronouncements there around investments in new major equipment modernization. So I think perhaps internationally, there could be some positives as well.
+
+In terms of the desktops, most of our desktops are coming from the preclinical area of biopharma, not directly from the start. We have some, of course, that are start-up, kind of NIH-funded. But a lot of ours, we're really focused on developing accounts across the largest top 20 pharma side. I'm not sure I see a direct election correlation that I could speak of in a meaningful way here today, but I hope that gives you some color on your question.
+
+Sam Martin
+Analyst, William Blair & Co. LLC
+Yeah. That's helpful. And then just my second question on, really, kind of priorities across the desktop portfolio and where you're looking to...
+
+Kevin J. Knopp
+Co-Founder, Chief Executive Officer & Director, 908 Devices, Inc.
+Yeah. Absolutely. And...
+
+Sam Martin
+Analyst, William Blair & Co. LLC
+...spend [ph] there across the US (00:34:16).
+
+Kevin J. Knopp
+Co-Founder, Chief Executive Officer & Director, 908 Devices, Inc.
+Yeah. Yeah. On that one. Sorry, I didn't address that immediately here. The – yeah. So, we're really excited that we have a pretty fresh desktop portfolio, right? We've got four products, two released just last year. These are all PAT tools. They're fundamentally driven by the needs to control the process and better those outcomes. Yeah. We don't really see a change in that or a rationalization of those products. A lot of hard work is going on, as I said, to get through test and evaluation. We mentioned that some of our MAVEN pipeline, now that we're, call it, a couple of years into that product, is starting to develop. We are talking more about GMP deployments. We are talking more about things on our multi-unit orders and opportunities within our pipeline. So, really, we're heads down there, trying to smartly get through evaluations and engage folks on how it can be deployed across process development and manufacturing.
+
+Sam Martin
+Analyst, William Blair & Co. LLC
+Thank you. That's all for me.
+
+Operator
+Our next question comes from Jacob Johnson with Stephens. Your line is open. Please go ahead.
+
+Hannah Hefley
+Analyst, Stephens, Inc.
+Hi. This is – hi. This is Hannah Hefley on for Jacob. Thanks for taking the questions. On the CTT end market, you've announced a number of partnerships with hardware innovators in this space. How should we think about these relationships driving desktop growth in coming years? And is there any way to frame up any initial contributions from these relationships?
+
+Kevin J. Knopp
+Co-Founder, Chief Executive Officer & Director, 908 Devices, Inc.
+Yeah. Thanks, Hannah. Certainly, that area of strategic collaborations and these partnerships in the cell and gene space, but even more broadly into the biologic hardware innovators too, there can be some near-term revenue impact, but we really believe that it creates a lot of value longer-term as we get through and scale with these partners. We're working to get our technologies designed in, partnered; in some cases, more of a co-marketing relationship with these organizations, really working to get these new novel technologies developed in by our collaborators.
+
+We announced Solaris and Terumo that we're actively engaged with those accounts. But we're working with a handful of others that are quite exciting to us as well, and really trying to get alliances there for the simple automated PAT tools that we provide. So, as you know, cell therapies really need to address cost and access. And we really believe we're really directly contributing to that, and we're providing these real-time monitoring solutions, and we really don't have sampling risk on it.
+
+So, ultimately, this strategy really should impact our revenue. And I mentioned in Q4, we do expect it to be helpful to us, and those were – really should be thought of as, call it, initial collaborator placements, initial engagements, call it, the first steps with those companies. But this integration strategy could create an inflection point for us as we go because, again, it's really an ability for us to scale out in a little more efficient way.
+
+And then – yeah. So, I think it's a great strategic effort for us. It's an effort we started just formally in Q1, and it's already starting to bear fruit, and we've become more and more convinced it's the right thing to layer on to our direct sales.
+
+Hannah Hefley
+Analyst, Stephens, Inc.
+All right. Thanks. And then as it relates to desktop demand, have you seen any changes in the competitive landscape for desktops? Or do you think that this is still just largely macro-driven? And then could you update us on how consumable pull-through is trending for desktops?
+
+Kevin J. Knopp
+Co-Founder, Chief Executive Officer & Director, 908 Devices, Inc.
+Yeah. I haven't seen a change in the competitive dynamics. I mean, I think when we think of the macros and look across definitely some encouraging signs with consumable-driven companies and organizations with some of our large tool peer set there – and I think that's a positive indicator of things kind of normalizing out. But maybe not a perfect [ph] read through (00:38:22) for us because our recurring elements of our desktops was about 10% of our total revenues in the quarter and maybe 14% over our first nine months. So, consumables are important, but the placements are incredibly needed and – to grow. And so that device placement life science instrumentation into preclinical, we've just seen those challenges with prolonged cycles with the availability of CapEx.
+
+So, I wouldn't say there's any competitive dynamic we've seen. We're not seeing anything – or new surprises on that. Of course, we've got new technologies, so you have to always go out and [ph] prove your worth (00:39:00) compared to what's out there with our MAVEN and our MAVERICK, but nothing new or concerning to report there on my radar.
+
+Joseph H. Griffith
+Chief Financial Officer, 908 Devices, Inc.
+And then from a consumable revenue perspective and recurring revenue, it's really been consistent over the last eight quarters in around level utilization. It's remained at about half a kit per month for active users. And our recurring revenues in total, about $6.2 million for the quarter. About $2 million of that was related to our desktop. So, we're seeing a path to being in the mid-30s as a percent of total product and service. Sales, a lot of that is service-driven. But also an important piece is the desktop consumables, which I mentioned, just about $2 million in the quarter.
+
+Hannah Hefley
+Analyst, Stephens, Inc.
+All right. Thanks. I'll leave it there.
+
+Operator
+Our final question comes from Chad Wiatrowski with TD Cowen. Your line is open. Please go ahead.
+
+Chad Wiatrowski
+Analyst, TD Securities (USA) LLC
+Hey, guys. This is Chad on for Brendan Smith. Just on the MX908 sort of next-gen instrument, what are the main pain points that you're seeing that would drive that replacement cycle among the existing customers? And then beyond that, would the product enhancements also have the chance at expanding that market?
+
+Kevin J. Knopp
+Co-Founder, Chief Executive Officer & Director, 908 Devices, Inc.
+Yeah. Thanks. Thanks for the question. The next generation of our MX is certainly an exciting one for us. I mean, if you just think of our handheld devices, when we relaunched our MX908, it's now been about seven years. And we were able to have a CAGR of 27% between that 2018 and 2023. So, good growth there. And now, we have over 2,500 – 2,700, actually, more than 2,700 of our MX908s out there.
+
+So, we really think it is a great opportunity to disrupt that once again and kind of bring an upgrade cycle. These customers do value outside of, call it, just CapEx refreshment cycles, which you expect to be in that 7- to 10-year period, right? We're getting up on that now. But you can also drive some of these cycles earlier, in our opinion, by operating a step change of things. It could be size, weight, performance in terms of simplicity, workflow, user operations. We're working to do all those things; and at the same time, trying to do it with a lower cost of goods, and having technology and connectivity capabilities in there to help us further have recurring revenue opportunities over time that we can develop on it.
+
+So, to us, it's a major new release that will be coming in the next couple of years, and it's absolutely one of our priority R&D projects for us. And we think it should get exciting, given the growth we've seen over the last seven years and the number of placements that are out there. But then in addition, I would say we're very fortunate and pleased that we have a fuller portfolio with the RedWave acquisition. We now have four products across that space, including our XplorIR that we made in our prepared remarks. That's been growing really, really nicely.
+
+So – and I think all of these helped broaden the groups that we can get to, broaden out the number of customers that we can get to, as well as addressing those immediate replacement cycles. So...
+
+Chad Wiatrowski
+Analyst, TD Securities (USA) LLC
+Thanks. And then just on some of the updated commercial strategy, like, are these Try Before You Buy program and approaches that you've taken from RedWave – are these built in place today and able to be executed? Or is this going to take a few quarters to build out these technologies and transition them over to the legacy 908 devices?
+
+Kevin J. Knopp
+Co-Founder, Chief Executive Officer & Director, 908 Devices, Inc.
+Yeah. Look, I mean, we're six months in to the acquisition. I think we're still very excited about it. And we see all sorts of synergies that we've tried to articulate today. Definitely revenue synergies in addition to cost synergies. Definitely learnings that we can do to better our ability to get more efficiently at these customers.
+
+You touched on two that we think are straight out of the RedWave playbook, if you will, Try Before You Buy, more virtual demos. Little bit into your last question as we kind of broaden with the XplorIR, the number of customers that can see a need and capability requirement for it, it helps us get there.
+
+So, yeah, one of the three structural adjustments that we're talking about today is really to align all of our sales force efforts, desktops teams, but also within our handhelds team to take advantage of such programs. And you're right, those are preexisting for RedWave products. We're going to look to see how far we can use those in the – with MX908 products. But importantly, making sure that we're embracing and scaling those within the 908 commercial engine for the FTIR products as we go forward.
+
+So, yeah, it will take some time. Obviously, we're six months in. I think we've made great strides on the integration. We announced some further big steps we're taking today there. But, yeah, lot of – lot more to come.
+
+Chad Wiatrowski
+Analyst, TD Securities (USA) LLC
+Thanks for the questions, guys.
+
+Kevin J. Knopp
+Co-Founder, Chief Executive Officer & Director, 908 Devices, Inc.
+Well, thank you.
+
+Operator
+We have no further questions. I'll now hand back to Kevin Knopp for any final remarks.
+
+Kevin J. Knopp
+Co-Founder, Chief Executive Officer & Director, 908 Devices, Inc.
+Yeah. Thank you, all. Thank you, all, for joining our call today. And we appreciate it, and have a great day.

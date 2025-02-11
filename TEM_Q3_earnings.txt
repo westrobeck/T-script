@@ -1,0 +1,287 @@
+Thank you, Briana. Good afternoon, and welcome to Tempus' third quarter 2024 conference call. This afternoon, Tempus released results for the quarter ending September 30, 2024. Joining me today from Tempus are Eric Lefkofsky, Founder and CEO of Tempus and Jim Rogers, CFO.
+
+Before we begin, I would like to remind you that during this call, management may make forward-looking statements that are subject to risks and uncertainties that could cause actual results to differ materially. For a discussion of these risks, please visit our 10-Q for the quarter ended September 30, 2024, filed on November 4, 2024 as well as any future reports that we file with the SEC.
+
+During the call, we will discuss non-GAAP financial measures, which are not prepared in accordance with generally accepted accounting principles. Definitions of these non-GAAP financial measures, along with reconciliations to the most directly comparable GAAP financial measures are included in our third quarter earnings release, which has been furnished to the SEC and is available on our website at investors.tempus.com.
+
+I would now like to turn the call over to Eric.
+
+Eric Paul Lefkofsky
+Founder, Chief Executive Officer & Director, Tempus AI, Inc.
+Hi, all. Just before we start the Q&A session, I thought I would just briefly run through some of the highlights for the quarter. Q3 was a solid quarter for Tempus. We delivered revenue growth of 33%, hitting $180.9 million. We had Genomics unit growth that accelerated from last quarter to 23.9%, which was meaningful acceleration in terms of unit growth. The overall business was about 20% growth based upon some ASP true-ups from last year, but we were excited to see the unit growth pick up.
+
+Our data and services revenue accelerated to 64.4% year-over-year growth, notably led by our Insights or Data Licensing business, which came in at 86.6%, which was a meaningful acceleration from last year – in last quarter. We also delivered adjusted EBITDA of negative $21.8 million, which was a $14.4 million year-over-year improvement and also a significant improvement quarter-over-quarter. So we're well on track improving our EBITDA quarter-to-quarter as we march toward cash flow and adjusted EBITDA breakeven.
+
+On top of that, the big news, obviously, for the quarter is we announced the acquisition or that we have signed an agreement to acquire Ambry Genetics, who's a leader in hereditary screening and whose business we've come to know well over the past few years. They're actually our largest reference lab for the hereditary screening we do, and we spent significant time with the team and understanding the business and are just super excited to have them join our world. The business is synergistic across all of our products from sequencing to [indiscernible] (00:03:34) over time, our Data business and our AI Applications business.
+
+They also accelerate our path to cash flow and adjusted EBITDA breakeven given that the business today is growing at more than 25%, which is meaningful growth, but even more fantastic is that they generate significant EBITDA. So they've achieved one of the rare things in our space where you actually have a Genomics business that has significant growth and a proprietary business model but is also making money. And we're excited that the combination of the two of us on an annualized basis will also be now adjusted EBITDA and cash flow positive.
+
+We're paying $600 million for the business, $375 million in cash and $225 million in equity, $125 million, which will vest at closing, which should occur in early Q1 and the other $100 million, which is locked up for a year.
+
+And in terms of the multiples we're paying, it's about 1.9 times current revenue and roughly 15 times EBITDA. So we feel like we are buying the business at an attractive price and we're able to finance the business largely with additional debt from Ares. And so the transaction is not materially dilutive at all to our equity. So overall, a fantastic quarter.
+
+And on that note, we're happy to take any questions folks have.
+
+Question And Answer Section
+Operator
+Thank you. [Operator Instructions] Our first question comes from the line of Tejas Savant with Morgan Stanley. Please go ahead.
+
+Tejas Savant
+Analyst, Morgan Stanley & Co. LLC
+Hey, guys. Good evening, and thanks for taking the questions here. Eric, maybe I'll start with the Ambry news. First of all, congrats on the announcement. Can you just walk us through the rationale of expanding into hereditary cancer testing? One of the questions, which I'm sure we get is the sustainability of that 25% growth you cited for the Ambry asset, in light of some of the uneven growth trends that some of the peers have faced in that market?
+
+And then second, can you comment on just the organizational readiness, if you will, to continue making progress on the somatic side of the portfolio, including your MRD push while also expanding into these new verticals and integrating the transaction? Or is the plan here that you'll essentially operated at arm's length that was a well-run asset. You talked about the EBITDA generation there and essentially sort of think about integrating it further down the road?
+
+Eric Paul Lefkofsky
+Founder, Chief Executive Officer & Director, Tempus AI, Inc.
+Yeah. So I'm happy to jump in. So first of all, we – Ambry fits squarely within our current strategic platform for Genomics, in that we currently offer hereditary testing today. We have an assay called xG, it's one of our main product categories. And it's critical to us because we want to capture patients early, we want to be there for them when they're being treated, we want to be there monitoring their disease over time.
+
+And we believe in what's been central to our thesis, which we've talked about historically, is that we believe it's going to be very much if you kind of look at the analogy of Amazon and e-commerce, more and more physicians and care teams and oncologists are going to want to work with those labs that can help them treat their patients from beginning to end and not work with five different labs. They're going to want to work with one lab if that lab can offer comprehensive profiling.
+
+And so we have always felt it's important to be in hereditary screening. It's important to be in somatic and liquid testing for therapy selection. It's important to be an MRD and monitoring. So this fits kind of squarely within our strategic plans and current activities.
+
+Beyond that, the business has actually been accelerating their growth rate. And if you look at the landscape, we believe the hereditary market is quite stable, more and more insights are relevant to inherited cancer risk understanding. And so there are certainly growth in that space. Ambry, in particular, seems to be taking market share from others. We don't see any signs that that's going to slow down and even though the law of big numbers does tend to bring down growth rates, which is true for us and will be true for them, we think that it will be a meaningful grower for some period of time.
+
+And there's nothing that we saw in the past year where we really dug into the business deeply that led us to think there was some kind of systemic slowdown. So we think the business will perform well, it will grow. It will make more money and it fits squarely within our footprint.
+
+In terms of the other end of the spectrum, which is, okay, instead of catching patients earlier before they develop cancer, right when they do, thinking about monitoring them post-therapy for minimal residual disease detection as well as monitoring. We have – we've talked about historically, we have kind of two different platforms there. One is our tumor-naive assay, we're in colorectal cancer, we're doing our own – we have our own liquid assay and the other is a tumor-informed product that is in partnership with Personalis in lung and breast and IO response.
+
+And we believe that our portfolio in MRD is expansive. We think it's the right portfolio to capture share. The demand for our products have been quite strong. We're obviously gated by reimbursement and until both we and Personalis achieve reimbursement, it's hard to really unshackle those products. And so I would suspect it will be a much more meaningful story in the coming years as we get reimbursement and as we really start to ramp that portfolio.
+
+Tejas Savant
+Analyst, Morgan Stanley & Co. LLC
+Got it. That's helpful. And then maybe switching gears to the data side of things here, guys I think you talked about the Merck EMD contract renewal. You got – intra-quarter, you got the expansion of the Takeda collaboration and another one with BioNTech as well. Can you just clarify whether the TCV grew a little bit sequentially? I know you kind of reiterated that was north of $900 million again, but it would be helpful to just reassure investors that it's moving in the right direction.
+
+And then Jim, one for you in terms of the near-term dynamics here. One of the questions we get is, there's a $20 million, $25 million sort of quarter-over-quarter step-up that's embedded in Street models into the fourth quarter for the Data and Services business. So, just your visibility there in light of some of the mixed commentary we've gotten from the CROs and some of the other players in biopharma funding weakness would be helpful?
+
+Eric Paul Lefkofsky
+Founder, Chief Executive Officer & Director, Tempus AI, Inc.
+I'll start with the overall business and then Jim can talk a little bit about the financial metric. The data business continues to be strong. We were fortunate that a lot of the pressure that other people have been experiencing, we're not immune to it. Certainly, there was historically some additional tailwind when biotechs were going public and R&D budgets were larger. And so we certainly have seen some of that tailwinds subside, but the overall business remains really strong.
+
+And in fact, the growth rate when you look at our Data Licensing business of almost 87%, we don't expect to sustain that. So we expect the growth rates to come down. And so we have a long – we've got some good cushion in terms of building a durable, meaningful, fast-growing, large data business given where we sit.
+
+And so overall, I would say everything is moving in the right direction. One thing really quickly on Merck, it's really nice when a large client that has a big three-year data license, and it comes up for renewal and then you resign up, you expand these relationships is really, I think, a testament to the data is adding value. Our products are adding value. And what most people don't understand when they look at our Data businesses, it's not just that we have lots of data, which we obviously do. But we've built a whole series of tools and data products that make that data usable by biotech and pharmaceutical companies. And that's really the main differentiation. And in terms of the overall metric of $900 million, I'll let Jim weigh in.
+
+James Patrick Rogers
+Chief Financial Officer, Tempus AI, Inc.
+Yeah. So as we noted at the end of Q2, it was north of $900 million, still north of $900 million at the end of Q3. We obviously recognize a lot of revenue in Q3 from the number that was there at Q2. So again, we continue to refill the bucket and we think that at that level of north of $900 million obviously gives us very good forward-looking visibility into the next several years of Data Licensing revenue.
+
+In terms of the step-up in Q4, Q4 is historically our largest quarter from a data perspective. Oftentimes, we have projects to kind of follow pharma cycling budgets and so – our budgeting cycles. And so this is not atypical for us to have a step-up in Q4 on the Data Licensing side.
+
+Tejas Savant
+Analyst, Morgan Stanley & Co. LLC
+Got it. That's helpful. Appreciate the time, guys.
+
+Operator
+Our next question comes from the line of Rachel Vatnsdal with JPMorgan. Please go ahead.
+
+Rachel M. Vatnsdal
+Analyst, JPMorgan Securities LLC
+Hi, good afternoon. Thanks for taking the questions. Yeah, first up on the core Genomics business. Eric, I believe you mentioned that unit growth accelerated this quarter. So can you break down for us what did volumes grow sequentially? And then can you break that down even further, which test did you see faster uptake out of the portfolio there?
+
+James Patrick Rogers
+Chief Financial Officer, Tempus AI, Inc.
+Yeah. So total volume was about 66,500 in Q2, just about 69,000 tests in Q3. We should note that both of those numbers exclude any MRD testing. So the growth that we're seeing quarter-over-quarter coming from our core assays, so xT, xR, xF and then xG growing more quickly, but it's a smaller base. So most of it coming from xT, xR and xF.
+
+Eric Paul Lefkofsky
+Founder, Chief Executive Officer & Director, Tempus AI, Inc.
+Yeah. And I think we had kind of foreshadowed last quarter that we did expect to see some additional unit lift in the quarter, and we saw what we expected, so always nice to see.
+
+Rachel M. Vatnsdal
+Analyst, JPMorgan Securities LLC
+Great. And then just for my follow-up, last quarter, you guys mentioned just around hiring some of the sales force. I believe you added roughly 60 new sales reps in the quarter. And that initially, it just led to lower productivity during the ramp-up period and some of the territory adjustments. So can you provide an update in terms of current productivity levels of your sales force at this point? And how should we see that trending in terms of the ramp into 4Q and then into next year as well?
+
+Eric Paul Lefkofsky
+Founder, Chief Executive Officer & Director, Tempus AI, Inc.
+Yeah, I can start. So I mean, the sales force is getting certainly more productive every month as they get trained to get up to speed. We have seen historically that it can take six to nine months to get reps in our world, really up to speed. We've got a broad testing compendium, so it takes a little time. And we suspect they'll continue to get more efficient.
+
+It isn't meaningful for us in the way it might be meaningful for others in that we're metering our investments now. If you look at the business, let's say, three quarters ago, we were generating negative $40-plus-million of EBITDA than last quarter, negative $30-plus million. Now it's just over negative – little over $21 million of EBITDA.
+
+So we're on a consistent monthly trend on our own of getting to adjusted EBITDA positive in the next short period here. Let alone the accelerant from Ambry that obviously just pulls that forward a bit. But we're not making such large investments in our sales force that their lack of productivity is kind of causing any financial chaos, not at all. It just might mean that in a given quarter, we might sell 1,000 less [ph] Rx (00:15:54) than we thought or 2,000. And so the growth rate might go from 23% to 25% or 22% to 24%.
+
+So we can explain some of the fluctuations relative to what we had forecast by looking at that productivity, but it isn't really meaningful because this isn't a massive investment for us that's like we've got to get through to be financially healthy, we're already on a good path to [ph] be healthy (00:16:17).
+
+Operator
+Our next question comes from the line of Michael Ryskin with Bank of America. Please go ahead.
+
+Michael Ryskin
+Analyst, BofA Securities, Inc.
+Great. Thanks for taking the question, guys. Appreciate the color on Ambry earlier, and congrats on that deal. It seems like the financials are pretty compelling. I want to expand a little bit on your existing relationship, though, as you've touched on in the past, it's – you've got a relationship with them, they were your primary reference lab.
+
+I just want to get a sense of that $300 million in revenue generated – they generated in – or they expect to generate this year. How much is sort of going to be incremental, right? I mean what I'm trying to get at is how much of their current business is their relationship with you versus how much is external? Just how should we think about this impact to the model next year?
+
+Eric Paul Lefkofsky
+Founder, Chief Executive Officer & Director, Tempus AI, Inc.
+Yeah. So I mean, obviously, the vast majority is not overlapping. That said, we don't – we haven't provided exact numbers of the breakdown between our test. We – in large part, I mean it wouldn't be that exciting, so – but it would just create more questions every – like these things move around a bit. And so we've got a pretty broad testing portfolio. So we don't want to be in a habit of every single quarter discussing every single nuance of every single assay.
+
+But that said, our inherited cancer risk hereditary screening. It was a newer offering for us. As Jim mentioned a second ago, it's still relatively small in terms of its overall piece of our larger Genomics business, and the vast majority of Ambry's business is not over.
+
+James Patrick Rogers
+Chief Financial Officer, Tempus AI, Inc.
+I would also add that their primary call point is [ph] in counselors (00:18:02) where our testing volume is coming through oncologists. So it's very complementary of what we're doing.
+
+Michael Ryskin
+Analyst, BofA Securities, Inc.
+Okay. All right. Thanks. And then on – just going to the Genomics business, 69,000 tests, I think you called out $1,530 ASP, some nice sequential improvement over 2Q and 1Q. Any particular trends to call out in – on the reimbursement side of things? Any particular payer that came on board or was it just a sort of broad uplift and how to think about that line item going forward? Is this sort of the pace of improvement we should continue to expect?
+
+James Patrick Rogers
+Chief Financial Officer, Tempus AI, Inc.
+Yeah. So from a reimbursement standpoint, we made some progress with commercial payers over the last couple of months. We brought Blue Shield Illinois, Blue Shield California, Avalon, kind of all in-network contracts covering all of our therapy selection in inherited cancer panels, so xT, xR, xF, xG, xG+. And so that led to a little bit of incremental kind of quarter-over-quarter improvement.
+
+I would say no significant step-up in Q4. ADLT status, that pricing process is still underway. This is a reminder, we're targeting $4,500 a test there for the xT CDx. We'll start migrating volume to that version of the assay in Q1 of 2025. So that would be kind of the next kind of meaningful accelerant from a reimbursement standpoint as we move to that version of the assay.
+
+Michael Ryskin
+Analyst, BofA Securities, Inc.
+All right. Thanks so much.
+
+Operator
+Our next question comes from the line of Daniel Brennan with TD Cowen. Please go ahead.
+
+Daniel Brennan
+Analyst, TD Cowen
+Great. Thanks for the questions. Maybe just on Ambry, presumably, given your partnership, the deal was not competitive. I just wanted to clarify that or just kind of learn about that in terms of the deal process. And anything you can say about what kind of top line growth you guys are plugging in or we can think about going forward? And are there any synergies associated with this deal?
+
+Eric Paul Lefkofsky
+Founder, Chief Executive Officer & Director, Tempus AI, Inc.
+Yeah. So I'll cover the first couple. So in terms of a competitive process, Ambry did run a competitive process. They, the – I think, hired banks and looked at their options. You'd have to kind of dig in – they're a public company so you can kind of dig into some of their historic comments. But – and I'm not an expert on Konica Minolta, but I know at one point, they had Ambry plus another business that were bolted together. I think for a period of time, they were looking to sell both and then decided to split it out. So it was a process, but it was a process with twists and turns.
+
+We were fortunate that we knew the business well. We were watching it closely. We were interacting with them as a partner and we were able to kind of watch their performance over long horizons of time to really get comfortable that this business was durable, that the economics were going to – we're improving and that we thought this was going to be a highly synergistic asset for us to acquire under the right terms and in a way that it accelerates our business both in terms of the products we take to market and our journey to get to EBITDA and cash flow positive, which we know are.
+
+In terms of the top line growth, we've got some slides in the investor deck, you can take a look at the combined business, if we were one company today, we'd be about $1 billion in revenue, and we give a little bit of color, even though we haven't fully built our models for 2025 yet. We expect the combined business to grow in the kind of 23% to 25% range.
+
+And obviously, the combined business will be adjusted EBITDA and cash flow positive. So we're in a good healthy spot. We're at size and growing and continuing on our mission to bring AI to diagnostics. In terms of synergies.
+
+James Patrick Rogers
+Chief Financial Officer, Tempus AI, Inc.
+In terms of synergies, we plan on – it's a well-run business, so we plan on having it operate kind of independently for the near term, but there certainly are some synergies. For example, they don't have a large data business. We have a large data business that we can kind of incorporate Ambry into.
+
+Additionally, they're largely an in-network provider. So about 95% of their volume is in-networks, they've got very good relationships with payers that hopefully we're able to leverage at Tempus side. So while not kind of immediate synergies kind of baked into what we're anticipating. Over time, we think that there's – it's a very synergistic assay.
+
+Daniel Brennan
+Analyst, TD Cowen
+Got it. Thank you. And then maybe just as a follow-up, just on the kind of outlook for the remainder of the year. I think in the press release or maybe in the prepared remarks, you cited the Genomics business you expect to kind of stay in that 25% to 30% range and you kind of reiterated the $700 million guide for the year. So is the conclusion that we should be thinking about 25% to 30% on Genomics in 4Q, and then we can just solve for what the remaining data business should be growing at? Or are you guys thinking about something differently by segment for 4Q?
+
+Eric Paul Lefkofsky
+Founder, Chief Executive Officer & Director, Tempus AI, Inc.
+That's probably a question for Liz to take up after this call because I don't think we have a buy segment, a quick snapshot of how I would break down. But certainly, we do expect Genomics to be in that 25% to 30% range, so you can kind of back [ph] your way into (00:23:21).
+
+James Patrick Rogers
+Chief Financial Officer, Tempus AI, Inc.
+Yeah, we wouldn't anticipate any significant shifts in Q4 of kind of where the businesses have been growing independently.
+
+Eric Paul Lefkofsky
+Founder, Chief Executive Officer & Director, Tempus AI, Inc.
+Yeah. Although I will say, and we said this, I think, in our letter, that you shouldn't expect the Data business to be growing at 87%.
+
+James Patrick Rogers
+Chief Financial Officer, Tempus AI, Inc.
+Right.
+
+Eric Paul Lefkofsky
+Founder, Chief Executive Officer & Director, Tempus AI, Inc.
+I mean it's – the business is performing super well. But again, we are far more focused on long-term growth in that 25% range as opposed to short-term accelerants that when we lap, make the business highly volatile. We want long-term growth given how big the space is and given the unique position we hold in the space as really one of the leading companies bringing AI to health care
+
+James Patrick Rogers
+Chief Financial Officer, Tempus AI, Inc.
+And bring particular diagnostics.
+
+Daniel Brennan
+Analyst, TD Cowen
+Great. Thank you.
+
+Operator
+Our next question comes from the line of Ryan MacDonald with Needham. Please go ahead.
+
+Ryan MacDonald
+Analyst, Needham & Co. LLC
+Hi. Congrats on a great quarter, and thanks for taking my questions. Maybe just to start on the data purchasing environment right now. Obviously, some nice notable deals in the quarter. But can you just talk about sort of if you're seeing any changes in sort of how, let's call it, newer customers on the data side might be purchasing or making that initial purchase? And if you're seeing maybe growth or larger initial lens relative to maybe the last six to 12 months, which have been a bit of a harder data buying environment? Thanks.
+
+Eric Paul Lefkofsky
+Founder, Chief Executive Officer & Director, Tempus AI, Inc.
+Yeah. No, I mean, I don't think – we're certainly seeing continued strong interest in our data products. We've had really big wins this year, lots of good momentum, added lots of big clients to the portfolio. We've talked about some in the last a few quarters, but certainly like BioNTech is a great new win for – things like that are great new wins for us.
+
+But as I mentioned, there's no question that the overall marketplace doesn't have the same tailwinds that it had a few years ago when capital was flowing more freely. A few years ago, there were just a plethora of biotechs that were flushed with capital, having just gone public or raised around that were looking to buy data. And now when you talk to biotechs, they're looking to preserve capital because the market is just different.
+
+So, the fact that we're still growing and have this really big backlog, I think, just bodes well for the value that our data products offer the market. And I would suspect as the landscape shifts a bit, we will get some of that tailwind in maybe 2025 or 2026 as capital becomes a bit more free.
+
+But we haven't seen any fundamental shift in patterns. People still in our world, tend to buy a little bit of data and then more and then an even bigger deal. And then our goal eventually is to get them into some kind of strategic relationship.
+
+Ryan MacDonald
+Analyst, Needham & Co. LLC
+Really helpful color. Thanks. Maybe as a follow-up, I recognize it's a small portion of the business today. But within the apps arena, you had recently announced a collaboration with Northwestern Medicine, like on cardiology and I think they're utilizing the ECG-AF algo. Can you just talk about – a little bit more about that collaboration? And then is this starting to form a pathway of how you think sort of the app segment can start to sort of build the monetization pathway here over time? Thanks.
+
+Eric Paul Lefkofsky
+Founder, Chief Executive Officer & Director, Tempus AI, Inc.
+Yeah. That's exactly right. I think more and more large medical systems are trying to figure out how to take advantage of this new onslaught of generative AI and large language model capabilities. They recognize that these tools are catalytic for their ability to treat patients, to generate better outcomes. And so they're trying to figure out how to bring that into their practice. And there's very few companies at our scale, with our size that have products in that arena.
+
+And so we are fortunate to have really deep relationships with some of the best medical centers in the world, Northwestern being one. And we're all trying to figure out the best way to get these models deployed.
+
+What's interesting, and I think I've said this now a few quarters in a row, I would suspect that these models will be – first of all, in our world, they already are deployed at scale. But I would suspect over the coming years, they'll be deployed at really tremendous scale. And you'll have an enormous number of people actually availing [indiscernible] (00:27:58) of these algorithmic diagnostics.
+
+That said, it may not be a lot of revenue, like you could have millions of people that are benefiting in some way from these things without generating lots of revenue because we still haven't figured out, at least in the US, how to appropriately pay for the benefit of these [ph] purely algorithmic (00:28:16) diagnostics.
+
+So one of the things we spend a lot of time thinking about is how do we eventually demonstrate to Medicare and Medicaid and other commercial payers that these things add value, they save money, they improve outcomes, they improve longevity and they should be reimbursed. And I think the big watershed moment for the business side of our applications is going to be when they do get reimbursed.
+
+Operator
+Our next question comes from the line of Andrew Brackmann with William Blair. Please go ahead.
+
+Andrew Brackmann
+Analyst, William Blair & Co. LLC
+Hi. Good afternoon. Thanks for the questions. Maybe just to start on Ambry. In the deck, you sort of called out the health system relationships that this can further along for you guys. So maybe just at a high level, can you just sort of talk about how this acquisition to maybe accelerate or grow some of those partnerships, just essentially, how does this better help you become sort of the provider – the go-to provider for those groups? Thanks.
+
+James Patrick Rogers
+Chief Financial Officer, Tempus AI, Inc.
+Yeah. So in terms of the relationships that Ambry has, on the payer side, they obviously are primarily an in-network lab. We're primarily as out-of-network lab. So facilitating some of those discussions, they've got a lot of history in dealing with the commercial payers.
+
+And then on the health system side, as I mentioned before, they're primary call point is genetic counselors or we're primarily dealing with oncologists. So again, just deepening those relationships with across kind of the entire ecosystem on the provider side, we believe we'll kind of strengthen our position with the hospitals.
+
+Eric Paul Lefkofsky
+Founder, Chief Executive Officer & Director, Tempus AI, Inc.
+Yeah. I mean, a good example, I was at two very large academic medical centers, NCI Cancer Center this morning. And both centers were there like precision medicine departments [ph] and their cancer center. You had a cancer center (00:30:11). And both groups are responsible for hereditary screening of the cancer patients, therapy selection, comprehensive genomic profiling of those patients and now obviously, MRD and monitoring.
+
+So it's not like they have different groups, right? And words like, "oh, you want to do hereditary screening, goes over there. It's the same group of people that are trying to figure out how to bring precision medicines to their cancer patients that think about Ambry and I think about Tempus.
+
+And so we're both highly, I think, synergistic in that regard. And all the folks that we talk to typically are looking for vendors that can help them in a more comprehensive manner. The general trend is can I work with fewer people that can help me in a more integrated manner end-to-end comprehensively as opposed to having lots and lots and lots of very small sequencing providers. And so we think this just strengthens our overall platform.
+
+Andrew Brackmann
+Analyst, William Blair & Co. LLC
+Great. And then I want to go back to one of your answers to a question earlier on sort of profitability. So how should we sort of be thinking about you balancing investments with this march towards profitability going forward? Does this acquisition sort of change any of that philosophy? Or should we still sort of expect continue to march forward? Thanks.
+
+Eric Paul Lefkofsky
+Founder, Chief Executive Officer & Director, Tempus AI, Inc.
+Yeah. I mean, so we told – when we went public, which was just 5 months ago, we told folks that we were on a disciplined path to get to EBITDA positive that we wouldn't – that we were looking to basically take the gross profit dollar growth we were generating and produced some leverage so that our losses were declining instead of what some other folks in our space have done, which is either kind of just maintain high loss levels or actually go the other way and invest more.
+
+We felt that was prudent given that we're going to turn 10 next year, and we just thought given our size and scale being sustainable and not burning money was an important milestone. We haven't yet determined how we want to harvest profits.
+
+So I think what I can safely say is, especially with this acquisition, we've crossed that hurdle. We've kind of checked that box. We're now on an annualized basis, an EBITDA positive, cash flow positive sustainable business, but we need to think a little bit about how we want to harvest the EBITDA we're going to generate relative to invest in the future. And I wouldn't – I don't – I think we're more focused in the next several years on making sure we can sustain our growth rate, not trying to generate an extra $50 million of EBITDA in a given year. So I think you'll, I think, see us make those trade-offs but we're still disciplined and we want to run a good business. And so I think, hopefully, we'll find the right balance.
+
+Operator
+Our next question comes from the line of David Westenberg with Piper Sandler. Please go ahead.
+
+Jon Petersen
+Analyst, Piper Sandler & Co.
+Hi, thanks for taking the question. This is Jon on for Dave. First of all, I just wanted to ask, there's been some issues between Myriad Genetics and United recently on getting reimbursement for GeneSight. Do you have any thoughts on how the industry might see reimbursement playing out in the psychiatric conditions and pharmacogenomics going forward?
+
+James Patrick Rogers
+Chief Financial Officer, Tempus AI, Inc.
+Yeah, [ph] more than I have say that one (00:33:48). So our neuropsych business is relatively small and so any kind of disruption in reimbursement there has a very insignificant impact on our overall kind of growth rate. As far as kind of where it plays out longer term, obviously, this news came out last week. So it remains to be seen kind of how other payers will react to it and all that, but a very minimal impact on our business.
+
+Jon Petersen
+Analyst, Piper Sandler & Co.
+Got it. Thank you. And just secondly, there's also been a lot of talk about billing for transcriptomics and for genomics. So I just want to ask this question in kind of a different way. Can you just talk about how your CGP test provides some different value relative to competitors? And is your billing out of whack with the value that you think it provides?
+
+Eric Paul Lefkofsky
+Founder, Chief Executive Officer & Director, Tempus AI, Inc.
+I mean, okay, first of all, no, our billing – we don't think our billing is out of whack. We don't set the billing rates. The billing rates are set by – in the case of Medicare/Medicaid by CMS and by our local MAC as part of their process. And so we've got – we avail ourselves of billing rates both in MolDx and NGS. We're actually in two MACs. So our blended rate of $1,530 for all of our tests has some tests paid at x amount and some test paid at y amount. And at the end of the day, we follow AMA codes, we follow the reimbursement pathways that are set by our MACs and then we follow whatever the payers are locally paying.
+
+So for example, in the case of Jim mentioned that we just signed like Blue Cross and Blue Shield in Illinois and in California, those folks are paying some slightly discounted rate to Medicare for both our DNA test. Same thing for our RNA test and same thing for our liquid test.
+
+So now, I mean, many, many, many times, many, many, many, many independent times. We've had independent MACs and commercial payers look at our DNA tests, our RNA tests, our liquid tests and established rates, and those rates have all kind of coalesced around the same place.
+
+So we don't suspect anything will change with that. We think that's pretty well established. We do expect that our rates on our DNA test will go up a bit with our ADLT status, we don't know what that's going to be and we have long taken the approach of not committing to or forecasting ASP gains until they arrive.
+
+So if you look at this year, we kind of said, hey, we're around $1,400, and that's what we can see and now we're at $1,530. But we don't say we're $1,530, and then we can see $1,700. We just kind of look at it and say, hey, we're fortunate that we've got a high-margin and a profitable business at this juncture. And if there's ASP lift, that's great. But we don't control it and it all has to be independently ascertained. And so I think time and time again, it has been.
+
+Jon Petersen
+Analyst, Piper Sandler & Co.
+Got it. Thank you.

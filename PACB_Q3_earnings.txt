@@ -1,0 +1,422 @@
+Good afternoon and welcome to PacBio's third quarter 2024 earnings conference call. Earlier today, we issued a press release outlining the financial results we'll be discussing on today's call. A copy of which is available in the Investors section of our website at www.pacb.com or as furnished on Form 8-K available on the Securities and Exchange Commission website at www.sec.gov. A copy of our earnings presentation is also available on the Investors section of our website.
+
+With me today are Christian Henry, President and Chief Executive Officer; and Susan Kim, Chief Financial Officer. On today's call, we will be making forward-looking statements, including, among others, statements regarding predictions, estimates, expectations and guidance. You should not place undue reliance on forward-looking statements because they are subject to risks and uncertainties that could cause actual results to differ materially from those projected or discussed.
+
+Please refer to our SEC filings, including our most recent forms 10-Q and 10-K and our press releases to better understand the risks and uncertainties that could cause results to differ. We disclaim any obligation to update or revise these forward-looking statements except as required by law.
+
+We will also present certain financial information on a non-GAAP basis, which is not prepared under a comprehensive set of accounting rules and should only be used to supplement an understanding of the company's operating results as reported under US GAAP. Reconciliations between historical US GAAP and non-GAAP results are presented in our press release, which is available in the Investors section of our website. For future periods, we are unable to reconcile non-GAAP gross margin and non-GAAP operating expenses without unreasonable effort due to the uncertainty regarding among other matters certain acquisition related items that may arise during the year.
+
+A recording of today's call will be available shortly after the live call in the Investors section of our website. Those electing to use the replay are cautioned that forward-looking statements may differ or change materially after the completion of the live call.
+
+I will now hand the call over to Christian.
+
+Christian O. Henry
+President, Chief Executive Officer & Director, Pacific Biosciences of California, Inc.
+Thank you, Todd, and thank you for joining us today. We are excited to broadcast to you from Denver, Colorado, at the American Society of Human Genetics Annual Meeting. This week, we unveiled several new and exciting products to thousands of researchers and scientists in the human genetics community. I look forward to sharing those and other updates on today's call.
+
+Our goal is to leave you with the following takeaways. First, PacBio is delivering on its strategy to create a suite of platforms with turnkey end-to-end solutions, enabling our customers to access some of the most advanced sequencing technologies available. Our latest launches significantly expand our addressable market in ways that PacBio has never seen before.
+
+Second, although we continue to operate in a difficult macro environment where customer capital expenditure budgets have been challenged and sales cycles prolonged, we have seen several positive signs that our business is returning to growth.
+
+Third, Revio continues to drive new customers to long-read sequencing and open up new demand. This is evident not only in the continued adoption by new PacBio customers, but also in the diversity of customers implementing PacBio and the adoption of HiFi sequencing by large population scale programs and diagnostic and LDT labs.
+
+Finally, we are hyper focused on building a sustainable cash flow positive business and have made meaningful progress this year on driving the production cost of our products down, reducing expenses, lowering our cash burn, and strengthening our balance sheet by reducing our total debt while balancing dilution through our recently announced note exchange with SoftBank. We remain committed to our goal of being cash flow positive by the end of 2026.
+
+Now, let's discuss our product launches. Last week, we announced a significant upgrade to our Revio platform with a new chemistry we call SPRQ or SPRQ. This new chemistry leverages the power of our existing 25M SMRT cell, increasing the data output per SMRT cell by 33% from a target of 90 gigabases to 120 gigabases. This increase enables the Revio system to sequence up to 2,500 complete phase HiFi genomes a year at a cost below $500 a genome. Offering what we believe is the most complete and economical genome on the market.
+
+Like any HiFi genome, methylation data is included with every run. This chemistry update, along with our software upgrades will improve the accuracy of existing 5-methyl-C capabilities by 10 percentage points and adds additional methylation calling abilities with 6-methyl-A for the Fiberseq assay giving customers an even more in-depth view of the genome.
+
+Importantly, SPRQ significantly lowers DNA input requirements for whole genome sequencing by fourfold to just 500 nanograms. In fact, we have now reduced sample input requirements by 30-fold since I joined PacBio four years ago. Many customers say this is perhaps the most intriguing update because it unlocks even more sample types like saliva or tumor to be sequenced with HiFi. Building on this, we have expanded our Nanobind PanDNA kit capabilities for high molecular weight DNA extraction of saliva samples, allowing us to offer sample to answer workflows for one of the most common biological sample types.
+
+We've received fantastic feedback from early access customers. We expect SPRQ to ship globally next month, helping to enable the next wave of sample migration to long-read sequencing. Notably, we expect to deliver this throughput increase and cost reduction through innovation and manufacturing improvements. Passing these benefits to our customers and at the same time improving Revio's gross – consumable gross margin profile.
+
+While we expect SPRQ chemistry to advance more large HiFi sequencing projects, we realized that some researchers do not have the capital budget to purchase a Revio, but they still need the extraordinary accuracy and completeness that Revio offers. And so, last night, we were thrilled to unveil our latest sequencing platform, Vega. Priced at $169,000, Vega is a revolutionary new benchtop sequencer designed to make accurate long-read sequencing accessible to any laboratory, and introduces a new sequencing paradigm in which customers don't have to sacrifice data quality for low capital investment.
+
+With a runtime of just 24 hours, users can sequence up to 60 gigabases of HiFi data and utilize onboard analysis with Google deep consensus 5-methyl-C calling and demultiplexing, all at a cost of $1,100 per run. Vega was developed with the customer in mind. It offers the same HiFi data quality customers expect from PacBio. In experiments comparing data from Vega and Revio, we see a correlation of .996, demonstrating nearly identical data between the two platforms, and giving customers confidence in the consistent, high quality data no matter what HiFi platform they use for their project.
+
+With only two simplified consumables, Vega gives users the flexibility and confidence to sequence almost anything, from RNA sequencing with our Kinnex kits and targeted analysis with pure target to small scale whole genome sequencing projects and microbial genomics. Vega has the potential to attract thousands of customers to PacBio HiFi sequencing. I'm happy to report that platform development is in its final stages, and we expect to commence shipping in the first quarter of 2025, and scaling manufacturing throughout next year.
+
+Tying our platforms together for a seamless user experience is critical to broader adoption, and we're pleased to announce our plans to launch our SMRT Link Cloud Solution in early 2025. With this, customers can access store and analyze their HiFi data without local hardware, making it easier for new and existing customers to ramp up their PacBio sequencing.
+
+Additionally, DNAStack, a PacBio compatible partner, has expanded its offerings with its latest software launch, Instruments. This cloud solution is expected to integrate directly with Revio and Vega to automatically detect these samples and offer users best practice informatics pipelines. We believe that seamless and intuitive informatics tool like these can help build a thriving customer ecosystem around our growing installed base and solidify our position as a leading sequencing provider.
+
+Now, let's turn back to third quarter results. I'll give a quick update on our performance and discuss our commercial activity. Total revenue was $40 million, up 11% from the second quarter of 2024, with sequential growth in instrument, consumable and service revenue. Total long-read sequencing systems grew quarter-over-quarter as Q3 revenue included 22 Revio systems and 5 Sequel IIe system. Interestingly, we continue to see some demand for the Sequel IIe system, which is an encouraging sign that some customers are seeking a lower throughput platform like Vega, especially in areas like microbial genomics and gene therapy.
+
+The 22 Revio systems were delivered to 22 different customers. And year-to-date, approximately 45% of Revio shipped were to new to PacBio instrument customers. This was the second quarter in a row with a Revio unit book-to-bill of one or greater. Additionally, we had a record quarter for the Onso system, with the most systems shipped since the platform launch last year.
+
+Consumable revenue of $18.5 million grew 10% year-over-year and 8% from the second quarter of 2024. Annualized pull-through on the Revio platform was approximately $255,000, also in line with the past couple of quarters, with stable utilization and a similar pull-through distribution of what we experienced in the first half of this year. The output from PacBio long-read sequencers continues to grow, with petabase sequences increasing 1.6 fold from Q3 of 2023.
+
+Stable unit book-to-bill and pull-through, new customer adoption, consumable growth and increased data output are all encouraging signs that lead us to believe that we're past the trough we experienced in the first half of 2024. With the imminent launch of Vega and a more powerful Revio platform and SPRQ chemistry, we expect to return to growth in 2025 and beyond.
+
+Vega product development is ahead of our previously anticipated schedule, and while we don't expect Vega to cannibalize Revio meaningfully, we are mindful that there may be some cases where potential customers may take a little more time to assess our new offerings, which may prolong some sales cycles.
+
+As a result, we expect fourth quarter revenue will be lower than previously anticipated and be flat to slightly up compared to third quarter of 2024, with Revio system placements and pull-through looking similar to that of Q2 and Q3 of this year. Susan will touch more on our guidance later.
+
+Looking back at the third quarter, I'm encouraged by the team's commercial successes even as we continue to operate in this difficult capital environment. Building on our success last quarter, we continue to see adoption from diagnostic and LDT labs and clinical research. For example, using the Revio platform, Azenta Life Sciences recently launched a long-read whole genome sequencing test for clinical applications. This test will enable precise detection of a range of complex genomic alterations undetectable by traditional sequencing approaches.
+
+Additionally, Myriad Genetics acquired its first Revio system in the third quarter. This leading genetic testing and precision medicine company plans to use PacBio's PureTarget kit to develop a high-throughput, automated, targeted sequencing panel and consolidate current methods such as PCR and capillary electrophoresis for a subset of genes in their carrier screening test.
+
+GenieUs Genomics is utilizing Revio in a Phase 2 clinical trial with Duke Health and Temple Health to test and further develop its bioinformatics platform, which provides comprehensive genomic profile and stratification of ALS patients for individualized treatments. The improved cost and throughput, coupled with the completeness of a HiFi genome, is driving government-sponsored precision health and research projects to increasingly utilize long-read sequencing to gain a deeper understanding of the genetic diversity of their respective populations.
+
+In September, the National Institute of Health of Korea announced that it plans to create a next-generation human reference pangenome based on the Korean population to further research into undiagnosed diseases and difficult-to-sequence genes related to drug metabolism and strengthen its precision medicine capabilities. The program aims to sequence over 1,000 individuals using long-reads, and PacBio is proud to be part of the pilot phase starting this year.
+
+Earlier this year, we announced that Singapore's National Precision Medicine program, PRECISE, selected PacBio as a key sequencing provider. Today, we are excited to share that we've expanded this collaboration to include our Kinnex Full-Length RNA kit into the program. By incorporating full-length isoform data, researchers will have access to multi-omic data, which can lead to important discoveries about the social, environmental, lifestyle and genetic factors influencing public health and prevalent diseases in Singapore.
+
+Meanwhile, publications and evidence continue to demonstrate the utility of a highly accurate long-read sequencing. In genetic testing, researchers from Radboud and other institutions published a preprint with results concluding that long-read sequencing can be implemented as a first-tier diagnostic workflow for germline testing, potentially encouraging its increased use as a test for diagnosing individuals with rare diseases.
+
+Similarly, in a preprint, researchers at Boston Children's Hospital studying pediatric sensorineural hearing loss, where diagnostic rates have remained static for over a decade at around 40%, used HiFi to solve over 20% of a cohort of previously unsolved cases that have used exome and short-read whole genome sequencing.
+
+In microbial and metagenomics, researchers from the Salk Institute and others studied head-to-head comparisons of PacBio, nanopore, SBS, and synthetic long-reads on generating complete metagenome assembled genomes or MAGs from longitudinal pediatric microbiome samples. They found that, "long-read approaches generated 51 to 72-fold more complete MAGs per gigabase pairs than legacy short-read approaches, while PacBio generated the most accurate, complete cMAGs at the lowest cost." We've always believed long-reads to be the best suited sequencing method for microbial genomics and with low-cost platforms like Vega, on the heels of validating studies like this, we are highly encouraged that PacBio can penetrate deeper into this market.
+
+Let's shift gears to Onso in the short-read portfolio. It was a record quarter for PacBio as we shipped the most Onso systems yet, two-thirds of which were to new PacBio customers. We also welcomed the Translational Genomics Research Institute, or TGen, as the first official service provider for SBB sequencing, helping our short-read SBB technology reach a broader clinical customer base.
+
+We also expanded the breadth of applications that SBB can address by joining 10x Genomics' compatible partner program. Integrating Onso into 10x's workflows will help extend the platform's ability to address the fast-growing single-cell and spatial biology applications.
+
+Finally, we were encouraged to see a peer-reviewed publication validating the accuracy of SBB chemistry and its ability to examine rare variants with extraordinary results. The study showed that SBB sequencing chemistry detected target SNPs down to 0.01% at 100,000-fold depth and 0.1% at 20,000-fold depth without any error correction methods. It was noted that traditional SBS sequencing is unable to achieve this accuracy without the use of sophisticated error correction tools.
+
+I'll wrap it up in a bit with some closing remarks, but before I pass the call to Susan, I wanted to share that Susan will be leaving PacBio in December to pursue another opportunity outside of life sciences. Susan has been a trusted partner over the past four years, and I want to thank her for her contributions and wish her every success. We plan to immediately begin searching for Susan's full-time replacement.
+
+I'll now pass the call to Susan to review our financials in a little bit more detail. Susan?
+
+Susan G. Kim
+Chief Financial Officer, Pacific Biosciences of California, Inc.
+Thank you, Christian. I'm incredibly proud of what we've accomplished over the past four years, and I'm excited for PacBio's future. I am confident that under Christian's leadership, the team will continue to make tremendous strides in its mission to better human health through the promise of genomics.
+
+With that, I'll now dive into the quarterly results. I will be discussing non-GAAP results, which include non-cash stock-based compensation expense. I encourage you to review a reconciliation of GAAP to non-GAAP financial measures in our earnings press release.
+
+As discussed, we reported $40.0 million in product, service and other revenue in the third quarter of 2024, compared to $55.7 million in the third quarter of 2023. Instrument revenue in the third quarter was $16.8 million, a decrease of 52% from $34.7 million in the third quarter of 2023 due to lower Revio unit shipments. We ended the quarter with 247 cumulative Revio system shipments.
+
+Turning to consumables, revenue of $18.5 million in the third quarter increased 10% from $16.9 million in the third quarter of last year. Approximately 77% of consumable revenue came from Revio systems, and the remainder from other systems and other consumables.
+
+Finally, service and other revenue was $4.7 million in the third quarter of 2024, compared to $4.1 million in the third quarter of 2023. We continue to expect modest sequential increases in service and other revenue as the commencement of Revio service contract is expected to more than offset the decrease in service contract revenue resulting from Sequel II and IIe decommissions.
+
+From a regional perspective, Americas revenue of $20.1 million decreased 31% compared to the third quarter of 2023 with a decline in Revio systems partially offset by record consumables in the third quarter. For Asia Pacific, revenue of $10.8 million decreased 32% compared to the third quarter of 2023. The region, however, exceeded our expectations, and while we remain cautious on China, it was encouraging to see sequential quarterly growth for the countries, as well as sequential quarterly improvement of Revio instrument utilization.
+
+Finally, EMEA revenue of $9.1 million decreased 17% compared to the third quarter of 2023, with year-over-year growth in consumables partially offsetting the year-over-year decline in instrument revenue. It was encouraging to see Revio utilization in the region hit an all-time high in the third quarter, primarily driven by momentum in population scale programs.
+
+Moving down the P&L. Third quarter 2024 non-GAAP gross profit of $13.0 million, represented a non-GAAP gross margin of 33%, compared to a non-GAAP gross profit of $18.1 million or 32% in the third quarter of last year. Sequential decline in non-GAAP gross margin from the second quarter of 2024 was primarily due to record Onso placements in the third quarter, which carry a lower gross margin with our promotional price offered in the third quarter. Sequel IIe system sold in the quarter at lower ASPs, and lower Revio ASPs in the quarter.
+
+Non-GAAP operating expenses were $62.4 million in third quarter of 2024, representing a 31% decrease from non-GAAP operating expenses of $90.9 million in the third quarter of 2023. Non-GAAP operating expenses also declined 12% sequentially compared to the second quarter of 2024 as we continue to realize cost savings related to our restructuring plan initiated earlier this year, and again, it represented our lowest non-GAAP operating expenses quarter since Q3 of 2021.
+
+Regarding head count, we ended the quarter with 575 employees compared to 796 at the end of 2023, and 844 at the end of the third quarter of 2023. Operating expenses in the third quarter included non-cash share-based compensation of $17.0 million compared to $18.6 million in the third quarter of last year. Non-GAAP net loss was $46.0 million, representing $0.17 per share in the third quarter of 2024, compared to a non-GAAP net loss of $67.9 million, representing $0.27 per share in the third quarter of 2023.
+
+Turning to our balance sheet items, we ended the third quarter with $471 million in unrestricted cash and investments, compared with $631.4 million on December 31, 2023. Inventory balances decreased in the third quarter to $65.7 million, representing 1.6 inventory turns, compared with $68.6 million at June 30, 2024, also representing 1.6 inventory turn. Accounts receivable decreased in the third quarter to $29.4 million, compared with $32.4 million at June 30, 2024.
+
+Before I discuss guidance, I wanted to share the details of our note exchange with SoftBank. As more fully disclosed in our 8-K that we filed today, we signed an agreement to exchange the $459 million aggregate principal amount of the PacBio 1.5% convertible senior notes due 2028 for $200 million principal amount of newly issued 1.5% convertible senior notes due August of 2029. Approximately 20.5 million shares of common stock, which represents dilution of less than 7% and $50 million of cash.
+
+We are pleased to announce the transaction, which once closed is expected to reduce the total notes outstanding by $259 million, as well as extend the duration by another 18 months, giving us tremendous operational flexibility going forward and is expected to close on or about November 21, 2024.
+
+Now, turning to guidance. As Christian mentioned earlier, we expect the fourth quarter revenue will be flat to slightly up compared to the third quarter of 2024, with full year revenue lower than our previous estimate of approximately $170 million. Additionally, we expect Revio system placements and pull-through similar to Q2 and Q3 of this year.
+
+We expect the full year non-GAAP gross margin to be between 34% and 35%. We continue to improve our per unit cost of Revio instruments and consumables significantly. We expect to end the year with Revio instrument standard COGS over 10% lower than when we launched the platform and consumable unit costs over 20% lower.
+
+These costs and operational improvements are expected to continue beyond 2024, driving quarterly gross margin expansion in 2025 and beyond. As some of our recent cost improvements are expected to be realized in 2025. We now expect full year 2024 non-GAAP operating expenses to be $285 million to $290 million. This assumes a modest step up in the fourth quarter of 2024, primarily due to a one-time benefit in Q3 related to our bonus accrual that we do not expect to occur in Q4. We continue to expect full year non-GAAP operating expenses to decline in 2025 compared to 2024.
+
+We expect full year interest and other income to be approximately $10 million. We expect our ending cash, cash equivalents and investments to be approximately $385 million, reflecting the expected $30 million cash payment and other fees related to the note exchange with SoftBank.
+
+Excluding this payment, our updated guidance is at the low end of our previous $435 million to $450 million range. We expect $276 million in weighted average shares outstanding for the full year 2024, reflecting additional shares to be issued related to the note exchange with SoftBank.
+
+Finally, we remain committed to our plan of turning the business cash flow positive by the end of 2026, under various revenue scenarios, which include revenue growth in 2025 and beyond, with new products and growing consumables, often increasing Revio installed base, expanding gross margins with reduced manufacturing per unit costs, and a continued mix shift to consumables and lower non-GAAP operating expenses in 2025 compared to 2024 with minimal growth expected thereafter.
+
+We will provide more details beyond our assumptions in our updated long-term guidance at a later date and more details about our 2025 guidance early next year.
+
+I'll hand it back to Christian for some final remarks. Christian?
+
+Christian O. Henry
+President, Chief Executive Officer & Director, Pacific Biosciences of California, Inc.
+Thank you, Susan. In closing, I'd like to discuss our progress on the four strategic priorities we outlined earlier this year. The first was to improve our commercial execution, to drive the adoption of both Revio and Onso. As I discussed, I believe we're past the trough our business experienced in the first half, with several greenshoots in our business that support our belief that revenue will grow in 2025.
+
+Onso notched a record quarter, approximately 45% of Revio placements this year to new customers and clinical customers and large-scale research programs continue to adopt long-read sequencing at a pace we've never seen before. Second was continuing the development of new platforms that are expected to broaden our portfolio and drive revenue growth. As discussed with our launches of SPRQ and Vega and SMRT Link Cloud, we've strengthened the value proposition of Revio, opening up HiFi sequencing to more customers than ever, and develop a cloud environment for any user to scale their PacBio projects. And this is just the beginning.
+
+We continue to develop our high throughput short-read platform in ultra-high throughput long-read platform with the goal addressing customers with both long and short-read systems across a full system – full spectrum of throughput.
+
+Third, we are focused on improving gross margin and driving manufacturing efficiencies. As we discussed, we've lowered our per unit cost on Revio systems and consumables with the roadmap for further reduction in 2025. Additionally, we developed Vega with gross margin in mind and expect it to be accretive to the company's gross margin as we scale the platform next year.
+
+And finally, reduced non-GAAP operating expenses. As Susan mentioned, we've lowered our full year non-GAAP operating expense guidance by an additional $10 million to $15 million, our operating cash burn continues to decline each quarter this year, and we expect a further decline in non-GAAP operating expenses in 2025. Building a cash flow positive business remains the front and center in our minds, and we're committed to our plan of turning cash flow positive by the end of 2026.
+
+Further, we signed an agreement with SoftBank to meaningfully reduce and extend the duration of our long-term debt while balancing shareholder dilution and impact on our cash. This exchange underscores our commitment to our shareholders and customers to optimize our capital structure and build a long-term sustainable business around our industry leading technology. With the earliest debt maturities now due in August of 2029, this strengthens our financial position and gives us even greater flexibility.
+
+So, with that, I'd like to open it up for questions. Operator, why don't we start the Q&A section?
+
+Question And Answer Section
+Operator
+We will now begin the question-and-answer session. [Operator Instructions] Our first question comes from Tejas Savant with Morgan Stanley. Please go ahead.
+
+Tejas Savant
+Analyst, Morgan Stanley & Co. LLC
+Hey, guys. Good evening and appreciate the time here. Maybe, Christian, I'll start with one on the parts side of things. It's unlocking that $500 per genome price point for you, that's pretty darn close to the $200 per genome, that's with the short-read side of things offers, what has been the feedback from customers on the cost tradeoffs, you know, versus the additional resolution that long read offers?
+
+Of course, there's a difference, I think it's about an eight-fold difference on throughput as well. So just curious as to what the feedback has been from the field since launch? And on that point you made earlier on the lowering of the DNA input requirement, can you just help us dimension how much of an opportunity that unlocks for you?
+
+Christian O. Henry
+President, Chief Executive Officer & Director, Pacific Biosciences of California, Inc.
+Yeah, Tejas, thank you for the question. I think the feedback on SPRQ has been remarkable, quite frankly, and I think the $500 list price is really a big deal, and enables – it catalyzes more projects to get started quite frankly. You think about this, you only have to run two genomes to get $500 a genome. There's – I can't think of any other technologies that have – that kind of pricing.
+
+And when you start to think about if you're running large scale programs, you're likely going to get a discount off the $500. And so, in reality, you're going to be paying a lot less than the $500 for a large scale project. And you're going to get all of the benefits of single molecule negative long-read sequencing. And I think that the customers really have reacted positively and are starting to plan. I've had several meetings here at ASHG talking about larger projects that are enabled by the $500 price.
+
+But perhaps just as important is the lowering DNA input. At 500 nanograms now, we can – 500 nanograms, there hasn't been a single customer that I've spoken to that says, wow, this doesn't unlock a tremendous amount of new demand. And I really do think it could be on the order of potentially millions of samples over time.
+
+When you think about what we're – what we've heard from our customers historically is that a significant proportion of their samples that they're trying to get on to a Revio aren't – there isn't enough DNA coming through the sample process in order – high molecular weight DNA being extracted to get through the sample prep process and get on to the sequencer. With 500 nanograms, that completely changes everything. So the combination of the pricing associated with the increased throughput and the price, as well as the lowering of the DNA input amount really does open a lot of doors that perhaps we couldn't reach before.
+
+Tejas Savant
+Analyst, Morgan Stanley & Co. LLC
+Got it. That's helpful. And then switching to the Vega launch here. Just a couple of quick cleanups, actually. In terms of just the max theoretical pull-through, Christian, we're sort of thinking of it as $1,100 per run into 52 weeks gets you to about – approaching about $300,000. Is that the right sort of ballpark math?
+
+And second, the deeper question here is that the Revio is already at most large service providers out there, the smaller labs generally outsource to these providers today for their long-read needs. So, paint us a picture for the appetite among this decentralized setting to access long-read in-house for presumably a higher price point versus sending the samples to the larger labs?
+
+Christian O. Henry
+President, Chief Executive Officer & Director, Pacific Biosciences of California, Inc.
+Yeah, you know what, it's a real interesting dynamic, right, with respect to what does Vega do for some of those service providers. And I think what it will do is, first of all, it will likely open up more demand to the service providers over time because more and more people will get their hands on HiFi because Vega exists, which will open up more projects over time. And you'll see that.
+
+But there will be initially probably some tension between the service providers and new Vega users because historically the service providers, they haven't really reduced their prices as fast as we've been able to reduce our prices. And I think that Vega will put some pressure on them to reduce prices, which will enable more samples to hit the service provider. And as Vega makes sequencing more ubiquitous, that will also help.
+
+So, in the long run, I think it will help pretty significantly. Your question on Vega pull-through, Vega pull-through is probably theoretical max is more around $250,000 give or take when you think about it. I don't think I would – I don't think that people should be thinking about $250,000 pull-through, of course. We are not going to make any comments today with respect to pull-through. We want to see what the demand for the system will be first, and then see which customers and what projects kind of go on to it. But certainly, it will be pull-through at high margin, which will be accretive to our total gross margin.
+
+Tejas Savant
+Analyst, Morgan Stanley & Co. LLC
+Got it. Appreciate the color, guys. Thank you.
+
+Christian O. Henry
+President, Chief Executive Officer & Director, Pacific Biosciences of California, Inc.
+Yeah.
+
+Operator
+The next question comes from Kyle Mikson with Canaccord. Please go ahead.
+
+Kyle Mikson
+Analyst, Canaccord Genuity LLC
+Hey, guys. Thanks for taking the questions. Congrats on the Vega launch. Congrats to Susan. Good luck to you, really good work on these past four years or so. [indiscernible] (00:38:26), but I'm sure great things lie ahead. So, two questions I want to ask upfront. One about the overlap between Vega and Revio, the other about the debt, which was good to see. On the overlap, any early examples or conversations that have kind of refined your thoughts on potential cannibalization between the two platforms and how long that could take to lapse and how the funnel will evolve and will you bundle, will orders convert to Vega, things like that?
+
+And on the debt, the stock is down over 10% [ph] for hours (00:38:53). Seems like investors aren't really appreciating that refi and the maturity extension there. Could you – of course. And just speak to like why now is the right time for you and SoftBank to do this and why that provides you with some cushion and flexibility and just to kind of operate with that freedom, given the healthier balance sheet? Thanks.
+
+Christian O. Henry
+President, Chief Executive Officer & Director, Pacific Biosciences of California, Inc.
+Yeah, thanks, Kyle. Two very different questions, but I think I can handle both of them. First of all, with respect to the overlap and potential cannibalization, what's been really interesting in the conversations that I've had with customers that have seen Vega now and that our existing Revio users or potential Revio users, people that want to run any scale, quite frankly, don't see really any overlap at all. They do see bundling opportunities because they see Vega as a potential walk-up in the lab kind of for top-ups and other kind of – it's so easy to use that it can just be put in the lab and then people just walk up and use it.
+
+But when you think about it, it's 60 gigabases, which is basically less than – that's basically one-eighth the output of Revio run. So, there's a very large difference in the run, the economics – in terms of the throughput. The economics, for Revio, although the capital is a lot more expensive, the consumables are under $500 a genome now.
+
+Of course, launching SPRQ and Vega, it's not a coincidence that we're launching at the same time because we're demonstrating that we're adding value to Revio and that we'll continue to do that as part of our strategy to build a portfolio of sequencers of benchtop mid- to high-throughput and then ultra-high-throughput. And there's enough separation there both in economics and in throughput that I don't expect to see a lot of cannibalization for people that have scaled projects.
+
+But what I do see is that customers that are looking to get into HiFi have an easier avenue to get in, and over time scale up their sequencing into Revio from Vega. And I think you know this is a really important story that we've seen play out in the sequencing market time and time again where customers kind of move up the value chain, so to speak, with respect to sequencers as their experience with the sequencing technology increases. And so, that's part of the important part of the strategy here.
+
+And the good news on Vega, we've already – we had someone in the booth come up and actually put down a credit card, and we accepted the credit card. So, we already have – there's – that's the kind of excitement we're seeing. We already have POS. So, it's been a fun 24 hours here of post-launch. We had over 200 people – 200 different potential customers demoing Vega last night at our launch event. So, I do think there's a lot of excitement around the product, and I'm excited to see how that unfolds into demand over time.
+
+With respect moving to the debt, we've always had a strategy to manage, to manage this debt burden over time, and that was evidenced as what we did last year with the note exchange for the first half of the debt, and pushing that out to 2030. And we had a real opportunity this time to work with SoftBank to set up an arrangement to basically reduce our debt burden by $259 million for $50 million of cash and $50 million of stock. We have basically the same terms as what we had before. So, we have 1.5% coupon. And so, we have positive carry on that amount right now.
+
+And we have the duration pushed out to August 2029. And for those of you that are concerned about dilution, one of the features of the notes is that they have full flexible settlement. And so, that means that we can settle the notes either in equity or cash. And as we get closer and closer to being cash flow positive and as we turn cash flow positive, the ability to settle some or all of the notes in cash becomes a real possibility. And so, that will – we'll see how that goes over time.
+
+With respect to the exact timing of doing it today versus doing it next year or sometime out in the future, we feel that our business right now is at a point where we do think we're going to return to growth. But as we've all seen the market has been uncertain – the stock market has been uncertain. The market for capital equipment has been uncertain. And when we weighed this opportunity to take such a meaningful portion of the debt down, we felt that this was a trade that really strengthened the company, gave us a lot more flexibility. And quite frankly, so many of our investors have been – this has been one of the top questions that they've been asking us. And so, we were listening to some investor feedback as well.
+
+Susan G. Kim
+Chief Financial Officer, Pacific Biosciences of California, Inc.
+I'll just add. So another reason also, Kyle, for why now is it is $259 million of a reduction in our debt, which is almost 30% of the total debt we had outstanding. And we paid the $50 million of cash at closing, and then 7% dilution. We believe that we would not have been able to reduce the debt by as much if we waited till later to pay the same amount in terms of cash and equity, we wouldn't have been able to reduce by – the debt by as much if we waited in the future.
+
+Also, keep in mind, because of the lower principal, if you look out over the next three years, the interest payments that we are making now, it's about $12 million less than we would have been making if we just kept the debt outstanding.
+
+Kyle Mikson
+Analyst, Canaccord Genuity LLC
+Okay. Great. Really helpful answers on both sides. Thanks, guys.
+
+Christian O. Henry
+President, Chief Executive Officer & Director, Pacific Biosciences of California, Inc.
+Thanks, Kyle.
+
+Operator
+The next question comes from Mason Carrico with Stephens. Please go ahead.
+
+Mason Carrico
+Analyst, Stephens, Inc.
+Hey, guys. Maybe just a few clarifications here on Vega. You talked about scaling manufacturing next year. So, is the right way to think about the adoption ramp more similar to Onso? Is there any dynamic of pent-up demand we should be taking into consideration?
+
+Christian O. Henry
+President, Chief Executive Officer & Director, Pacific Biosciences of California, Inc.
+Well, I hope we will have that conversation as we get to quarter end. We just announced the system last night. We have received some purchase orders, so we'll see what the demand curve will look like with actual orders as we go into year-end. But I would actually think about the manufacturing ramp closer to what happened in Revio, where we were able to scale manufacturing over time. The product itself is in its very late stages of development, and basically verification now. And so, we should be able to start shipping it in early in Q1, as opposed to the end of Q1. But that depends on how well the verification goes. And we will – and then we will ramp manufacturing accordingly.
+
+And so, part of us highlighting that to investors is to say that we believe that we will have a sequential growth in units of Vega over the course of next year. As we as we see what the demand curve looks like and we scale our manufacturing, if that helps.
+
+Mason Carrico
+Analyst, Stephens, Inc.
+Got it. No, that's helpful. And then, on the comment around building it to be accretive to gross margin, can you just clarify whether that's from launch or once you scale?
+
+Christian O. Henry
+President, Chief Executive Officer & Director, Pacific Biosciences of California, Inc.
+That's – it's really over the course of next year. The first units we ship in Q1 and perhaps some in Q2 will be a bit lower gross margin because they are – they will be the units that were manufactured at the very end of the development process and become salable units. And when you're in the late stages of development, those units actually cost a lot more to produce.
+
+The full routine – production routine, those earlier units are actually made on a different manufacturing line and therefore they're more expensive. When you move, when you transfer that to the regular production line, that's when you see the benefits of cost reduction, and then the margins will go up. And so, when you look out over the course of next year, we do expect them to be accretive to gross margin for whole year. But it will be – it might be dilutive in the first quarter or so, and then improve from there.
+
+Susan G. Kim
+Chief Financial Officer, Pacific Biosciences of California, Inc.
+That's exactly right. And then on the consumable side, we should – it should be accretive from a consumables perspective.
+
+Christian O. Henry
+President, Chief Executive Officer & Director, Pacific Biosciences of California, Inc.
+On day one.
+
+Susan G. Kim
+Chief Financial Officer, Pacific Biosciences of California, Inc.
+On day one.
+
+Christian O. Henry
+President, Chief Executive Officer & Director, Pacific Biosciences of California, Inc.
+Yeah.
+
+Susan G. Kim
+Chief Financial Officer, Pacific Biosciences of California, Inc.
+Exactly.
+
+Christian O. Henry
+President, Chief Executive Officer & Director, Pacific Biosciences of California, Inc.
+That's right.
+
+Mason Carrico
+Analyst, Stephens, Inc.
+Perfect. That's helpful. Thanks, guys.
+
+Operator
+The next question comes from Dan Brennan with TD Cowen. Please go ahead.
+
+Daniel Brennan
+Analyst, TD Cowen
+Great. Thank you. Thanks for the questions. Congrats on all the good momentum here. Maybe just, first one, just on the kind of fourth quarter outlook, and kind of what it pertains. I think you said what pull-through the same. Christian, in the prepared remarks, you talked about a lot of good momentum in terms of kind of what you're seeing in the market.
+
+So, could you just give us a sense on kind of consumables being flat sequentially? Is that conservative kind of from what you're seeing or just maybe put that in the context of kind of your commentary about the demand environment? And then using that as a jumping off point, I know you talked about will grow in 2025, the Street right now, I think, is about 25% top line growth. I know it's early, but maybe you can just characterize a little bit about what growth means?
+
+Christian O. Henry
+President, Chief Executive Officer & Director, Pacific Biosciences of California, Inc.
+Yeah. Well, we'll start with – we'll start with Q4 consumables. We do think Q4 consumables will be sequentially up over Q3. So, we are seeing utilization levels, particularly in Europe. Europe has a lot of the Estonia project, and MBRU, there's a lot of large-scale programs where even Sanger, these customers are using their instruments at a pretty good clip. So, I would expect to see pretty good utilization in Europe in Q4. But I think in totality, you're going to see consumables grow sequentially over Q3 levels.
+
+When we start to talk about Q4, I promised Todd I wouldn't talk about Q4 guidance yet. Our Q2 2025 guidance, yes, sorry, that's what I meant. But you know, I do think we – I do think there – all the signs point to growth. We have a new product cycle with SPRQ – with both SPRQ and with Vega. We have increasing installed base driving consumables. Even if the consumables stay at the same pull-through per unit, that will result in growth year-over-year.
+
+And then I do think – although it's difficult to see in the first half how the macro environment really looks like, you know, I am an optimist and I believe that the macro environment will improve somewhat over the course of 2025. And so, when you put all those factors together, I do think even if the macro environment kind of stays the same, we're poised for growth. And if we see any improvement in the macro, that gives us the ability to grow beyond that.
+
+Today, I'm not going to talk about what does it mean in terms of percentages or where the Street is now. What I want to see is how we do in Q4, what the interest is in Vega, and so that way when we unfold our guidance formally in 2025, we can have a lot of confidence around it.
+
+Daniel Brennan
+Analyst, TD Cowen
+Got it. Okay. And then maybe just on the path to cash flow breakeven, both on margins and OpEx, I know you talked about a lot already in terms of the benefits of these new platforms on gross margins. But maybe you can just spell out a little bit just you're not going to quantify, but just maybe characterize gross margins in terms of the new programs, in terms of the other COGS initiatives you have ongoing. And then on the OpEx cut program you have in place, which is making good progress, just kind of – how are you managing that in terms of taking those costs out while still being able to invest for growth?
+
+Christian O. Henry
+President, Chief Executive Officer & Director, Pacific Biosciences of California, Inc.
+Yeah, it's a great question, Dan. And I think with respect to gross margins, I'll start with Revio, and I'll start – I'll actually talk a little bit about Revio consumables, because we see a lot of innovation that's happening inside the company that will continue to drive the production costs or the value of the kits in terms of cost of producing consumable kits down. And that will a combination of increasing throughput of Revio plus driving the production cost down will end up probably passing some of those benefits on to the customer, but starting to keep some of them to expand our gross margin. And so, that will give us some real opportunity in 2025 to see consumable gross margin expansion.
+
+We also – as we continue now the SMRT – a SMRT cell production grows, we'll get more economies of scale with respect to SMRT cell production. And therefore, that will help the consumables as well. And so, that's just an area in particular where we expect to see gross margins improve in 2025, and likely again in 2026. And I think that that's a real strong opportunity.
+
+With respect to OpEx, I think we – the team has done an amazing job of making the hard decisions and staying focused, so that we could reduce – do the hard work of reducing the cost this year, and we'll get the full year benefit of it next year, of course. But also, I see there's more opportunity for us to even stay more focused at focusing on the most important R&D activities that will drive short-term growth and drive the margin expansion.
+
+And then, getting – continuing to build a more effective commercial organization, I do think that there's opportunities there to get more leverage out of the commercial organization. So, although you may not cut expenses there, if you can generate more revenue per dollar of commercial spend, that's quite frankly, that's the best of all worlds. And so, I do think that there are opportunities there. And when we start to roll out 2025, I think we'll be able to talk about some of those different kinds of things.
+
+Daniel Brennan
+Analyst, TD Cowen
+Great. I'll now go back in the queue. Thanks a lot.
+
+Christian O. Henry
+President, Chief Executive Officer & Director, Pacific Biosciences of California, Inc.
+Thanks, Dan.
+
+Operator
+The next question comes from Jack Meehan with Nephron Research. Please go ahead.
+
+Jack Meehan
+Analyst, Nephron Research LLC
+Hey, thank you. Good afternoon. Christian, I was wondering if you could talk about another announcement you had last night, which was the Revio list price, I guess now $599,000. What was, I guess, the thought process that went behind bringing that down? And I don't know if there's any interplay with the Vega launch there, which I love to get color on that.
+
+Christian O. Henry
+President, Chief Executive Officer & Director, Pacific Biosciences of California, Inc.
+Yeah. It's a good question. And it is – I'm glad you highlight $599,000 because this is a milestone for us to be able to offer this system at $599,000. We've taken – we're sharing some of the productivity improvements that we've made with our customers there. But if you look at our actual ASPs, this isn't very different than our actual ASPs. And our expectation is that we'll have a little bit more ASP discipline around the $599,000.
+
+So, we don't really expect dramatic changes in dollars realized for Revio going into next year. But it was apparent to us that customers wouldn't even inquire about, you know, going to long reads, because they heard the instrument was $779,000, which, as you guys know, the ASPs have been much lower than that. And so what we wanted to do is establish a new list price, because the reality is we've taken so much cost out of the system that we can afford to do that and drive further demand. So that's the real driver behind the change.
+
+We do expect ASPs to remain reasonably consistent with where they are kind of right now over the course of 2025. So, from a financial perspective, I don't think it's really going to hurt us from an ASP perspective, but it's a huge opportunity to drive more demand and drive the message that PacBio HiFi sequencing is the most advanced sequencing technology, and now it's very affordable with all the advancements we've made.
+
+Jack Meehan
+Analyst, Nephron Research LLC
+Excellent. When you give a mouse a cookie, you got to ask for milk when it comes to new products. I was wondering if there was any color you could share around just timing for high-throughput short-reads. Thank you.
+
+Christian O. Henry
+President, Chief Executive Officer & Director, Pacific Biosciences of California, Inc.
+Give an inch, they'll take a mile. I think today the program continues to go well inside of our R&D program. It's in its scale-up phase right now and it keeps moving on. We are routinely sequencing with billions of reads at high quality. There are some technical hurdles that we still have to overcome to get that product to market.
+
+Today, I'm not going to game out a launch date. I think, today, we're really focused on driving the SPRQ chemistry and the Vega launch and making that successful. But we still have the resources we need to develop a very high quality, high-throughput system. And as that project matures a little bit more, I will share more with everyone.
+
+Todd Friedman
+Senior Vice President-Investor Relations, Pacific Biosciences of California, Inc.
+Thanks, Jack.
+
+Operator
+The next question comes from Ross Osborn with Cantor Fitzgerald. Please go ahead.
+
+Matthew Park
+Analyst, Cantor Fitzgerald & Co.
+Hey, guys. This is Matthew Park on for Ross today. Thanks for squeezing us in. Just one question from us. It was good to see sequential improvement in China. I was wondering if you guys can speak on the general appetite for Revio in China as we move into 2025. And how you foresee the launch of Vega driving incremental adoption in the region? Thanks.
+
+Christian O. Henry
+President, Chief Executive Officer & Director, Pacific Biosciences of California, Inc.
+Yeah, it's a great question and thanks, Matthew, for the question. I do think we are seeing expansion of sample demand in China, which will drive Revio demand, particularly with the big service providers that are really the core of our customer base there. What will be interesting to see is we've already heard a tremendous amount of excitement around Vega. In fact, we had one of our early access partners in our lab, a Chinese customer in our lab testing Vega, when was that, last week, I guess, or two weeks ago before the earnings.
+
+And they were over the moon such that I suspect they could be a major customer of Vega. The profile of Vega fits the Chinese market really well at $169,000, very high accuracy, great ability to do epigenetic structural variation phase genomes. And I think it's an opportunity for us to penetrate deeper than just the service providers we have. So, it'll be interesting to see how our team in China really drives that opportunity for us. And it has the potential to drive potentially hundreds of instruments over time. And we'll see how we do.
+
+Todd Friedman
+Senior Vice President-Investor Relations, Pacific Biosciences of California, Inc.
+Thanks, Matt.
+
+Operator
+The next question comes from Subbu Nambi with Guggenheim Securities. Please go ahead.
+
+Subbu Nambi
+Analyst, Guggenheim Securities LLC (Research)
+Hey, guys. Thank you for taking my question. Vega opens up more of the market pyramid for you. That said, as we go deeper into the market pyramid, it gets wider, which typically means going into higher number of accounts. So then how do you balance the desire to go after this opportunity with the typical need to increase commercial investments to go into that new segment of the market?
+
+Christian O. Henry
+President, Chief Executive Officer & Director, Pacific Biosciences of California, Inc.
+That is such a great question. And my field service team has been asking that question for about a year now. And so, you're exactly right. As we widen our customer base, which is fundamental to what we're trying to achieve as a company, by the way, is we have to be thoughtful about the support burden and how do you build a commercial infrastructure to support that.
+
+And the way you start is you start by designing a product from the ground up that is as simple to use and is focused on this new customer base. Vega has only two consumables, and they are – and the way Vega is set up, it's set up that it's very difficult to make mistakes as you're loading the system. The cartridges have been completely reimagined, so you have everything you need to sequence right there.
+
+One of the breakthroughs we've had is we've been able to develop capabilities in the system that allow us to almost always deliver 60 gigabases of data even for new users. And that consistency will give the newer users more and more confidence. And so, kind of what you're hearing is that a lot of the innovation was geared towards simplicity, miniaturization, ease of use.
+
+And then, of course, we added SMRT Link in the cloud and SMRT Link in the cloud gives users much deeper access into where they put their data so that they could stream their data directly up to the cloud and then to a secondary or tertiary analysis software program. Because the support burden is actually much more than just thinking about, are the instruments working? It's about helping the customers get the answers they need, so that they can continue to run their next experiments.
+
+And as we build out our install base with Vega, simplifying the automatics pipelines, we've done a lot of that over the last year to develop these pipelines, continuing to integrate it through the cloud. These are all things – all steps that we're taking that will help balance the commercial investment with customer success. And with the end game of Vega customers having such a great experience, they want to move up to Revio as their science dictates.
+
+Susan G. Kim
+Chief Financial Officer, Pacific Biosciences of California, Inc.
+We also see an opportunity for Sequel II customers that are still using their instrument that haven't yet been ready to upgrade to Revio that gives us an opportunity to also upgrade them to Vega before they ever upgrade to Revio. And so, that's our existing customer base. And then we're trying to be very thoughtful about expanding the commercial organization as we see the momentum with new customers. So that's going to be another aspect. And then of course, in certain regions selling through distributors also gives us increased leverage from that perspective.
+
+Christian O. Henry
+President, Chief Executive Officer & Director, Pacific Biosciences of California, Inc.
+Thanks, Subbu.
+
+Subbu Nambi
+Analyst, Guggenheim Securities LLC (Research)
+Thank you for that, guys.
+
+Operator
+Our next question comes from Doug Schenkel with Wolfe Research. Please go ahead.
+
+Madeline Mollman
+Analyst, Wolfe Research, LLC
+Hi, this is Madeline Mollman on for Doug. I just wanted to touch on Revio placements, which came in I think a little bit below our industry expectations. I know last quarter you mentioned some placements that were supposed to close in Q2, got pushed out due to timing and customer funding. Just wondering if those orders did close in Q3, if they've been pushed out again or if you're seeing any cancellations?
+
+Christian O. Henry
+President, Chief Executive Officer & Director, Pacific Biosciences of California, Inc.
+Yeah. We have not seen any cancellations, which is great. Some of the orders from Q2 did come in Q3. Some did not. And they're still on in the funnel hopefully to close in Q4 or that's kind of where – I need to look at each one to know exactly. But the other thing that happened in Q3 specifically, there were some tenders in Europe that got delayed at the 11th hour. And so, delayed in late September, and therefore, they didn't close.
+
+We expect some of those to close in Q4. And then – and then maybe – and then perhaps another one of them to close in Q1. And so, yes, the instruments were a little short of our expectations, really driven by those tenders that I'm talking about. That said, from quarter-to-quarter, you do have things moving in and out. And so, part of our challenge has been really these prolonged sales cycles really creating certainty on when the deals will close, and also expanding the total funnel. I think SPRQ will draw – the new SPRQ chemistry will drive an expansion of the funnel, which will enable us to get back to more historical order levels as we move into 2025.
+
+Madeline Mollman
+Analyst, Wolfe Research, LLC
+Great. Thank you.
+
+Christian O. Henry
+President, Chief Executive Officer & Director, Pacific Biosciences of California, Inc.
+Yeah. Thank you.
+
+Operator
+This concludes our question-and-answer session. I would like to turn the conference back over to Todd Friedman for any closing remarks.
+
+Todd Friedman
+Senior Vice President-Investor Relations, Pacific Biosciences of California, Inc.
+All right. Well, thank you, everybody, for joining us on the call today. We're going to be at several investor events this quarter. So, hope to connect with several of you there, and have a good one. Take care.
+
+Operator
+The conference is now concluded. Thank you for attending today's presentation. You may now disconnect.

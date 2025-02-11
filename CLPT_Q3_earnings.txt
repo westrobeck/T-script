@@ -1,0 +1,185 @@
+Thank you. And thank you to all of the investors and analysts on today's call for being a part of the ClearPoint Neuro vision and journey. Our mission and our priority is to help restore quality of life to patients and their families, who are suffering from some of the most debilitating neurological disorders imaginable. In the third quarter of 2024, the entire ClearPoint Neuro team contributed to a record revenue quarter of $8.1 million and, in our view, the strongest financial and strategic performance in our history. We made significant progress across all four of our growth pillars, including: number one, biologics and drug delivery; number two, neurosurgery navigation; number three, therapy and access products; and number four, in achieving global scale.
+
+As we commented on our last earnings call, we are beginning to see the return on the investments we made over the past three years in the form of growth across all four of our pillars, and not only biologics and drug delivery. We are thrilled to report that all four of our growth pillars grew more than 20% in the third quarter, with each segment contributing to the overall top line result while, at the same time, achieving scale and continuing our reduction in operational cash burn.
+
+And as continued from the second quarter, we believe we have entered an exciting next phase of ClearPoint Neuro. We have gone beyond being just an MRI navigation-focused company, we have added operating room navigation with SmartFrame OR, we have added our own laser therapy solution with Prism, we have added significant preclinical services to support early partnership with biopharma, and we continue to see progress with our cell and gene therapy partners through the clinical and regulatory pathways to commercial approval on a global basis. The first of such gene therapy approvals has the potential of FDA clearance in the months ahead. We are very excited about how these new products and initiatives are performing in the field as well.
+
+I will now turn the call over to Danilo, our CFO, to review our financial performance in the quarter, after which I will add some details to our four-pillar growth strategy. Danilo?
+
+Danilo D'Alessandro
+Chief Financial Officer, ClearPoint Neuro, Inc.
+Thank you, Joe, and thank you, ladies and gentlemen for joining us today. Looking at the third quarter 2024 results, total revenue was $8.1 million for the three months ended September 30, 2024 in comparison to $5.8 million for the three months ended September 30, 2023, which represents an acceleration to 41% growth versus the third quarter of 2023 and the fourth quarter in a row of growth above 30%. As a reminder, our revenue is made up of three components: biologics and drug delivery, neurosurgery navigation and therapy, and capital equipment and software.
+
+Biologics and drug delivery revenue includes the sales of disposable products and services related to customer-sponsored preclinical and clinical trials utilizing our products. Biologics and drug delivery revenue grew 27% or $4.4 million in the third quarter, up from $3.5 million in 2023. This increase was fueled by 353% increase in biologics and drug delivery product revenue, as our pharmaceutical customers progress in their preclinical and clinical trials. The biologics and drug delivery product growth was partially offset by a $0.7 million decrease in service revenue.
+
+Neurosurgery navigation and therapy revenue consists of commercial sales of disposable products related to ClearPoint Navigation System, our SmartFrame OR product and Prism Laser Therapy disposables. This revenue segment grew 49% to $2.9 million for the third quarter, as we activated new accounts and expanded the introduction of SmartFrame OR and the Prism Laser Therapy.
+
+Capital Equipment and software revenue consists of sales of ClearPoint Neuro navigation, hardware and software, and the Prism Laser System and the related services increased 133% to $0.8 million in the third quarter from $0.4 million for the same period in 2023. Gross margin for the third quarter 2024 was 60%, as compared to gross margin of 57% for the third quarter of 2023. The increase in gross margin was primarily due to an increase in volume and lower costs related to the transition of our manufacturing facility in 2023.
+
+Research and development costs were $3.3 million for the three months ended September 30, 2024, compared to $2.4 million for the same period in 2023, an increase of $0.9 million or 36%. The increase was due primarily to an expansion of our research and development initiatives and investments in further innovation.
+
+Sales and marketing expenses were $3.5 million for the third quarter, compared to $2.8 million for the same period in 2023, an increase of $0.7 million or 25%. This increase was mainly due to additional personnel costs, as we expand our commercial reach to support and accelerate our product launches.
+
+General and administrative expenses were $3.2 million for the third quarter, compared to $2.9 million for the same period in 2023, an increase of $0.3 million or 9%. This increase was mostly due to higher head count costs.
+
+With respect to our cash position, as of September 30, 2024, we held cash and cash equivalents of $21.6 million, compared to $32.8 million as of June 30, 2024. In August 2024, we proceeded with an early repayment of the entire principal and interest outstanding on our existing convertible loan for a total amount of $10.1 million. As of September 30, 2024, we have no outstanding debt.
+
+In line with the prior quarters, we continued to meaningfully reduce our operational cash burn. Our operational cash burn in Q3 was down to $1.2 million, a 33% reduction from the prior year's third quarter. In the past, trailing 12 months, our operational cash burn was $8.9 million. This represents a 43% reduction compared to the corresponding prior 12-month period, that is from October 2022 to September 2023.
+
+With that, I'd like now to turn the call back to Joe.
+
+Joseph Michael Burnett
+President, Chief Executive Officer & Director, ClearPoint Neuro, Inc.
+Thanks, Danilo. As mentioned previously, 2024 continues to be a great year of execution, with a 38% year-over-year-to-date increase in revenue, a 39% reduction in operational cash burn, multiple new product launches, additional long-term pharma partnerships, global expansion of our portfolio, and a strong cash position with a debt-free balance sheet.
+
+As always, let's break that progress down into our four growth pillars. Starting with pillar number one, biologics and drug delivery, we had a terrific quarter on numerous fronts. Let's talk about four recent key milestones in our gene and cell therapy business. First, as Danilo mentioned, we saw a significant increase in actual product sales to pharma partners. This is very important as it shows the progression of our partners who are advancing along the regulatory pathway.
+
+Our early engagement with pharma is normally heavily weighted towards service revenue. We begin with strategy discussions, discovery consultancy, pilot studies and benchtop testing, which generally have limited product sales and higher service sales. Later in the engagement, we generally move into supporting non-clinical studies, clinical trials, post-procedural data analysis and, eventually, commercialization, where the partners or the hospital is purchasing actual navigation and infusion products. This is where we see product sales to biopharma generally outpace service sales and demonstrates that continued progression of our partners through this regulatory process.
+
+Second, we have now seen multiple partners selected for various accelerated FDA pathways, designed to speed the clinical trial execution and eventual regulatory approval of these new-to-world cell and gene therapies, often referred to as regenerative therapies.
+
+We now have seven partnered programs that have been designated as either Fast Track, Priority Review or RMAT, which highlights the importance that the FDA has placed on the entire cell and gene therapy market and the recognition of the life-altering impact that these drugs may have to patients.
+
+While there's never a guarantee of timeline or approval, it is very reassuring and exciting that the FDA has created these accelerated pathways, and that many of our partners have demonstrated significant enough progress and clinical results to be eligible for these programs in the first place. In total, if we added together all of the indications that are now included in these expedited programs alone, the total patient prevalence is measured in the millions of patients globally.
+
+Third, we continue to make progress expanding our preclinical services and capacity with the next-stage goal to be GLP ready and to commence with our initial ClearPoint-driven GLP studies later in 2025. Our team continues to feel confident in the demand for our products and services, as well as our unique expertise.
+
+We believe in our ability to execute larger studies under GLP-compliant procedures and facilities in the very near future. This further evolution of our drug delivery business will continue to expand, not just in the value that we provide, but also in the potential to build even stronger and earlier long-term structured relationships with the pharmaceutical industry through the continuum of services.
+
+And fourth, speaking of those relationships with pharma, we are excited to share that we have now executed strategic agreements across all of our desired frameworks, proving that we do, in fact, provide unique capabilities that are valued by the cell and gene therapy community. These frameworks also demonstrate our creativity and our flexibility on how we can collaborate based on the needs of each individual biopharma partner. We obviously cannot provide specific individual pricing or confidential strategic information, but what I can share is that we have now successfully signed agreements representing four different revenue structures and, sometimes, a combination of all four.
+
+These can be; number one, co-development, where a partner pays a development fee and development milestones to ClearPoint for the custom development of a delivery device or software that will be used in their preclinical and clinical trials. Number two, commercial pricing, where a partner intends to provide their drug, once FDA approved, in a kit with the ClearPoint Neuro technology to simplify the commercial delivery of the product and purchase the devices directly from ClearPoint, instead of ClearPoint Neuro selling the product to hospitals. The commercial pricing is at a premium when compared to non-clinical and clinical trial device pricing.
+
+Number three, clinical milestones, whereby ClearPoint Neuro receives cash payments upon progression of a therapy through its regulatory pathway. For example, approval of an IDE or IND study granted by the FDA for the first patient enrolled in the trial. Importantly, these milestones can happen during the drug discovery and regulatory process and do not have to take place at the very end with a commercial approval. And finally, a royalty payment to ClearPoint Neuro on the drug itself based on commercial sales of the cell and gene therapy, which is delivered using ClearPoint delivery devices.
+
+As a reminder, while not assured, we believe it is likely that these new-to-world drugs will be approved as combination devices with the ClearPoint Neuro cannulas and catheters, as we have seen in the European Union for the very first neuro gene therapy approved. Our company, therefore, becomes an essential supplier to our pharma partners. As a result, our partners are looking for very long-term agreements, assurances of supply, access to ClearPoint Neuro's unique intellectual property, redundancy of manufacturing and even more. It is this long-term need and partnership that puts us in a unique position to earn increased future revenues for our products and services beyond simply the price of a single disposable device.
+
+Moving on to pillar number two, which is neurosurgery navigation. We saw continued and accelerated customer site activations and product sales in the quarter, fueled by both placements of our traditional MRI-guided navigation system, as well as the continuation of the full market release of our SmartFrame OR, or operating room system designed for use with CT scanners in the operating room. We have also seen two very exciting developments in the DBS space that took place in the third quarter.
+
+First, Medtronic got approval or approved labeling for asleep DBS procedures based on the wealth of compelling clinical evidence that excellent outcomes are achieved when the patient is comfortably asleep versus awake for these DBS procedures. This new labeling will allow a large company, like Medtronic, to begin educating patients on the technique, which was not possible without this new FDA labeling historically.
+
+Second, Abbott has announced that the TRANSCEND study, which is designed to study the use of DBS to treat severe depression. While it will likely take years before this new indication is achieved, the TRANSCEND study itself will enroll 100 patients and many of the participating centers have communicated to us that they plan to use ClearPoint technology as their preferred navigation system. This will allow ClearPoint to participate in these trial patients and also be involved from the very beginning of this new indication.
+
+As a reminder, we have historically activated approximately six to eight new customers each year. With the five that we added here in the third quarter, that brings our total up to 19 for this year, and actually more than 20 at the time of this earnings call. These accelerated placements have helped fuel not only our disposable product sales, which we will talk about in a second, but also capital, rental and service sales, which more than doubled versus a year ago. We had communicated an earlier goal of achieving 100 global activated sites by the end of 2025. But given this new pace of placements, we believe we will achieve 100 by the first half of 2025, if not sooner.
+
+Next, let's move on to pillar number three, which is the therapy and access products. In the second quarter, we obtained FDA clearance for the Prism Anchor Bolt Accessory (sic) [Prism Bone Anchor Accessory] (00:16:33), which has opened the door for use of our Prism Laser System with some existing robotic systems at sites that prefer to use robotic navigation in place of our ClearPoint Navigation.
+
+Here in the third quarter, we released new product packaging and compatibility with third-party anchoring mechanisms that can help us to get access to hospitals quicker by not needing to put additional new ancillary devices through the hospital's VAC approval process. These new releases may seem simple, but they are important steps to adoption, and they show our customers that we are listening to their feedback, iterating quickly and doing everything we can to make adoption of Prism fit comfortably into their existing hospital workflow with as few changes as possible.
+
+While we do remain somewhat limited to about half of the laser market today, as our system is currently only approved for 3.0 Tesla scanners, there are plenty of target hospitals to keep us busy, while we develop the regulatory pathway for 1.5 Tesla scanner approval, which we do anticipate becoming available in 2025. We are also making significant progress toward being able to commercialize an MRI conditional power drill which, we believe, will be a powerful complement to our therapy and access products.
+
+This tool, developed by our partner adeor medical, is designed to provide significantly faster access for surgeons than our current hand drill and that has the potential to meaningfully reduce procedure times. Once development is finalized and the drill is ready for commercialization, ClearPoint Neuro will be the exclusive worldwide distributor for this new product.
+
+Now, when we report numbers for neurosurgery navigation and therapy, we bucket them together into medical device disposables. As Danilo mentioned, this segment grew 49% in the quarter and is again driven by – from three disposable revenue sources: MRI navigation, operating room navigation, and laser therapy. Overall, our product sales once again more than doubled versus a year ago, which has a positive impact on gross margin due to the increased throughput at our factory.
+
+Finally, let's talk about pillar number four, which is in achieving global scale and profitability. This was another disciplined quarter from a spending standpoint that saw 41% revenue growth, while reducing operational cash burn down to only $1.2 million, which represents a 33% reduction versus Q3 of 2023. We continue to believe that a cash flow breakeven quarter by the end of 2025 is possible and we feel that our strong cash position today with over $21.6 million in cash and cash equivalents and no debt on our balance sheet.
+
+By retiring our only outstanding debt in the quarter, we have significant optionality to service any future capital needs and we'll review our capital planning in the context of driving profitable growth. We continue to believe our revenue for the full year will fall between our previous guidance of $30 million to $33 million, representing growth of between 25% and 38% for the full year.
+
+With that, I will now open up the call to any questions. [Operator Instructions]
+
+Question And Answer Section
+Operator
+Your first question comes from Mat Blackman with Stifel. Your line is open.
+
+Emily Christy
+Analyst, Stifel, Nicolaus & Co., Inc.
+Hi. This is Emily on for Mat. Congrats on a great quarter again.
+
+Joseph Michael Burnett
+President, Chief Executive Officer & Director, ClearPoint Neuro, Inc.
+Yeah. Thanks, Emily.
+
+Emily Christy
+Analyst, Stifel, Nicolaus & Co., Inc.
+Just looking to 2025, and I understand there's no guidance today, but can you just call out some of the general headwinds, tailwinds that should be on our radar? Maybe any inflection points with the GLP or what have you?
+
+Joseph Michael Burnett
+President, Chief Executive Officer & Director, ClearPoint Neuro, Inc.
+Yeah. I mean, we're not quite prepared to get too far into 2025, Emily, as I think you pointed out. But there's certainly some factors that, I think are making us feel pretty good about our growth prospects. From a practical standpoint, we don't see any reason or any headwinds relative to market development or growth of the underlying surgeries. If anything, we expect more surgeries to take place next year related to continued use of deep brain simulation. The fact that, as I mentioned earlier on the call, Medtronic now has clearance to be able to promote asleep DBS.
+
+There's a number of studies and publications that have shown that one of the primary reasons that patients are indicated for DBS, but don't go through with the procedure is because they find out that they would be awake during the procedure. And quite frankly, that's scary to many patients.
+
+With this new indication, companies like Medtronic, as well as the surgeons themselves, can promote and educate these patients that there is, in fact, another option which, we believe, is going to drive more patients to go through with the procedure, coupled with the fact that there are a number of new indications for DBS around epilepsy, around OCD. And new studied indications, like I mentioned, for severe depression that, I think will grow those underlying markets.
+
+We've also heard positive results relative to demand for laser therapy, particular on the tumor side of things, where hospitals have realized that if they do a number of laser procedures for tumor, the patients are generally discharged from the hospital in under 24 hours compared to two or even three days sometimes with an open resection. So cleaning up these past procedures, if you will, including radiation necrosis and getting the patient out of that hospital bed in under 24 hours, so that a new patient can take their spot, is something that's very attractive to these hospitals. So, we do see them continuing to grow their position there.
+
+And then finally, the progress that we're seeing with a lot of our cell and gene therapy partners, even if nothing is commercially approved yet, albeit the first one is on the horizon here we hope, even the entry or the progression from zero patients to a safety study or from a Phase 1 safety study into a Phase 2, even Phase 3 pivotal or combination study can drive significantly meaningful revenue to us as well.
+
+To put in perspective, we've seen clinical trial Phase 2, Phase 3 protocols for things like Parkinson's disease, which could be anywhere from 180 to 220 patients. So, you stack four or five of these studies on top of each other, and that's pretty close to the total number of procedures we did in all of 2023. So these could be meaningful as well. So, we do see quite a bit of opportunity still that, I would think is tailwinds in the underlying markets, let alone the new technology that we're advancing.
+
+The other thing I bring up that I've been asked about in the past as well is this past year, the company just barely missed the cutoff relative to the Russell Index, the Russell 2000. So as a result, a lot of our sort of index fundholders had to cycle out of the stock itself, which created a significant headwind. As you can tell from our market cap today, we'd be very, very comfortably in that Russell qualifier for next year. So, assuming nothing significant changes, that tailwind we saw in 2024 could become a – I'm sorry, the headwind that we saw in 2024 could be a tailwind for our stock in 2025. And we just have to do everything we can to continue to execute between now and then.
+
+Emily Christy
+Analyst, Stifel, Nicolaus & Co., Inc.
+Okay. Great. And just a follow-up, if I could. Up to 20 new placements today year-to-date. Is that a new normal? I mean, it has been six, eight, 10, maybe, but should we be thinking more 2025 going forward?
+
+Joseph Michael Burnett
+President, Chief Executive Officer & Director, ClearPoint Neuro, Inc.
+I would expect that the new normal for us is certainly in the double digits. I don't see us returning to a six to eight number. I'd say, we're probably in very advanced conversations with at least 50 additional hospitals today and we're at least in some level of conversation with more than 100. So, I think there's plenty of room for us to grow, especially as we start to do more and more in the operating room.
+
+Really, one of the biggest things that held us back in the past was that so many hospitals would like to work with ClearPoint that they simply did not have access to an MRI magnet. Maybe the magnet was owned by radiology, or maybe certain certifications at the hospital would not allow a surgery to take place in the MRI. So, we were completely shut out of those hospitals, and that's simply not the case anymore, now that we can launch our technology into just an everyday operating room with equipment like CT scanners and intraoperative CTs that are readily available for any one of those centers.
+
+Emily Christy
+Analyst, Stifel, Nicolaus & Co., Inc.
+Right. Great. Okay. Thank you very much.
+
+Joseph Michael Burnett
+President, Chief Executive Officer & Director, ClearPoint Neuro, Inc.
+Yeah. Thanks, Emily. [Operator Instructions]
+
+Operator
+Your next question comes from Frank Takkinen with Lake Street Capital. Your line is open.
+
+Frank Takkinen
+Analyst, Lake Street Capital Markets LLC
+Great. Thanks for taking the questions. Congrats on all the progress. But follow up on the last line of questioning a little bit on the new system activations, could you maybe parse out which or how many of those or how many year-to-date are just SmartFrame OR activations and just how much – I know you touched on that a little bit in the tail-end, but just how much that has contributed to the new activation, and then where that disposable revenue can go?
+
+Joseph Michael Burnett
+President, Chief Executive Officer & Director, ClearPoint Neuro, Inc.
+Yeah. Happy to give you a couple of examples there. So, I would say – I have to think of the exact number, I might be a little off, but the magnitude will be there. I believe, of those 19 activations this year, I think only two or three of those we would count as new activations from SmartFrame OR. And it doesn't mean that we're only using the OR product at three centers.
+
+What it means is that we do not count a new activation, if they were already using ClearPoint in the MRI. And then they also added SmartFrame OR, we don't count that as a new activation. That's an existing customer that we're going deeper into that customer, because we have additional complementary technology. So, to dir ectly answer your question, Frank, of those 19, I think it's three that the operating room enabled for us.
+
+So it shows you, we really have quite a long way to go. We're absolutely just getting started. But I think that's also the nature of a limited market release. You generally go to customers that are familiar with ClearPoint first to make sure that the product's doing exactly what it's supposed to do, before you go [indiscernible] (00:27:19) that have had no experience, if you will.
+
+The second part of your question is kind of meaningful, and a really, really important part as to where the disposables can go. We had a webcast that was performed by Dr. Conner at the University of Oklahoma recently. And I think he's a very good example of what the potential here is. This is a surgeon whose hospital – the surgery group did not own the MRI magnet. It was owned by radiology. So, he had been able to negotiate about one day of magnet use every month. So, even if he had 50 or 60 DBS procedures he wanted to do each year, he could only do about 10 to 12 with us because that's what he got the magnet time for.
+
+Now that we've enabled him to use ClearPoint in any environment, either the MRI or in the operating room, we're routinely doing maybe four or even five a month with Dr. Conner. So, you can put in perspective, now we're not leaving 80% of his volume on the table, because we were not in the operating room. We're now able to actually win and earn his business for that other 80% because he and the team have gotten familiar with the ClearPoint system in the MRI, as well as the ClearPoint OR. So, if we can replicate that experience at a number of different centers, this technology is not only about going to new hospitals, but it's actually increasing utilization and same-store sales at existing hospitals as well.
+
+Frank Takkinen
+Analyst, Lake Street Capital Markets LLC
+Got it. That's helpful. And then maybe one follow-up directly on that again. How many of your 90 accounts have SmartFrame OR today?
+
+Joseph Michael Burnett
+President, Chief Executive Officer & Director, ClearPoint Neuro, Inc.
+I would say, there's maybe six or seven or so in that order of magnitude. And then, I'd say, there's another 10 or so accounts where we're, what I would say is, in advanced conversations in front of the VAC Committee. So, for those who are not familiar, the Value Analysis Committee is a standard process of any hospital.
+
+Once – anytime you have a new technology, you have to establish pricing, you have to show that it's got legs and benefit to the hospital, to the surgeon and, certainly, to the patient. So there's a review process that takes place. Sometimes, the VAC Committee meets every week. Sometimes, it meets once every three months. So, you have to really get in line, get on the schedule and get going. But we have at least 10 of those committee meetings that are going on as we speak.
+
+Frank Takkinen
+Analyst, Lake Street Capital Markets LLC
+Got it. And then last one for me. Gross margins have trended favorably. How should we think about where gross margins can go with some of the new products in the bag?
+
+Joseph Michael Burnett
+President, Chief Executive Officer & Director, ClearPoint Neuro, Inc.
+From a disposable standpoint, if we get to any meaningful scale at our Carlsbad facility, there's no reason we can't be at 70% gross margin on the disposables side. And that includes cannulas as well for drug delivery trials. That certainly involves cannulas, where they're not using our navigation at all. In some cases, there might be one pharma customer that doesn't want to use our navigation, but they're going to use five or six of our cannulas.
+
+That's a very profitable procedure for us, because the cannulas, it's easier to make them the navigation frames. The drag that sometimes we get quarter-to-quarter on the margin standpoint is really, if we have a really good capital quarter, for example, our capital margins of selling the head frames, some components, for example, we don't make any money on. They're just a necessary piece of equipment that the hospital needs to do the procedure from another vendor.
+
+So, our margins are in that 35% to 45% range there. So it's not a bad deal for us. We actually still make money on that transaction. However, if you happen to have one quarter where we sell three or four systems, like we did in the first quarter of this year, I think our overall capital revenue is around $1.3 million or $1.4 million. That can actually drag the total margin down a little bit just from a mix standpoint. But when we get to scale and you can imagine us doing $50 million, $60 million, $70 million of disposable revenue each year and capital revenue are kind of staying flat, our margins should be comfortably in the 70s at that point.
+
+Frank Takkinen
+Analyst, Lake Street Capital Markets LLC
+Got it. That's helpful. Thank you.
+
+Joseph Michael Burnett
+President, Chief Executive Officer & Director, ClearPoint Neuro, Inc.
+Right. Thanks, Frank.
+
+Operator
+There are no further questions at this time. I'd like to turn the call back to Joe Burnett, President and CEO of ClearPoint Neuro, for any closing remarks.
+
+Joseph Michael Burnett
+President, Chief Executive Officer & Director, ClearPoint Neuro, Inc.
+Once again, thank you to everyone interested in being a part of this team's journey here at ClearPoint. This is an exciting time, as we plan for new product and service launches across all four of our growth pillars. We have worked hard to get to the spot and we are incredibly excited for our team, but also for the patients that we hope to treat with these new devices and therapies in the near future. The patient and their family is why we are here and, ultimately, who we are working for. Thank you and please have a good night.

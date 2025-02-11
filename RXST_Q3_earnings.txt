@@ -1,0 +1,323 @@
+Thank you, operator. Presenting today are RxSight President and Chief Executive Officer, Dr. Ron Kurtz and Chief Financial Officer, Shelley Thunen. Earlier today, RxSight released financial results for the three months ended September 30, 2024. A copy of the press release is available on the company's website.
+
+Before we begin, I would like to inform you that comments and responses to questions during today's call reflect management's views as of today, November 7, 2024, and will include forward-looking and opinion statements, including predictions, estimates, plans, expectations and other information. Actual results may differ materially from those expressed or implied as a result of certain risks and uncertainties. These risks and uncertainties are more fully described in our press release issued today and in our filings with the Securities and Exchange Commission or SEC. Our SEC filings can be found on our website or the SEC's website. Investors are cautioned not to place undue reliance on forward-looking statements, and we disclaim any obligation to update or revise these forward-looking statements, except as it may be required by law.
+
+We will also discuss certain non-GAAP financial measures. Disclosures regarding non-GAAP financial measures, including reconciliations with the most comparable GAAP measures, can be found in the press release. Please note that this conference call will be available for audio replay on our Investor Relations website.
+
+With that, I will turn the call over to our President and Chief Executive Officer, Dr. Ron Kurtz. Ron?
+
+Ronald M. Kurtz
+President, Chief Executive Officer & Director, RxSight, Inc.
+Good afternoon and thank you for joining us. We're pleased to report another successful quarter of building the infrastructure for patient-driven outcomes in premium cataract surgery with a Light Adjustable Lens. While Shelley will provide a detailed review of our third quarter financial results and our outlook for the remainder of the year, I'd like to highlight some of the broader themes that continued to play out during the quarter and reinforce our confidence in sustained momentum through year end and beyond.
+
+In Q3, we experienced robust growth in our LDD installed base, surpassing typical seasonal expectations. This growth underscores the increasing recognition of the value that post-operative adjustability brings to ophthalmic practices in cataract surgery patients. I want to recognize the high-quality efforts of our commercial and operations teams that achieved this result, as well as to thank our existing and new customers for showcasing the win-win clinical and practice benefits of the RxSight system.
+
+LAL sales were in line with seasonal trends, as Q3 is typically impacted by doctor and patient travel schedules. Despite these seasonal headwinds and even hurricanes in the final weeks of the quarter, we believe our strong LAL sales underscore the value that patients and doctors place on being able to customize superior visual outcomes. We are also happy to report the full rollout of LAL+ in the US and the recent approval of LAL+ in Canada. As presented at the American Academy of Ophthalmology meeting in October, the LAL+ delivers an average of 1.3 additional lines of distance corrected near vision compared to the already excellent vision achieved with the standard LAL. This combined with the ability to customize refraction in both eyes, a path taken by over 90% of LAL patients, leads to remarkable binocular visual outcomes, with more than 90% of patients achieving distance vision of 20-20 or better and near vision of J2 or better without glasses.
+
+While LAL+ has been positively received by both patients and doctors, the high-quality vision provided by the standard LAL continues to be particularly valued for patients with more complex ocular histories. As a result, we expect both the LAL and LAL+ to maintain their unique market positions with our in-house manufacturing capabilities, providing the flexibility to adjust the production mix between the two lenses to meet demand. In Q4, we were also on track to release the recently approved low diopter LAL+ Powers, which will give our platform the broadest spherical power range of any astigmatism-correcting IOL from minus 2 to plus 30 diopters.
+
+Our commitment to innovation remains a core driving force at RxSight, and I want to recognize the tremendous efforts of our development and operations teams in continuously advancing our LAL and LDD technologies to deliver superior outcomes for patients. I also want to thank the doctors who adopted our technology and offered their input to our team, helping to direct us toward the most clinically relevant advances that maintain RxSight's position at the forefront of premium IOL innovation and growth.
+
+In the near term, our primary growth focus remains on expanding penetration within the North American market, where we are still in the early stages of reaching the broad population of cataract surgeons and patients. As we have discussed previously, we are also expanding our exposure to the optometric community, who are key participants in patient diagnosis, counseling and decision-making. We believe the LAL fits extremely well with the clinical mindset of most optometrists who rely on similar refractive principles in their daily practice. For the same reason, optometrists play an increasingly important role in the care of LAL patients in concert with ophthalmologists and other eye care professionals.
+
+We plan to apply our North American experience to the significant opportunities for further expansion into the global premium IOL market, and look forward to providing updates on our regulatory and commercial efforts in both Asia and Europe over the coming months.
+
+With that, I'll turn the call to Shelley.
+
+Shelley B. Thunen
+Assistant Secretary & Chief Financial Officer, RxSight, Inc.
+Thank you, Ron, and good afternoon, everyone. RxSight generated third quarter 2024 revenue of $35.3 million, up 59% compared to $22.2 million in the year ago quarter and up 1% compared to $34.9 million in the second quarter of 2024. During the quarter, we sold 24,554 LALs and generated $24.2 million in LAL revenue, up 79% and 2% compared to the same year ago quarter and the second quarter of this year respectively. This sequential performance reflects typical seasonality in cataract surgery volumes, which tend to dip in the third quarter as both doctors and patients often travel during the summer months.
+
+Additionally, in the third quarter, LAL revenue represented 69% of total revenue, an increase from 61% in the year ago period and from 68% in the second quarter of 2024.
+
+We sold 78 LDDs in the third quarter, up 18% to the 66 units in the year ago period and matching the 78 units sold in the second quarter that is typically stronger for capital equipment. During the period, LDD sales generated revenue of $10.1 million, up 28% versus the third quarter of 2023, and essentially the same as the second quarter of 2024. As of September 30, 2024, our LDD installed base stood at 888 units, representing an increase of 51% and 10% versus the year ago period and the second quarter of 2024 respectively. Reflecting continued demand, our average selling price for the LDD remained stable at approximately $130,000.
+
+During the quarter, average monthly utilization defined as the number of LALs implanted in the quarter divided by the LDD installed base in the previous quarter was 10.1 LALs per LDD, up from 8.7 LALs per LDD in the same period last year. While LAL growth remained strong in the third quarter, average monthly utilization was lower than the 11 LALS per LDD seen in the second quarter, a period that was and is generally its seasonally strong quarter.
+
+The gross margin in third quarter of 2024 was 71.4%, compared to 61.9% in the same year ago quarter and 69.5% in the second quarter of 2024. The year-over-year increase reflects the continued increase in the percentage of LALs as a percentage of sales, lower cost of sales for both the LDD and LAL and sustained pricing stability. The sequential gross margin increase of 190 basis points reflect improvements in the costs for the LAL and the LDD. Recall that the LAL cost is predominantly overhead. Those production volume increases the cost to manufacture declines and it is realized 6 to 9 months later in cost of goods sold.
+
+SG&A expenses in the third quarter of 2024 were $25.6 million, representing an increase of $6.5 million or 34% versus $19.1 million in the year ago quarter. This year-over-year change was due primarily to an increase in personnel costs, travel for sales and support teams, and higher stock-based compensation expense. On a sequential basis, SG&A expenses increased by $1.3 million or 5.4%, due primarily to additional hires in sales and marketing and higher stock-based compensation expense.
+
+During the third quarter of this year, R&D expenses rose to 24.5% to $8.8 million, compared to $7.1 million in the third quarter of 2023. This year-over-year change was primarily attributed to increased facilities costs and increased stock-based compensation. Compared to the prior quarter R&D expenses in the third quarter increased by $0.5 million or 6.6%, primarily due to new hires.
+
+Our GAAP net loss in the third quarter was $6.3 million or a loss of $0.16 per basic and diluted share using weighted average shares of 39.8 million shares. This compares to a GAAP net loss of $12.4 million or $0.35 per share on a basic and diluted basis in the third quarter of 2023. Note that stock-based compensation in third quarter of 2024 was $6.6 million, resulting in a non-GAAP income of $214,000 or an income of $0.00 per basic and diluted share.
+
+Moving to the balance sheet, we ended the quarter, third quarter of 2024 with cash, cash equivalents and short-term investments of $207.1 million (sic) [$237.1 million] (00:12:58), compared to $233.3 million on June 30, 2024. The increase in cash, cash equivalents and short-term investments is predominantly due to continued favorable accounts receivable collections and low cash used for inventories, limited capital equipment spending and higher accrued expenses.
+
+Turning now to guidance, we are increasing our full year revenue and gross profit guidance while reducing operating expense and non-cash expense guidance as follows. Full year 2024 revenue is now projected to be approximately $140 million at a top of the previously provided guidance range of $139 million to $140 million. Our revised guidance range implies year-over-year growth of approximately 57%. Gross margin is now expected to be in the range of 70% to 71%, up from our previous guidance of 68% to 70%. This increase primarily reflects the continued shift in the product mix, with the majority of sales coming from the higher margin LAL along with lower cost of manufacturing. Full year 2024 operating expenses are now expected to be at the bottom of our previously provided guidance of $135 million to $136 million, representing a year-over-year increase at the low end of approximately 30% to 31%. Non-cash expenses, which are primarily included in operating expense, are now expected to be at the low end of our previous range of $29 million to $30 million. This revised annual guidance translates to fourth quarter 2024 revenue of approximately $40 million. Q4 gross margin is similar to that of third quarter and fourth quarter 2024 operating expense at the low end of the $37 million to $38 million range.
+
+With that, I'll turn the call back to Ron.
+
+Ronald M. Kurtz
+President, Chief Executive Officer & Director, RxSight, Inc.
+Thank you, Shelley. Before we open the call for questions, I'd also like to briefly reflect on our recent participation at the American Academy of Ophthalmology annual meeting in Chicago, which was an outstanding event for both RxSight and the wider ophthalmic community. The RxSight booth drew significant attention from meeting attendees, featuring numerous talks by LAL surgeons and centered on the clinical advantages afforded by adjustability as well as operational pearls for practice integration and growth. These booth talks, as well as multiple presentations in the scientific sessions, reinforce the unique role LAL is playing in advancing the quality and adoption of premium cataract surgery, both of which are increasingly recognized as broad trends in the market.
+
+As others have noted, premium cataract surgery is now essential to the economic viability of most ophthalmic practices. The inherent limitations of non-adjustable premium IOLs require surgeons to thread a needle when it comes to patient selection, preoperative calculations, surgical technique and management of common post-operative issues. By enabling patients to optimize their vision after surgery, adjustability delivers predictable, high-quality results, driving scalable growth in high-margin patient pay revenue to mitigate progressive cuts in reimbursement that will continue to impact global ophthalmic business models for many years to come.
+
+With that, I'll ask the operator to open the call for questions.
+
+Question And Answer Section
+Operator
+Thank you. [Operator Instructions] And your first question comes from the line of Robbie Marcus with JPMorgan. Thank you. Please go ahead.
+
+Hi, this is [ph] Lili (00:17:09) on for Robbie. Thanks for taking the question. We've heard continued concerns about capital and your ability to grow LDD placements. Can you talk a bit more about what you're seeing on that side of the business? What does demand for capital look like and what's been your ability to drive placements like not just the new centers but also existing ones? So, driving deeper penetration with a second or third LDD.
+
+Ronald M. Kurtz
+President, Chief Executive Officer & Director, RxSight, Inc.
+Thank you for the question. So, I think our Q2 and Q3 results continue to show success in that effort. And it's really based on a number of factors. One, obviously, is the clinical results with the technology, but also the practice benefits and the relatively quick ROI that practices are able to realize with the RxSight system typically in – on the order of about six months, but it can be quite quicker than that. We do see practices who have already adopted the technology, adding LDD units to other offices where they see cataract patients. And that's really an internal calculation that they do based on their ability to increase the number of patients that they can offer the service to.
+
+Got it. That's helpful. And then just as a follow-up, you talked about the impact of hurricanes at the tail end of the quarter. So, how meaningful was that headwind? And are you able to quantify how big of an impact that was in the quarter and what you're factoring in for 4Q as well? Thanks so much.
+
+Shelley B. Thunen
+Assistant Secretary & Chief Financial Officer, RxSight, Inc.
+Thank you for the question. I think that's been asked a lot of everybody. First and foremost, our employees and our customers and their patients were safe. So, that's important. Although some sustained some property damage. We did lose surgery days, as ophthalmic practices closed and had some days off due to that. It's hard to quantify that effect, but definitely we lost a few to maybe more than a few surgery days. And of course, some of those markets, such as Florida, are good markets for us.
+
+Got it. Thanks so much.
+
+Operator
+Thank you. And next question comes from the line of Ryan Zimmerman with BTIG. Thank you. Please go ahead.
+
+Hi, everyone. This is [ph] Izzy (00:19:57) on for Ryan. Thanks for taking the questions. So just to start out, Shelley, we've seen some pretty consistent pricing for both the LAL and the LDD over the past couple of quarters. And I was wondering what your confidence is in being able to maintain these pricing levels, particularly when it comes to the consumables?
+
+Shelley B. Thunen
+Assistant Secretary & Chief Financial Officer, RxSight, Inc.
+Yeah. On the LAL side, our retail is at $1,000 and our ASP is just ever so slightly below that because some of our sales are into Canada and that's a distributor market. We don't get pushback on the LAL $1,000 per unit. And the reason is, of course, by then, the doctor has charged on average $4,500 per eye for that. And they're already convinced and convinced the patient of the tremendous value they're going to get with the LAL. With capital equipment our pricing has been consistent for a little bit over a year right now, since we increased the price about 10% in the middle of the third quarter of 2023.
+
+I always say that capital tends to drift down a little bit, but you saw again this quarter that we had a tremendously strong LDD quarter despite the fact that it's usually seasonally down from the second quarter and ASPs remain constant, which tells us that the demand is still there at the price that we're asking. So, we feel good about our ASP for both products.
+
+Got it. Very helpful. And I know we're not going to get guidance today, but I was just wondering if you guys have any early considerations that we should keep in mind as we start to think about 2025?
+
+Shelley B. Thunen
+Assistant Secretary & Chief Financial Officer, RxSight, Inc.
+Yeah, it's a little premature for us to give guidance as well. But as Ron said, as we look at the long-term impact of this product, right now, we're about 10% of the total premium IOL market. And our goal is to grow 50%. And we have the tool. And the most important tool is clinical outcomes for patients. 90% or more of patients get 20/20 at distance, J2 at near and are generally free from glasses, which is what the patient and the doctor want for the patient. In addition, as Ron included earlier, just a second ago, the payback is about six months. The price that is roughly $130,000 for the LDD is not much more than they would pay for a piece of replacement equipment that does not generate revenue. And so, I think that those are compelling patient-doctor practice trends that have continued since we first introduced the product. Would you ask – add anything to that, Ron?
+
+Ronald M. Kurtz
+President, Chief Executive Officer & Director, RxSight, Inc.
+I might just add that because we're selling the LDD into the clinic, we may not be affected by some of the capital concerns that have been raised that affect mostly hospitals and ANCs. And this is a clinic-based decision. And they're really basing that on the ROI that Shelley just outlined.
+
+Great. Thank you both for taking the questions.
+
+Shelley B. Thunen
+Assistant Secretary & Chief Financial Officer, RxSight, Inc.
+Thank you.
+
+Operator
+Thank you. Your next question comes from the line of Larry Biegelsen with Wells Fargo. Thank you. Please go ahead.
+
+Lei Huang
+Analyst, Wells Fargo Securities LLC
+Hi, it's Lei calling in for Larry. Thank you for taking our questions. Just to start off, Shelley, I know you mentioned seasonality in Q3, but the seasonality seemed a bit more pronounced this year in both LDD and LAL versus prior years. Any thoughts around why that was the case? And I have a follow-up.
+
+Shelley B. Thunen
+Assistant Secretary & Chief Financial Officer, RxSight, Inc.
+Yeah. On the LDDs side, we didn't see seasonality and in fact we saw the opposite of that. Typically, you would see capital equipment go down from the second quarter, but third quarter at 78 LDD sales equaled the second quarter. We did see seasonality, however, on the LAL side. And what we heard from our customers and of course, we're very close to them week by week in the field is we saw more doctors taking longer vacations, sometimes in concert. A few of them went to the EU and they stayed a little longer.
+
+And so, I think that it was really a function of that. And of course, the larger we get, the more we'll see in seasonality, both positive and negative. We saw some very terrific seasonality that we expected a bit lower overall in the first half, both in the first and second quarter. And with that, we increased guidance at the mid of the range by about $8 million on the top range.
+
+And so, that's where we saw really less seasonality in the first half. And that, of course, makes it look like there was a bit more seasonality in the third quarter, both for LALs. And we think that, yeah, a lot of that was really generated by [indiscernible] (00:25:33).
+
+Lei Huang
+Analyst, Wells Fargo Securities LLC
+Got it. That's helpful. And sorry about that. I've misspoken LDD. My follow-up question is on the gross margin. You raised the guidance for this year. Based on what you said you seem pretty confident about pricing holding relatively stable. Your overhead costs, the COGS seems to be – have, seems to have improved and that's been sustainable for a period of a year or so now. Does that mean the kind of the gross margin we're looking at now is relatively stable or sustainable, I should say, beyond 2024?
+
+Shelley B. Thunen
+Assistant Secretary & Chief Financial Officer, RxSight, Inc.
+Yeah, that's a really good question. I think it is. But as we go into future years, the biggest change in cost of sales has been that the LAL has the part of that higher margin than the capital equipment LDD and most of the progressive improvement gross margin comes from mix. But in fact, both the LAL and the LDD cost have come down, LAL more gradually because that's related to overhead and you build product quite a bit ahead of the time that it's actually sold. On the LDD side, of course, we had about a 10% [ph] price increase (00:26:51) in the third quarter of last year, as well as material cost savings as we introduced the reconfigured LDD, in part to take out some product.
+
+Lei Huang
+Analyst, Wells Fargo Securities LLC
+Great. Thank you so much.
+
+Operator
+Thank you. Next question comes from the line of Craig Bijou with Bank of America. Thank you. Please go ahead.
+
+Craig William Bijou
+Analyst, BofA Securities, Inc.
+Good afternoon. Thanks for taking the questions. I guess, I want to start on utilization and maybe utilization by practice. I know you get this question a lot and you have over the last couple of years, but maybe if you can just kind of walk through some of the trends as utilization, as you – as the practices grow, what you see in the trends in utilization and maybe if you've seen any of that change over the last few quarters.
+
+Shelley B. Thunen
+Assistant Secretary & Chief Financial Officer, RxSight, Inc.
+At a macro basis, we have not and of course, I've talked about it before. What we've seen is that the classes by year of install, 2021 and before, 2022 and then 2023, which you're now probably "installed and up," is that they all end up at the same place in terms of volume. In the third quarter, we had seasonality and the seasonality was the same across the three classes. So, there wasn't kind of an anomaly standing out. This was global across our practices as well.
+
+In terms of individual growth and practices as well, we do have about 150 people in the field. Most of them are clinical applications people, but they're also very important to adoption along with our LAL sales account managers as well. And that's their job from the LAL account manager perspective. One, to get the practice going and ensuring that their doctors and the staff are trained adequately with our clinical applications people. But they also go back along with clinical folks and that's what they want to do is be able to look at each customer. And so our clinical and our sales people have goals that they set each quarter in terms of accounts that they want to move forward that they think has – have more potential to grow.
+
+And as I've said, what we do see is the newer accounts, right? Those adopted in 2023 and now the beginning of 2024, tend to get to the same place, not the same apex as the rest of the accounts, but get to the same place a bit quicker as well. Would you add anything to that, Ron?
+
+Ronald M. Kurtz
+President, Chief Executive Officer & Director, RxSight, Inc.
+No. I mean, we've again, we've spoken before about the different ways that the teams build adoption. Obviously, the clinical outcomes are the primary methodology, but they're always looking for ways to help practices be more efficient, to grow utilization within the practice by making other doctors that may be doing cataract surgery but may not have been the initial group that adopted the LAL aware of those clinical results that they can offer it to their patients. And that's just a day-by-day, practice-by-practice effort that is going on across the country.
+
+Shelley B. Thunen
+Assistant Secretary & Chief Financial Officer, RxSight, Inc.
+I wanted to add one more thing to what Ron says. Ron also says R&D is the driver of revenue, as we introduced continuous improvement to the product as well as new things just like the lower diopter range that we just got approval for. Each of those give our account managers, salespeople an opportunity to go into the practice, educate them and give them an opportunity to learn more about the product. And so, it gives our point of call a reason not just to go buy and make ourselves known. And that's where we focus our calls as well is helping practices become more efficient.
+
+Ronald M. Kurtz
+President, Chief Executive Officer & Director, RxSight, Inc.
+Yeah, absolutely. And we have obviously the opportunity to do that in the fourth quarter with our lower power diopter lenses. And that will appeal to the group of surgeons who may or may not have already adopted the LAL. And that's going to give them the exposure to the technology that hopefully spreads to other patients as well.
+
+Shelley B. Thunen
+Assistant Secretary & Chief Financial Officer, RxSight, Inc.
+Yeah. And I keep on saying 150 people in the field since last time we had a call, it's about 165. We're continuing to add people into the field since [indiscernible] (00:32:06).
+
+Craig William Bijou
+Analyst, BofA Securities, Inc.
+Got it. That's very helpful. And if I can ask about Q4 and the implied guidance or the $40 million that you talked about, Shelley, it's a little bit lower on a sequential basis than what you've done in the past. So, I guess a couple of things with that. How should we think about the impact LALs versus LDDs, if there's a way to think about the mix of the revenue in Q4? And then are you baking in some impact from the hurricanes that might have kind of bled into Q4?
+
+Shelley B. Thunen
+Assistant Secretary & Chief Financial Officer, RxSight, Inc.
+Those are both good questions. I think that when we think about guidance, of course, obviously when you look at it sequentially, we continue to grow. So, it's just natural that period over period while we're implying about $5 million of 14% growth between the third and fourth quarter, that's a function of larger numbers. When we think about mix in the fourth quarter, as you know, we don't give specific guidance. But typically, the fourth quarter is very strong on procedures and also strong on capital. It typically is our strongest quarter and obviously we've guided it to be our strongest quarter. And I think that, hopefully, that in the end of the third quarter, of course, people had no time to recover and get back to their practices and of course then they were hit right again in – at the beginning of the fourth quarter. But our employees are all safe, our customers are safe. So, what we're hoping is, is that people get comfortable and come back in the fourth quarter. There's more time for that than there was in the third quarter when the hurricane happened right at the end of the quarter.
+
+Oliver Moravcevic
+Vice President-Investor Relations, RxSight, Inc.
+All right. Can we move on to the next question, please?
+
+Operator
+Yes, thank you. Your next question comes from the line of Young Li with Jefferies. Thank you. Please go ahead.
+
+Young Li
+Analyst, Jefferies LLC
+Hi. Great. Thanks for taking our questions. I guess to start, wanted to hear a little bit more about the global expansion color. We'll hear more in the coming months, I'm sure. But maybe if you can level set us on when we can potentially see some OUS approvals and which are some of the more important countries to focus on?
+
+Ronald M. Kurtz
+President, Chief Executive Officer & Director, RxSight, Inc.
+Yeah. Thank you for the question. As we've outlined before, the premium IOL market is about 80% OUS. And that's concentrated in about 20 individual markets. And they're the ones that you would expect in major countries in Europe and major countries in Asia. We've started our regulatory process in all, in both Asia and Europe. And we anticipate updating folks as we get approvals in each of those markets really in the next several months.
+
+Young Li
+Analyst, Jefferies LLC
+Okay, great. Very helpful. I think early in the year at the ASCO conference, you guys had a panel and there were some key representation there. I wanted to ask a little bit about how are sort of the PE-owned practices doing versus sort of the more mom-and-pop shops? Are there any noticeable differences in the way they run their business or utilization rates or growth trend?
+
+Ronald M. Kurtz
+President, Chief Executive Officer & Director, RxSight, Inc.
+Well, obviously, there's a lot of variability both in standalone practices as well as in PE managed practices. And so, it's hard to generalize about both. But – and I would say that most PE-run practices are still run at that individual site level where the doctors at the practice are making the clinical decisions. And so, our efforts are still very much focused at the office level, the physician level and the staff level at those offices. And really, that's the first step in any of the sales process, whether it's a standalone practice or part of a larger PE group is demonstrating the value or during conversations with the individual physicians in that office.
+
+Of course, the process deviates a little bit once you get to that, once you get past that, because now, the decision making is a little bit more complex for a large, larger practice or PE practice. However, there's also some benefits to that because the practice, those practices increasingly already have successfully installed LDDs and LAL utilization within their system. And so, they can recognize that it's delivering, the RxSight system is delivering additional patient pay revenue, high-margin revenue, and therefore it's in their interest and really, it's one of the few ways that they can expand their margins into other – their other practices, which are generally very well and efficient run practices. And so, the best way to do that is through increasing premium IOL utilization. And of course, we think the best way to do that is by adopting the Light Adjustable Lens.
+
+Young Li
+Analyst, Jefferies LLC
+All right. Thank you very much.
+
+Operator
+Thank you. Next question comes from the line of Thomas Stephan with Stifel. Thank you. Please go ahead.
+
+Thomas M. Stephan
+Analyst, Stifel, Nicolaus & Co., Inc.
+Great. Hey, guys. Thanks for taking the questions. Wanted to start with LAL trends, and I think guidance may imply 4Q utilization growth and maybe the high single-digit range, maybe upwards of 10%, somewhere around there. And that's down from high teens to low 20s over the last number of quarters on a year-over-year basis. So, Ron or Shelley, can you talk about, I guess a bit why there would be kind of this much of a deceleration in the fourth quarter and some of the factors that maybe at play?
+
+Shelley B. Thunen
+Assistant Secretary & Chief Financial Officer, RxSight, Inc.
+So, I want to understand a little bit better your question about deceleration. You're talking about the LALs, right, in just terms of absolute numbers and why perhaps we weren't growing as quickly as implied in the fourth quarter coming up versus say fourth quarter a year ago. Is that what you're asking? I want to make sure I understand.
+
+Thomas M. Stephan
+Analyst, Stifel, Nicolaus & Co., Inc.
+Yeah, basically, when I'm tying up my numbers, hopefully I'm not too far off here. I'm arriving at utilization growth on a year-over-year percent basis of 8%. But over the past four or five quarters, it's been in the high teens to low 20s on a year-over-year basis percentage-wise. So, I guess I'm asking, why there would be a 4Q 2024 deceleration. Sorry if I wasn't clear.
+
+Shelley B. Thunen
+Assistant Secretary & Chief Financial Officer, RxSight, Inc.
+Yeah, I don't think I've gotten specific enough in the guidance, but pretty specific at almost approximately $40 million. It depends on the mix in your model as well. But over time, whether it's in this fourth quarter or as we go into future years, our goal obviously is number one to grow the number of LALs in each practice and continue to penetrate them and that translates to over the long run and the short run higher utilization of LALs per LDD. And I think the implication is like all large numbers, the larger your base number is, the larger the denominator is. You're not going to get the same level of growth such as 2021 to 2022 and things like that. So, I think it's more that than anything else. But we've seen really nice acceleration overall in the number of LALs per LDD. And of course, we always say that that's not how we run the business, but certainly it's a very valid measure.
+
+Thomas M. Stephan
+Analyst, Stifel, Nicolaus & Co., Inc.
+Got it. Okay. That makes sense. Thanks, Shelley. And then my follow-up more related to share, I guess, as we think about long-term continued share gains for LAL in the US, you might be at 10%-ish of premium today, we think long term to maybe 20%, 30% even higher if standard of care is achieved. In the per doctor share would [ph] assumedly (00:42:12) have to be a bit higher.
+
+So, I'd be curious if you could, I guess, just elaborate a bit on the call it longer-term trained surgeons, where share may be stalling a bit. I assume there may be some out there. Can you just talk about with those doctors, some of the main limiting factors or hurdles, and then importantly, how the company and your field reps are working toward removing these ceilings or barriers for those customers where share maybe stalling at lower levels. Thanks for taking the questions.
+
+Ronald M. Kurtz
+President, Chief Executive Officer & Director, RxSight, Inc.
+Yeah, maybe I'll take that one first. I think that again, there's a lot of varied practices out there. And so, generally what we see, though, is that utilization has grown over time and it continues to grow. So, I think that overall, the – directionally, the numbers are going in the right direction. We always are looking at individual practices or our field teams are looking at individual practices and saying, well, gee, how can we make them grow faster? Whether they're already doing a lot of procedures or not and a lot of that will depend on who's doing the procedures in the office. Generally, offices have more than one doctor and generally one doctor, or perhaps a couple will be the first adopters of the technology within the practice. And then more will adopt it as the practice has figured out how to integrate the RxSight system. And they've started to see the clinical results in there and the rest of the team in the practice becomes more and more enthusiastic about the clinical results.
+
+So again, I wouldn't say that there's a common thread. I think that it's the day-to-day work of our teams to continue to grow within the practices. Sometimes practices can have variability in their own volumes. There's no one practice type. So, their overall cataract volumes or their share of premium can vary as well. But generally, we see those numbers going up.
+
+Shelley B. Thunen
+Assistant Secretary & Chief Financial Officer, RxSight, Inc.
+Yeah. I mean, you see it in our LAL numbers. But I would also say this, as we think about customers, we focus on new customers. And what you see in the focus on new customers as the – when I look internally at our data by cohort by year of install, the more recent installs get to the same place a little bit more quicker, right? And so, that's where we work with the practice with our knowledge and their knowledge and of course, the references we've gotten. And one of the easiest things we do with doctors is encourage them to do multiple patients in their first week, four or five patients because they bring them back for their light treatments at the same time. And this reinforces the training that they get, as well as the fact that they get to see the tremendous clinical results from the patient, not from [indiscernible] (00:45:52). And so, that's one of the things that we do with our new customers.
+
+But we're just as focused on our existing customers. And as Ron says, sometimes they can have turnover. But just as importantly as I mentioned earlier, we always have new things coming out for the practice and that gives us another reason, not just for maybe practices held up buying the LDD, but just as importantly for a practice that we know that they can help to improve volume gives us a chance to go back in. And when we do that, we're not just talking about what's new. We're asking them what are their barriers and what can we do to help? And so, I think that's what we do kind of day-to-day job.
+
+Ron, you want to add something?
+
+Ronald M. Kurtz
+President, Chief Executive Officer & Director, RxSight, Inc.
+Yeah. Just to echo on the importance of continued innovation, we obviously saw that this year with LAL+ adding that to the portfolio. Certainly, we are able to go back to existing customers who may be using the LAL in some patients. And now the LAL+ gives them an opportunity to expand their use of the technology. I think we'll see that again with the low diopter IOLs that are coming out this quarter. And this is going to be a continuing trend for many years to come. I believe we're still at the very early stage, not only of the commercial introduction of this technology, but also in the development cycle.
+
+Thomas M. Stephan
+Analyst, Stifel, Nicolaus & Co., Inc.
+Super helpful. Thanks, Ron. Thanks, Shelley.
+
+Shelley B. Thunen
+Assistant Secretary & Chief Financial Officer, RxSight, Inc.
+Thank you.
+
+Operator
+Thank you. And next question comes from the line of Steve Lichtman with Oppenheimer. Thank you. Please go ahead.
+
+Steven Lichtman
+Analyst, Oppenheimer & Co., Inc.
+Thank you. Hi, guys. Sorry, I've been jumping between calls, but I wanted to ask about the optometrist program. If you can sort of update us on learning so far and what opportunities you're seeing as you've really started to ramp that up?
+
+Ronald M. Kurtz
+President, Chief Executive Officer & Director, RxSight, Inc.
+Yeah. Thank you, Steve. So, just to kind of review, optometrists, there are about 50,000 optometrists in the US compared to about 10,000 cataract surgeons. And for much of the country, optometrists are the primary eyecare providers. So, as much as we can educate the general optometric community about the Light Adjustable Lens and the benefits thereof, that's going to help when those patients are referred into ophthalmic practices for surgery that they've already been provided some information, or at least when that patient comes back to their trusted optometrist, that, that person has some background in the technology, even if they themselves are not taking care of LAL patients.
+
+The other factors within ophthalmic practices and in their existing collaborations with optometrists, the optometrist actually plays a very important role in the LAL since it is based on – the treatments are based on a refraction, which is at the core skill set of optometry. They've utilized refraction throughout their careers, the nuances of refraction which are many. And they become a integral part of making sure that that patient gets the optimized visual outcome that they want and of course we want. And that knowledge base, there's – that has to be developed, that clinical expertise. And we're seeing that. We have now, optometrists who have literally cared for thousands of LAL patients. And they themselves have organized education programs that are open to the optometric community. They're giving talks at optometric meetings, some we sponsor, but some are just initiated by themselves. And that's again, another method for us to spread the word about the LAL, so that it may be an optometrist coming into an ophthalmic practice saying, I'd really like my patients to have access to this technology.
+
+Steven Lichtman
+Analyst, Oppenheimer & Co., Inc.
+Great. The other thing I wanted to ask about was what you're seeing in the field from your customers as far as how they're able to take share from practices perhaps in their region that don't offer LAL. The reason I ask that is, at least by my estimate, you're maybe in the neighborhood of 1,500 or so surgeon customers. You're at a point now where there's – those that don't have it, I'm sure, [ph] hear (00:51:18) about it. So, what are you seeing on that front relative to sort of marketing that your customers are doing and how that may be allowing them to take share. And that's, of course, opening the eyes of those that don't have it.
+
+Ronald M. Kurtz
+President, Chief Executive Officer & Director, RxSight, Inc.
+Well, certainly, we're acutely aware of practices in a particular region that do and don't have our technology and our sales team is targeting the ones that don't have the technology. And we think we benefit when there are more practices in a region that have, that are offering LAL because that means more patients are coming in to the practices [ph] that don't (00:52:06) have it and asking about it. So, I think that is part of the sales cycle is, as we increase the numbers of LDD systems that are out there. I'm not sure if that answered your question, Steve.
+
+Shelley B. Thunen
+Assistant Secretary & Chief Financial Officer, RxSight, Inc.
+Ron, I don't know if we've seen it yet, but I think Steve's kind of asking about do we have a halo effect yet? Remember, we saw that at like IntraLase, but in Lasik, people were advertising a lot, right, versus in cataract, that's not necessarily the case. It's more rare, right?
+
+Ronald M. Kurtz
+President, Chief Executive Officer & Director, RxSight, Inc.
+Yeah. The patients are getting referred. So, it's typically not the case that the external – that there's a lot of external advertising in cataract because it's – again unlike the Lasik model where patients are not normally coming in to the doctor's office who have glasses, they're seeing their optometrist, they're getting their contact lenses, and they have to be marketed to in order to bring them in for LASIK surgery. For cataract surgery, they're typically either being self-referred or referred by optometry or another ophthalmologist because they've had reduced vision from cataract. And then the marketing is going on internally.
+
+But there is – there – certainly, as patients in the community get more of them, have the LAL and get what we hope are outstanding results, then that leads to word of mouth where patients will self-refer to practices that have that technology.
+
+Steven Lichtman
+Analyst, Oppenheimer & Co., Inc.
+That's really helpful color and you obviously tied back into the optometry initiative. So, thanks so much. Appreciate it.
+
+Shelley B. Thunen
+Assistant Secretary & Chief Financial Officer, RxSight, Inc.
+Thank you.
+
+Operator
+Thank you. Next question comes from the line of David Saxon with Needham. Thank you. Please go ahead.
+
+David Saxon
+Analyst, Needham & Co. LLC
+Great. Good afternoon, Ron and Shelley, thanks for taking my question. I just have two, one on the customer based and then one on the international. So, my first question is just what you're seeing terms of number of active surgeons per LDD. And in general, how you think about kind of where the upper limit is on that metric?
+
+Shelley B. Thunen
+Assistant Secretary & Chief Financial Officer, RxSight, Inc.
+So, if I look at the numbers that I most recently got from sales and marketing and look at our numbers, I'm just going to take a quick look at that. I think that it's remained pretty constant. We remain somewhere, it used to be kind of 1.3. I think we're [indiscernible] (00:55:09) 1.5 or 1.6 right now physicians per LDD practice overall. And that – if you think about it, we're barely scratching the surface of those 10,000 cataract surgeons. And I think in certain markets the practices tend to be larger and that's a function of just the area as well as the population. I know Ron often talks about what's the difference between Dallas and Houston versus say New York City, right, where practices are smaller.
+
+Ronald M. Kurtz
+President, Chief Executive Officer & Director, RxSight, Inc.
+Yeah, generally the [ph] coastal (00:55:50) practices are smaller just because the density of ophthalmologists is higher. But again, I would just caution that we don't approach that metric just like the average LAL utilization metric is done. I understand importance from your perspective, but from our perspective, each practice is an individual practice. And there's just a lot of variability in the size of practices, who's doing cataract surgery, who's doing premium cataract surgery within the practice. And we just want to have as many LALs implanted as possible. It may be that for some practices, they're going to more – shunt more of those patients to a particular surgeon. But the other practices are going to spread it throughout the practice. And again, we work equally well with any of those models.
+
+David Saxon
+Analyst, Needham & Co. LLC
+Okay. Got it. Very clear. Thanks. And then on international, Ron, I mean, it sounds like you might get some approvals shortly. I think you said maybe a few months, but once you do get those approvals, how should we think about the cadence in terms of investing to build the commercial team and then going out and selling and actually generating revenue? And then I guess also on that topic, are there – how should we think about the channels? Are you going through distributors or you have a direct sales force? Thanks so much for taking the questions.
+
+Ronald M. Kurtz
+President, Chief Executive Officer & Director, RxSight, Inc.
+Thank you. So again, it's going to be market dependent. As you know, in Canada, we've involved a distributor, somebody that we've worked with previously. And that's worked out well. But over time, we will make that decision market by market. In terms of the cadence, what we're going to focus on, obviously, regulatory approval is a critical factor. Right after that is the same factors that helped us develop the market in the US which is establishing strong partnerships with individual physician practices in country so that they can both be reference sites in the country, but also help us refine the specific process, marketing, et cetera materials that work best in that region or country. And we expect that we're going to be able to leverage a lot of what we've developed in the US over the past four years. But there will be individual market differences and we'll certainly learn as we start to roll out into these region.
+
+David Saxon
+Analyst, Needham & Co. LLC
+Great. Thanks so much.
+
+Operator
+Thank you. There are no questions. I will now turn the call back over to Ron Kurtz for closing remarks.
+
+Ronald M. Kurtz
+President, Chief Executive Officer & Director, RxSight, Inc.
+Well, thank you. To summarize our report today, RxSight's robust LDD placements and sustained growth in LAL sales in Q3 are a testament to the power of adjustability and the significant value it provides to both patients and doctors. Based on our Q3 results, the positive signals from the AAO meeting and a traditionally strong Q4, we believe we are well-positioned to successfully finish out 2024 and to build on our momentum globally in 2025.
+
+Thank you all for your interest in RxSight. We look forward to updating you on our progress in future quarters.

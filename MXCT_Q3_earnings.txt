@@ -1,0 +1,301 @@
+Good afternoon, everyone. My name is Scott Feinberg and I'm responsible for Investor Relations here at MaxCyte. Thank you for participating in today's conference call. Joining me on the call from MaxCyte, we have Maher Masoud, President and Chief Executive Officer; and Doug Swirsky, Chief Financial Officer.
+
+Earlier today, MaxCyte released financial results for third quarter ended September 30, 2024. A copy of the press release is available on the company's website.
+
+Before we begin, I need to read the following statement. Statements or comments made during this call may be forward-looking statements within the meaning of federal securities laws. Any statements contained in this call that relate to expectations or predictions of future events, results or performance are forward-looking statements. Actual results may differ materially from those expressed or implied in any forward-looking statements due to a variety of factors, which are discussed in detail in our SEC filings. Except as required by applicable law, the company has no obligation to publicly update any forward-looking statements, whether because of new information, future events or otherwise.
+
+And with that, I will turn over the call to Maher.
+
+Maher Masoud
+President, Chief Executive Officer & Director, MaxCyte, Inc.
+Thank you, Scott. Good afternoon, everyone. And thank you for joining MaxCyte's third quarter 2024 earnings call. MaxCyte reported $8.2 million of total revenue in the third quarter, primarily comprised of core revenue which exceeded our internal expectations. We were pleased with the execution of our team and continued demand for our ExPERT platform, which has been further demonstrated by the six new Strategic Platform Licenses that we signed this year, including one signed in the third quarter. A new record number of SPLs signed in a single year of the company. We have increased our expectations for core revenue growth in 2024 due to our confidence in underlying business trends we've seen over the last three quarters. The core business for MaxCyte in the third quarter, performed very well, particularly in cell therapy. Our instrument installed base grew 739 as of September 30 and the instrument revenue was $1.8 million as our sales team executed well against our pipeline, our opportunities in the third quarter. Though our instrument revenue continue to be impacted by continued customer caution on capital equipment spending, we were pleased with our stable instrument results and a return to year-over-year growth in the quarter. PA revenue was very strong and $3.4 million in the quarter growing 54% year-over-year and up sequentially, driven by broad-based customer demand. Our PA revenue is dependent upon our customers' research activity, progress of clinical programs and commercial activities. To strengthen PA growth sequentially year-over-year was encouraging to see.
+
+The funding environment remains largely unchanged from last quarter at a stable state. Though, we have continued to see some green shoots, customers overall in cell and gene therapy are operating with a somewhat cautious mindset, particularly, when it comes to capital equipment spending. However, through this third quarter, we are very encouraged by stability and growth in our core business, which underscores our consistent execution throughout the year. Overall cell and gene therapy market trends continue to bode well for MaxCyte's platform. We continue to see growth in activity in non-viral cell therapies and cell therapy developers moving towards more complex therapies that require multiple [ph] engineering (00:03:55) steps. Furthermore, our scientific expertise in this space allows us to support customers utilizing Electroporation with other transfection modalities such as with viral transduction, as evidenced by some of our SPL partners, such as Be Biopharma and Kamau Therapeutics. We remain extremely optimistic about the future of cell and gene therapy and maximize long-term opportunities.
+
+Turning to our SPLs, we remain encouraged by customers continued progression through the clinic during the quarter and optimistic about our future and impact for patients. Our SPL pipeline continues to be robust and we've executed well on the opportunities in our pipeline this year, resulting in six new SPLs signed in 2024 thus far, including most recently signed, Kamau Therapeutics in September. We have reached a new record number of SPLs signed in a year, which we believe is a true testament to the differentiation of our Electroporation platform, the execution of our global teams and a sizable opportunity in cell and gene therapy that continues to strengthen.
+
+Our most recently signed SPL, Kamau Therapeutics is a clinical stage stem cell therapy gene correction company, utilizing targeted gene integration to develop cell therapies that can potentially cure a variety of life threatening diseases, including sickle cell disease. We are excited that MaxCyte's Flow Electroporation technology has the potential to enable them to optimize their clinical manufacturing process and progress their lead assets through the clinic. The addition of Kamau Therapeutics brings our total number of signed SPLs to 29. We continue to pride ourselves on our ability to maintain long lasting relationships with our customers and provide them with the regulatory, scientific and technical support required for them to succeed.
+
+In the quarter, where we see the small amount of SPL Program-related revenue from commercial royalty revenue related to CASGEVY, following completion of patient dosing. We are excited about the strong commercial opportunity of Vertex's FDA approved CASGEVY, as we are seeing that Vertex is just beginning to recognize revenue. During their Q3 earnings call on Monday, Vertex reported that the first patient was officially dosed in Q3 and around 40 patients completed cell collection, up from approximately 20 as noted on their Q2 call. Vertex indicated the CASGEVY has been enthusiastically received by patients, physicians, and policymakers, and the launch is gathering momentum across all regions. However, as we have previously mentioned, we have limited visibility on the timing of the patient treatment journey. As such, we are continuing to exclude CASGEVY-related commercial milestone revenue from our 2024 revenue guidance. We plan to provide you with updates as they come from Vertex.
+
+We remain very optimistic of the potential of CASGEVY to benefit patients as the first and only approved CRISPR gene editing therapy. Just as we remain excited about the multiple therapies being developed by our other customers, which could be approved as early as 2026 or 2027, all of which will provide us commercial milestone revenue, if approved.
+
+For the remainder of 2024. We plan to continue to invest in areas of high growth, which include sales and marketing, best-in-class customer support and product development. As part of the strengthening of our commercial infrastructure, we are pleased to have announced the promotion of Ali Soleymannezhad, former Executive Vice President of Bioprocessing to Chief Commercial Officer in MaxCyte. Ali will lead our commercial operations to increase adoption of the ExPERT platforms, support our customers and expand the company's market in cell and therapy. We also continue to invest in complementary technologies for our customers and recently hired a Head of Engineering in Jeremy Kolenbrander, who has more than 25 years of cell and gene therapy product development experience to better understand our customers' workflow needs and improvements. MaxCyte remains very disciplined with spend. We carefully evaluate our portfolio of opportunities for investment and remain focused on allocating resources to high value projects that we believe will deliver long-term growth. This year we established disciplined processes across organizations. This was done for a few reasons. To allow us to have the capabilities to launch and commercialize products that customers need and to help us expand our customer base, all while maintaining our healthy cash balance sheet.
+
+With our healthy cash position compared to initial guidance, our updated revenue growth guidance and the impact our new Chief Commercial Officer and Head of Engineering are having on the organization, I am very confident, the best practices we have implemented will continue our growth into next year.
+
+Similar to the operational and management changes we implemented, recently, we announced the appointment of Cynthia Collins to MaxCyte's Board of Directors. I would like to take a moment to extend a warm welcome to Cynthia as we look forward to her support in our efforts to drive future growth. Cynthia has over 40 years of experience in the biotechnology industry, including her recent role as CEO of Editas Medicine, and prior role as CEO of Human Longevity. Her expertise and leadership in cell and gene therapy are unparalleled, and I'm excited to work with her to help cell therapy developers bring a new class of therapies to market over the coming years.
+
+In summary, we are pleased with our third quarter results and the strong progress that we have made so far this year. MaxCyte is well positioned to deliver on our increased 2024 financial projections and we are excited to continue to provide the best quality support to our customers.
+
+The differentiated support that MaxCyte brings to our customers is truly unparalleled from regulatory knowhow to scientific and technical support on programs. We believe that we are and will continue to remain the cell engineering platform of choice in the industry.
+
+Before I close and turn the call over to Doug, I want take a little time to explain MaxCyte's future growth, what we have implemented this year and my vision of our company's future. I joined MaxCyte over seven years ago, but we're still trying to figure out how to monetize our best-in-class, highly differentiated cell engineering platform for non-viral delivery. Over the last seven plus years, we became one of the only companies in the cell and gene therapy space with our enabling technology, which garners clinical and commercial recurring revenue and has signed 29 SPLs with significant future revenue potential.
+
+Since I took over as CEO to start the year, we have both our management team and our engineering and scientific expertise to underpin my vision to expand our sales funnel and increased number of products we sell and license through our therapeutic product development for research, clinical and commercial use. Our goal is to become the premier cell engineering company, providing therapeutic companies with multiple product offerings to drive development of the next-generation of therapies.
+
+The cell and gene therapy space is in the early stages of growth, whereby the landscape of medicine and treatment of patients will rely on cell and gene therapies. And I truly believe MaxCyte can leverage our top talent, and the infrastructure we built over the last few years to commercialize many more product offerings. With these changes, we've made significant progress towards our goals of launching new products in the foreseeable future while we continue to sustain our healthy cash balance sheet. I remain as confident today as the first I joined MaxCyte that we will continue to help drive the industry forward and be a leader with best-in-class product offerings.
+
+With that, I'll now turn the call over to Doug to discuss our financial results. Doug?
+
+Douglas J. Swirsky
+Chief Financial Officer, MaxCyte, Inc.
+Thank you, Maher. Total revenue in the third quarter of 2024 was $8.2 million, compared to $8 million in the third quarter of 2023, representing an increase of 2%. We reported core revenue of $8.1 million compared to $6.6 million in the comparable prior year quarter, representing an increase of 23%. This includes revenue from cell therapy customers of $6.5 million, which increased 39% year-over-year, and revenue from drug discovery customers of $1.6 million, which declined 14% year-over-year. Within core revenue, instrument revenue was $1.8 million compared to $1.7 million in the third quarter of 2023. Lease revenue was $2.5 million compared to $2.4 million in the third quarter 2023. And processing assembly or PA revenue was $3.4 million compared to $2.2 million in the comparable prior year quarter. As Maher mentioned, instrument revenue continues to be most impacted by the cautious capital spending environment [ph] of our (00:11:59) customers. At the same time lease revenue has remained stable, indicating strength in our revenue from clinical SPL partners.
+
+Gain revenue demonstrated strong growth in both year-over-year and sequential performance, which we were pleased to see. 53% of core revenue in the third quarter was contributed by SPL customers, demonstrating our continued balance of early stage to clinical stage customers. SPL Program-related revenue in the third quarter of 2024 was immaterial compared to $1.4 million of SPL Program-related revenue in the third quarter of 2023. As Maher mentioned, the SPL revenue recorded in the quarter was primarily from Vertex patient completion of CASGEVY infusion.
+
+Moving down the P&L, gross margin was 76% in the third quarter of 2024, compared to 90% in the third quarter of 2023. The decline in gross margins is primarily due to a one-time inventory write-off related to our decision to discontinue a product redesign initiative for our PAs. This initiative began about two years ago with the bulk of the design and engineering work done last year. Ultimately, the PA redesign efforts were deemed inadequate due to lower efficiency and viability compared with our current PAs. We've taken the appropriate steps, including changes to our leadership earlier this year, to ensure that similar design and procurement does not happen again moving forward. We recently hired a new Head of Engineering to spearhead our new product design and development efforts. As Maher mentioned, excluding inventory provisions and SPL Program-related revenue, non-GAAP adjusted gross margin was 85% in the third quarter compared to non-GAAP adjusted gross margin of 88% in the third quarter of 2023.
+
+Total operating expenses for the third quarter of 2024 was $20.3 million compared to $21.2 million in the third quarter of 2023. The decrease in operating expenses was driven by operational and process changes made this year, which Maher referenced. Going forward, the company continues to be disciplined, making moderate and targeted investments in high growth areas that offer long-term returns. We finished the third quarter with combined total cash and cash equivalents and investments of $196.6 million and no debt. We are increasing our expectations for year-end cash, equivalents and investments and now expect to end the year with $185 million.
+
+Continuing with our full year 2024 revenue guidance, we are increasing our core revenue guidance and reiterating our SPL Program-related revenue outlook. We are increasing our revenue expectations to be at least 5% growth compared to 2023. We also continue to expect SPL Program-related revenue of approximately $6 million in 2024, which represents no additional milestone payments this year. Our SPL Program-related revenue is difficult to predict and subject to the timing of partner development programs. As a reminder, our 2024 outlook also does not include royalty revenue from CASGEVY.
+
+To close, MaxCyte remains in a great position to execute on our 2024 outlook, with a continued focus on exercising disciplined spend to deliver long-term growth.
+
+Now, I'll turn the call back over to Maher.
+
+Maher Masoud
+President, Chief Executive Officer & Director, MaxCyte, Inc.
+Thank you, Doug. We are proud of our progress thus far in 2024 and looking forward to supporting our customers as they progress through the clinic. I would like to thank our MaxCyte team for a dedicated work to our company and customers each and every day.
+
+With that, I'll turn the call back over to the operator for the Q&A. Operator?
+
+Question And Answer Section
+Operator
+Thank you. [Operator Instructions] . Our first question comes from the line of Matt Larew with William Blair. Your line is open.
+
+Matt Larew
+Analyst, William Blair & Co. LLC
+Good afternoon. I wanted to focus on PAs in the quarter, obviously, about 50% year-over-year, up sequentially. You referenced that the funding environment, while improvement is not really impacting your numbers quite yet. What was your sort of assessment of what drove the strength to be on your expectations in the quarter? And how does both that outperformance as well as the continued funding environment shaped the way you're thinking about the fourth quarter versus the third quarter, and then, sort of into next year?
+
+Maher Masoud
+President, Chief Executive Officer & Director, MaxCyte, Inc.
+Thanks for the question, Matt. So, we've always thought about PA is a sort of leading instrument sales in terms of being able to see that there has been some recovery here. So we're very pleased to see the PAs have been strong really all year and so, we do think that there are some signs out there that the market is improving. I think that really is a lot of it. Clearly, you'll note there's a slight uptick versus on a year-over-year basis on how much of our total revenue – our core revenue was from SPL partners. So, certainly, the maturity of some programs is helping drive PA sales to some extent. But in terms of sort of driving our outlook for the year, we've raised guidance for 2024 to reflect the fact that we are doing better than we thought we would when we set guidance at the beginning of the year. We're not in a position to guide for 2025, obviously, right now. But, we're a month into the fourth quarter and we feel really good about the position we're in versus the revised expectations we just set.
+
+Matt Larew
+Analyst, William Blair & Co. LLC
+Okay and then just on the write down, you took related inventory and product development. You know, I think over the last couple of years, obviously, you've made nice progress as your partners have advanced kind of with the core business as well as SPL. But if we sort of look at VLx development, and then this development, I think, two things that maybe you would have like to see a different outcome. Just as – you've been a company with a good cash position ability to invest as you think about where to go for organic investment from here, really where the return is for you. What are the next paths you take to either improve the technology or broaden out some of the capabilities?
+
+Maher Masoud
+President, Chief Executive Officer & Director, MaxCyte, Inc.
+Great question, Matt. That's the reason why we hired Head of Engineering in Jeremy Kolenbrander, as I mentioned. Obviously, we're not giving guidance as to what those improvements are that we're bringing in, but we've built capabilities within the organization that will allow us to understand those high customer impact needs and build workflows around those needs and ensure that we're doing it in a very smart and efficient manner where we obviously are going to do what we believe has the highest impact for revenue for the company before we actually take on those initiatives.
+
+And as you mentioned, you talked about the one-time write-off in the VLx. The processes that we've built in this year and the addition to the management team as well and really removing inefficiencies across the organization help prevent us from having those type of one-time write-off and really work on those customer workflows that we believe has the highest revenue potential for the company for the foreseeable future.
+
+Matt Larew
+Analyst, William Blair & Co. LLC
+Okay, and one quick accounting clean up that in $24,000-ish of revenue related to CASGEVY. The level of granularity you're able to maybe just remind us how the rev rec worked here. Because I guess, I hadn't necessarily anticipated we'd see anything in the quarter.
+
+Douglas J. Swirsky
+Chief Financial Officer, MaxCyte, Inc.
+Thanks, Matt. I guess I'll take that one. We have – we didn't necessarily expected this quarter either, but obviously, they've dosed the patient. We didn't recognize the revenue associated with that. We have a process where we interface with our partners as our customers as well for all folks that reach that commercial stage where we've got downstream economic participation, we'll have a process in place to recognize revenue when it's been earned. In this case, I do want to emphasize about amount you see there is not just related to that one item. There are some legacy revenue in there related to amortization of a previous upfront associated with one of the clients. So, it's not all straight CASGEVY royalty income, but it clearly can represent the majority of it is related to that. They're just getting started. And again, we've got a process to make sure that we're getting data from our customer that allows us to appropriately recognize revenue and that's just getting started.
+
+Matt Larew
+Analyst, William Blair & Co. LLC
+Okay. Thanks very much.
+
+Douglas J. Swirsky
+Chief Financial Officer, MaxCyte, Inc.
+Thank you.
+
+Maher Masoud
+President, Chief Executive Officer & Director, MaxCyte, Inc.
+Thanks, Matt.
+
+Operator
+Please standby for our next question. Our next question comes from the line of Julie Simmonds with Panmure Liberum. Your line is open.
+
+Julie Simmonds
+Analyst, Panmure Liberum Ltd.
+Thank you. Congratulations on a beginning to see a turn in the process as far as cell therapy is concerned, it's nice to see. A quick question, as far as the deferred income is concerned. Historically that always used to be a fairly good guide as to sort of growth rates going forward. I was just wondering what that currently includes and whether we can still see it as a sort of leading indicator.
+
+Douglas J. Swirsky
+Chief Financial Officer, MaxCyte, Inc.
+So deferred income would be related to leases. And so, we take in that income, it gets amortized over the life of the lease. In general, lease revenue has been relatively stable. And so, in terms of, sort of the health of business, that's just one indicator. I don't think there's that much to read into where we sit on this versus previous quarters has been very stable. And yeah, I don't have much to add on that.
+
+Julie Simmonds
+Analyst, Panmure Liberum Ltd.
+Lovely. Thank you. And then, just as far as sort of the SPLs are concerned, clearly you've six this year, which is really good and can – a nice step up from previously. In terms of sort of remainder of this year, I'm not going to ask whether you're going to do another one or not, because that would be – If you do, you do it. If you don't, you don't, right? But would – should we be looking sort of in future years is to be on the three to five that you've historically guided to? Well, or do you see this as a sort of a one-off bumper year, as it were?
+
+Maher Masoud
+President, Chief Executive Officer & Director, MaxCyte, Inc.
+Yeah. Great question, Julie. Obviously, when we think of the three to five, we're comfortable with that. That's a sign of a very healthy company. It's a sign that we're still doing the best scientific support. We have the best platform, highly differentiated, so that three to five is what we're comfortable with for the foreseeable future. Obviously, we signed six this year, which is above that five, which is great. You know, a lot of that has to do with also the fact that we've built out these high valued relationships over the years of these companies that happen to be close to all going into the clinic around the same time or preparing to go into clinical around the same time. So that's how we signed six in a relatively short time period. But three to five is what I feel very comfortable that that shows that we're highly differentiated from the rest of the field. And that's why that three to five is a number we can stand by, for the foreseeable future, Julie.
+
+Julie Simmonds
+Analyst, Panmure Liberum Ltd.
+Excellent. Thank you. Just one quick accounting one. On CapEx. It has been a little bit lower this year. Is that just sort of your ongoing slightly more moderate approach to spending, and we should expect that to continue?
+
+Douglas J. Swirsky
+Chief Financial Officer, MaxCyte, Inc.
+Well, I think, in general, we've demonstrated, that we are focused on operating expenses, want to make sure that every dollar that we're putting to work that we believe is, is being used wisely. So we started the year with that cash expectation. We don't guide operating expenses, as you know, but we've been able to increase our estimated cash position at the end of the year after a combination of, unexpected payments we got earlier this year is $2 million, we talked about that in the previous call. And the balance of it really just reflects the disciplined spending environment under that we put in place here under new CEO.
+
+Julie Simmonds
+Analyst, Panmure Liberum Ltd.
+Lovely. Thank you very much.
+
+Maher Masoud
+President, Chief Executive Officer & Director, MaxCyte, Inc.
+Thank you, Julie.
+
+Operator
+Thank you. [Operator Instructions] . Our next question comes from the line of Jacob Johnson with Stephens. Your line is open.
+
+Jacob Johnson
+Analyst, Stephens, Inc.
+Hey. Good afternoon, everybody. Maher, at the end of your comments, pretty deliberately, you talk about leveraging your infrastructure to sell a number of products, to Matt's question. It sounds like some of this is going to be kind of internal efforts and organic. But should we think about inorganic and M&A as a way to do that as well? Or those comments designed to kind of suggest kind of more of a focus on developing more products in-house to bolt-on to the platform.
+
+Maher Masoud
+President, Chief Executive Officer & Director, MaxCyte, Inc.
+Yeah, I think, it's a combination of both, but obviously, the sense of – We have – So, the development of the internal programs themselves are part of our current cost basis. What we did Jacob throughout the year, we removed inefficiencies throughout the organization to make sure that we can begin to work on those organic initiatives that we believe will have a high value impact for our current customers and future customers.
+
+And then, we also have a very healthy corporate development group. Obviously, the way we think about those other product developments is it needs to be part of our current structure of the company. We have high gross margins. We always want to make sure that's the case. We have a very healthy cash balance sheet. We're always going to make sure that's the case. So, whenever we're looking at a product development whether it's organic or inorganic, it's going to be into ensuring that we are increasing our healthy cash balance sheet and really bring us to a position where we're doing better in the future than we are now. So it's a combination of both, Jacob.
+
+And really, we've built out the team here internally to have that product development capability and have the ability to assess technologies that come and, that can be potentially become part of the MaxCyte DNA as well. So, a combination of both, Jacob.
+
+Jacob Johnson
+Analyst, Stephens, Inc.
+Got it. Thanks, Maher. And then, Doug, you guys raised guidance and no good deed goes unpunished. So, 5% plus core growth for the year. Obviously, that's a bit of a wide range with the plus on it. So, at 5%, that would suggest revenues would be down sequentially. Can you just – if that plays out, why would that be or any other thoughts about how we should be thinking about the fourth quarter?
+
+Douglas J. Swirsky
+Chief Financial Officer, MaxCyte, Inc.
+So, when we raised guidance, one of things we want to do is make sure that I think, we were – this is my seventh earnings call I think with the company and the first year weren't that fun because we did, bought back guidance. I think this year we took a very disciplined and very, very clear approach to setting this. We want to make sure that when we model out all the scenarios that we were going to certainly meet and potentially exceed what we laid out for ourselves. In this case, we had been reluctant, even though we've had a really good year, it has been consistently good quarter after quarter [ph] for margin (00:27:35). We've been pleased and I think, we beat expectations in many cases. But this is an area where we did the modeling internally. We come up with something that says, with a very high confidence interval, we feel good about raising guidance to this amount. We also are mindful that, we don't want to put like, bizarre numbers in there that provide a range that doesn't make sense. We know that we're – we feel very comfortable based on where we are today that we'll be north of 5%. I understand that that math would imply to be at that low end of the range would imply maybe we didn't have the strongest quarters as others, but we feel really good about how things are coming together. We're only one month into Q4, so I think stay tuned.
+
+We just want to establish basically, a bottom parameter that we felt comfortable that we were going to meet. And we've could have – we can only pick it apart. I get what you're saying, no good deed goes unpunished. We could always decide whether or not, we set it precisely at the right amount. But again, the view here is we model out everything that could happen, the remaining time left in the year and then, come up with a scenario where we feel within certain confidence that it's time to raise guidance and to come up with that what that number is.
+
+Jacob Johnson
+Analyst, Stephens, Inc.
+Got it. I'll leave it there. Thanks for taking the questions, guys.
+
+Douglas J. Swirsky
+Chief Financial Officer, MaxCyte, Inc.
+Thank you.
+
+Maher Masoud
+President, Chief Executive Officer & Director, MaxCyte, Inc.
+Thanks, Jacob.
+
+Operator
+Please stand by for our next question. Our next question comes from the line of Paul Cuddon with Deutsche Numis. Your line is open.
+
+Paul Cuddon
+Analyst, Deutsche Numis
+Thank you very much. I've got two questions, please. Firstly, just any learnings from the kind of commercial launch of CASGEVY, just on the instrument, how it's working in the field and on commercial basis and any processes that could be improved.
+
+And then secondly, with some customers moving towards sort of in vivo gene editing, I'm wondering if you could just perhaps reflect on some recent data from any other customers on ex vivo gene editing and where you see the advantages there that will use your technology more in the future? Thank you.
+
+Maher Masoud
+President, Chief Executive Officer & Director, MaxCyte, Inc.
+Yeah. Great questions, Paul. So let me address the first one. On the commercial launch for CASGEVY and what we did. We took the last few years before the launch to really prepare for it. So we wanted to ensure that we were supporting them from regulatory quality and then also instrumentation perspective to ensure that there were no mishaps. And obviously, that launch has gone impeccable so far, I believe where it's actually been announced that they are now manufacturing at another manufacturing site, which we will support as well obviously.
+
+So in terms of improvements, to be honest with you I'm not sure there are any many more improvements. I mean, we've had no mishaps on the launch. Fully supporting there to ensure that, our – not just our instrumentation itself, but also the processing assemblies are produced in that factory and can meet the ramp up of any adoption curve for any therapeutic being manufactured on our therapy.
+
+And then, your second question in terms of the ex vivo and in vivo, if you look at the complexity of what we're seeing in terms of cell and gene therapies, how many edits are happening to cells. You're seeing the need for ex vivo editing even when there is in vivo delivery. If you look at, even when we talked about and we talked about Kamau Therapeutics as well, you have a case where using CRISPR RMP to knock out the DNA of interest using our electroporation system and then using AAV6 to knock down the DNA of interest.
+
+So you're seeing complementary technology, but not necessarily actually more in vivo. The complexity of engineering, the multiple engineering steps are letting themselves more and more to ex vivo editing as well. And that's where we really have that high differentiated support that we provide over 20 plus years of scientific expertise that we developed that really is proprietary to MaxCyte. No one else has the expertise. And that's why we feel the more the field gets more complex and that growth in the cell gene therapy space that we've talked about as it continues to grow. We're positioned perfectly to take advantage of it and really be the premier in electroporation and cell engineering company for therapy developers. [indiscernible]
+
+Paul Cuddon
+Analyst, Deutsche Numis
+(00:31:41). Thank you very much.
+
+Maher Masoud
+President, Chief Executive Officer & Director, MaxCyte, Inc.
+Absolutely. Thank you, Paul.
+
+Operator
+Please stand by for our next question. Our next question comes from the line of Dan Arias with Stifel, Nicolaus and Company. Your line is open.
+
+All right. This is [ph] Rohan Walcott (00:31:59) on for Dan. Thanks for the time. I've got two questions, so bear with me here. On the SPL side, how should we be thinking about the duration period, it takes to sign an SPL agreement for small, mid and larger sized companies? Because smaller companies typically take a bit longer than the mid to large under the assumption that cash might not be as plentiful to spend, it might take longer to sign up a large player due to the more bureaucratic nature of a bigger company.
+
+And then, secondly, how was the beta customer feedback then so far this year for the VLx platform? Hoping for more color there. Thanks.
+
+Maher Masoud
+President, Chief Executive Officer & Director, MaxCyte, Inc.
+Yeah. Let me address that first one and second as well. So, on the first question, really small, medium and large, it's not so much whether it's – there's not much of a difference. It really comes down to showcasing the scientific support that we provide from early research through process development. And then, when they're ready to entry into the clinic or about to do clinical development work, that's when they're going to negotiate that license with us and enter into a license for that future support. So, regardless of the size of the company, you're looking at anywhere from five months to even 18 months of that true partnership early on, whether it's a small, medium or large sized company. And obviously, this field is a very highly scientific field. So, whether you're a large company or medium size or small size, having that scientific partnership early on is the key for why we're developing these relationships. So, it's not really tied to the size of the company.
+
+And then, to your second question on the VLx in terms of early adopters. Obviously, as we mentioned, we're still working with early adopters. We are not commenting there other than we'll continue to learn from these early adopters that have purchased our VLx, learn how big the field is, learn how we can better support the VLx. But I won't really comment much more on that other than the fact that we're doing it in a very methodical way learning from our early adopters before we can assess further how best we can capture in any future VLx revenue.
+
+All right. Thank you, guys.
+
+Operator
+Thank you. Please stand by for our next question. Our next question comes from the line of [ph] Tullyce Corman (00:34:10) with Craig-Hallum. Your line is open.
+
+Matthew Gregory Hewitt
+Analyst, Craig-Hallum Capital Group LLC
+Yeah. Hi, this is actually Matt. Can you guys hear me?
+
+Maher Masoud
+President, Chief Executive Officer & Director, MaxCyte, Inc.
+We can hear you, Matt.
+
+Douglas J. Swirsky
+Chief Financial Officer, MaxCyte, Inc.
+Hey, Matt.
+
+Matthew Gregory Hewitt
+Analyst, Craig-Hallum Capital Group LLC
+Oh, hey, guys. So I just want to dig in a little bit more on the SPL side. I think, you've previously talked that it's 12 months to 18 months kind of on average, where from the beginning of the conversations to when you actually sign these contracts. I think, you look at the timing of even this most recent one, it would actually predate possibly the CASGEVY approval last year when you first started talking to them. So, I guess, the question is, with the approval, I would expect that you would see increased interest in the platform. And if so, you would think that those conversations that likely started in Q1 and Q2, maybe even here in Q3, you're looking at potentially signing additional SPLs for next year. And I realize, you're comfortable with the three to five, I'm just kind of thinking through this so that there's a good chance that you could actually see more than that next year, just given the excitement that's built because of that first approval. Am I thinking about that right?
+
+Maher Masoud
+President, Chief Executive Officer & Director, MaxCyte, Inc.
+So, good question, Matt. I mean, that's tough to answer in terms of just based on the [ph] yields with (00:35:36) CASGEVY would be more. You still have to do what we do to sign these SPLs, right? To show that scientific support that really no other company can provide. So, yes, as I mentioned, we have a healthier pipeline now than we did 12 months ago. But that doesn't just translate into people just signing a license with you. You start to show that scientific support, show a higher level of efficiency of editing, show higher level of viability post electroporation.
+
+That's still something that does take somewhat of time, which is that 12 to 18 months, sometimes it is faster. So you are right, we are seeing that increased speed a bit, but I think, it's too early, we're yet to comment whether more than three to five would be the case just based on the approval of CASGEVY, Matt.
+
+Matthew Gregory Hewitt
+Analyst, Craig-Hallum Capital Group LLC
+Understood. All right. Thank you. And then, maybe just a modeling question. I realize, the write down impacted gross margins here in the third quarter, but your expectation is that those will bounce back to, kind of a normalized, mid-upper-80s here in Q4? Or is there is, some further write down that will occur or hit in the fourth quarter? Thank you.
+
+Douglas J. Swirsky
+Chief Financial Officer, MaxCyte, Inc.
+Yeah. Thanks. You know, we're providing this non-GAAP measure here just basically. Part of it is just to make sure that people understand where the inventory provisions fit in here, but also where, we recognize every quarter people are backing out the SPL Program-related revenue, which comes in without any additional cost to us.
+
+And basically calculating this as it is. So, if you do that, we're mid-80s, it was a little higher last year. I think, as we talked about previously. Last year, there was a lot of manufacturing going on since we brought this facility back online. It also took a little while for us to, really get a sense for where the market was. And so, there was more production last year and then ultimately was probably required and that's impacted margins. But if you look at this and you strip out some of the noise here, I think, we're comfortable, we're able to operate the business with very good margins, not guiding to where they go from here. But we were in the mid-80s when you factor, when you make these adjustments and we think that's a reasonable place to think about the business.
+
+Matthew Gregory Hewitt
+Analyst, Craig-Hallum Capital Group LLC
+Got it. All right. Thank you.
+
+Douglas J. Swirsky
+Chief Financial Officer, MaxCyte, Inc.
+Thank you.
+
+Operator
+Thank you. [Operator Instructions] Please stand by for our next question. Our next question comes from the line of Brendan Smith with TD Cowen. Your line is open.
+
+Chad Wiatrowski
+Analyst, TD Securities (USA) LLC
+Hey, guys, this is Chad Wiatrowski on for Brendan. Just in your discussions with prospective SPL customers. Are you seeing any trends in terms of cell type or disease area?
+
+Maher Masoud
+President, Chief Executive Officer & Director, MaxCyte, Inc.
+Interesting. So you are seeing a trend more so now than before in terms of autoimmune diseases. You're seeing many more companies either repurposing or really establishing, certain programs going after autoimmune diseases, which is perfectly lend itself to the cell therapy space. That is what we're seeing. And obviously, that's – that shows the sign of health of the cell gene therapy space that for the longest time the targets were in oncology space. But now, as you're seeing their ability to target many more therapies than initially thought, that's where you're seeing our autoimmune space really start to kind of transcend itself and become part of the cell and gene therapy space. And you're also seeing companies begin to have in a far more complex way of ensuring that the therapies have more persistence and durability as they are targeting the oncology space as well, right? So, that's one of the early learning in cell therapy spaces is that oftentimes, your cell therapy itself was liable to endure. And now you're seeing edits that are allowing that durability and that persistence. And that's what we're seeing more so than anything else.
+
+Chad Wiatrowski
+Analyst, TD Securities (USA) LLC
+And I appreciate the stickiness of the customer base and how that's sort of a competitive note. But when you're looking at other competitors, are you able to have customers switch when they're in the clinic? Or is that dynamic true for your competitors as well? Thanks for the questions.
+
+Maher Masoud
+President, Chief Executive Officer & Director, MaxCyte, Inc.
+Yeah, No, great question. Actually – so this year we have, we've converted two of our SPLs converts from previously in the clinic using a different electroporation platform that converted to MaxCyte. And there's a reason for that. When we have a highly differentiated platform that we truly do have the highest efficiency and the highest cell viability post electroporation. We truly do have the scientific support, the regulatory support, the quality support that can streamline the process development, whether, where you can – we can show companies how you can go from early research to clinical scale up in a very short time period, rather than have to optimize your process and take you nine, 12 or longer to have to optimize from research to the clinic.
+
+So that is what we're seeing. We're actually seeing the conversions. We saw two of them this year, which I think speaks, it's a testament to what we do to everything we've built and really to the strength of our scientific engineering expertise. We're not just a tools company. We are a cell engineering company that can help companies get into the clinic and really give them the best potential outcome for success.
+
+Chad Wiatrowski
+Analyst, TD Securities (USA) LLC
+Thanks.
+
+Maher Masoud
+President, Chief Executive Officer & Director, MaxCyte, Inc.
+Absolutely.
+
+Operator
+Thank you. Ladies and gentlemen, I'm showing no further questions in the queue. I will now like to turn the call back over to Maher Masoud for closing remarks.
+
+Maher Masoud
+President, Chief Executive Officer & Director, MaxCyte, Inc.
+Thank you, operator. And thank you, everyone, for joining us today. We look forward to speaking to you again in the next earnings calls in a few months. Thank you.
+
+Operator
+Ladies and gentlemen, this concludes today's conference call. Thank you for your participation. You may now disconnect.
+
+ 

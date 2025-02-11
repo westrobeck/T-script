@@ -1,0 +1,327 @@
+Thank you. Good afternoon, everyone. Let me start by pointing out that this conference call will include forward-looking statements within the meaning of applicable securities laws in the United States and Canada. All forward-looking statements are based on Profound's current beliefs, assumptions and expectations and relate to, among other things, any expressed or implied statements or guidance regarding current or future financial performance and position, including the company's year 2024 financial outlook and related assumptions, the expectations regarding the efficacy of Profound's technology in the treatment of prostate cancer, BPH, uterine fibroids, palliative pain and osteoid osteoma, and its future revenues and financial results.
+
+Such statements involve known and unknown risks, uncertainties, and other factors that may cause actual results, performance or achievements to be materially different from those implied by such statements. No forward-looking statement can be guaranteed. Listeners are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date of this conference call.
+
+Profound undertakes no obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future events, or otherwise, other than as required by law.
+
+Representing the company today are Dr. Arun Menawat, Profound's Chief Executive Officer; Rashed Dewan, the company's Chief Financial Officer; and Dr. Mathieu Burtnyk Profound's President.
+
+With that said, I'll now turn the call over to Rashed.
+
+Rashed Dewan
+Chief Financial Officer, Profound Medical Corp.
+Good afternoon, everyone, and welcome to our third quarter 2024 conference call. On behalf of the management team and everyone at Profound, I would like to thank you for your ongoing interest in our company. For those of you who are shareholders, we appreciate your continued interest and support.
+
+I will turn the call over to Mathieu in a moment to provide updates on TULSA utilization trends, the CAPTAIN clinical trial and reimbursement. However, before I do, I would like to provide a brief summary of our third quarter 2024 financial results. To streamline things, all of the numbers I will refer to have been rounded, so they are approximate.
+
+For the three-month period ended September 30, 2024, the company recorded revenue of $2.83 million, with $2.65 million from recurring revenue and $179,000 from one-time sales of capital equipment. Third quarter 2024 revenue increased 64% from $1.73 million from the same period in 2023. Looking forward for the full-year 2024, based on the company's current business planning and budgeting activities, we continue to anticipate revenue to be in the range of $11 million to $12 million.
+
+Gross margin in Q3 2024 was 64%, compared to 61% in Q3 2023. As we mentioned on previous calls, we expect gross margin to vary some quarter-over- quarter. But just as we delivered about 60% margin in full-year 2023, we continue to expect to deliver that or better in 2024.
+
+Total operating expenses in 2024 third quarter, which consists of R&D, G&A and sales and distribution expenses were $10.8 million, an increase of 42% compared with $7.6 million in the third quarter of 2023.
+
+Breaking that down further, expenditures for R&D increased 22% on a year-over-year basis to $4.2 million. G&A expenses increased by 84% to $3.7 million. And sales and distribution expenses increased by 34% to $2.9 million. Net finance expense for the 2024 third quarter was $199,000 compared to net finance income of $1 million for the same three-month period of 2023. Overall, the company recorded a third quarter 2024 net loss of $9.4 million or $0.38 per common share, compared to a net loss of $5.6 million or $0.26 per common share for the same three-month period in 2023. As of September 30, 2024, Profound had cash of $27.1 million.
+
+With that, I will now turn the call over to Mathieu.
+
+Mathieu Burtnyk
+Chief Operating Officer, Profound Medical Corp.
+Thank you, Rashed. In the third quarter, Profound held its PRO-TALK Live! event in Las Vegas, a peer-to-peer education platform for physicians by physicians. The event was sold out with 70 physicians in attendance to hear from opinion-leading surgeons from the top hospitals in the United States.
+
+The message was clear The TULSA procedure is uniquely positioned to become a mainstream treatment option for men with prostate disease, and the shift to an MRI-centric modern treatment pathway for prostate management is happening right now.
+
+Physicians described the TULSA-PRO as the only device that can safely deliver a whole-gland ablation for diffused disease and targeted ablation for discrete disease with its ability to treat any region of the prostate, whether posterior or interior at the apex, mid-gland or base, all within any size, volume, and shape of prostate.
+
+Physicians even detailed their streamlined workflow and how they use the precision of intraoperative MRI together with TULSA-AI Contouring Assistant to efficiently delineate the prostate and then apply [indiscernible] (00:08:07) dynamically during treatment to customize the dose delivered to specific areas of the prostate. And this is all with an inside-out energy source, which gently heats the prostate tissue to kill temperature without boiling or charring or disrupting surrounding tissue with no risk of bleeding and as a result, no overnight stay in the hospital or clinic.
+
+Multiple physician presentations highlighted the flexibility of the TULSA-PRO in both prostate cancer and BPH. Its applicability in broad patient groups was reviewed, for example, in intermediate-risk prostate cancer, regardless of tumor burden or prostate size, as well as for salvage treatment of recurrent prostate cancer. Presenters also discussed the advantages of the TULSA-PRO for more specific area of the prostate disease. Like patients with tumors near the prostate apex, who are likely to suffer from urinary incontinence using other modalities or patients with low-risk prostate cancer that refuse active surveillance or at a high likelihood of failing active surveillance, or those with concurrent symptomatic BPH requiring surgical intervention.
+
+One presentation dedicated to BPH described how TULSA has already proven effective prostate volume reduction within the TACT pivotal trial, and that European Phase II studies and personal user experience have solidified the clinical value for patients with large and extra-large prostate volumes, as well as those on anticoagulant therapy.
+
+The peer-to-peer educational event was fruitful, as we have already seen attending TULSA surgeons adopt some of the learnings to their practice. I will briefly summarize two example cases performed since the event. The first is a 60-year-old patient with a history of prior UroLift clips and eventual TURP procedure for relief of BPH symptoms. This patient was already on active surveillance and a recent diagnostic MRI revealed a significant prostate cancer in the right posterolateral apex. A near-whole-gland but highly customized TULSA treatment was planned for his 55 cc prostate. Taking into account the remaining UroLift clips. Post-treatment imaging demonstrated an effective, non-perfused volume to which the treating physician expects will alleviate both the entire cancerous tumor and the patient's BPH symptoms without impacting his vital functions.
+
+Except for TULSA, there is no other function-preserving viable treatment option for such patients. The second is a patient with a prostate volume of 283 cc, who was catheterized for six weeks due the acute urinary retention caused by severe BPH. He was treated to relieve his symptoms while setting a record of the largest prostate we have ever treated so far.
+
+In the third quarter, real-world usage of TULSA mirrored the customizability and clinical flexibility emphasized at the PRO-TALK Live! event. With respect to indications, approximately 64% were treated for primary prostate cancer. Increasing from the previous quarter, 28% were hybrid patients suffering from both cancer and BPH. The remaining 6% were salvaged treatments and 2% were men with BPH only.
+
+Commercial use of the TULSA procedure continues to grow. 82% of the patients treated at intermediate-risk prostate cancer and about 11% of the patients treated were deemed to be high-risk patients.
+
+The vast majority of TULSA treatments remain whole-gland, with 22% of the patients were treated utilizing a focal therapy protocol, ablating less than half of the prostate volume. One additional topic I would like to cover this afternoon relates to reimbursement for the TULSA procedure. Late last week, Friday, CMS published its set of final rules, including the new CPT Category 1 codes for TULSA, coming into effect on January 1, 2025.
+
+I won't rehash the details of the press release, but I did want to emphasize two points. First, CMS has elevated the TULSA facility payment to Urology APC Level 7, which is higher than any other prostate treatment procedure. In a hospital outpatient setting, the Medicare National Average Facility Payment will be $12,992, which is 25% higher than that for robotic radical prostatectomy, despite the requirement of an expensive robotic surgical suite and at least one overnight stay in the hospital, if not longer.
+
+In addition to the clinical value of the TULSA procedure compared to invasive surgery, we believe these reimbursement rates will motivate hospitals to shift some of their prostate cancer procedures away from the surgical suite, where physicians are often competing for block time, to their outpatient MRI suites, where they will be able to capture larger revenue with interventions rather than diagnostics only. The second point is that we believe an even larger impact will be seen in the ASC setting.
+
+Note that robotic prostatectomy is not on the CMS ASC covered procedure list. So, while a few ASCs may have the robot, they are only used to treat commercially covered patients while all Medicare patients are funneled to hospitals. With TULSA, the Medicare National Average ASC Facility Payment of $10,728 is not only higher than any other prostate procedure performed in an ASC, but is even higher than the hospital payment for robotic radical prostatectomy.
+
+Let me repeat that. An ASC will receive a higher facility payment for a TULSA procedure than a hospital will receive for robotic prostatectomy. With large urology group practices owning their own ASCs, this creates a favorable opportunity to offer incision-free, blood-free, outpatient prostate treatment, which is good for the patient, all within the confines and economics of an ASC, which is good for the physician and physician group.
+
+Even if surgeons may continue to operate with a robot in an ASC on their commercially covered patients, we anticipate a shift of their Medicare patients away from the hospital and into their ASCs. Additionally, when we consider that the MRI-centric modern treatment pathway for prostate management is becoming more established, together with two leading global medical technology companies, Siemens and Cook, commercializing interventional MRI solutions, we believe this will catalyze adoption of MRI and TULSA by urology across multiple locations of service, but specifically in their physician-owned ASCs.
+
+Finally, the CAPTAIN study is continuing to recruit at an increasing pace and remains on target with two sites joining the study in the third quarter, including the Cleveland Clinic. With strong facility and physician reimbursements coming into effect on January 1, and the CAPTAIN study starting to readout in the first half of next year, we believe TULSA will be well-positioned in 2025 to increase procedural adoption as well as the rate of new installations across all locations of service.
+
+I will now turn the call over to Arun.
+
+Arun S. Menawat
+Chairman & Chief Executive Officer, Profound Medical Corp.
+Thanks, Mathieu, and good afternoon, everyone. As you heard from Mathieu, the first major PRO-TALK Live! event was not only well-attended, but also highlighted the capabilities of the TULSA procedure to enable the urologist to perform a wide variety of whole gland or partial gland treatments. Of the 70 physician attendees, about 40 were prospective users.
+
+Following up with them after the conference, they have now been successfully added to a continuously growing pipeline for adoption of TULSA in various types of institutions in the United States. As you can tell, we're also delighted to see that CMS recognized the value proposition of the TULSA procedure and placed it in Urology APC Level 7. The codes will be applicable in the widest possible range of treatment settings, including hospitals and ASCs, imaging centers, and office settings, such as large urology practices.
+
+In comparison, radical prostatectomy reimbursement codes can only be used in hospitals. Some ASCs may have the robot, though they cannot bill Medicare in that setting. In addition, we believe that the economic model of the TULSA procedure will be superior to that of any other prostate disease management procedure.
+
+After the publication of the final rule on reimbursement and listening to TULSA urologists at the PRO-TALK Live! conference, we are now even more confident about driving the adoption of TULSA to mainstream. I would like to share with you a few strategies that we are planning to use to achieve that goal.
+
+First, our introduction of TULSA-AI modules have been well received. Thermal Boost is being used routinely in over 50% of TULSA cases, and the Automated Contouring Assistant has not only increased urologist confidence in treatment planning but also reduced the procedure time by several minutes to enable them to do an extra procedure in a day. We are now using the same base technology to develop a BPH TULSA-AI module that will allow for customized treatment that is comparable in terms of speed to other modalities like Aquablation. TULSA will thereby, will be the only technology that will enable urologists to effectively, safely, and efficiently treat the widest possible variety of prostate disease patients. We remain on track to complete product development of the module by this year-end and plan to soft launch the TULSA module for BPH in the second half of 2025.
+
+Second, we plan to continue to support the first level one trial in prostate cancer, CAPTAIN. And as we have discussed before, we expect that perioperative data from the trial is very likely to become available by AUA 2025. We plan to use the results of this trial to support additional acceptance for reimbursement by private insurance companies and seek the addition of the TULSA procedure as a treatment modality in Cancer Society Guidelines.
+
+Three, we're also pleased that Siemens and Cook Medical, presented at our PRO-TALK Live! conference. Going forward, we continue to expect to provide TULSA programs to urologists where MRI already exists. But we will add TULSA-PLUS programs, which stands for selling both TULSA and Siemens Interventional MR the Free.Max as a combined total prostate solution.
+
+Given the reimbursement ruling, the TULSA-PLUS solution not only has the potential to provide flexible access to the technology even in a doctor's office, but we believe will also provide a significant economic justification.
+
+It is our strategy to soft launch the TULSA-PLUS solution within the next nine months. Four, as we move from the patient pay business model to the reimbursement-based business model, we are also transitioning from a recurring revenue-only model that we deployed historically to a more traditional medical device business model, which will comprise of selling the device upfront as a capital sale, selling the disposables at a slightly lower price, and adding service agreements to the sales. We anticipate that the upfront capital ASP is likely to be in the range of $350,000, and the price of the disposable ASP will be in the range of $5,000 to $6,000. Net-net, this model will still deliver profound with high margin, greater than 70% business, while at the same time, it will be economically attractive to TULSA users.
+
+Finally, as you know, Tom Tamberrino has joined us now to manage the sales and marketing business. Tom is already recruiting to add to our team of sales professionals, but also bolstering the sales management organization to prepare for the growth that we anticipate later this year and next year. We also plan to continue to increase our patient education programs to further build awareness of the TULSA procedure among men.
+
+At the end of the day, it's all about the patients, and we already know from the feedback that we have received, when provided with information about their options, patients pick TULSA every time as their first treatment of choice. To summarize, we continue to believe TULSA has the potential to become a mainstream treatment modality across the entire prostate disease spectrum. Patients enrolled in the CAPTAIN Post Market Study comparing TULSA to radical prostatectomy is progressing as planned.
+
+We are delighted to be transitioning from the cash pay phase to the reimbursement phase, and we're building a world-class sales team to grow the business. Starting in January, TULSA will stand above all other covered prostate disease treatment modalities at urology level 7 reimbursement. And finally, I'm pleased that Tom Tamberrino has joined Profound to lead and build a world-class sales team.
+
+This ends our prepared remarks for today. With that, we are happy to take any questions you might have. Operator?
+
+Question And Answer Section
+Operator
+Thank you. At this time, we will be conducting the question-and-answer session. [Operator Instructions] Our first question comes from the line of Ben Haynor with Lake Street Capital Markets. Your line is now open.
+
+Ben Haynor
+Analyst, Lake Street Capital Markets LLC
+Good afternoon, gentlemen. Thanks for taking the questions. I apologize if I missed this or overlooked it. But just real quickly on the goal that you guys have of getting to 75 installs by year-end. Any update on that goal?
+
+Arun S. Menawat
+Chairman & Chief Executive Officer, Profound Medical Corp.
+Yeah. Good afternoon, Ben. Yes, Ben, we have reaffirmed the revenue guidance for the year on the basis that the pipeline is very strong. In the last quarter, we also began to transition from the cash pay model to the financial justification model or on the basis of reimbursement. So that did raise the question of waiting for the final rule publication at many of our sites. And now that the final rule is even better than the proposed rule, we actually don't see any issue with increasing the install base.
+
+However, because of the -- this sort of this gap in this time, I think getting to 75 is a little bit optimistic for the end of this year, but we will get there pretty soon after the year is over. So, I don't see any issue getting to the 75. I just think that this is a transition year for us. And so there is a little bit of, give and take that I sort of anticipated at the beginning of this year. And it's sort of playing out a little bit.
+
+But as I said in the prepared remarks, the pipeline is strong. The financial model is even stronger than we anticipated during the early phase or when the proposed rule came out. And I think many of these hospitals are very engaged with us.
+
+Ben Haynor
+Analyst, Lake Street Capital Markets LLC
+Okay. That's fair enough and that's helpful. And then just following up kind of on the pipeline, the PRO-TALK Live! event, obviously, that was quite the fabulous event.
+
+Just kind of following up on the with those folks after the event, what was kind of the response? And then to the extent that you've been able to talk to some of those same folks in the past handful of days following getting bumped up to APC 7. How has that changed things? And then I guess I'll leave it there. Maybe I have a follow-up.
+
+Arun S. Menawat
+Chairman & Chief Executive Officer, Profound Medical Corp.
+Sure. Yeah. Ben, I think that as you might expect, I think the reaction really was very strong from the conference because of the number of users who presented and the caliber of the users that presented. In fact, I personally had the chance to visit a couple of the people who came to the conference who were prospects. And were moving forward with installs in number of sites as a result of that.
+
+And I think the during that time, most of the conversation was related to financial justification at APC Level 6 and even that looked pretty good. But I think now that we're at 7, we have actually sent out the updated models to a number of sites already within a week. And I think the best I can tell you so far is certainly the reaction is positive. I would say the key thing is that many, many are ready to talk about the fact that this, as you know, there have been a number of technologies that have kind of come and gone and they tend to be more in the focal therapy space or partial ablation space.
+
+But given that this is a whole gland treatment with the option that they can also do focal, I think the general feedback that we're getting is certainly this is one of the few technologies that indeed has the opportunity to grow, to become mainstream. So this is why I sort of laid out some of our plans, because I think certainly that is what we're shooting for at this point.
+
+Ben Haynor
+Analyst, Lake Street Capital Markets LLC
+Okay. Got it. Thanks for the color there and I'll jump back in queue.
+
+Arun S. Menawat
+Chairman & Chief Executive Officer, Profound Medical Corp.
+Thank you, Ben.
+
+Operator
+Thank you so much. One moment for our next question. Our next question comes from the line of Rick Wise with Stifel. Your line is now open.
+
+John McAulay
+Analyst, Stifel, Nicolaus & Co., Inc.
+Hi, everyone. This is John for Rick today. Thanks for taking my question.
+
+Arun S. Menawat
+Chairman & Chief Executive Officer, Profound Medical Corp.
+Good afternoon, John.
+
+John McAulay
+Analyst, Stifel, Nicolaus & Co., Inc.
+Good afternoon. Congratulations on the upgraded coding versus the initial expectation. I just wanted to maybe put a finer point on your comments earlier. Just in terms of the, the implication for physician uptake, revenue and procedure growth, you sort of set out 75 system goal. Maybe we'll call it sort of early next year, you were saying. And you also talked about utilization goals in terms of sort of growing utilization, maybe in the mid-teens levels, once the installed base starts to ramp. With this higher reimbursement in place, does that impact any of those assumptions in a more positive way at all? And is there any way to sort of think about how it could impact commercial inflection?
+
+Arun S. Menawat
+Chairman & Chief Executive Officer, Profound Medical Corp.
+I think so, John. Overall, I feel that the stars are sort of getting aligned for our technology. We have support from leading physicians. Our existing sites are happy users. We have amazing feedback from patients. We're really pleased with how CMS has looked at the reimbursement picture.
+
+The clinical data continues to look good, and CAPTAIN trial data will come out next year. So I do think that the stars are aligned. If you look at the recurring revenue in this last quarter, you can see it's the highest recurring revenue we've had so far.
+
+So you can see a precursor to what we think is likely to continue to grow. So as I said, I think that all the signals are in the right direction. We are very aggressively, as I said in the prepared remarks, looking to build a sales and marketing team now.
+
+And as I said, I'm delighted that Tom has joined us, and we've worked together in our last company. So I'm thrilled with that. So yeah, I think that we should be able to grow at a pretty good pace in 2025.
+
+And I think I would say the other thing is John, we reaffirmed our guidance for this year. And if you just add up the numbers, obviously Q4 has to be a very good quarter for us to reaffirm. So I think even in the quarter that we're in, we are feeling bullish that these results will impact the top line.
+
+John McAulay
+Analyst, Stifel, Nicolaus & Co., Inc.
+That's interesting, Arun, and maybe I'll follow up on that...
+
+Arun S. Menawat
+Chairman & Chief Executive Officer, Profound Medical Corp.
+Yeah.
+
+John McAulay
+Analyst, Stifel, Nicolaus & Co., Inc.
+...point you're making on reiterating the guide here. Just in terms of recurring versus capital or an impact related to physicians adopting the technology, how much of it -- how much do you see in the fourth quarter in terms of mix between recurring and capital? And maybe talk a little about what you're expecting in terms of utilization? I saw it increased up 13% this quarter. How should we think about it now?
+
+Arun S. Menawat
+Chairman & Chief Executive Officer, Profound Medical Corp.
+Yeah. Yeah, John, I do think that the utilization will continue to increase. Now, I think that with respect to what is the mix between capital and recurring, that I think earlier in the year I kind of provided this high level thing that there is likely to be a higher percentage of capital in the early stage as the install base grows and we switch to this more of a standard medical device model. I can also tell you that a number of sites that already have TULSA that are using it in the current model of recurring revenue only have already expressed interest in converting it to that model.
+
+So in fact, some of the sites will flip to the new model and some of those systems that belong to our balance sheet today will flip over and some of the revenue will come from there. So I think that -- I mean, the way I look at it is this is all good that we want to go into a more standard model. We do have – there's very little doubt that the utilization is increasing and it has been consistently increasing and it will continue to increase.
+
+How it exactly is the ratio in the very near term for the next, I would say, three, four quarters is a little bit harder to predict. But I do think that over the long haul, we're probably going to be in the 30% capital and 70% recurring revenue mix.
+
+John McAulay
+Analyst, Stifel, Nicolaus & Co., Inc.
+Thanks, Arun. That's helpful. And congratulations on the reimbursement.
+
+Arun S. Menawat
+Chairman & Chief Executive Officer, Profound Medical Corp.
+Thank you, John.
+
+Operator
+Thank you so much. One moment for our next question. Our next question comes from the line of Michael Freeman with Raymond James. Your line is now open.
+
+Michael W. Freeman
+Analyst, Raymond James Ltd.
+Hey, Arun, Mathieu and Rashed, congrats on some great news around reimbursement and congrats on solid revenue results this quarter.
+
+Arun S. Menawat
+Chairman & Chief Executive Officer, Profound Medical Corp.
+Thank you.
+
+Michael W. Freeman
+Analyst, Raymond James Ltd.
+My question -- you're very welcome. I wonder if you could shed some light on sort of the sale and install dynamic that we might be seeing behind the scenes.
+
+Like, do you get the sense that prospects of yours for the TULSA are -- had been waiting to understand what the final rule would be and what the exact reimbursement rate would be before pulling the trigger to sign a contract and to go ahead with install? And I guess perhaps you could give us a bit of information on either your backlog or your sort of your contract pipeline, just so we can get a sense of like what -- how we can understand the pipeline better.
+
+Arun S. Menawat
+Chairman & Chief Executive Officer, Profound Medical Corp.
+Yeah. It's a great question. And I think first of all, there's no doubt that there was -- and as I said, we sort of anticipated that at the beginning of the year that the dynamic will be unique and different in the second half of this year.
+
+And it didn't happen because even, quite frankly, some of the investors were saying, well we want to we wait till you get to the final rule. And quite frankly, internally the data that CMS looks at, to the extent that that data was available to us, there was certainly some expectation that the -- that we will get upgraded. So, there's no question that in Q3 with respect to new sites, that was a very important dynamic.
+
+And coupled with that, we were changing the model and basically talking about capital. And you go back the first two quarters of this year, we had -- we did have some capital revenues already. So, that dynamic had started even prior.
+
+So from the -- to your first question, yeah, there's no question that we are in that inflection point. And there's some uncertainty. But at the same time, when Rashed and I and Mathieu and Tom and we reviewed our forecast for this year, we were very comfortable that we would -- we could reaffirm our revenue guidelines for this year.
+
+So hopefully, you can see that this is part of this dynamic that Q3 is was going through this tentative period. But then now that it's finally developed, that we think we will be able to close those deals in this year. And so that hopefully will gives you a little bit more color on why we are confident about the year.
+
+And I think that with respect to your question on the pipeline, we had a pretty good pipeline even going into the conference -- the PRO-TALK conference and the number of people who came to the PRO-TALK conference were people who were typically on the fence. They were curious enough about the technology that they wanted to learn more about it.
+
+But I think pretty much everyone basically, after the conference, began to get a sense of urgency on the fact that this is going to happen, and they wanted to be in the early adopter line of doing this. So I do think that the pipeline is very big. I think one of the limitations I have at the moment is that the sales team is not very big, which is why Tom is aggressively adding people.
+
+So I think that as the people get added, there's no doubt that we will be able to give them hot leads to go start chasing. It's kind of hard to give you a specific number because it's a pipeline. But as you already know, there were at least 40 people in that conference.
+
+And that is just from the conference itself. And we had a pretty good pipeline prior to that.
+
+Michael W. Freeman
+Analyst, Raymond James Ltd.
+Okay. All right. Thanks, Arun. This dovetails perfectly into my next question, which is on sales team, and wondering if, you had done any hiring of individual sales team members during the quarter. What your, like -- how many you anticipate hiring perhaps before the end of the year? And then ultimately, what's the size of the sales team you would like to have during the initial launch during active reimbursement of TULSA?
+
+Arun S. Menawat
+Chairman & Chief Executive Officer, Profound Medical Corp.
+Yeah. So we are taking a short term look and a strategic look at how we want organize for growth and what do we need immediately from that organization. And so the senior team has spent quite a bit of time to figure out what will the design look like or design will look like and so on to go forward.
+
+We have about 13 to 15 sales people at the moment. We want to get to about 40 as soon as we can. Obviously, we want to hire the top quality team, so not a fast, not an easy process.
+
+But I would like to have at least five more this year, if possible, so we can get that quickly. But we will continue to recruit until we get to at least 40. In addition to the sales professionals, we are adding some sales management also.
+
+And part of the reason for adding the sales management is to prepare for even longer term to be able to continue to add people as the company and the revenue grow. So a good bit of our effort is going into that at the moment.
+
+Michael W. Freeman
+Analyst, Raymond James Ltd.
+Okay. Thank you, Arun. I'll pass it on.
+
+Arun S. Menawat
+Chairman & Chief Executive Officer, Profound Medical Corp.
+Thank you.
+
+Operator
+Thank you so much. One moment for our next question. Our next question comes from a line of Scott McAuley with Paradigm Capital. Your line is now open.
+
+Scott McAuley
+Analyst, Paradigm Capital, Inc.
+Thanks, everyone. Congrats on the quarter. I think a lot of my questions had already been answered, but just wanted to get a little bit on the commercial model and kind of highlighting that you're seeing more interest in the more traditional model versus the pay per use model, especially with the updated reimbursement. The initial thinking being that the pay per use, you have the lower upfront cost, which is of interest to some places because you don't need the upfront capital. So, in talking to potential users how -- what's driving this kind of [ph] sword (00:44:48) switch to focusing on the more traditional model going forward?
+
+Arun S. Menawat
+Chairman & Chief Executive Officer, Profound Medical Corp.
+Yeah. Scott, that's a very good question actually. So when we started, the technology was brand new and pretty much all the patients were cash pay patients. So, for a site, when they're looking at an entirely new technology and cash pay, it's really hard for them to predict the utilization of the technology. And so that is why the recurring revenue only model made the most sense. And because it's cash pay, they could charge and get whatever they needed to make on the procedure, and we got -- what we needed to do and, and so on.
+
+So that model for that time has worked out well for us. And I do take some confidence with related to the future potential that even at price points of some of the sites charging $30,000 to $35,000, that they were getting quite a few patients to pay that and still get the TULSA procedure. So, I think it worked for multiple purposes.
+
+Now, I mentioned to you that some of the sites that already have that recurring revenue only model have already indicated that they would like to just go and buy the system. And the reason being that they now have a far greater level of predictability of how many patients they will be able to treat. And so for them to financially then justify is much easier, and particularly now with these numbers, that's a pro forma we can present to them.
+
+And for a urology practice to be able to go to the CFO's office and say, I've been using it this much. With this reimbursement, I can add this much more to it and thereby it can be justified easily. That is the reason why I think we need to switch to the model, to the traditional model.
+
+And by doing so on a per patient basis, their profitability can actually increase further, which we think, again, even though, as I was saying before, all the stars are kind of getting aligned here, but we are still at the earlier stage. And so I think getting them to a place where they can easily justify it and they can make money on every procedure is an important goal for us. So, that's the reason why we are switching.
+
+Now, we're not saying to the sites that we will not do only sites with the current model. So if there are sites where they feel that, hey, we can budget for the capital later on, but we can start with a higher price per procedure, and they might make a little less money, but they'll probably still be able to be profitable with it, we're certainly going to do that too. Because our goal is to grow the utilization and treat more and more patients ultimately.
+
+And this is why I think it is, as much as I'm, hopefully you can see I'm giving as much information as I can, so that you can model this. But I think this is why sort of talking about how much will be capital, and how much will be recurring, is a little bit harder for the next few quarters.
+
+Scott McAuley
+Analyst, Paradigm Capital, Inc.
+No, that's great. I appreciate that. And that definitely makes sense with the kind of utilization of the goal and wanting to give clinics the highest profit margins themselves.
+
+And I guess just second, in terms of commercial reimbursement from commercial insurance plans, obviously, the Medicare is very important and getting that as a milestone. How are you thinking going forward in terms of getting added to commercial plan lists and being able to tap into that market as well?
+
+Arun S. Menawat
+Chairman & Chief Executive Officer, Profound Medical Corp.
+Yeah, it's a very big priority for us. Obviously, the results of the CAPTAIN trial will be very helpful. Will be the first level 1 study in the space. And we will be able to provide that information to them by, within a few months now. And we -- during this period, even though the model was cash pay, a number of our patients were able to take their cost data and apply for reimbursement from their own private insurance companies. And we have worked with many of them to make sure that the insurance companies have all the data that they needed to make those decisions.
+
+So I think with respect to visibility, we're getting there. And we are, cognizant of the fact that this is really important. And part of the reason why we moved Mathieu to the President title is because I think that since he led the reimbursement work with the CMS and the work committees and so on, his part of his role is going to now switch to accomplishing the same goal with the insurance companies.
+
+So, I think in summary, I have two points. One is I think we have the clinical data. We have the cost data to get going with the insurance companies and Mathieu will take that bull by the horn as he did for the CMS process. And second, we have been working with insurance companies and other ablative technologies have been reimbursed. And so I do think that we're likely to have a better reception than something that they've never heard about before.
+
+Scott McAuley
+Analyst, Paradigm Capital, Inc.
+That's great. I appreciate that, Arun. Thanks for taking the questions.
+
+Arun S. Menawat
+Chairman & Chief Executive Officer, Profound Medical Corp.
+Thank you so much, Scott.
+
+Operator
+Thank you. [Operator Instructions] Our next question comes from the line of Ben Haynor with Lake Street Capital Markets. Your line is now open.
+
+Ben Haynor
+Analyst, Lake Street Capital Markets LLC
+Hey, guys, thanks for taking the follow-up. Just wanted to touch on TULSA-PLUS. Is that something that is kind of a straight away pipeline expander? Or is it something where some folks might want to wait to choose to go down that route once it becomes available? I think you said nine months out?
+
+Arun S. Menawat
+Chairman & Chief Executive Officer, Profound Medical Corp.
+Actually, Ben, I think the way we're doing this is TULSA is available to them for existing sites today. So if there's a hospital that has a compatible MRI, we're putting TULSA and we're going to get going with that. What we are going to start doing starting next year is also giving them the TULSA-PLUS option. And what -- the way we're going to go to market is to say we'll put the TULSA in your existing site so your people can get going and start treating patients. And when the MR gets installed, which might take six to nine months, we will take that TULSA and put it on your new MR at that time. So it will take some time to get the TULSA-PLUS model going, but I don't think it's going to be a bottleneck to get the hospitals started with the way we have been doing business so far. So, that's the way we're planning the strategy. It's possible that there might be some sites that will say, hey, we're just going to go for the MR because the MR is already FDA cleared. There are a few sites in the US that already have it, and we're generally getting very good [indiscernible] (00:54:15) MR.
+
+So I think it's possible that some might say I'm just going to get both and so on, but during -- I would say historically we've done things like some of the sites have said to us, hey, I have a Siemens MR available today, but long term, I want it on a GE MR and we've sort of provided it to them on a Siemens. And then when they switch the MR, we've switched to the software to make sure they could use it on that. So I think that flexibility exists and we plan to use it.
+
+Ben Haynor
+Analyst, Lake Street Capital Markets LLC
+Okay. Got it. And then just from kind of [indiscernible] (00:54:59) standpoint, do you see them under TULSA-PLUS kind of ponying up the million dollars plus that it costs to get one of these MAGNETOM Free.Maxes and your device? Or is that going to be something where there's Siemens is going to provide financing or some third party is going to finance the capital equipment and they'll pay $20,000, $30,000 whatever a month?
+
+Arun S. Menawat
+Chairman & Chief Executive Officer, Profound Medical Corp.
+Yeah, that's exactly way we're thinking. If you look at the website, Siemens Free.max website, they are, in fact the website says that they are prepared to lease it for about $14,000 a month, which is a very reasonable number. And so many of these sites will, I mean, ultimately, this is going to come down to a fairly straightforward equation. They need to predict or figure out how many patients they can treat per month. That based upon their reimbursement, sets up their revenue. They'll know their costs. They'll know our costs, and they will be able to easily figure out how many procedures they need to do per month to break even and that pay monthly lease fee. Right. And there are third parties are willing to bundle it all together and convert it into lease payments. So we're working through the details. But I think that is all in the realm of possibilities.
+
+Ben Haynor
+Analyst, Lake Street Capital Markets LLC
+Okay. Got it. Thanks. Thanks again for taking the follow ups and congrats on the leveling up with APC 7.
+
+Arun S. Menawat
+Chairman & Chief Executive Officer, Profound Medical Corp.
+Thank you so much. Thank you so much, Ben.
+
+Operator
+Thank you. I am showing no further questions at this time. I would now like to turn it back to Dr. Menawat for closing remarks.
+
+Arun S. Menawat
+Chairman & Chief Executive Officer, Profound Medical Corp.
+Thank you so much. And we look forward to communicating with you for the Q4 and year-end call in the -- in 2025. Thank you.
+
+Operator
+Thank you for your participation in today's conference. This does conclude the program. You may now disconnect.

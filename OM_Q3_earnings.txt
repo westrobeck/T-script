@@ -1,0 +1,220 @@
+Okay. Thank you, and good afternoon, everyone. Welcome to our third quarter 2024 conference call. Here with me today are Leslie Trigg, Chair and Chief Executive Officer; and Nabeel Ahmed, Chief Financial Officer. We issued a news release after the close of market today, which can be found on the Investor pages of outsetmedical.com. This call is being recorded and will be archived on the Investors section of our website.
+
+It is our intent that all forward-looking statements made during today's call will be protected under the Private Securities Litigation Reform Act of 1995. These statements related to expectations or predictions of future events are based on our current estimates and various assumptions and involve material risks and uncertainties that could cause actual results or events to materially differ from those anticipated or implied. Outset assumes no obligation to update these statements. For a list and description of risks and uncertainties associated with our business, please refer to the Risk Factors section of our public filings with the Securities and Exchange Commission, including our latest annual and quarterly reports.
+
+With that, I'll turn the call over to Leslie.
+
+Leslie L. Trigg
+Chairwoman & Chief Executive Officer, Outset Medical, Inc.
+Thanks, Jim. Good afternoon, everyone, and thank you for joining us. I want to begin by recognizing health care providers and their patients who are still recovering in the aftermath of Hurricanes Helene and Milton. We worked closely with several acute care customers to offer dialysis services with Tablo in affected areas. And as we saw during the pandemic, health care providers selflessly stepped up to serve the very vulnerable population of dialysis patients. Our thoughts and support remain with these health care heroes and the dialysis community as the southeastern US continues its recovery from the storm.
+
+Moving to our results, this quarter demonstrated the strength of our recurring revenue business model, our scale in the acute and subacute setting, a return to quarterly sequential growth, and strong year-over-year gross margin expansion. Third quarter revenue of $28.7 million was stronger than our guidance implied, driven by new and expansion customers and another record quarter for recurring revenue. While console sales were lower than the prior year for the factors we discussed last quarter, treatment revenue grew 14% and service revenue grew 22%, both pushing recurring revenue to an all-time high. Year-to-date recurring revenue increased 23% over the same period of 2023. We also saw average selling prices for our consoles improve by 18% and non-GAAP gross margin expand by nearly 11 percentage points from Q3 of last year.
+
+The third quarter also marked good progress on our commercial transformation. As I highlighted last quarter, we learned that success with mainstream enterprise adopters in the acute setting requires a change in how we sell, who we sell to, and the process we use to get there. We identified the need to sell more broadly within the C-suite and establish commitment across a larger base of stakeholders deeper within the system to gain buy in. This transformation has involved three shifts in our commercial approach. First, we've retooled our commercial team by infusing our capital sales team with individuals who have an enterprise sales profile and skill set. Second, we implemented a new capital sales process with high specificity, accountability, and discipline. And, third, we injected rigorous sales management inspection at every step along the way to improve capital sales forecasting and the timing of close.
+
+We entered the fourth quarter with all three elements of this transformation largely complete. The key changes to our capital sales and leadership team have been made, and our new sales process and forecast inspection rigor has been implemented. While we expect the full dividends of the sales transformation to manifest in the first part of 2025, we saw early signs of positive impact in Q3.
+
+Turning to our end markets. During the quarter, we continue to have success with acute care providers eager to insource their dialysis service line. We made progress with ongoing rollouts at several large health systems and worked with new regional providers to stand up insourcing program. Overall, the number of acute and subacute sites using Tablo grew 15% from the prior-year period, and we continue to see impressive results following implementation of these programs. For example, our team supported the rapid insourcing of a dialysis service line at a 300-bed hospital in the South Central US where the provider experienced a 300% increase in treatment growth following implementation and a 25% increase in successful treatments.
+
+These results help improve the quality of dialysis care while reducing waste and costs. We also helped a smaller hospital in a rural community set up a new dialysis program, which resulted in a 30% increase in revenue from other services as patients no longer needed to be transferred to another facility for treatment.
+
+In the subacute setting, which represents one of the fastest growing segments of our installed base, one of the nation's largest inpatient rehabilitation providers continued its system-wide rollout of insourcing with Tablo and now uses Tablo in more than 100 facilities, performing 14,000 dialysis treatments per year. Subacute providers now comprise a roughly mid-teens percent of the Tablo installed base. In the home end market, we again saw industry-leading retention rates as we ramped Tablo use with new and existing providers. Our 90-day retention rate remained above 90% versus the 65% average reported with the incumbent home hemodialysis device. Our cumulative opt-off rate at one year remains at approximately 10%.
+
+The average tenure for patients dialyzing at home with Tablo is now more than one year, and our longest tenured patient has been dialyzing at home with Tablo for more than three years. We also see strong patient satisfaction and affinity for Tablo in our home registry data. Two weeks ago at the American Society of Nephrology Annual Kidney Week Meeting, we published new data from this home study, showing the vast majority of Tablo home patients are extremely likely to recommend home hemodialysis with Tablo to other end-stage kidney disease patients. On a scale from 1 indicating not likely to 10 indicating extremely likely to recommend Tablo, the study showed a mean Net Promoter Score of 9.2 at 6 months and 9.3 at 12 months. We're most proud of this type of data, real-world evidence from patients who report they feel better, are better, able to manage daily activities, spend more quality time with family and, in some cases, go back to work. Tablo not only helps providers improve care and save money, it also has very real and measurable impact on the lives of patients.
+
+High patient and caregiver Net Promoter Scores are not only driving Tablo patient expansion, but also expansion in the number and depth of home program locations offering Tablo. The number of Tablo home program locations has increased 40% during the last 18 months, and the average size of these programs has continued to grow. In fact, one such home program recently reached a record 27 patients home on Tablo, and they're not done.
+
+As we reflect back on what's been a tough period for Outset and shareholders, we are mindful of the challenges and disappointments of the last year. And while one quarter's performance is one quarter's performance, we look toward Q4 and 2025 with confidence. Our installed base is approaching 6,000 consoles. Hundreds of facilities are using Tablo nationwide. Tens of thousands of nurses and thousands of physicians have been trained. Our evidence base has grown to more than 70 publications and abstracts; and we are run rating to nearly 1 million treatments per year, which speaks to the compelling clinical, operational, and financial results Tablo is delivering, which, in turn, fuels the strength of our recurring revenue business model.
+
+And we look ahead with confidence on the bottom line as well. Gross margin continues to expand, and the decisive steps we've taken to reduce our operating expenses are paying off in the form of lower cash usage and meaningful progress toward breakeven. I want to thank our entire team for their commitment to drive growth, lower expenses, and reach our shared goal of profitability.
+
+And, with that, I will turn it over to Nabeel.
+
+Nabeel Ahmed
+Chief Financial Officer, Outset Medical, Inc.
+Thanks, Leslie. Hello, everyone. Revenue for the third quarter of $28.7 million grew 5% sequentially, driven primarily by recurring treatment and service revenue from continued strong Tablo utilization. On a year-over-year basis, revenue declined 6% due to lower console sales for the reasons we previously discussed, partially offset by recurring treatment and service revenue. Product revenue of $20.3 million grew 6% from $19.2 million in the second quarter and declined 14% from $23.5 million in the prior year. Service and other revenue of $8.4 million increased 3% sequentially and 22% year-over-year.
+
+Recurring revenue from the sale of Tablo cartridges and service reached $21 million, an increase of 4% sequentially and 17% from the prior-year period. We continue to see strong ASP across all end markets as a result of our disciplined pricing, strong uptake with acute customers of our Tablo PRO+ offering, and the availability of TabloCart with prefiltration also with acute customers. As Leslie mentioned, console ASP increased 18% from the third quarter of 2023.
+
+Now, moving to our gross margin and operating expenses, which, as a reminder, reflect our non-GAAP results. Please refer to the reconciliation of GAAP to non-GAAP measures found in today's earnings release. Gross margin of 36.4% increased by nearly 11 percentage points from last year, with strong underlying dynamics in both product gross margin, which was 44.9%; and service and other gross margin of 15.8%. Compared to the second quarter of 2024, gross margin was down by 1 percentage point. As I mentioned last quarter, gross margin may fluctuate a bit on a quarter-to-quarter basis in the short term, primarily due to lower absorption of manufacturing overhead as a result of our reduced console build plan and efforts to reduce inventory levels which, we expect, will allow us to conserve a significant amount of cash as we move into next year. Absent the lower absorption of manufacturing overhead, gross margin would have expanded sequentially by 2 to 3 percentage points.
+
+I'd like to take a moment to remind investors of the unit economics of our treatment sales and our service contract renewals, both of which combine into our recurring revenues. Our gross margin on treatments is currently north of 50%. And given that our cost of service consists of a largely fixed cost, which is people, the incremental gross margin from each service contract renewal approaches 100%. Said differently, as our installed base grows and as we drive further operating leverage from our service team, our gross margin benefits materially. This high incremental gross margin recurring revenue foundation is the cornerstone of our path to 50% gross margin.
+
+Operating expenses of $26.5 million came in better than our expectations, declining by 15% as compared to the second quarter and by 37% from the prior year period, driven by our ongoing focus on expense management and the restructuring actions we've taken.
+
+Non-GAAP net loss was $20.2 million or $0.39 per share and continues to be materially lower on a sequential and year-over-year basis. Net loss was 18% lower sequentially from the second quarter and 43% lower than the third quarter of 2023, reflecting the positive results of our drive to profitability.
+
+Moving to our balance sheet. We ended the third quarter with $179 million in cash, cash equivalents, short-term investments, and restricted cash. Our entire team is laser-focused on achieving profitability and believe that the work we've done to reduce OpEx and bring down inventory levels will materially contribute to our goal of reducing 2025 cash usage by roughly half relative to our expected 2024 cash usage.
+
+Turning to our full-year outlook for 2024. We now expect revenue of approximately $112 million, up from our prior guidance of approximately $110 million. As a reminder, our base assumption is that console revenue in the second half is similar to what we recorded for the first half. With strong utilization, we would expect recurring revenue to continue to perform well as it has consistently done.
+
+Turning to gross margin. We now expect non-GAAP gross margin for the full year to be in the mid-30% range, over our prior guidance of a low- to mid-30% range. Again, gross margin expansion is driven by continued strength in ASP, recurring revenue from a larger installed base, service leverage, and console cost-down programs. We continue to anticipate that OpEx for 2024 will be roughly $120 million, which puts our run rate non-GAAP operating expenses at just over $100 million.
+
+And, finally, with our strong value proposition across two large end markets, wide competitive moat, and broad integrated offering of products and service, we remain bullish on our long-term revenue growth profile. At the same time, this quarter again demonstrated our commitment to achieving profitability by prudently managing our cash position, reducing operating expenses, and becoming even more efficient in our operations.
+
+With that, I think we're ready for Q&A. Operator, please open the lines.
+
+Question And Answer Section
+Operator
+Thank you. At this time, we'll conduct the question-and-answer session. [Operator Instructions] Our first question comes from the line of Rick Wise of Stifel. Your line is now open.
+
+Rick Wise
+Analyst, Stifel, Nicolaus & Co., Inc.
+Good afternoon, everybody. Thanks for the question, and it's good to see the positive progress in this quarter. Let me just start off -- [indiscernible] (00:20:30) starting off with the guidance. You did make solid progress this quarter, both you, Leslie, and the deal highlighting some of the positive directional effects of the enterprise sales shift, the TabloCart cost-down, et cetera, et cetera. But the full-year revenue guide now of $112 million sort of implies a potentially sequentially lower fourth quarter than third quarter. Can you help us just understand, is this conservatism? Are there other things going on that we need to understand? Just give us a little more color there. Thank you.
+
+Nabeel Ahmed
+Chief Financial Officer, Outset Medical, Inc.
+Yeah. Hi, Rick. It's Nabeel. So, first, we were pleased with our Q3 performance. Our intent was really to pass through our overperformance in Q3 relative to expectations, and we wanted to be thoughtful as we thought about the full year and the fourth quarter.
+
+Rick Wise
+Analyst, Stifel, Nicolaus & Co., Inc.
+I guess thoughtful, translated, Nabeel, means you want [indiscernible] (00:21:43) on the side of conservatism or there are other factors that we should be thinking about as we think about the fourth quarter?
+
+Leslie L. Trigg
+Chairwoman & Chief Executive Officer, Outset Medical, Inc.
+Yeah. Hey, Rick. Its Leslie. Maybe I'll jump in. I'd say, I think the intent is to remain a bit conservative in our outlook until we have more than one quarter of evidence that we're making the turn. I think Q3, we'll look back as an important turning point and kind of the beginning of a new chapter for Outset. And we were – we too – we're really pleased to see the progress. But we need a little bit more run time on the changes to the commercial organization and just to make sure that we're seeing success replicated equivalently across the country for more than one quarter. So, our thought here was, hey, let's kind of stay conservative in our outlook until we have more than this one quarter of evidence to determine that we really are making the turn. That said, my confidence, the team's confidence at large is very high, both for Q4 and for 2025.
+
+Rick Wise
+Analyst, Stifel, Nicolaus & Co., Inc.
+Got you. And, Leslie, last quarter, you highlighted the order pipeline, the progress, the quality, and you touched on it in various ways today as well. Can you provide some additional details? Where does that order pipeline stand today? I think you said you had 60% of the order pipeline for deal size that are $1 million or more. Did that metric increase in the third quarter? Is that something we should be focusing on? And just help us, as you went through your comprehensive review, did that change anything there?
+
+Leslie L. Trigg
+Chairwoman & Chief Executive Officer, Outset Medical, Inc.
+Well, it is one of the points that gives me a lot of confidence and enthusiasm as we think about the setup into 2025. We do have a pipeline that's large and continues to get larger. I think what we're particularly focused on is when you look at the pipeline, how many of those deals are in the earlier stages of the sales process, our new sales process, and how many deals are in the later stages? Of course, the deals that are in the later stages have the higher probability of close within a defined period of time. And so, as we sit here today, nearly half of the opportunities in our pipeline for 2025 are in the later stages of that sales process, and that's not a position that we've actually been in before. So, I see that as a nice, again early, but an encouraging leading indicator.
+
+And I think other thoughts about growth in 2025 and our -- is to be able to use the word bullishness in 2025 are kind of the following. I -- we do believe that the challenges in the last couple of quarters are behind us. We do have these sales changes implemented. And another point -- thing I'll point out about 2025 is our capital sales reps that have the new profile will have turned the corner into full tenure that is aligned to the duration of our 9- to 12-month sales cycle in the first part of 2025. So, the sales changes have been implemented. The sales process, the forecast inspection rigor has been implemented. TabloCart stack online and available. We look at this pipeline, as I mentioned, a large percentage of that already in the later stages of the sales process. And this very, I think, valuable recurring revenue foundation that is now approximately 60% of our total revenue and only continues to strengthen, which gives us some nice visibility going forward into future quarters.
+
+Rick Wise
+Analyst, Stifel, Nicolaus & Co., Inc.
+No. That's very helpful perspective. And just a last quick one for me, just because you alluded to the hurricane impact and how you were dealing with it as a company. Did the hurricanes, either one or together, have a hurtful impact in any way on this quarter? Did you feel any delay in home starts or program implementation that you want to call out? Thank you very much.
+
+Leslie L. Trigg
+Chairwoman & Chief Executive Officer, Outset Medical, Inc.
+Of course, Rick. The short answer is no effect. We had one of the strongest quarters we've seen for new home starts. One of the advantages of Tablo is that it does not rely on premade bags of dialysate. It does -- as you know, it makes the dialysate on demand in real time during treatment. And so, that's very helpful and advantageous in circumstances like these. So, no, the hurricanes did not have any effect on Outset or our patients directly. As I alluded to in the prepared remarks, we did have an opportunity to step in and, I hope, provide some support and help to some of our customer providers, though.
+
+Rick Wise
+Analyst, Stifel, Nicolaus & Co., Inc.
+Thank you.
+
+Nabeel Ahmed
+Chief Financial Officer, Outset Medical, Inc.
+Operator, we will move on to next question.
+
+Leslie L. Trigg
+Chairwoman & Chief Executive Officer, Outset Medical, Inc.
+Yes.
+
+Operator
+Thank you. One moment for the next question. And our next question comes from line of Shagun Singh of RBC Capital Markets. Your line is now open.
+
+Avi Dahan
+Analyst, RBC Capital Markets LLC
+Hey. Good afternoon. This is Avi on for Shagun. Thanks for taking the question. To follow up on 2025, I guess, you indicated your pipeline is strong. It's continuing to get larger and, like you said, nearly half of your pipeline is in the later stage of the sales process. Is there any visibility to growth getting back to double digits? I understand last quarter or maybe the quarter before, you didn't reiterate your LRP. Is there any color you can provide on like revenue for 2025 or any topline figures? Thank you.
+
+Nabeel Ahmed
+Chief Financial Officer, Outset Medical, Inc.
+Yeah. Hey, Avi. So, look, a couple of things. One, we're not giving guidance at this point. We will give guidance in due course sort of in early Q1 of next year, as we always do. First of all, there's no reason why we would not grow next year. And what I want to do maybe give you a bit more context about how we think about our business from a growth perspective. So, one, if you start with our recurring revenues, we expect that to be roughly $80 million in 2024 based on kind of our guidance range. Those recurring revenues are expected to grow in 2025 as the installed base grows. And that means, and as we previously shared, this recurring revenue growth means that we can grow total revenue even if you hold console sales flat on a year-over-year basis. And so, it doesn't take you a lot of console unit growth year-over-year to get total revenue moving in a meaningful way. So, hope that helps.
+
+Leslie L. Trigg
+Chairwoman & Chief Executive Officer, Outset Medical, Inc.
+Yeah. I'll just -- I'll add to that. I think that's a great perspective. When I look at kind of where we're already growing, Avi, and again, one quarter is one quarter and I fully acknowledge that. However, when we look at where we're already seeing growth, what I'm seeing that I like is a very healthy mix of existing customers expanding, new customers buying Tablo to insource for the first time, and really good distribution between acute, both national players and large regional players; post-acute LTAC rehabs and skilled nursing facilities and home. And so, as I'm looking at the activity that's already happening in Q3 and the continued benefit that we do expect to see in Q4 from these sales org and process changes, that informs our conviction in our ability to return to full-year growth -- full-year healthy growth in 2025.
+
+Avi Dahan
+Analyst, RBC Capital Markets LLC
+Got it. Thanks so much.
+
+Leslie L. Trigg
+Chairwoman & Chief Executive Officer, Outset Medical, Inc.
+Sure.
+
+Operator
+Thank you. One moment for our next question. And our next question comes from the line of Suraj Kalia of Oppenheimer. Your line is now open.
+
+Suraj Kalia
+Analyst, Oppenheimer & Co., Inc.
+Hi, Leslie and Nabeel. Can you hear me all right?
+
+Leslie L. Trigg
+Chairwoman & Chief Executive Officer, Outset Medical, Inc.
+Yes.
+
+Nabeel Ahmed
+Chief Financial Officer, Outset Medical, Inc.
+Yes.
+
+Suraj Kalia
+Analyst, Oppenheimer & Co., Inc.
+Perfect. Congrats on the progress. So, Leslie, the rough math is subacute is about 15% of the overall biz. Let's say home is about 25% of the remaining is acute. Could you characterize for us the respective growth rates within these buckets, at least just directionally versus where the composite growth rate for product revs was?
+
+Leslie L. Trigg
+Chairwoman & Chief Executive Officer, Outset Medical, Inc.
+Yeah. Maybe I'll kick it over to Nabeel and then I can add some color.
+
+Nabeel Ahmed
+Chief Financial Officer, Outset Medical, Inc.
+Yeah. Hey, Suraj. So, our business, we talked about our home contribution being roughly 20% of our total revenues. That's been consistent for the last couple of years. And so, that's just how we have thought about this year as well, and nothing suggests it would be different.
+
+Leslie L. Trigg
+Chairwoman & Chief Executive Officer, Outset Medical, Inc.
+I'll maybe chime in a little bit on and give a little bit more color just on home. On the home front, Suraj, just to reiterate, I think we're seeing really good encouraging growth through two channels. One is the mid-sized dialysis organizations. We've talked about that before. But the second newer emerging growth channel for us is through the skilled nursing facilities. We have continued through 2024 to sign a number of pretty significant contracts within the skilled nursing facility arena. And as those implementations have rolled out, we would expect to see a lot more activity through SNFs because the economic value proposition there is so strong for the SNF operator. The clinical benefits are strong for the SNF operator and, of course, most importantly for the patient. So, I do view both of those channels in home paying a lot of dividends for us in 2025.
+
+Nabeel Ahmed
+Chief Financial Officer, Outset Medical, Inc.
+Great. Thanks, Suraj.
+
+Operator
+Thank you. One moment for our next question. Our next question comes from line of Marie Thibault of BTIG. Your line is now open.
+
+Marie Thibault
+Analyst, BTIG LLC
+Hi. Thanks so much for taking the questions. Nice quarter. Wanted to ask a little bit about pricing. I think I heard you say console ASPs increased 18% year-over-year. So, with that in mind, I'm curious about the uptake of TabloCart, how instrumental that product has been in closing any of these large deals that you were able to get closed this quarter?
+
+Nabeel Ahmed
+Chief Financial Officer, Outset Medical, Inc.
+Yeah. Hey, Marie. With respect to ASP, we were pleased to see the 18% year-over-year ASP growth. There's really a couple of drivers of ASP for us. Number one, we have always maintained pretty disciplined pricing across all our end markets. We don't do a lot of this quarter in discounting and haven't done for a while. Number two, we continue to see strong Tablo PRO+ attach rates. That's our software offering that also contributes to gross margin in a meaningful way. And then, third, we do have TabloCart with prefiltration that has come back and is now fully available for sale. And we did see some of the -- we did see some of the deals that we were expecting to sort of move with the return of TabloCart. We did see them move and they're sort of baked into our overperformance here in 3Q.
+
+Marie Thibault
+Analyst, BTIG LLC
+Okay. That's wonderful. Thank you and reassuring. One quick follow-up here on the gross margin dynamics you talked about, Nabeel. Some of that related to the reduced console build plan. Is it fair to think that we should see the gross margin dynamics sort of straighten out or return kind of a normal cadence maybe partway through 2025, anniversarying some of those changes? Thanks for taking the questions.
+
+Nabeel Ahmed
+Chief Financial Officer, Outset Medical, Inc.
+Yeah, Marie. The 3Q really was a result of the absorption that I talked about. We're not giving guidance for 2025 right now. What I will say, though, is we remain committed and on track to achieving 50% gross margin in a relatively linear fashion here as we move forward over the not-too-distant future.
+
+Operator
+Thank you. One moment for our next question. And our next question comes from the line of Josh Jennings of TD Cowen. Your line is now open.
+
+Joshua Jennings
+Analyst, TD Cowen
+Thank you and good evening. I was hoping to just get a better understanding. I apologize if I missed this. We had an overlapping call, but just the -- where are you with this transformation of the sales organization and implementation of the new enterprise sales approach? It seems like the transformation is already -- you've worked through that very quickly, had a better-than-expected quarter. What inning are we in and is there any impact to Q4 that we should be thinking about as you're executing on this new strategy?
+
+Leslie L. Trigg
+Chairwoman & Chief Executive Officer, Outset Medical, Inc.
+Yeah. Hi, Josh. Let's see. So, first and foremost, I'd like to -- I would like to really compliment our team. They have done a really, really good job of getting the right talent in the right places at the right time, if you will, implementing the sales process and putting a lot of the tools for kind of inspection and rigorous work [ph] at (00:35:00) methodology in place in a relatively short period of time, to your point. At this stage, I'd say we just need some more runtime under the new model and in order to continue to leverage this deeper enterprise sales expertise that we've infused in the organization and just simply making sure that the changes continue to deliver the intended results and that we see this success replicated consistently across the country. I had mentioned in the prepared remarks that I think this transition will be fully complete in the first part of 2025. However, we definitely saw some nice leading indicator results in Q3, and we certainly expect some benefit again in Q4. So, I would say so far, so good.
+
+Joshua Jennings
+Analyst, TD Cowen
+Excellent. And then just want to follow up on one of Nabeel's previous answers on just TabloCart deal that kind of maybe provided a minor benefit or some benefit in Q3. Could you just talk about that part of the pipeline specifically and have any deals fallen out or are these deals working their way through the pipeline and still revenue generating opportunities in Q4 and 2025? Thanks so much.
+
+Leslie L. Trigg
+Chairwoman & Chief Executive Officer, Outset Medical, Inc.
+Sure. Of course. Yeah, I'm happy to comment on that. The -- so the short answer on the pipeline and deals moving through is, no, we did not see any deals in Q3 exit the pipeline. All of those opportunities remain active. Our sales cycle also remains stable, about 9 to 12 months with those bigger deals. In last quarter's call, I talked about how the percentage of our pipeline that consists of deals that are 50 to 100-plus consoles has actually gotten larger and larger over time. These are bigger deals that do require more consensus decision-making across bigger parts of the organization. But, of course, it's worth it because you end up with very broad kind of whole house conversions of Tablo across a fairly significant network of hospitals.
+
+And so, the -- I would say the sales cycle for those large deals is on the outer edge of 12 months, but that hasn't changed. On the other hand, some of our smaller deals do close earlier than nine months.
+
+With regard to TabloCart, yes, it has certainly been helpful to have TabloCart back as the demand and the customer interest in that accessory remains high. And as I look at the pipeline going forward in 2025, I think Tablo will be -- continue to be an important part of the next year, but so, too, will Tablo's core value proposition. The number one reason why new customers adopt Tablo and existing customers expand with Tablo is because it delivers on its promises. The essential value proposition here remains unchanged. It is economic cost reduction, it is improved clinical care, and it is improved operational efficiencies. And as we've grown now to many hundreds of customers and sites, I think the good news is we have a larger and larger evidence base of Tablo delivering on its value proposition promises.
+
+Joshua Jennings
+Analyst, TD Cowen
+Appreciate all those details. Thanks, Leslie.
+
+Leslie L. Trigg
+Chairwoman & Chief Executive Officer, Outset Medical, Inc.
+Yes. Thank you.
+
+Operator
+Thank you. I'm showing no further questions at this time. I'd now like to turn it back to Leslie Trigg for closing remarks.
+
+Leslie L. Trigg
+Chairwoman & Chief Executive Officer, Outset Medical, Inc.
+Great. Thank you, and thanks to all of you for joining today. I would like to close by thanking our entire team for the very meaningful difference that they're making every day in the lives of dialysis patients. We look forward to seeing many of you at the upcoming investor conferences here in November and have a great evening. Thanks again.

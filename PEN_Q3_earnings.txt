@@ -1,0 +1,487 @@
+Thank you, operator, and thank you all for joining us on today's call to discuss Penumbra's earnings release for the third quarter of 2024. A copy of the press release and financial tables, which includes a GAAP to non-GAAP reconciliation, can be viewed under the Investors tab on our company website at www.penumbrainc.com.
+
+During the course of this conference call, the company will make forward-looking statements pursuant to the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995, including statements regarding our financial performance, commercialization, clinical trials, regulatory status, quality, compliance, and business trends. Actual results could differ materially from those stated or implied by forward-looking statements due to certain risks and uncertainties, including those referenced in our 10-K for the year ended December 31, 2023, filed with the SEC.
+
+As a result, we caution you against placing undue reliance on these forward-looking statements, and we encourage you to review our periodic filings with the SEC, including the 10-K previously mentioned for a more complete discussion of these factors and other risks that may affect our future results or the market price of our stock. Penumbra disclaims any duty to update or revise our forward-looking statements as a result of new information, future events, developments or otherwise.
+
+On this call, financial results for revenue and gross margin are presented on a GAAP basis, while operating expenses, operating income and adjusted EBITDA are presented on a non-GAAP basis. The corresponding GAAP measures and a reconciliation of GAAP to non-GAAP financial measures are provided in our posted press release.
+
+Non-GAAP operating expenses and operating income exclude expenses related to the wind down of our Immersive Healthcare business in the third quarter of 2024 of $5 million, a one-time expense associated with the acquisition of IPR&D of $18.2 million in the third quarter of 2023, and amortization of acquired intangible assets of $2.4 million in the third quarter of 2023.
+
+Adjusted EBITDA of $56.7 million for the third quarter of 2024 excludes the wind down expenses, stock compensation expense, depreciation and amortization, provision for income taxes and interest income expenses.
+
+Adam Elsesser, Penumbra's Chairman and CEO, will provide a business update. Maggie Yuen, our Chief Financial Officer, will then discuss our financial results for the third quarter of 2024; and Jason Mills, our Executive Vice President, Strategy, will discuss our 2024 guidance.
+
+With that, I would like to turn the call over to Adam Elsesser.
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Thank you, Cecilia. Good afternoon. Thank you for joining Penumbra's third quarter 2024 conference call. In the third quarter, we generated total revenue of $301 million, representing a year-over-year increase of 11.1% on a reported basis and 10.9% on constant currency basis. Our third quarter results reflect another strong performance by our US thrombectomy business, driven by continued adoption and further market penetration of our current CAVT portfolio, Lightning Flash 2.0 and Lightning Bolt 7.
+
+US thrombectomy grew 21.2% year-over-year to $162.1 million with our US VTE franchise delivering revenue growth of 32% year-over-year and 13% sequentially. The balance of our US thrombectomy franchise continued to perform very well, in line with our expectations.
+
+In the quarter, we received FDA clearance for two new CAVT products, Lightning Bolt 6X and Lightning Bolt 12, which further enhance and build out an increasingly comprehensive CAVT portfolio. I'll provide additional details on these products later in my prepared remarks.
+
+In addition, we received CE Mark for Lightning Flash 2.0 and Lightning Bolt 7 in mid-September and are in the early phases of introducing our transformative technology to European markets. The trend of improving profitability continued in the third quarter, with gross margins expanding to 66.5%, up 90 basis points over the prior year period, and non-GAAP operating income of $40.3 million or 13.4% of revenue in the third quarter, up 110 basis points year-over-year.
+
+Behind positive product mix shift and operating efficiencies, we continue to see a path to a gross margin profile of over 70% within the next 18 to 24 months, and expect non-GAAP operating margin expansion to outpace gross margin expansion for the foreseeable future.
+
+Additionally, backed by strong revenue growth, expanding gross margins and disciplined operating spend this quarter, we generated $51.3 million in operating cash before you include the impact of our $100 million stock buyback. We are well positioned to continue to increase our profitability and operating cash flow into the future.
+
+Within our US peripheral business, the standout of the quarter was Lightning Flash 2.0. Flash 2.0 consistently removes blood clots in VTE patients considerably faster than all older products. Given the speed of the procedure now with Flash 2.0, there is no significant blood loss. This Flash 2.0 technology compares very favorably to other companies' older technology that takes much longer to remove blood clots with enough blood loss to make physicians feel like they need to return blood to the patients. As a result, Flash 2.0's performance continues to command physician interest and our third quarter results reflect strong adoption of our latest Flash technology in its first full quarter on the market, with September representing our highest month of VTE procedure volumes ever as we continue to gain VTE market share.
+
+The speed of Flash 2.0 was extremely evident in a PE case this quarter, where a firefighter, who is 39 weeks pregnant, was treated for a very serious PE with the Flash 2.0. The speed of the procedure saved the patient and her baby. I had the privilege of watching a video of her and her baby being greeted by a line of firefighters when she was being discharged from the hospital.
+
+In addition, we received FDA clearance for Lightning Bolt 12, expanding our portfolio of latest generation CAVT products engineered to address VTE. Lightning Bolt 12 combines our proprietary modulated aspiration technology validated by Lightning Bolt 7's strong clinical outcome, with a catheter size designed to address smaller parts of the venous anatomy. The initial cases have gone very well, and this technology expands the number of VTE patients we can treat with our CAVT technology.
+
+While we expect modest initial contributions in the fourth quarter, looking to 2025 and beyond, we view CAVT's demonstrated value proposition and our increasingly comprehensive VTE focused CAVT catheter portfolio helping accelerate conversion from other mechanical thrombectomy products, lytics and medical management.
+
+Our US arterial business, led by Lightning Bolt 7, continued to perform well in the third quarter. FDA clearance of Lightning Bolt 6X in September further expands the reach of our advanced CAVT technology to smaller arteries, including below-the-knee arterial occlusions, where our legacy catheters are currently used to treat a portion of the patient population. The introduction of Bolt 6X will deliver CAVT's benefits, improve procedure efficiency and a reduction in procedure times to these patients.
+
+Similar to Lightning Bolt 12, we expect modest contributions from 6X in the fourth quarter as we commence commercialization. That said, we see a meaningful opportunity for arterial focused CAVT portfolio, currently, including Bolt 7 and Bolt 6X to accelerate physician conversion from open surgery or the use of lytics to a computer-assisted endovascular-first approach to treating arterial clot. Despite significant progress to date, we remain in the early stages of helping the over 800,000 patients annually in the US who suffer from VTE and arterial clot with our proprietary CAVT technology.
+
+Turning to the neurovascular business. Our team delivered another solid double-digit performance in stroke thrombectomy. As interest wanes in the super large-bore 088 catheters as aspiration catheters, most of the companies with those products have switched to positioning them as guide catheters. This positions us very well with our market-leading aspiration portfolio led by RED 72 with our proprietary SENDit Technology and RED 43 as we prepare to bring Thunderbolt and the benefits of our CAVT technology to the neurovascular field.
+
+As we previously announced, our THUNDER trial recently completed enrollment with follow-up scheduled to be completed by the end of the year. We will provide additional future update as appropriate, but needless to say, we are excited about the prospect of bringing CAVT and its demonstrated clinical benefits and procedural advantages to the neurovascular field, further solidifying and enhancing our market-leading position in the field of stroke thrombectomy.
+
+Shifting to our international business. In September, we received CE Mark for Lightning Flash 2.0 and Lightning Bolt 7, further expanding the global reach of our latest CAVT technology. Physician interest in the technology in European markets is high. And while we have commenced initial sales, we expect revenue contributions to scale in a measured fashion, given the current reimbursement landscape across the region. That said, over time, we see opportunity for CAVT in international markets supported by the work we're currently doing in reimbursement and clinical evidence generation and backed by strong commercial execution.
+
+As we look toward 2025 and beyond, we view a significant opportunity for CAVT to globally transform the way blood clots are addressed and treated. Over the near term, we are focusing on executing a four-pronged strategy that we previously laid out. Number one, constant innovation to further enhance CAVT's comprehensive value proposition and further expand the patient population with clot burden able to be treated with CAVT therapy safely, effectively, swiftly, and simply.
+
+Number two, clinical and health economic data generation via randomized clinical trials, real-world studies and our global and our market access initiatives to increase awareness not only of CAVT's outcome benefits but also of the economic benefit to hospital systems.
+
+Number three, investment in our commercial and market access teams to fully realize CAVT's potential and support sustainable, strong growth in the number of patients able to benefit annually from a computer-assisted interventional approach.
+
+And number four, executing our strategy with a disciplined focus on driving operating efficiencies and an improving profitability profile.
+
+I'll now turn the call over to Maggie to go over our financial results for the third quarter.
+
+Maggie S. Yuen
+Chief Financial Officer, Penumbra, Inc.
+Thank you, Adam. Good afternoon, everyone. Today, I will discuss the financial results for the third quarter of 2024. Financial results on this call for revenue and gross margin are on a GAAP basis, while operating expenses and operating income are on a non-GAAP basis. The corresponding GAAP measures and a reconciliation of GAAP to non-GAAP financial measures are provided in our posted press release.
+
+For the third quarter ended September 30, 2024, our total revenues were $301 million, an increase of 11.1% reported and 10.9% in constant currency compared to the third quarter of 2023. Our geographic mix of sales for the third quarter 2024 was 75.2% US and 24.8% International.
+
+Our US region reported growth of 16.2% driven by 21.2% growth in our thrombectomy franchise. Our international regions decreased by 1.9% reported and 2.5% in constant currency, primarily due to a reduction in China revenue of $13.6 million, which was up – which was offset by an increase of $12.2 million in all other international regions.
+
+The sequential growth in our total revenues of 0.5% was primarily driven by an increase in our US thrombectomy revenue of $8.3 million, relatively flat revenue in Europe, and offset by a decline in China revenue of $9.4 million.
+
+Moving to revenue by products. Revenue from global thrombectomy business grew to $204.1 million in the third quarter of 2024, an increase of 14% reported and 13.8% in constant currency compared to the same period last year. Our US growth of 21.2% is driven primarily by continuous adoption of CAVT.
+
+Our international business declined by 7.1%, primarily driven by a decrease in China revenue, which was offset by an increase in all other international regions as compared to the same period last year. Revenue from embolization and access business was $96.9 million in the third quarter of 2024, an increase of 5.5% reported and 5.2% in constant currency, which is in line with our expectations and primarily driven by an increase in the US.
+
+Gross margin for the third quarter of 2024 is 66.5%, compared to 65.6% for the third quarter of 2023. We delivered 90-basis-point improvements driven by favorable thrombectomy product mix across all regions and strong productivity improvements.
+
+Additionally, sequentially, we had an 100-basis-point improvement in our gross margin, excluding the one-time $33 million Immersive Healthcare inventory write-off in the second quarter of 2024, which reflects higher thrombectomy product mix and favorable distributor mix. Our manufacturing team will focus on ramping up our volume while driving our productivity and efficiency for our new product launches in the fourth quarter.
+
+Now on to our non-GAAP operating expenses, non-GAAP operating income and margin and adjusted EBITDA. Total operating expense for the quarter was $160 million or 53.1% of revenue, compared to $144.5 million or 53.3% of revenue for the same quarter last year. Our research and development expenses for Q3 2024 were $22.6 million, compared to $21 million for Q3 2023. SG&A expenses for Q3 2024 were $137.4 million or 45.6% of revenue compared to $123.5 million or 45.6% of revenue for the third quarter of 2023.
+
+We recorded operating income of $40.3 million or 13.4% of revenue in the third quarter of 2024, compared to an operating income of $33.2 million or 12.3% of revenue for the same period last year. We wound down the Immersive Healthcare business in the [ph] later (00:19:01) half of the quarter, resulting in GAAP operating expense savings of approximately $6 million.
+
+We expect to create GAAP operating expense savings of approximately $40 million a year moving forward. With a full quarter of immersive savings, we expect to continue our sequential margin expansion into Q4 2024. We posted adjusted EBITDA of $56.7 million or 18.8% of total revenue compared to $51.5 million or 19% in the third quarter last year.
+
+Turning to cash flow and balance sheet. We ended the third quarter with cash, cash equivalents and marketable security balance of $291 million and no debt, which is a decrease of $48.7 million sequentially due to the stock repurchase of $100 million during Q3 2024. Excluding the stock repurchase, our operating cash increased by $51.3 million, driven by operation profitability and improvement in working capital management. We continue to expect positive operating cash flow trends for the rest of 2024 and beyond.
+
+And now, I like to turn the call over to Jason to discuss our guidance.
+
+Jason Mills
+Executive Vice President-Strategy, Penumbra, Inc.
+Thank you, Maggie, and good afternoon, everyone. We reiterate our total revenue guidance range for 2024 of $1.180 billion to $1.200 billion. With one quarter remaining in the year, we are comfortable with expectations at the middle of this range, which is where they were coming into this call. Furthermore, we are raising the lower end of our 2024 guidance range for US thrombectomy growth to 24% to 25% from 23% to 25% previously.
+
+Moving down the income statement. We expect gross margin in the fourth quarter to be consistent with third quarter levels, and we expect non-GAAP operating margin to expand sequentially. Excluding the impact from the Immersive Healthcare impairment, these metrics would correlate with our full year guidance of 100 to 150 basis points improvement in gross margin and 100 to 200 basis points improvement in operating margin.
+
+Operator, we can now open the call for your questions.
+
+Question And Answer Section
+Operator
+[Operator Instructions] All right. Your first question comes from the line of Richard Newitter from Truist Securities. Please go ahead.
+
+Richard Newitter
+Analyst, Truist Securities, Inc.
+Hi. Thanks for taking the question. Maybe just to start off on the US thrombectomy. It was a healthy 22%. I think you said that your US venous or VTE was 32%. Maybe can you just go over the US neuro thrombectomy piece? By my calculation, and it might be wrong, but it would suggest a pretty big deceleration in the third quarter. Is that right? And how should we think about the trend there and going forward?
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Yeah. Thanks for the question. I appreciate it. Our stroke business had a really good sort of high double-digit growth. So I don't think I would qualify that as a deceleration. If you remember the elements that go into US thrombectomy, we have neuro, we have arterial – peripheral arterial, coronary as well as VTE. And obviously, coronary, which has been out there with our legacy product for many years is in the single digit. So I think that's the delta. But neuro did really well this quarter.
+
+Richard Newitter
+Analyst, Truist Securities, Inc.
+Okay. Sorry, that's my math. So I apologize there. But congrats. It's a very solid US neuro growth rate. I guess maybe just on the international piece and the China, what does this do to your view of recovery for those regions? And as we look forward into 2025, it seems like the international business continues to be somewhat unpredictable. So what's your visibility there? And how do we think about new product contribution in some of the areas that you're just launching in with the new product to offset that? Thank you.
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Yeah. I think it's a great question. I think, look, we've talked about China last quarter and sort of the – what's happening for us, particularly as we go from our licensing revenue model to the distribution model, that's part of our deal. We spent a lot of time last quarter walking through that. So really nothing has changed. That's just now showing up. So we've sort of taken that into account. There's no new information there.
+
+Obviously, as China recovers, that will be an upside in the future, whether that's in the back half of 2025 or 2026 or beyond. There's certainly significantly fewer headwinds in 2025 than there were in 2024 internationally. And there's some real bright spots with – as we called out on this call the launch of Flash 2.0 as well as Lightning Bolt 7. Obviously, there's a lot of interest. There's a lot of conversations between physicians here in the States that are using it to their colleagues in European markets. And I think as we roll that out, we're going to see that part of the business do really, really well.
+
+So there's not a lot of new news on our international markets. This is playing out how we had talked about it for a while.
+
+Richard Newitter
+Analyst, Truist Securities, Inc.
+Okay. Thank you very much.
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Thank you.
+
+Operator
+Our next question comes from the line of Robbie Marcus from JPMorgan. Please go ahead.
+
+Robbie Marcus
+Analyst, JPMorgan Securities LLC
+Great. Thanks for taking the questions and congrats on a nice quarter here. Two from me. First, I wanted to ask on the margin expansion. It once again came in nice, saw some upside there, especially on EPS. How should we think about your ability to continue to drive this margin expansion? Is it one of these things that 100 to 200 basis points is a good range to use so long as thrombectomy continues to grow at the elevated levels? Or is there something one-time in 2024?
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Yeah, there – if you're talking about gross margin, we – that is a longer-term process that we've laid out for a while now, which is, it's a combination of efficiencies together with the product shift as we move toward a bigger chunk of that business coming from our CAVT platform. So that will continue.
+
+If you're talking about operating margin, again, that also we think will outpace the gross margin. And I think this is the – a quarter that is like some of the new – the past quarters that has shown that we have a really profitable business here. And we can do both things. We can obviously invest in this as – and we laid out again sort of clearly the four-pronged strategy where we can invest in innovation, we'll invest in the clinical data in a variety of fashions, as well as in the growth of our commercial and market access teams. All of those investments focused on growth. At the same time, doing that in a very, very profitable business.
+
+So I think we were pretty clear in the prepared remarks about that that hasn't changed from the past. It's just clearer than ever now. And I think this quarter puts a pretty fine point on that.
+
+Robbie Marcus
+Analyst, JPMorgan Securities LLC
+I was thinking operating margin. So you got both of them. I appreciate that. And then...
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Just [ph] being sure. I covered it all for you (00:27:39).
+
+Robbie Marcus
+Analyst, JPMorgan Securities LLC
+I appreciate it. And then just came back from TCT today, and we saw yesterday the PEERLESS data from your competitor. And I guess the question is, do you think that's going to be viewed by the clinical community as specific to your competitor? Or do you think that's going to be applied to thrombectomy in general and translate to your business as well? Thanks.
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Yeah. Look, without being inappropriate, given the pretty muted reaction that we've seen and heard from most physicians, we certainly hope that it's not viewed for all products. Obviously, some of the details there were not surprising given the procedure – the duration of the procedure with their older devices and really the bleeding rates that aren't true now with Flash 2.0.
+
+So I think Flash – CAVT and Flash 2.0 are commanding a lot of attention. And I think from everyone we've talked to there on the ground as well as whoever reading that, I think we're all looking past that particular type of study and to the more important comparison, which is against anti-coagulation like we're running in our [ph] STORM-PE (00:29:10) study. And I think that's where the real energy is put in the field, and that's where the interest is.
+
+So I guess, given those issues, we weren't surprised with somewhat of a muted reaction. But I don't think it's a negative for us at all.
+
+Robbie Marcus
+Analyst, JPMorgan Securities LLC
+Appreciate it. Thank you.
+
+Operator
+Our next question comes from the line of Larry Biegelsen from Wells Fargo. Please go ahead.
+
+Lei Huang
+Analyst, Wells Fargo Securities LLC
+Hi. It's Larry calling in for – Lei calling in for Larry. Thanks for taking my question. Just start – starting with the THUNDER trial, congratulations on completing the patient enrollment. We saw on ClinicalTrials.gov that the sample size, the patient sample size has changed. It's a little bit less than what you started with. And the endpoint has changed, one of the safety endpoints has changed. Can you just comment on those and if the FDA agreed to those changes? And I have a follow-up.
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Yes, the FDA did agree to those changes. That is accurate.
+
+Lei Huang
+Analyst, Wells Fargo Securities LLC
+Okay. For both of those changes?
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Yes.
+
+Lei Huang
+Analyst, Wells Fargo Securities LLC
+Okay. Perfect. Thank you. And then, Adam, you mentioned a few times before and again on this call that there are fewer headwinds in 2025 versus 2024. Can you just elaborate on which headwinds would go away in 2025 versus 2024? And what additional tailwinds that we can see in 2025? Thank you.
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Yeah. That's a good question. So some of the things we've talked about this year – at the beginning of the year, we talked about getting sort of recalibrating, selling some of our embolization products and our access products in certain markets internationally where the reimbursement had gone down to the point where it wasn't a viable business. That's obviously one, a significant issue that will not be prevalent in 2025. We talked a bit about China over the last couple of calls and recalibrating that as we move to the next phase. And so – and also, the delay, if you will, in getting CAVT in Europe. So those are sort of the big topics that we were dealing with internationally, and those really go away and for the most part in 2025.
+
+Some of the things that are looking positive, obviously, we've also talked about new product launches are coming. We have the sort of continued share gain with existing products like what we just saw, pretty significant share shift just again in yet another quarter with Flash 2.0. So pretty consistent movement there. I think when you add those up, we're looking forward to 2025 as well.
+
+Operator
+Our next question comes from the line of Joanne Wuensch from Citi. Please go ahead.
+
+Joanne K. Wuensch
+Analyst, Citigroup Global Markets, Inc.
+Thank you very much. I actually have two quick questions [ph] up in a month up in front (00:32:36). Can you walk us through your steps to get to your [ph] 88% (00:32:43) gross margin goals over the next 18 months? How much of that is coming from real or the renamed label for that or something else?
+
+And then my second question has to do with Thunderbolt. Congratulations on that completion of the clinical trial and the filing. But I'm curious about the steps to commercialization and how you think about uptake? Thank you.
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Yeah. Good questions. I maybe misheard you. I think you asked about gross margins. And I think you said getting them to 88% as opposed to what we had said out there, which was 70%. So I just want to make sure I heard it right. I might not have. But gross margins, we think, can get to above 70%. And the big issue there is continued efficiencies, but the primary driver is just as we go further and deeper into CAVT products, the margins are different, and the product shift drives that. So that's the primary driver, getting to the gross margin number that we talked about or above that.
+
+On Thunderbolt, you talked about sort of the – the question was related to commercialization. Before we get ahead of ourselves, let's – let do the follow-up for that – that to do – we should complete that by the end of this year. And then obviously, we'll submit it and go through that. We certainly know how to launch products after 20 years, and we certainly are pretty excited about it. But let's wait until we can get the trial formally finished with the follow-up and move on, and then we'll give you more updated information at that point.
+
+Joanne K. Wuensch
+Analyst, Citigroup Global Markets, Inc.
+Thank you. Sorry, if I [ph] set your goals (00:34:39) too high.
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Well, it's a good internal goal. No, I'm just joking.
+
+Operator
+All right. Our next question comes from the line of Michael Sarcone from Jefferies. Please go ahead.
+
+Michael Sarcone
+Analyst, Jefferies LLC
+Hey. Good afternoon. Thanks for taking the question. Just first one from me. Really nice growth in US VTE. Could you maybe talk to us about where you think your share is shaking out across both [indiscernible] (00:35:10) these days?
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+I think it's probably premature. Maybe we'll sort of do it at the end of the year like we did last year to sort of do a recalibration. Obviously, quarter after quarter this year, we've seen a share shift toward us. But in terms of putting the exact numbers on it, I think it's premature. We'll consider doing that again as we finish the year.
+
+The PE part of it has been pretty significant. We already were pretty successful in DVT sort of sharing that business 50/50. But we've seen a huge change in the PE shift and a lot of that really comes down to what I said.
+
+The product, Flash 2.0, is so fast. The time of the procedure, dramatically different, no significant blood loss at all. Therefore, you don't have the same anxiety, the same worry of having so much blood loss that you have to put the blood back in using other products and so on to do that. And that's just – by definition, if you can get all the clot out much faster and don't have any issue of need to put anything back in, that's better for the patient. It's able to stabilize patients much faster. And frankly, I think it bodes really, really well for the future.
+
+And again, it just goes to the need to constantly be innovating in these fields. Things change, products get better and better. And I hope all of us are excited about that and applaud that. That's sort of the point of innovation that we've been obviously known for, for the past 20 years.
+
+Michael Sarcone
+Analyst, Jefferies LLC
+Got it. That's helpful, Adam. Thank you. And just my follow-up, Bolt 6X and Bolt 12 just got FDA clearance. You have to go through [ph] VAC (00:37:14) processes for each account to start selling those. Can you just talk about that process? And then maybe anything on pricing and what it does for economics on the P&L?
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Yeah. Well, a couple of things just first on price. Obviously, the CAVT products have a little bit different price point than the non-CAVT products do. So there – in a comparison to legacy products, which are literally just the catheter and the original pump, there is obviously going to be a difference.
+
+In terms of the process, yeah, I am not aware of a blanket free pass and not having to go through the process with new products. These are obviously new products. We'll go through that process. And again, having launched multiple products every year for many, many years now, I think we'll – we know how to do it, and we'll keep going. But they do have to go through the [ph] VAC (00:38:21) process.
+
+Michael Sarcone
+Analyst, Jefferies LLC
+All right. Thanks, Adam.
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Yeah. Thank you.
+
+Operator
+Our next question comes from the line of Matthew O'Brien from Piper Sandler. Please go ahead.
+
+Samantha Kurtz
+Analyst, Piper Sandler & Co.
+Hi. This is Samantha on for Matt today. Thanks for taking our question. I guess we want to ask more about the 6X and the new Bolt 12 devices. And I guess specifically starting with the 6X. Can you talk just a little bit more about the difference between the below-the-knee catheter versus the [ph] upper one? Is it just (00:38:59) size of the catheter that's different? And then maybe talk about some of the competitive dynamics going on in the arterial market, too.
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Yeah. There's not – on the size of the catheter, it's obviously a little smaller. The numbers [indiscernible] (00:39:17) connote that the smaller it is, the further distal can go. So not just below the knee, but into smaller arteries in other parts of the body as well, which I mentioned in the prepared remarks. And that's just the natural evolution of CAVT as we bring it to other places.
+
+The X part of the Bolt 6X is really a tool similar to what we call send it in the neuro space, where we help get the catheter and track it to more distal places. So it's really ease of tracking and so on. But overall, I think you've got the gist of the product. It just goes further into the vasculature, so we can remove that clot.
+
+Your second question was – what again? I apologize. I...
+
+Samantha Kurtz
+Analyst, Piper Sandler & Co.
+Yeah. Sure.
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Was it around Bolt 12 or no? What was the second part of that question?
+
+Samantha Kurtz
+Analyst, Piper Sandler & Co.
+Well, just the competitive [ph] dynamics in the arterial (00:40:28)
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+In arterial. Yeah. In arterial. I'm sorry. I apologize. I think everyone knows there's not a lot of competition of [ph] that (00:40:39). There's a lot of companies with sort of gizmos and various things. I think we've seen this play out in stroke in the brain for years. This game sort of happened for many years in stroke.
+
+Aspiration works. Aspiration, the whole science behind aspiration is pretty clear. I think folks have understood that now in the neuro space. And I think that's working and people are starting to pretty clearly understand that in the arterial space on the vascular side. So there's not a lot of companies that are focusing on that. And certainly none of them have the modulated aspiration that we bring with Lightning Bolt 7 and Lightning Bolt 6X, which is really a whole total game changer. It sort of creates a new class, if you will, of technology.
+
+So really, the fight for us, the competition, if you will, is open surgery and anti-coagulation and also, yes, lytic. All of that is where we put our energy, and that's where our focus has been, and that's what's really seen the continued growth of that business sort of quarter-over-quarter.
+
+Samantha Kurtz
+Analyst, Piper Sandler & Co.
+Great. Thank you. And then just one more quick one. I know we touched on the vendor trial a couple of times in the call. From a different point, when – with follow-up ending at the end of the year, when could we expect to see data for that trial?
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+I'm not going to – so I made a mistake a few years back, obviously, in putting out times for a trial to [ph] end in all (00:42:27). So I'm not going to do that with a specific time. Obviously, as soon as we know that answer in a very specific way, we will let everyone know. Obviously, we're pretty excited to get that out there. But the specific timeframe, we'll update when we have that – when we have more information to finish the trial.
+
+Samantha Kurtz
+Analyst, Piper Sandler & Co.
+Great. Thank you.
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Thank you.
+
+Operator
+Our next question comes from the line of Mathew Blackman from Stifel. Please go ahead.
+
+Mathew Blackman
+Analyst, Stifel, Nicolaus & Co., Inc.
+Good afternoon, everybody. Can you hear me okay?
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Yeah.
+
+Mathew Blackman
+Analyst, Stifel, Nicolaus & Co., Inc.
+Great. I had a couple of stroke questions. Just curious first of all, can you give us the high – the current sort of US stroke growth rate is sustainable until we get Thunderbolt. And then I'll just lob in the follow-up. Last week, Medtronic and Philips announced the partnership, I think targeting stroke awareness. Just your thoughts on what impact, if any, that could have on the market over time. And it doesn't seem like it, but are there any competitive implications of a device provider teaming up with an imaging provider. Just be interested in hearing your thoughts on that.
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Yeah. Well, let me answer that first, and then I'll go back to the sort of sustainability of our growth in stroke. I was thrilled to see that. The more folks are bringing awareness to the idea that we should be intervening on stroke patients. I mean this is something that 10-plus years ago – now was shown definitively in many different randomized trials. So I think it's great.
+
+I don't think it has any device-specific impact. I mean I think we all know that physicians are going to pick the product that works the best and get the clot out fastest. And I don't think there's anything we should say other than applaud everybody, whether it's imaging companies, device companies, hospital systems in their local community to bring all kinds of awareness. We've been involved in lots of programs, bringing awareness to this, working with some of the big societies, get ahead of stroke, as you know, over the years. And I applaud it, and I'm glad to see it, and I think it helps [ph] pay (00:45:01) many, many patients. So I'm all in.
+
+As it relates to our growth in the stroke business, I think we're in a really, really good spot. As I mentioned on the call, there are a lot of companies with sort of the super board catheters. That interest is clearly waning as people understand it and realize that maybe they are better focused as guide catheters, which is a very different thing than an aspiration catheter. And I think that's really laid the foundation for what I think will be a pretty good run on our business in stroke and a lot of excitement as we move toward bringing Thunderbolt to the neuro space as well.
+
+Mathew Blackman
+Analyst, Stifel, Nicolaus & Co., Inc.
+All right. Appreciate it. Thank you.
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Thank you.
+
+Operator
+Our next question comes from the line of Mike Kratky from Leerink. Please go ahead.
+
+Mike Kratky
+Analyst, Leerink Partners LLC
+Hi, everyone. Thanks for taking our questions. On the arterial side, can you provide some more specifics on your US arterial thrombectomy growth during 3Q? And if the really strong momentum you've seen to date in that segment continued? And then just as a follow-up, was there anything specific to call out in 3Q in that segment that may have led to any deviation in the recent growth you've seen, if any?
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+No. The arterial business grew in the high teens of – it's pretty challenging comps with – from the prior year with the launch of Lightning Bolt 7. So we felt really, really good about the growth of the arterial business. That – the product works, I mean, it's just that simple. Lightning Bolt 7 really works, Lightning Bolt 6X really works. And it's getting the clot out quickly, easily. There's not a lot of issues there.
+
+So I think we're seeing that continue. And again, we just are doing the work between launching Bolt 2.0, continuing to launch the brand new products, continue to penetrate with Bolt 7. The guys in the field have their hands full talking about some of the most innovative products this field ever seen. But that business is really, really solid right now.
+
+Mike Kratky
+Analyst, Leerink Partners LLC
+Understood. Thanks for the color there. Then maybe just one quick one. In terms of the BTK side of the world, do you think about that as more of a market expansion story? Or is that something that you think is probably going to be more of an increased utilization?
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+It really is just a catheter size question. Right now, if you go backwards to before we had CAVT, we didn't really think about them as below the knee or not because the catheters, whatever size you could get to the clot is what you would use. But it became a little more like that when we had CAVT only on a catheter size that really doesn't go below the knee, which is the Bolt 7.
+
+Now that we have it on a catheter that can go further down and below the knee, we're bringing that CAVT. Our goal is to bring the [ph] CAVT (00:48:34) technology to every part of the body that has a blood clot where CAVT can be helpful. And we're not fully done yet. And then continue innovating from there. So we're well underway on that plan.
+
+Again, in the four-pronged strategy that I laid out pretty clearly, innovation is number one. Innovation has always been number one for Penumbra. And that's why we made sure it was crystal clear. We're going to continue to bring [ph] CAVT (00:49:06) technology to every part of the body that can benefit from getting the clot out so much faster and so much safer.
+
+Mike Kratky
+Analyst, Leerink Partners LLC
+Awesome. Thanks, Adam.
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Thank you.
+
+Operator
+Our next question comes from the line of Pito Chickering from Deutsche Bank. Please go ahead.
+
+Pito Chickering
+Analyst, Deutsche Bank Securities, Inc.
+Hey, guys. Thanks for taking my question. A quick one here on guidance. You are raising your US thrombectomy guidance to a tad above the Street, but maintaining your overall revenue guidance. Are there any other changes to other segments of your guidance?
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+No, I don't think so.
+
+Jason Mills
+Executive Vice President-Strategy, Penumbra, Inc.
+No. So in the fourth quarter, I laid out, we said we're comfortable at the midpoint. That would be reflective obviously, of at least the midpoint of that new range of 24% to 25%. As you model out the international thrombectomy business, we've already talked about the headwinds that we're seeing internationally, especially in China, and so that's reflective of that. But at the midpoint of the guidance, obviously, the fourth quarter ends up being in and around 20% growth for US thrombectomy, is what is implied at the midpoint of guidance. And the rest of the business, I think, the Street is modeling somewhat appropriately.
+
+Pito Chickering
+Analyst, Deutsche Bank Securities, Inc.
+All right. Great. One more on margins. So I understand gross margins expanding as the positive mix offers those tailwinds. But if I look specifically at SG&A leverage, how should we be thinking about how you balance revenue growth with investments to afford that growth? How much leverage that you can drive over the next couple of years? It seems as though there can be a lot of SG&A leverage over the next three to four years. Is this like a 50-plus basis point margin [ph] expansion per year on SG&A (00:51:01) next couple of years?
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Yeah, without giving you a specific number, I think we've been pretty clear that we can really kind of do both. We can invest pretty significantly in the things that matter. And again, those really go back to the four-pronged strategy, which is continued innovation, the data that will be relevant to continue to grow the thrombectomy business as well as the commercial team and the market access team that will drive really market growth going forward, and do that by continuing to run a pretty significantly profitable business. And that – I think this quarter shows that, and we're going to continue to do that going forward.
+
+Pito Chickering
+Analyst, Deutsche Bank Securities, Inc.
+Great. Thanks so much.
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Thank you.
+
+Operator
+Our next question comes from the line of Margaret Kaczor Andrew from William & Blair (sic) [William Blair] (00:52:03). Please go ahead.
+
+Macauley Kilbane
+Analyst, William Blair & Co. LLC
+Hey, everyone. It's Macauley on for Margaret tonight. Thanks for taking our question. There's been a lot of discussion around changing the guidelines, obviously, following the data at TCT this week. And I understand it is product specific. But as we look towards the longer-term adoption of thrombectomy and CAVT in particular, I guess, how do you think about guideline-changing recommendations? And ultimately, how does that tie into the market access work that you've been continuing to work on in the background?
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Yeah. I think it really depends on the vascular bed you're talking about. You're focusing on PE. Obviously, we're talking about PE a lot, and I'll address that in a second, but there's also DVT, which is obviously, as I think you know, larger number of patients as well as arterial, which are also a larger number of patients than PE. So the guideline issues are really most acute right now around PE. And I think legitimately, if you just think about the numbers, 85% of the patients in the pool of PE patients still are getting anti-coagulation. 10% or so are getting mechanical thrombectomy. And the balance, I think, 5%, if my numbers add up, are getting catheter-directed lysis.
+
+So you're not – the guideline change around the 2%, 3%, 4%, 5% isn't really relevant and it would be somewhat not particularly relevant for guidelines to change around a specific product, particularly given the reaction to the – for most physicians to that data. I think really your – the field is looking to the trials that come out with anti-coagulation endpoints. And then I think guidelines will likely change.
+
+I think it's unlikely that it will be product specific, even if we're the product, that really stops innovation, and no one wants to stop innovation. What you want to do is prove the concept and move on and continue to innovate and get better and better. And I think back to 10-plus years ago, when the stroke trials came out, there was no real desire to stop innovation. So it was interventional, means what people are using today versus what they used 10 years ago in stroke are dramatically different, but the point still holds. So I think that's how I would look at the field going forward.
+
+Macauley Kilbane
+Analyst, William Blair & Co. LLC
+That's great. And then just as a follow-up, I acknowledge the larger driver is the CAVT platform itself. But we've also heard quite a bit of positive receptivity of the [ph] Select Plus (00:55:03) launch this week. So has that been able to drive any incremental growth similar to when SENDit first launched as kind of a comparator?
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Well, yeah, thank you for raising it. We don't typically talk about the catheter – inner catheters like [ph] Select Plus (00:55:23). They're sort of there to just make the case faster and easier. People really, really like [ph] Select Plus (00:55:32), and it definitely has caught a lot of people's attention and made the cases even faster in terms of the access of the case. So it's really inside the umbrella of Flash 2.0. If you're just making Flash 2.0 from start to finish, that much faster, getting it there faster, getting a [ph] clot (00:55:56) out now extremely fast. All of that adds up to an impression that this was really, really a great case. And I think that's going to continue to be what people gravitate to for quite a while.
+
+Macauley Kilbane
+Analyst, William Blair & Co. LLC
+Okay. I appreciate taking the questions.
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Yeah. Thank you.
+
+Operator
+Our next question comes from the line of Chris Pasquale from Nephron Research. Please go ahead.
+
+Chris Pasquale
+Analyst, Nephron Research LLC
+Thanks. Adam, I wanted to follow up on the question about Bolt 12 and Bolt 6X. Give a rough sense what percentage of venous and arterial clots occur in vessels that are too small for Flash or Bolt 7 to reach? And are you guys involved in those cases today with non-CAVT products? Or do those patients need to get treated with something else or with surgery?
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Yeah, it's a good question. I don't have really good numbers. So I don't want to just sort of throw out sort of more guesstimates on the percentages within sort of – if you take Bolt 12, the venous space. And some of it's preference as well. People would like a smaller catheter in a certain case and so on.
+
+But the answer to the – I think the more significant question is, are we in those cases today? Most of the time, if they are using mechanical, we're in those cases. They're just using the non-CAVT to the extent that they need the smaller-sized product. And so that gives us an opportunity to move and bring the CAVT products to those vascular beds. And most of the time, those physicians have already experienced them in – with our larger systems, both on the arterial and venous side. So they're all excited about getting the benefit of CAVT in those smaller vascular beds. So I think it's a pretty straightforward understanding of it. And I think it will just again make – it will provide the benefit to those patients in the smaller vascular beds with CAVT.
+
+Chris Pasquale
+Analyst, Nephron Research LLC
+That's helpful. Thanks. And then [ph] you mentioned (00:58:24) that reimbursement constraints in Europe could lead to a more measured uptake of Flash and Bolt. Do you see any opportunities to push for incremental reimbursement, maybe through some additional in-country clinical studies or things of that nature?
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Yeah. So I want to just maybe clarify the word you used. We don't really have reimbursement concerns. We just want to make sure we get an appropriate reimbursement for these products. Obviously, they come with more cost. When you're adding a computer to every chip, it's not like a catheter or syringe or something. It's a much different type of product.
+
+So by definition, that requires sort of more work to get that reimbursement and to prove that. And so yes, there are going to be opportunities to do that in different forms, including with data, for sure. And we sort of – I sort of mentioned that again. If you go back to the four-pronged strategy, in addition to that innovation is the generation of data that will continue to drive the growth of this. So it sort of fits into that bucket.
+
+Chris Pasquale
+Analyst, Nephron Research LLC
+Okay. Thank you.
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Thank you.
+
+Operator
+Our final question comes from the line of Mike Matson from Needham. Please go ahead.
+
+Mike Matson
+Analyst, Needham & Co. LLC
+Yeah. Thanks. Just a couple on Thunderbolt. So on the THUNDER trial, do you think we'll see the data at some point maybe in the first half of next year before you submit it to the FDA? And then just pricing on Thunderbolt, I know you're not going to tell us what it is, but is it going to be at a similar sort of premium to what we've seen with what's the venous side?
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Yeah, those are good questions. Well, we haven't even begun to sort of think about the exact timing of when the data would be published and presented. Usually, you do that around one of the significant neuro meetings. But we haven't – let's get the trial done first, and then we can give you updates on the specific timing. And I hope you appreciate that. But again, I'm excited about getting through that and getting it done.
+
+In terms of price, sort of within the confines of the reimbursement structure of neuro, we'll obviously price this to be a profitable procedure for the hospitals. But yes, there likely will be a premium. I can't tell you that it would be dollar-for-dollar matched to a particular other CAVT product. They're all a little different based on the reimbursement structure of those vascular beds.
+
+Mike Matson
+Analyst, Needham & Co. LLC
+Okay, great. Thank you.
+
+Adam Elsesser
+Co-Founder, President, Chairman & Chief Executive Officer, Penumbra, Inc.
+Thank you.
+
+Operator
+All right. There are no further questions at this time. Ms. Furlong, I turn the call back over to you.
+
+Cecilia Furlong
+Director-Business Development & Investor Relations, Penumbra, Inc.
+Thank you, operator. On behalf of our management team, thank you all again for joining us today and for your interest in Penumbra. We look forward to updating you on our fourth quarter call.

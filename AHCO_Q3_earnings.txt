@@ -1,0 +1,313 @@
+Thank you, and good morning, everyone. Thank you for attending our third quarter earnings call. Before we start, I want to acknowledge the extraordinary efforts our team displayed during the recent weather events in the Southeast. Prior to the storms, we contacted more than 40,000 patients from the impacted areas to confirm they had the medical equipment they needed before the severe weather moved in. In advance of the storm, we made sure to deliver oxygen where needed. As a result, there were no material service interruptions. I want to thank the team again for their exceptional performance.
+
+Now turning to Q3 results, we are pleased to report another consistent quarter with results in line with our expectations for revenue adjusted EBITDA and free cash flow. Compared to the previous year revenue was flat with our two larger products, sleep and respiratory delivering growth that offset a decline in diabetes. Sleep increased 3.5%, respiratory was strong increasing 8.6%, while diabetes decreased 11.8%.
+
+Rounding out the numbers, which Jason will cover more in depth, we delivered an improvement in adjusted EBITDA margin and had a positive quarter for free cash flow. We completed the non-core asset sale we announced last quarter, refinanced our senior secured credit facility and paid down another $50 million of debt. As a result, we are now committing to de-levering further with a new multi-year target set at 2.5 times net leverage.
+
+Over the past quarter, our focus has been on establishing a One Adapt approach to operating this business, which means rolling out standard work, new operating structures and identifying growth opportunities.
+
+Let's start with sleep. According to the American Academy of Sleep Medicine, there are approximately 30 million adults in the US living with obstructive sleep apnea, but only 20% have been diagnosed. This market is large and it is growing rapidly, partly because of increased awareness of OSA and the negative health implications by going untreated. As detection technology evolves, we believe more people will be prompted to seek treatment for OSA, with many of those patients seeking CPAP therapy.
+
+There are reasons AdaptHealth is the number one market leader in sleep. It's because our respiratory therapists and sleep coaches provide best-in-class adherence programs, and our resupply team delivers a highly reliable and convenient experience to more than 1.6 million patients. The opportunity for growth in sleep is to increase new patient conversion rates. Right now, approximately 75% of the referrals we receive are fulfilled. We are working on opportunities to improve this conversion rate by introducing a new self-scheduling feature in myAPP, thereby eliminating the need to reach the patient by phone and standardizing workflow processes to eliminate the back and forth of getting services for new patients approved.
+
+Turning to respiratory. Based on data from the American Lung Association, we know that more than 35 million people in the US are living with chronic lung disease, like asthma and COPD. Supporting these patients requires a commitment to excellence, which we have. Our clinical coordination team is unique in the market in that we have multiple levels of respiratory therapist care. As a result, we delivered strong clinical outcomes designed to help lower hospital readmission rates. It is this level of clinical support that differentiates us and results in growth. To maintain our position as the number one market leader in this area, we are focused on optimizing our workflows and exploring opportunities to expand our product portfolio to better help patients living at home with respiratory conditions.
+
+Our sleep and respiratory product lines currently make up the majority of our revenue and we expect continued solid performance in these areas. We must, however, fix our performance and execution issues that we have in diabetes, which currently represents 17% of revenue.
+
+Following last quarter's results, I turned my attention to our diabetes product line and found the outlook was much worse than I thought after my first two months. The reality is the market is growing. Our competitors are growing, and we are not. We acted immediately by dismissing several members of the diabetes leadership team and through a series of diagnostic reviews, we uncovered systemic operational issues that we need to fix. We have taken swift actions to turn this around.
+
+First, we appointed a new leadership team. One, a former CEO of an AdaptHealth acquisition with a background in delivering exceptional service and sleep and home medical supplies. And we brought in a seasoned sales leader with experience in diabetes. Second, we integrated the resupply of our diabetes products into our sleep resupply center of excellence to leverage its leadership, replicate processes and increase performance. Third, we know that acquiring new CGM patients and being able to timely service them is the single most important thing we need to do. Notwithstanding, a dynamic market environment executing here is within our control and we are taking the necessary actions to improve across the board.
+
+Our diabetes improvement efforts are now underway, yet we expect that it will take us a few quarters to demonstrate results. Therefore, we are guiding the balance of the year down based on what we learned and to provide an appropriate amount of time for our actions to have an impact. Unlocking growth in diabetes is an imperative. The American Diabetes Association reports that more than 38 million Americans have diabetes with almost 100 million being pre-diabetic. If we put all these numbers in perspective, there are more than 100 million potential patients for AdaptHealth to serve in the United States. Today, we proudly say 4.2 million patients a year. In simplest terms, growth is about providing exceptional service to the increasing number of patients that need our support.
+
+Another topic I would like to update you on is the progress we are making on the technology front. Last quarter, I mentioned that we were doing a few low-cost experiments with AI and automation. I am happy to report that this is moving quickly and we have moved from inception to production. The mission was to use AI to deal with the massive amount of incoming unstructured data we receive, which is an ongoing healthcare challenge. With the way things are done, we received more than 5 million pages of [ph] faxes (00:21:00) every month, and we rely on a combination of people and technology to get the information in those [ph] faxes (00:21:07) into the correct workflow.
+
+In a matter of weeks, we successfully automated parts of the workflow, and our new automated process enabled by AI has proven to be 99.6% accurate compared to 89% with our legacy process. This was the first step to prove we can do so with accuracy. We are optimistic about our ability to rapidly deploy this technology across our workflows in a way that is responsible. We see AI as a viable option for us to improve our performance, reliability and efficiency. We are prioritizing use cases that will improve our ability to deliver exceptional service. I think it's good to note that due to improved operational rigor and successful cost management initiatives this past quarter, we were able to invest in people and technology while delivering improved bottom line results.
+
+In addition, this is the last quarter we will report results as a single segment. We are moving to four segment reporting structure that consists of sleep health, respiratory health, diabetes health and wellness at-home. This shift to segment reporting will allow for increased transparency and insight into our performance. Most importantly, it will enable us to focus our resources and architect our growth in each segment.
+
+I continue to be optimistic about the road ahead. We have identified growth opportunities. We are assembling a high performing team and investing in areas that allow us to serve even more patients in their homes. Our focus is on execution and continuously improving every day.
+
+And with that, I will turn it over to Jason.
+
+Jason A. Clemens
+Chief Financial Officer, AdaptHealth Corp.
+Thanks, Suzanne. And thanks to all for joining our call today. For the third quarter of 2024, we delivered against our expectations for revenue adjusted EBITDA and free cash flow. We also made considerable progress in strengthening our financial position, disposing of non-core assets, refinancing our senior credit facility, and paying down debt. During the quarter, we completed the previously announced transaction to sell certain custom rehab assets to a third-party. As a reminder, the annual revenue for these assets was about $30 million. So that comes out of our HME revenue run rate going forward. We continue to consider alternatives for a couple of similarly sized product categories that do not fit strategically into our core businesses. In aggregate, they represent less than $100 million of annual revenue, and we will provide updates as we make progress with those initiatives. Third quarter net revenue of $805.9 million was up 0.2% compared to the third quarter of 2023. Sleep revenue of $326.4 million increased 3.5% over the prior year, in line with our expectations as we faced a very high comparable in 2023 due to record starts from fulfilling the backlog following a manufacturer recall. For perspective, over the past two years, sleep revenue grew $55.8 million against $270.6 million in the third quarter of 2022, representing 9.8% of compounded annual growth.
+
+Although CPAP starts to experience the typical sequential deceleration from Q2 as July and August vacation schedules impact sleep testing and referral activity, we were pleased to once again surpass 120,000 starts. Sleep resupply census now stands at over 1.63 million patients, up another 29,000 from the previous quarter. Our CPAP survey indicated 15% of respondents were using GLP-1 to manage diabetes or weight loss, up from 12% last quarter.
+
+Now, a year into our surveys, we are detecting a very slight uptick in CPAP adherence versus patients not indicating GLP-1 usage. So far there is an immaterial difference in resupply ordering patterns. We will continue to monitor and report these trends as time goes on.
+
+Diabetes revenue of $141.1 million decreased 11.8% compared to the third quarter of 2023, driven by lower CGM revenue. Before we get into those details, we were encouraged to see stabilization regarding insulin pumps and related supplies, representing $28.4 million of revenue for the quarter about flat against the prior year.
+
+For CGMs, we previously discussed reimbursement channel pressure as some payers shifted reimbursement policy to 100% pharmacy in 2024. That landscape has remained steady over the year, but as we lost access to members in a handful of markets in early 2024, we failed to overcome that headwind with new sales orders. We also shipped fewer weaker orders than expected impacted by the operational challenges Suzanne discussed.
+
+Respiratory revenue of $164 million increased 8.6% compared to the third quarter of 2023, led by oxygen exceeding our expectations. For the first time in our history, our oxygen sensors surpassed 325,000 patients actively on service. Most patients on oxygen need to order tank refills periodically, and until recently that has been a time-consuming process. During the quarter, 7.5% of our O2 patients ordered tank refills without having to interact with an Adapt customer service representative via new technology just launched in myAPP as well as chatbot technology recently launched in our interactive voice response telephone systems. This tech was launched in the second quarter with only 1.5% of O2 patients ordering through these platforms 90 days ago. So we are making progress quickly.
+
+Revenue from all other product categories of $174.3 million decreased 1.9% over the prior year. Aligned with our expectations driven by revenue loss from the sale of certain custom rehab assets.
+
+Turning to profitability third quarter adjusted EBITDA of $164.3 million reflects an adjusted EBITDA margin of 20.4%, a slight improvement over the same period last year. This margin expansion was driven by revenue mix, meaning that higher margin products like sleep and respiratory outgrew lower margin products like diabetes. We were pleased to maintain labor expense year-over-year as we installed enough efficiencies to pay for merit-based salary raises and other labor inflation.
+
+Operating expenses and G&A were in line with our expectations. Cash flow from operations was $144.4 million. Days sales outstanding for Q3 was 47.9, down from 48.9 in the previous quarter as accounts receivable continue to normalize following the change healthcare situation earlier this year. CapEx of $59.6 million represented 7.4% of revenue, down against 9.6% of revenue in the third quarter of 2023.
+
+Free cash flow of $84.8 million outperformed our target of $30 million, the $30 million estimate assumed that we would pay off a $40.7 million loan offered as part of Optum's Temporary Funding Assistance Program. Related to the Change Healthcare outage earlier this year. However, that pay-off did not occur until mid-November – excuse me, mid-October. After adjusting for the timing of that cash outflow, we still produce strong cash flows for the quarter. So we are again raising full year guidance.
+
+During the third quarter, we amended our debt agreement to lock a $950 million senior secured credit facility consisting of a fully funded $650 million term loan A and a $300 million revolving line of credit. Proceeds from the new $650 million term loan were used to fully repay without penalty the company's existing term loan due to reach final maturity in January of 2026. The new $300 million revolver replaces the company's existing $450 million revolving credit facility, which had no balance drawn at the end of the third quarter. The reduced revolver size decreases undrawn commitment fees. The interest rate pricing for the new senior secured credit facility decreased from the interest rate pricing in AdaptHealth existing bank credit facility. And the new maturity is extended up to September 13, 2029.
+
+At the end of the third quarter, we paid an additional $50 million against the term loan A balance resulting in a net leverage ratio of 2.87 times compared to 3.51 times in the third quarter of 2023. We are very pleased to have achieved our net leverage target of 3 times ahead of schedule and we remain focused on paying down debt, so much so that we are introducing a new multi-year net leverage target for the company at 2.5 times net leverage as defined in our covenants.
+
+We expect to acquire home medical equipment providers in the future as access and scale are important to us. But for the next few quarters we expect acquisition activity to be limited. When and where it makes sense, we will acquire but will otherwise remain focused on paying down debt and increasing our free cash flow conversion.
+
+For the balance of 2024, we are adjusting our revenue midpoint down $45 million and our adjusted EBITDA midpoint down $50 million responding to recent trends in diabetes. Our updated full year guidance is net revenue to be in the range of $3.22 billion to $3.26 billion adjusted EBITDA to be in the range of $655 million to $675 million. And even with these updates, given the continued positive trends in working capital, we expect free cash flow to be in the range of $175 million to $195 million.
+
+With that, we'll open the call up for questions. Operator?
+
+Question And Answer Section
+Operator
+Thank you. [Operator Instructions] And we will take our first question from Kevin Caliendo with UBS. Please go ahead. Please go ahead, Kevin Caliendo. Your line is open.
+
+Kevin Caliendo
+Analyst, UBS Securities LLC
+Sorry, I was on mute. I apologize. Thanks for taking my question. I just want to go through the diabetes issues a little bit more in depth. How much of this is related to issues with manufacturers? Does it require more collaboration? Is it more of a market with the end market? What's happening there in terms of moving pharmacy versus DME? Like any help around what's really happening in the end markets and what's happening with your clients would be great.
+
+Jason A. Clemens
+Chief Financial Officer, AdaptHealth Corp.
+Yeah. Kevin, couple of comments. No, we have not identified the compression in revenue to any specific issues with manufacturers. In fact, the CGM manufacturers as well as all the pump manufacturers have been very good parties to work with and good partners over the years. I mean, they've supported various integrations of data and technology coming from their devices inside of our four walls. We've done that kind of work before, that takes, frankly, a tremendous amount of collaboration, working across different companies.
+
+We certainly are continuing to face pressure from the pharmacy channel reimbursement changes. So we referenced that in our prepared remarks. We have not seen this quarter really any shift in major payer activities against what we saw in the second quarter or against what we saw in the first quarter. And so even though we do have some pressure to overcome from prior year, that environment has remained relatively steady.
+
+What we are saying is that the new starts that we had expected from adding sales folks, we are not going through, frankly, anywhere near our expectations and the growth that we believe is there in the market. And then on the [ph] reoccur (00:34:47) side, we do have some operational challenges that have been unpacked. And we are deploying our sleep resupply operation towards improving. I mean, just a minor tick or two in [ph] reoccur (00:35:01) since it represents such an overwhelming part of revenue, if you do great performance, you can have big impact and that's what we're absorbing here in the third quarter.
+
+Kevin Caliendo
+Analyst, UBS Securities LLC
+Great.
+
+Suzanne Foster
+Chief Executive Officer & Director, AdaptHealth Corp.
+I'll just doubled down on it. I think that our partnerships with the manufacturers are strong and continuing to get stronger. We're meeting regularly and I'm happy to see that that partnership is taking on a whole new life. So I think that's positive. The reimbursement shift obviously has been a headwind. But what the message today is we should be able to grow through that given what we know about the end markets and we're not growing through it as a result of our own operational issues internally that I believe we can fix over the next couple quarters.
+
+Kevin Caliendo
+Analyst, UBS Securities LLC
+That's helpful. If I can ask a quick follow-up, then I think a logical one is how much would you think this will impact 2025. If we think about the bar for 2025, the revenue growth is around 5%. I'm not asking for guidance, but there's the issue with diabetes that you're having now, does that spill over into 2025, and could that be an incremental headwind as we think about that?
+
+Jason A. Clemens
+Chief Financial Officer, AdaptHealth Corp.
+Well, Kevin, I think I'd say that we plan to guide 2025 at the – near the end of February when we report the fourth quarter. When we think about the fourth quarter, I mean, we took down top line by $45 million. I mean, there are ins and outs to that. But essentially what we're saying is we delivered $140 million of revenue here in the third quarter. We're not committing to more than that in the fourth quarter. I mean, we have guided down, which creates a $45 million compression against the fourth quarter of last year because we don't want to overcommit.
+
+We do have, we believe, the right people in the right seats with the right organizational changes, most specifically reorganizing all resupply operations out of our resupply center in Nashville that has produced incredible performance in our sleep business for many, many years. So we are focusing on that. But we're just not going to commit to any more growth even sequentially until we know that we're confident in doing so.
+
+So how that impacts 2025, I mean, I think it goes without saying, we – as we stand here today, we anticipate some pressures in 2025. But, you know, we've got another 90 days ahead of us and we're going to do our work and we'll come back with updated guidance at that time.
+
+Kevin Caliendo
+Analyst, UBS Securities LLC
+Appreciate the color. Thanks.
+
+Operator
+Thank you. And we will take our next question from Mathew Blackman with Stifel. Please go ahead.
+
+Mathew Blackman
+Analyst, Stifel, Nicolaus & Co., Inc.
+Oh, great. Good morning, everybody. Thank you for taking my questions. I'm also going to touch on diabetes here and maybe sort of frame it this way. It does sound like you're still bullish on the long-term prospects of this business. I think in the recent past, you've talked about diabetes, maybe growing higher single digits. Is that still in play, perhaps, of course, over a longer timeframe.
+
+And then the follow-up question, I was just hoping to understand how you better get after new patients in the CGM franchise. Obviously, there's been a sales force expansion, but just practically speaking, how do you execute on getting new patients into the business? I'd be interested in hearing your thoughts there. Thank you.
+
+Suzanne Foster
+Chief Executive Officer & Director, AdaptHealth Corp.
+Okay. I'll start with the second part of the question and then Jason, go back to the numbers. So the third point of the plan around, obviously increasing CGM new starts is the number one thing we need to do literally across the business. And the plan there is you cannot, in my opinion, just go continue to put out more and more salespeople and expect a different result. They can only sell as good as we are on the operational side. And so what I've uncovered this quarter is that we have to beef up or improve the timeliness and [ph] sees (00:39:04) in which you can order a CGM for us, how we bring that new patient in. And so we're pushing on two fronts, one is our operations team is looking at how do we streamline the processes, make it easier so that when our salespeople go out to a referring provider, we can promise service levels that are more in line with the market.
+
+And unfortunately, over the last couple of quarters, we have been lagging behind in the timeliness of delivering on that promise. And so we're stabilizing the sales force, making sure we're going out and having a high touch white glove experience with our referring providers and at the same time, our operators are charged with streamlining their workflows and their performance so that we can deliver with speed and quality.
+
+Jason A. Clemens
+Chief Financial Officer, AdaptHealth Corp.
+I think, Matt, in regard to the question about the end market and the growth, we'd offer two different ways to look at that. Firstly, I think if we consider the Q3 comments from the CGM manufacturers, I think one reporting, very low-single digits and the other reporting mid-20% growth, they're not, 50-50 in the marketplace necessarily. But when accounting for that, I mean, you're going to be in a whether it's 10%, 12%, 9%, somewhere in that ballpark.
+
+The second data point is that, look, some of our public competitors have recently reported what we believe to be upper single digit growth for the quarter. I mean, as a segment producing 5% to 6% growth. And when asked if diabetes is leading the way, implying they're growing faster than that. So, those two data points alone, we do believe that the market is growing upper single digit, perhaps lower double digit. And in fact, we compressed, almost 12% this quarter.
+
+So Like Suzanne said in her prepared remarks, the market is growing, our competitors are growing, we are not, and so that's the work that we're putting in to fix these operational challenges.
+
+Mathew Blackman
+Analyst, Stifel, Nicolaus & Co., Inc.
+Got it. And if I could just squeeze one follow-up, maybe. Suzanne, organic growth, I think in particular, you've sort of identified you said opportunities for organic growth. I think in the past, I've heard you talk about things like national accounts and contracting. Maybe just give us a sense of some of the other opportunities or if you want to talk a little about national accounts and what kind of opportunity that could be for Adapt. As we think about the organic profile of the company over the next several years, would be interested in hearing that. Thank you.
+
+Suzanne Foster
+Chief Executive Officer & Director, AdaptHealth Corp.
+Appreciate that question. Yes. So as I said at the end, we were able to continue to increase bottom line, even though we made technology and people investments. Those people investments this last quarter did from beefing up our national accounts or what we're calling enterprise sales team. The reason for that is I believe there's two additional organic growth drivers here. One is in larger health systems, we do a very, very nice job in certain geographies around partnering with large health systems to have a seamless experience when patients are discharged from the health systems. But we have not nationalized that program and we are now in the process of doing that, which I'm optimistic about. I think we have an incredible value proposition on that front. So we're investing in that area.
+
+And then the other area that we're highly focused on is increasing the total covered lives. So our managed care team and how do we make sure that we have our fair share of covered lives so that when our sales force goes in, we can basically be a one-stop shop for any referral source that says we can take almost any payer and we offer the total portfolio of products. If you send it to us, we promise we can deliver well for your patient.
+
+Mathew Blackman
+Analyst, Stifel, Nicolaus & Co., Inc.
+Thank you.
+
+Operator
+Thank you. And we will take our next question from Eric Coldwell with Baird. Please go ahead.
+
+Eric White Coldwell
+Analyst, Robert W. Baird & Co., Inc.
+Okay. It very well could be redundant and obvious, but last year in diabetes, you did $185 million in sales in the fourth quarter. This quarter, you're only committing to $140 million. So that's the equivalent of the one – of the $45 million midpoint revenue guidance cut. I just want to confirm that the only adjustment to revenue guidance is this diabetes change.
+
+And then secondarily, you missed diabetes a little bit here this quarter, handful of millions of dollars, margin was good, but this is a much bigger step-down. So what is the margin impact, whether it's fourth quarter or going into 2025 from the significantly reduced diabetes revenue outlook? Thank you very much.
+
+Jason A. Clemens
+Chief Financial Officer, AdaptHealth Corp.
+Sure, Eric. Yeah, we'll confirm that the guide down is diabetes. I mean, we are guiding down due to the recent CGM performance. When we think about what we were aiming at internally Q3, we were down about $10 million top line for diabetes. And so that's a little bit of this. We've rolled that ahead. But the rest of it is just not committing to any sequential growth in the quarter.
+
+Now, it's pretty typical to get a bump up as deductibles have reset, and there's a big push in the fourth quarter. But again, until we resolve these operational issues, we just aren't ready to commit to higher growth. But it is all diabetes impacted.
+
+You think of EBITDA the same way, I mean we took about a third of that top line of the $45 million and we passed through $50 million flow through to the bottom line again, we want to put out numbers that we feel very good about hitting for the fourth quarter. And as we think about 2025, as referenced earlier, I mean, we'll come forth with that guidance at the end of February.
+
+Eric White Coldwell
+Analyst, Robert W. Baird & Co., Inc.
+And so, Jason, for both the revenue and the EBITDA, all of the change was diabetes specific?
+
+Jason A. Clemens
+Chief Financial Officer, AdaptHealth Corp.
+Yes, correct.
+
+Eric White Coldwell
+Analyst, Robert W. Baird & Co., Inc.
+Okay. So you fix that problem. You're back on track. There's nothing else here.
+
+Jason A. Clemens
+Chief Financial Officer, AdaptHealth Corp.
+Yeah. That's right. I mean, when we look at the other product lines, we expect a solid fourth quarter, obviously. As we've demonstrated, I think, frankly, year-over-year, respiratory, we believe will continue to compound slowly. We add couple of million a quarter consistently. And that's what we're expecting out of that product line. And then all other categories, which is, will get reported in the future as wellness at-home. We're expecting generally flat performance. I mean, we're going to take out about $7 million to $8 million from the custom rehab asset disposition. We accounted for that in the last guidance update when we report in Q2. So, yes, I think that, if we're able to do better in diabetes, that will be, we'll do better as a portfolio. But the rest of the product lines are performing as expected.
+
+Operator
+Thank you. And we will take our next question from Brian Tanquilut with Jefferies. Please go ahead.
+
+Brian Tanquilut
+Analyst, Jefferies LLC
+Hey, good morning, Jason. In the prepared remarks you guys talked about app and the quick progress you're seeing there, so just curious how you're thinking about the savings opportunity from reducing call center operations or call center interactions with patients over the next year or next 18 months?
+
+Jason A. Clemens
+Chief Financial Officer, AdaptHealth Corp.
+Yeah, good. Good question, Brian. I may answer that with some nuance. The intent of assembling the company going forward against these large patients, chronic disease states, right, respiratory being one of them. The intent is really to focus our resources and our people against getting after that TAM. And in each of these categories, it's large TAM, it's growing rapidly, particularly in sleep and respiratory, I mean, we're market leaders.
+
+And so, the intent here is to assemble our resources and people around taking more than our fair share of really growing that top line. As well, the intent is to improve the patient experience, drive better patient outcomes, figure out how that converts to potentially rate increases or more volumes, right? So we really want people and resources, waking up every day and focused all day on those goals. And so, yes, there's been great tech already installed here with respiratory, we think with dedicated leadership those conversions will go faster, we'll learn more. We're capturing a tremendous amount of data from these interactions through this new tech that's been rolled out. And these people are going to be focused on capitalizing on that growth going forward.
+
+Brian Tanquilut
+Analyst, Jefferies LLC
+Got it. And then maybe just as a – go ahead, go ahead, Suzanne. Yeah.
+
+Suzanne Foster
+Chief Executive Officer & Director, AdaptHealth Corp.
+Can I just add one thing on that. I just want to say, I know it's early days for us in terms of the automation and the AI and our launch of myAPP. But I have been incredibly encouraged by our ability to move quickly. As I said, it's matter of weeks that we put something into production, that is because our existing tech architecture and infrastructure was already prepared to take on this more advanced technology. And so our partner that we work with on this front said most companies do not have the infrastructure that's already ready to go and so we have this diamond in the rough, if you will, of a strong technology infrastructure that we're going to be able to rapidly deploy responsibly the myAPP features and increased automation in AI. So more to come early days as I suggested. But I do think it's the strength of AdaptHealth.
+
+Brian Tanquilut
+Analyst, Jefferies LLC
+Appreciate it. And then maybe Jason, my follow up, just as I think about Medicare rates for 2025, they have visibility into what that rate adjustment looks like.
+
+Jason A. Clemens
+Chief Financial Officer, AdaptHealth Corp.
+Well, we don't have visibility. We don't want to speculate, but we will offer some data. We would fully expect that there'd be post fee schedule. It's typically published December 6, 7, kind of in that ballpark. That is our expectation based on what we're hearing out of Washington. For those that may not follow that fee schedule, how it's constructed very closely. I mean, it is an inflation-based measure. It compares the CPIU through June of the prior year, they take those rolling 12 months of the prior year. And so we know that number already. That's about 3% or so.
+
+Historically, there has been a labor productivity factor applied against that inflation measure that brings the rates down. It depends on the year. It could be half a point, could be a point. So, somewhere in that ballpark is generally what we are thinking. But again, we don't want to speculate on any of this until things are formally published. But hopefully that provides some perspective.
+
+Brian Tanquilut
+Analyst, Jefferies LLC
+Understand. Thank you.
+
+Operator
+Thank you. And we will take our next question from Whit Mayo with Leerink Partners. Please go ahead.
+
+Whit Mayo
+Analyst, Leerink Partners LLC
+Thanks. Good morning. I got just one quick one just on the Humana contract, how that's tracking versus internal expectations, what you're excited about, not excited about and just any other conversations with other payers. Is this something that you still want to expand? Just any additional thoughts would be helpful. Thanks.
+
+Suzanne Foster
+Chief Executive Officer & Director, AdaptHealth Corp.
+Hi, Whit, I'll say that Humana is doing right spot on. Very good. We want more of this business. If you link back to my comments around putting more investment in people into the business on enterprise, national accounts and managed care engagement, they are tasked with, are there more opportunities like Humana, we are exploring those and that's the type of business I think is very good for us. So Humana has worked out very good big partnership there, and hopefully, we'll have more of those to share soon.
+
+Whit Mayo
+Analyst, Leerink Partners LLC
+Great. Thanks. Thank you.
+
+Operator
+Thank you. And we will take our next question from Richard Close with Canaccord. Please go ahead.
+
+Richard Close
+Analyst, Canaccord Genuity LLC
+Yeah. Just two questions, Suzanne. Can you talk a little bit about the more the investments in the team, the changes that have been made, I guess, specifically on diabetes as well, and then the potential divestiture of these other businesses that Jason highlighted?
+
+Suzanne Foster
+Chief Executive Officer & Director, AdaptHealth Corp.
+Okay. Jason will address the divestitures and let me talk about the team. So the way we were organized is we had a president of diabetes, the [indiscernible] (00:52:44) leader and diabetes was somewhat standalone, if you will, and then we had the remainder of the business. So in these changes, what we did is we tapped a very experienced, as I said, former CEO of one of our larger acquisitions, his name was Gary Sheehan to be general manager. So we've abandoned the president role. The general manager is going to report into our new Chief Operating Officer, Scott Barnhart, who I've mentioned in the past.
+
+The reason for that change in reporting is because so much of what we need to do is to leverage our strengths on the sleep and respiratory side, the remainder of the business or the diabetes business where it makes sense. And so having the GM sit underneath the Chief Operating Officer that can leverage the entire Adapt business where it makes sense was an important first step. Given that Gary has a long history in leading sleep, HME business, in his words, he'll say diabetes is essentially the same business without the big CPAP machine. The timeliness of service, the cadence of the patient and the experience. So I'm very optimistic about his experience in leading a business, but also the mindset in the how he's going to think about managing the broader AdaptHealth business to improve our diabetes business.
+
+Second to that, we appointed a new sales leader for the diabetes business, someone with med device background. His name is Graham Ward. He's been a top seasoned sales leader at the likes of Medtronic. I have spent time in at Cardinal and then most recently came over from Google where he was in the national accounts role. Graham has joined us and brings that very deep sales experience that he's getting his arms around the sales force that we have, understanding why that expansion didn't perform like it should have, putting in quotas, territory management, but more importantly, doing exactly as Gary's doing where he's looking at the 700 salespeople we have out there on the HME side and saying, how do we work together to not only use our [indiscernible] (00:54:53) diabetes salespeople, but how do we bring our army of 700 to help support the cause, because everyone across AdaptHealth knows that turning around diabetes is the most important thing we need to do.
+
+In addition to that, we talked about moving the resupply business. It became obvious that we have a diabetes resupply business and then we have this crown jewel at AdaptHealth of our fleet resupply center of excellence out of Nashville. That leadership team is solid. They have clear standard work processes, proven excellence. And so we shifted our resupply business to that team and that organization. And so through that infrastructure, we believe we'll be able to deliver a better resupply experience to the patient. And so I'm excited about that work.
+
+Those are the bigger changes. So from the top, we have the new Chief Operating Officer who's driving timely and quality service. We have a new general manager that's paying attention to the manufacturing relationships, how do we integrate and use the best of the best across AdaptHealth. A new sales leader, and then a gentleman named [ph] Matt Kocs (00:55:58) who runs our sleep resupply that will be taking on the diabetes resupply for us.
+
+Jason A. Clemens
+Chief Financial Officer, AdaptHealth Corp.
+And then switching gears, Richard, to central potential disposition of assets. We're really talking about some of the sub-categories in what we – in the future will be calling wellness at-home. And so there's different products inside of wellness at-home. Some include the classic [indiscernible] (00:56:28), beds, wheelchairs, walkers. Now, we like that business a lot. It's very important, particularly in securing, hospital relationships where you're able to be the easy button for those [ph] front (00:56:42) providers that are discharging patients.
+
+And as you deliver excellent service, you earn more referrals in our other core areas, most notably respiratory and sleep. And so, those products are ancillary, if you will, into the core into those three core products that we intend to segment around. There's other lines of business inside of wellness at-home, and home infusion is one that comes to mind. I mean, much like custom rehab, we've built up somewhat of a collection of assets over the years that were pieces and parts of other acquisitions, where you do this long enough and some of these can get pretty large. So does – we're asking ourselves questions like, well, does that product line deliver ancillary business into the core? So we're in process of answering those questions and making those determinations.
+
+I mean, there are other examples, but I won't get into those today. But that's really where our focus is, is to take areas where we just haven't paid enough attention. These assets would be better owned by someone else. They're pretty low growth for us, should improve margin, frankly, if and when we decide to dispose of them and we'll continue to provide updates going forward.
+
+Richard Close
+Analyst, Canaccord Genuity LLC
+Okay. Thank you.
+
+Operator
+Thank you. [Operator Instructions] And we will take our next question from Pito Chickering with Deutsche Bank. Please go ahead.
+
+Pito Chickering
+Analyst, Deutsche Bank Securities, Inc.
+Hey, guys. Thanks for taking my questions. Can you talk back to the CGM reordering issues that you talked about on the call. You have such a good model for DME. Are we ordering for your whole business? So, can you quantify how big the CGM delays were in the reordering, why those are delayed and how you can fix it? And if those delays are in both pharmacy and DME.
+
+Jason A. Clemens
+Chief Financial Officer, AdaptHealth Corp.
+So a couple of things, Pito. First, we'd say that, starting with sleep resupply in our Nashville operation center. I mean, we've got hundreds and hundreds of people working out of that center. The tech that is used there that sits on top of Brightree. Some of that core design was frankly developed by AdaptHealth and employees of AdaptHealth, and it's so ingrained into our workflow. So it operates with the precision of knowing exactly what the patient qualifies for. We know the benefits of proper resupply following proper cadence.
+
+And that team works to advise patients, work with patients on things that aren't their adherence, like things aren't fitting properly or they might have a different model that they want to explore. And so, those teams are just so highly skilled at that.
+
+Historically, we have not yet integrated our diabetes resupply operation into Nashville, frankly, because we had integration work to do on the eight different diabetes companies that we bought. And so there was a couple of years of work that went into consolidating all of these patients onto a single platform, single databases, and that work has been completed. And so, a very quick move that Suzanne has directed and the team is carrying out is to now take advantage of all the capability and infrastructure that we've got out of Nashville and bring diabetes into that.
+
+In terms of quantifying, I mean, the overarching, compression over the prior year, I mean, think of it in three buckets, fairly equal buckets. The first being, real reimbursement change, pressure from specific payers that we've named in previous calls that shifted to 100% pharmacy, and that was ground that we had to make up. And so, we're continuing to absorb that, and we will as well in the fourth quarter until we lap those changes next year.
+
+The second is in new starts. I mean, we were a little short in Q2, but it was too early to call revenue down. As a lot of these sales folks are still new. Suzanne said I mean, there's a lot to be done to optimize their workflows. And we think that Gary, Graham and others are going to do a great job with that. But just that miss in Q2 and then in Q3, [ph] the leading quarter (01:01:24) miss against new starts that had an impact and has a carryforward into Q4 that we made an adjustment for.
+
+And then finally is on the [ph] reoccur (01:01:34), frankly just dropping the ball in, who is eligible when and making sure that we've got timely order confirmation and delivery of products. So, those are the three buckets and those are the three areas that, Suzanne brought forth the plan that we're going to run against here over the next 90 days.
+
+Pito Chickering
+Analyst, Deutsche Bank Securities, Inc.
+Great. And then a follow-up question here. Just looking at the overall market growth between the two channels, pharmacy channel and HME I guess, what do you think that these two channels are growing in 2024? And as you think about store growth in the out years, kind of where do you guys think that you guys can grow within both channels? Thanks.
+
+Jason A. Clemens
+Chief Financial Officer, AdaptHealth Corp.
+Yeah. I mean, it's again, too early for us to comment on 2025 or even beyond. We do know that right now there are competitors in the space with same or similar capabilities that we have that are growing quite nicely. And so, our job is to first stabilize and prevent [ph] depression (01:02:31), and then, get back to growth mode, and that's what we're focused on.
+
+Pito Chickering
+Analyst, Deutsche Bank Securities, Inc.
+Okay. Great. Thanks so much.
+
+Operator
+Thank you. And we will take our next question from Ben Hendrix with RBC Capital Markets. Please go ahead.
+
+Ben Hendrix
+Analyst, RBC Capital Markets LLC
+Hey, guys. Thanks for squeezing me in here. Just a quick question and apologies if I missed this, but I think last quarter you talked about some of that channel shift, maybe some reabsorption or transition back among some carriers to the DME Channel. Just wanted to see if there was any, you've kind of outlined your expectations for 4Q, but is there any indication to how that could look into next year, or is there any transition back incremental that you're seeing or any indication of how that balance will kind of even out long term? Thanks.
+
+Jason A. Clemens
+Chief Financial Officer, AdaptHealth Corp.
+Hey, Ben, it's Jason. Not since last quarter, I mean, we did call reference to two Southeast states regarding Medicaid where they've laid in new policy that was somewhat advantageous. And so we're doing our work there to start earning some business. But it's nothing material that's impacting the top line. Regarding any future shifts or changes one way or the other, I think we'll reserve those comments until, you know, open enrollment season wraps up and payers published new policy as we're getting into January. And we'll have something to talk about when we report at the end of February.
+
+Ben Hendrix
+Analyst, RBC Capital Markets LLC
+Great. Thanks, guys.
+
+Operator
+Thank you. And it appears that we have no further questions at this time. I will now turn the program back to Suzanne Foster.
+
+Suzanne Foster
+Chief Executive Officer & Director, AdaptHealth Corp.
+Well, once again, everyone, I just want to thank you for tuning in this morning. I mean, the takeaway hopefully you get the gist of it is that kind of the 80-20 rule is with diabetes 17% of our revenue. We definitely have an opportunity there and we are incredibly focused on improving in that area. And the guide that we issued today is really de-risk that and give the team time to perform.
+
+But 80% of our business continues to perform solid. There's obviously an opportunity for continuous improvement, but we are working on that as well with the addition of a lot of technology and myAPP and people and org structure will continue that work. But very optimistic about the core of our business and our future.
+
+So hope to see you all out there on the road and thanks again.

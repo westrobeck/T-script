@@ -1,0 +1,261 @@
+Good afternoon. Thank you for joining us today for CVRx's third quarter 2024 earnings conference call. Joining me on today's call are the company's President and Chief Executive Officer, Kevin Hykes; and Chief Financial Officer, Jared Oasheim.
+
+The remarks today will contain forward-looking statements, including statements about financial guidance. The statements are based on plans and expectations as of today, which may change over time. In addition, actual results could differ materially due to a number of risks and uncertainties, including those identified in the earnings release issued prior to this call and in the company's SEC filings, including the upcoming Form 10-Q that will be filed with the SEC.
+
+I would now like to turn the call over to CVRx's President and Chief Executive Officer, Kevin Hykes.
+
+Kevin Hykes
+President, Chief Executive Officer & Director, CVRx, Inc.
+Thanks, Mike. Good afternoon and thank you for joining us. I'm pleased to report another quarter of strong performance driven by solid execution within our US heart failure business. We delivered total revenue of $13.4 million; an increase of 27% over the third quarter of 2023. I'm excited about the progress we're making and the positive impact Barostim therapy is having on patients.
+
+In the third quarter, we continue to build on the momentum that we established earlier this year. Our strengthened leadership team and stabilized sales force have been instrumental in driving our market development priorities and advancing the adoption of Barostim therapy. As I will describe in more detail shortly, we secured two significant reimbursement wins during the quarter. First, a significantly higher DRG payment for inpatient procedures; and second, the approval of Category I CPT codes. These achievements marked a significant step forward in expanding patient access to Barostim.
+
+Before I dive into an operational review, I'd like to welcome Kevin Ballinger and Mitch Hill to our board of directors. Kevin brings over 25 years of experience in the medical device industry with extensive expertise in product development, global commercialization, and strategic planning in the cardiovascular space. Mitch brings more than 30 years of financial and operational experience in the healthcare and technology sectors. Their combined experience will be invaluable as we continue to grow and expand the adoption of Barostim therapy.
+
+Our focus remains on addressing key barriers to the adoption of Barostim, which include improving patient access to the therapy, increasing education and awareness among physicians, advanced practice providers and patients, and developing a more robust portfolio of clinical evidence. Starting with patient access, we've recently secured two significant reimbursement wins, but first I want to start with a reminder about OPPS. CMS released its proposed rule changes for the 2025 hospital Outpatient Prospective Payment System in July. We've been actively engaged with CMS physicians and hospital stakeholders during the comment period to advocate for maintaining Barostim's current placement in the new technology APC or for the creation of a Level 6 Neurostimulator APC. We look forward to publication of the final rule in the coming days.
+
+On the inpatient side, we're pleased that the final Inpatient Prospective Payment System rule for fiscal year 2025, which was released in August, confirmed the reassignment of Barostim to MS-DRG 276. This change which results in an increase in the inpatient payment to hospitals from approximately $23,000 to approximately $43,000 took effect October 1st, 2024. We believe that this significant increase in hospital payment will further support the adoption of Barostim in the inpatient setting.
+
+Moving to coding developments, the American Medical Association CTT Editorial Panel has accepted new Category 1 CPT codes for Barostim therapy, which we expect to be implemented on January 1st, of 2026. This transition from Category 3 to Category 1 codes was led by the Society for Vascular Surgery, with support from the American College of Cardiology. The Category 1 CPT code approval is particularly significant as it will eliminate automatic prior authorization denials associated with the Category 3 code for the roughly 50% of our patient population that require prior authorization. It will improve payment predictability and hospital throughput, and it will unlock access to important new markets like TRICARE, where Category 1 codes are required for coverage. This designation represents an important milestone for the company, and is a testament to the increased adoption, safety and effectiveness of Barostim as an important option for patients suffering from debilitating heart failure symptoms.
+
+Our second initiative focuses on increasing education and awareness among referrers and patients. We've expanded our outreach efforts beyond heart failure specialists to include general cardiologists and their advanced practice providers. Our Barostim Connect program continues to be effective in providing education and prior authorization support to prospective patients. Additionally, shortly after the end of the quarter, we launched a comprehensive educational program for heart failure fellows called Ascend. In early October, we held the first of a series of 3 courses with 34 fellows, taught by a faculty team from across the United States. This program aims to explore effective management of heart failure patients, review evidence-based treatment strategies and educate heart failure fellows on innovative devices in heart failure treatment, including practical training on the implementation and use of Barostim.
+
+We believe investing in the education of these future specialists is important to our commitment to the heart failure community and helps advance adoption and broader understanding of how Barostim can contribute to the standard of care. Our third focus area is developing a more consistent stream of clinical evidence supporting Barostim therapy. We're making progress in publishing additional scientific evidence that more fully describes Barostim's mechanism of action and the wide range of benefits to patients. In the quarter, there were two important publications. First, new data published in the Journal of the American College of Cardiology Heart Failure, showed significant and sustained improvements in quality of life measures for patients receiving Barostim, plus guideline directed medical therapy as compared to those receiving only guideline directed medical therapy. Patients in the Barostim treatment arm reported significant improvements in physical activities, psychosocial measures, and reduced heart failure symptoms.
+
+Second, a peer-reviewed publication from the European Society of Cardiology Heart Failure provided evidence of Barostim's long-term efficacy, showing sustained reduction in NYHA classification, improved left ventricular ejection fraction and decreased NT-proBNP levels in HFrEF patients.
+
+In addition, consistent with our goal of increasing the cadence and visibility of clinical data, five new abstracts on Barostim were made available online for the Heart Failure Society of America 2024 meeting. These single center observational studies showed favorable results, including improvements in left ventricular ejection fraction, or LVEF, reduced cardiac arrhythmias, and decreased diuretic usage. One example of these abstracts was from the University of Southern California, which demonstrated a statistically significant LVEF improvement in patients 12 months after receiving Barostim therapy. These publications and research findings continue to build a more comprehensive scientific foundation for Barostim's impressive results and support its integration into the standard of care for treating heart failure.
+
+Importantly, we believe these data resonate strongly with our customers, helping them appreciate the real world benefits of Barostim for their patients. Beyond our focus on the barriers to adoption, we are strengthening our commercial execution. Since joining as Chief Revenue Officer in late-June, Robert John has been making significant strides building a world-class sales team, and I continue to be impressed with the quality of the talent he's attracting to our organization. Under his leadership, we've optimized our go-to-market strategy with the goal of driving deeper penetration within existing accounts and expanding the adoption of Barostim. We are increasing our focus on targeting accounts where Barostim is integrated into the treatment continuum and supported by multiple heart failure physician champions and surgical partners. These accounts are demonstrating sustained therapy adoption and are serving as models for our expansion efforts.
+
+I want to emphasize our continued optimism about Barostim therapy, our market opportunity, and the strength of our organization. The changes we've implemented are improving both near-term execution and driving long-term adoption in the HFrEF market by reducing the barriers to adoption. As we look ahead, we remain committed to our goal of making Barostim therapy the standard of care for heart failure patients. With our innovative technology, expanding market presence, and strengthened leadership team, we're well-positioned to make a meaningful difference in even more patient's lives.
+
+Now, I'd like to turn the call over to Jared for a financial review.
+
+Jared Oasheim
+Chief Financial Officer, CVRx, Inc.
+Thanks, Kevin. In the third quarter, total revenue generated was $13.4 million, representing an increase of $2.9 million or 27% compared to the same period last year. Revenue generated in the US was $12.3 million in the current quarter, reflecting growth of 28% over the same period last year. Heart failure revenue in the US totaled $12.2 million in the current quarter on a total of 391 revenue units compared to $9.4 million in the third quarter of last year on 303 revenue units. The increases were primarily driven by continued growth in the US heart failure business, as a result of the expansion into new sales territories, new accounts and increased physician and patient awareness of Barostim.
+
+At the end of the current quarter, we had a total of 208 active implanting centers compared to 159 on September 30th, 2023 and 189 on June 30th, 2024. Active implanting centers are customers that have completed at least one commercial heart failure implant in the last 12 months. We also had 45 sales territories in the US at the end of the current quarter, compared to 35 on September 30th, 2023 and 42 on June 30th, 2024. Revenue generated in Europe was $1.1 million in the current quarter, representing an increase of 15% compared to the same period last year.
+
+Total revenue units in Europe increased to 56 for the three months ended September 30th, 2024, up from 47 in the prior year period. The number of sales territories in Europe remained consistent at 6 for the three months ended September 30th, 2024. Gross profit for the three months ended September 30th, 2024 was $11.1 million, an increase of $2.3 million compared to the three months ended September 30th, 2023. Gross margin was 83% and 84% for the three months ended September 30th, 2024 and September 30th, 2023, respectively.
+
+Research and development expenses for the current quarter were $2.5 million, reflecting a decrease of 7% compared to the same period last year. This change was driven by $0.2 million decrease in consulting expenses. SG&A expenses increased $6 million or 38% to $21.6 million for the three months ended September 30th, 2024; compared to the three months ended September 30th, 2023. This change was primarily driven by a $3.7 million increase in compensation expenses, mainly as a result of increased head count, a $1.1 million increase in non-cash stock-based compensation expense, a $0.5 million increase in travel expenses; and a $0.4 million increase in advertising expenses.
+
+Interest expense increased $0.5 million for the three months ended September 30th, 2024 compared to the three months ended September 30th, 2023. This increase was driven by the increased borrowings under the term loan agreement. Other income net decreased $0.1 million for the three months ended September 30th, 2024, compared to the three months ended September 30th, 2023. This decrease was primarily driven by less interest income on our interest-bearing account.
+
+Net loss was $13.1 million or $0.57 per share for the three months ended September 30th, 2024 compared to a net loss of $9 million or $0.43 per share for the three months ended September 30th, 2023. Net loss per share was based on 22.8 million weighted average shares outstanding for the three months ended September 30th, 2024, and 20.8 million weighted average shares outstanding for the three months ended September 30th, 2023.
+
+As of September 30th, 2024, cash and cash equivalents were $100.2 million. Net cash used in operating and investing activities was $10.4 million for the quarter ended September 30th, 2024. This is compared to net cash used in operating and investing activities of $10.2 million for the three months ended June 30th, 2024. We strengthened our balance sheet during the third quarter through two financings. We drew down the remaining $20 million under the third and final tranche of our Innovatus loan agreement, bringing our total outstanding principal balance to $50 million. Additionally, we raised $20.3 million in gross proceeds through our at-the-market equity offering by issuing approximately 2.4 million shares of common stock.
+
+Now turning to guidance. For the full year of 2024, we now expect total revenue between $50.5 million and $51.5 million. We continue to expect full year gross margin between 83% and 85% and now expect operating expenses of approximately $100 million. For the fourth quarter of 2024, we expect to report total revenue between $14.5 million and $15.5 million.
+
+I would now like to turn the call back over to Kevin.
+
+Kevin Hykes
+President, Chief Executive Officer & Director, CVRx, Inc.
+Thank you, Jared. Before we open the line for questions, I'd like to reflect on the progress we have made so far in 2024. The positive momentum we've built throughout the year has continued to accelerate. Our interactions with physicians and patients continue to reinforce the transformative potential of Barostim therapy in improving the lives of heart failure patients. I'm particularly proud of how our expanded leadership team has come together to drive our strategic initiatives forward. Their collaborative efforts are yielding tangible results in our three focus areas improving patient access, increasing education awareness, and strengthening our clinical evidence base.
+
+As we move into the final quarter of 2024, we remained focus on executing growth strategy and further establishing Barostim as a key component in the heart failure treatment paradigm. We're encouraged by the progress we've made and excited about the opportunities that lie ahead.
+
+Now, I'd like to open the line for questions. Operator?
+
+Question And Answer Section
+Operator
+Thank you. Ladies and gentlemen, we will now be conducting a question-and-answer session. [Operator Instructions] The first question is from Margaret Kaczor Andrew with William Blair. Please go ahead.
+
+Macauley Kilbane
+Analyst, William Blair & Co. LLC
+Hey, everyone. This is Macauley on for Margaret tonight. Thanks for taking our question. Just to start with, with the guidance. So narrow the guidance by $1 million at the midpoint, despite the relatively in-line quarter. So, just wondering if there's something you saw at the end of the quarter or maybe through the first month – the fourth quarter now that led to that decrease? And as we look forward, what does that mean for utilization and new center ads, especially after you got back to a more normalized cadence with 19 new centers this quarter?
+
+Jared Oasheim
+Chief Financial Officer, CVRx, Inc.
+Hi, Mac. This is Jared. Happy to answer that question. Thanks for joining us. So when we looked at the guidance for the full year, I mean, it really just came down to us looking specifically at Q4, and we thought we'd be able to go and deliver the $14.5 million to $15.5 million guide for Q4 was really based on the strength that we saw already in the month of October and the momentum that we had seen in the third quarter. So we feel like we're continuing to do all of the right things. We're seeing new account ads, but more importantly, focusing on those accounts that are already active and working to go deeper and deeper at each one of those centers to drive utilization. And so we narrowed the full year guidance to $50.5 million to $51.5 million. I think it brought the midpoint of the range down by just $0.5 million, but we continue to be extremely bullish on the business based on the results we've seen in the month of October and throughout the third quarter.
+
+Macauley Kilbane
+Analyst, William Blair & Co. LLC
+That's helpful. And then maybe just as a follow-up, you've obviously gotten several reimbursement wins and hopefully have one more upcoming with the outpatient more in a few days. Kevin, this was obviously a big focus when you brought on some of those new executive hires. So, could you just talk about how the team has been able to be successful there? And to the extent you can, what else additional is being done in the background to drive that access beyond the upcoming outpatient role? Thanks for taking the questions.
+
+Kevin Hykes
+President, Chief Executive Officer & Director, CVRx, Inc.
+Sure. Thank you, Mac. Appreciate the question. So at 100,000 feet, I'm thrilled with both the existing team, but also the new executives that we've added to the leadership team here. Some of them even in the last three months, but already having a significant impact. In this case, Bonnie Handke, our new very seasoned leader of reimbursement led the charge both on the Inpatient Prospective Payment System development which increased the payment, as you know, from $17,000 to $23,000 all the way to $43,000. That's a fundamental change obviously in payment on the in-patient side. She led our efforts around Category 1, which is a long process, but a very, very important milestone and a significant threshold for this company on a commercial basis.
+
+So, to have her depth of experience and relationships applied to those efforts was a significant contribution, even in the first four months of her time here with the company. More broadly, obviously, we're looking forward to the OPPS news this week. She and many others on my team led an engagement process over the last four months with key stakeholders; both physician and administrator, but also CMS, obviously; and we are encouraged and optimistic about favorable results on that front as well. So these two wins that we've already notched and hopefully a third here in the next few days, represent a fundamental and significant change to our commercial posture going forward, and we'll have significant long-term impact. So, very long answer to your question, but we're thrilled with what we're seeing in this case with our reimbursement and patient access efforts.
+
+Macauley Kilbane
+Analyst, William Blair & Co. LLC
+That's great. Thanks again.
+
+Operator
+Thank you. The next question is from Ravi Marcus with JPMorgan. Please go ahead.
+
+Rohin K. Patel
+Analyst, JPMorgan Securities LLC
+Hi. This is actually Rohin on for Robbie. Thanks so much for taking our question. I had two. And I guess the first one is more longer-term and just focused specifically around the Cat 1 code. I'm just trying to better understand kind of what potential financial impacts we could see from this longer-term? Is it primarily going to come from higher utilization due to better awareness and obviously potentially moving towards standard of care, or could this potentially lead to higher reimbursement? Just wanted to kind to see like how that can play out over time?
+
+Kevin Hykes
+President, Chief Executive Officer & Director, CVRx, Inc.
+Sure. I'll take that, Rohin. Thank you for the question. So, as I said, the Category I process is significant and intensive, and being granted Category I status means that a company or a therapy has developed sufficient evidence and depth of adoption and widespread use to be headed towards standard of care. And for that reason has transitioned from what are largely considered experimental or Cat III temporary codes to a permanent Category I code. And while this relates at its core to the code, the procedure code and physician payment, it actually affects virtually every facet of patient access.
+
+And importantly, as Jared mentioned, this reduces the automatic denials that occur with the prior authorization payment process for more than 50% of our patients. It also weighs heavily into the max consideration as the traditional Medicare administrative contractors, as they consider coverage for this procedure, it effectively is a signal that the procedure is here to stay and credible, and for that reason is given that permanent code. So, we think about it more about streamlining the process, increasing the predictability and decreasing friction in the process for virtually every patient that is considered for this therapy. So, it's a big step forward. Obviously, it'll go into effect on the 1st of January, 2026. So there's still some work to do, but we're excited about that day and we'll likely see some positive benefit even before then.
+
+Rohin K. Patel
+Analyst, JPMorgan Securities LLC
+Great. Thanks. And then just another quick one on OpEx priorities. I think OpEx came in a little higher than expectations in third quarter. And obviously, you raised the guidance to $100 million for the year roughly. How should we think about spending priorities into 2025? And obviously, I don't expect you to comment on kind of an actual number, but just relatively like between R&D and SG&A, what are your expectations and obviously the consensus is kind of flat year-over-year. So, how should we think about growth directionally, I guess, next year?
+
+Jared Oasheim
+Chief Financial Officer, CVRx, Inc.
+Rohin, I appreciate the question. So just to address the Q3 OpEx number, we've looked at the team and we've continued to really invest in the business by building the bench of our sales reps, but also continuing to make investments in our marketing activities like our direct-to-consumer campaigns and then our physician educational events that are being run by our new Chief Medical Officer, Dr. Philip Adamson. Both resulted in slightly higher than expected spend in the third quarter, but we think are going to help to pay off longer-term and seen higher utilization at the account levels in future quarters.
+
+We did have some one-time spend in the third quarter that we do not expect to be repeated in the fourth quarter and hence the guide for an expectation of lower OpEx in the fourth quarter. As we start to think longer-term out to 2025, we're not putting out guidance at this point in time, but as we look at what we've expensed in 2024, we know there was some one-time spend, some one-time big dollar items, including the former CEO retirement and option modification expense that was recognized in connection with that. And then also the one-time cost associated with bringing in a lot of the new team leaders at this point in time. So, we know those are one-time expenses that will not be repeated; that will allow us to help manage how much OpEx will grow as we go into 2025 and not expecting it to be too significant at this point.
+
+Rohin K. Patel
+Analyst, JPMorgan Securities LLC
+Great. That's super helpful. Thank you.
+
+Operator
+Thank you. The next question is from Matt O'Brien with Piper Sandler. Please go ahead.
+
+Hi. Thank you. This is [ph] Samantha (00:25:53) on for Matt. I guess our first question, we wanted to touch on reimbursement again. When you frame up the impact of the inpatient reimbursement update that you achieved this quarter and maybe have you seen an early increase in adoption in the inpatient setting, fully appreciating spend about a month so far?
+
+Kevin Hykes
+President, Chief Executive Officer & Director, CVRx, Inc.
+Sure. I'll take that one. Thank you, Samantha. I think it's a little early, four weeks in here to see a specific impact of that. What I can tell you, obviously we're thrilled at the increase in the inpatient payment, almost double. We know that this is a setting that has been historically quite underpaid, which may have reduced the number of procedures being performed in that setting. Our hope with – in the next few days is that with a positive OPPS readout, we will effectively equalize hospital payment in both the inpatient and outpatient settings, which allows physicians and administrators to focus solely on the clinical issues and treating the patient in the right service setting based solely on that factor.
+
+We think there may be some rebalancing over time back towards a higher rate of inpatient procedures, but it's really hard to predict where that will settle out. In either case, we will have no influence or should have no influence on the site of service and we'll stand by to support physicians and their patients regardless what they choose.
+
+Great. Thank you. And then, just one more. Could you talk a little bit about the early feedback you've gotten so far from physicians on going deeper with their account. Are there multiple champions in all the center so far? And yeah, just what are you hearing from physicians on this new strategy?
+
+Kevin Hykes
+President, Chief Executive Officer & Director, CVRx, Inc.
+Yeah. So thank you for that as well. I'm not sure the physicians themselves, certainly in the highest performing, most deeply adopted centers, there are indeed multiple champions supporting the therapy, multiple referrers in the community, often multiple surgeons. So, there are, there are networks of physicians that allow the therapy to become part of how they treat heart failure on a day in and day out basis. In the accounts where that is not yet the case, I'm not sure the physicians themselves know that we're working in their community, and in their systems to bring more and more physician support around the therapy. They certainly appreciate the referrals that we can help initiate and generate from their community partners, but overall, I think they see that as the natural adoption of the therapy in their center, and they appreciate the support we're providing, whether it's patient access or additional evidence or therapy awareness amongst nurses and referrers and administrators.
+
+Understood. Thank you.
+
+Operator
+Thank you. The next question is from Bill Plovanic with Canaccord Genuity. Please go ahead.
+
+Hey, Kevin and Jared. It's [ph] John (00:28:59) on for Bill tonight. Thanks for taking our questions and congrats on the quarter. Just first on the new accounts, it's nice to see growth there again. Can you start up with the new sales management in place, is there any change in the types of accounts that you're adding with the new commercial strategy?
+
+Kevin Hykes
+President, Chief Executive Officer & Director, CVRx, Inc.
+Sure. Thanks, [ph] John (00:29:22). It's Kevin. I'll take that as well. So, the short answer is yes. There's certainly been a much more deliberate and intentional approach to the types of accounts that we're engaging and that comes from the lessons we've learned over these last three years of commercialization about where this therapy plays the biggest role and where can it be most deeply adopted. So we are in the process this quarter and likely over a number of future quarters of reconciling and optimizing the existing account base to make sure we're spending time and energy on the accounts that can, in fact, reach those deeper levels of adoption.
+
+And as we engage new accounts with our new sales teams, really trying to identify the accounts that have the best chance of deep adoption going forward. So there's a number of different ways we do that, but our sales leader, Robert John, has implemented a set of targeting principles that the sales team is now following and a set of best practices that they call a blueprint, that they use to engage these accounts and make sure that we give them every possible chance of long-term success and deep adoption.
+
+Great. Thanks, Kevin. And then, Jared, just one for you. With the debt draw-down on the ATM, just the comfort of getting cash flow breakeven with lots of new cash on hand and just timelines around that. Thanks.
+
+Jared Oasheim
+Chief Financial Officer, CVRx, Inc.
+Yeah. I appreciate the question on that topic, [ph] John (00:30:46). So, like I mentioned earlier, we really are bullish about this business and the financings that we talked about for the third quarter, it was really about creating more flexibility for us and that's flexibility to make additional investments that could help us grow at a faster rate as we move into 2025 and beyond. Again, we just want that optionality and we felt like this was a good opportunity to go do that. So the debt draw at this point shouldn't be a surprise. It's something that we've talked about as wanting to draw down as soon as the window opened for that third tranche. So we pulled that down in the month of September and the activity on the ATM was really just us being opportunistic to bolster the balance sheet to create more flexibility. At the end of the day, we still believe we have the cash needed to reach breakeven, but we're really looking at this business as all opportunities available to help more and more patients and grow at a faster rate. And so that's something we're going to continue to spend a lot of time on.
+
+Thanks so much.
+
+Operator
+Thank you. The next question is from Frank Takkinen with Lake Street Capital Market. Please go ahead.
+
+Frank Takkinen
+Analyst, Lake Street Capital Markets LLC
+Great. Thanks for taking the questions. Just wanted to maybe kind of, in that 2025, [indiscernible] (00:32:03) reluctant to comment too much, but clearly a few moving pieces going into the year. We had a maturing sales force, maturing new hires as Kevin's brought on board. You've got reimbursement noise out there. How should we be thinking about where expectations are and [indiscernible] (00:32:19) and whether or not that feels like it's factoring in some of the pluses and minuses as we look at 2025?
+
+Jared Oasheim
+Chief Financial Officer, CVRx, Inc.
+Yeah. Hi, Frank. So, I mean, just to touch on the average selling price component of that, if there's a connection related to the final OPPS rule that's expected in the coming days. So on that note, we're not looking at that piece as a binary event that's going to instantly result in impact in ASPs on January 1st, positive or negative. In the likely outcome from our perspective, where we land in a Level 6 neurostim code or stay in the new tech APC 1580, we see reimbursement being fairly consistent as you go into 2025; and in that case, ASPs look pretty similar.
+
+In the other scenario, maybe the 10% likelihood of landing in a Level 5 neurostim code, even in that scenario, we don't view it as an immediate need for a price change on January 1st, especially as we've seen these other wins related in-patients and the Category 1 code. So we would look at it at the regional level, at the hospital level to determine if longer term prices need to change.
+
+So, taking AFPs off the table as we look into 2025, our expectations are that we've seen other companies doing around $50 million a year in revenue, start to see some seasonality as they move from Q4 to Q1, seeing revenue levels stay at or around the same levels or maybe drop a little bit and then see growth return as you move into Q2, Q3 and Q4, but longer-term, we're making the investments in the business, in sales and marketing, in our leadership team because we think this is a high growth company, and that's something that, we really define as in the mid-to-high-20% range. And we think we have the ability to achieve that type of growth for years to come.
+
+Frank Takkinen
+Analyst, Lake Street Capital Markets LLC
+Okay. That's helpful. And then maybe just to clarify for my second one, I think a few questions back, you talked about some of the one-time spend items that occurred throughout 2024. Can you quantify that for us just to give [indiscernible] (00:34:32) look at our model for OpEx in 2025?
+
+Jared Oasheim
+Chief Financial Officer, CVRx, Inc.
+Yeah, I think I got the idea of that question, Frank. So the biggest one that comes to mind is the option modification number. I think that ended up being between $8 million and $9 million and was recognized on the first quarter of 2023. That's a one-time event that we do not expect to be repeated as we go into 2025. The other one-time spend is associated with bringing on new leaders and having new – higher grants issued to some of them, and then also placement fees associated with them that I don't have quantified in front of me at this point, but we don't expect those types of expenses to be repeated as we go into 2025 either.
+
+Frank Takkinen
+Analyst, Lake Street Capital Markets LLC
+Great. Thank you.
+
+Operator
+Thank you. The next question is from the line of Chase Knickerbocker with Craig-Hallum Capital Group. Please go ahead.
+
+Chase Knickerbocker
+Analyst, Craig-Hallum Capital Group LLC
+Good afternoon. Thanks for taking the questions. Maybe just first for me, Kevin, just kind of clarification on the pipeline. These new pipeline adds in the quarter, do they – obviously, it's much stronger number than we had kind of even thought last quarter, I think. Do they reflect that new targeting priority where you kind of expect these to be the account profile that you're really targeting Barostim with? And kind of as you ramp up these new accounts, can you talk about how your new sales leadership has kind of changed the blueprint for building up these programs to kind of make it look like you're high-end adopters rather than low adopters? Thanks.
+
+Kevin Hykes
+President, Chief Executive Officer & Director, CVRx, Inc.
+Sure. Thanks, Chase. Yeah, so I would say the 19 new accounts this quarter does not yet fully reflect the new targeting approach, but it was a little higher than we anticipated. In some cases, it's hard to predict when a new center will do their first implant. And in a couple of cases here, these were centers we thought that would start further into the quarter, but actually surprised us in Q3 with an early treatment. So, overall, we are kind of working through that. It's a bit of a organic process that'll play out over the next few quarters, I presume.
+
+What I can say is most of the growth that we saw was from accounts that were added earlier in the year, which is typically the case. Often accounts will treat a handful of patients, wait and see what happens, and then engage more fully. So we really see a higher contribution from the earlier 2024 accounts. In that process, what I can tell you is the degree of intentionality and best practice sharing that Robert John has brought to bear is a departure from some of the prior efforts we've had. We now have the luxury of learning from those early efforts and understanding what works and what doesn't.
+
+And the goal here is to really ensure that physicians and their teams and the referrers that are sending patients to these centers have the best possible early outcomes and shorten that window from the early trial patients to a more fulsome level of adoption. And some of the other things we're doing is more effectively targeting our DTC efforts to feed those new centers with patients, working with their administrators, and even with their nurse practitioners to ensure that everyone in that network that is exposed to our therapy understands where it fits and how patients can benefit.
+
+Chase Knickerbocker
+Analyst, Craig-Hallum Capital Group LLC
+Got it. Then maybe on the sales force; lot of new adds, obviously, earlier this year. Kind of how's retention been there? And then, second, are you kind of happy with their productivity as far as how quickly they've been able to ramp? Were they productive as you would have expected them to be in Q3? And then kind of what are your kind of expectations from a sales rep productivity standpoint in Q4? Thanks.
+
+Kevin Hykes
+President, Chief Executive Officer & Director, CVRx, Inc.
+Sure. So, I would say we're pleased – I'm particularly pleased with the talent that we had on the team to begin with and the new team members that Robert John is bringing into our organization. Not surprisingly, we're refining some of the profile of who we look for, for these roles. And one of the key components of building deep adoption and sustainable programs is hiring sales representatives that understand how to build these programs. It's a specialized skill. It's not about slightly better mousetrap or a head-to-head competitive play. This is about building a coalition of support in a center for a new therapy or technology.
+
+So we're thrilled with what we're seeing. I would say our turnover is exactly where we would expect it to be, and we are getting better and better at onboarding these new sales reps, especially those that understand the program growth component, onboarding them more effectively and more rapidly than we've seen in the past. So, I think we'll continue to track their contributions going forward. I wouldn't expect a dramatic change in Q4 necessarily in their productivity, but we're pleased at what we're seeing and that's what's leading to our sense of confidence here as we go into the quarter.
+
+Chase Knickerbocker
+Analyst, Craig-Hallum Capital Group LLC
+Got it. And I'll leave it here, but it's clear you guys are very confident when it comes to a potential favorable ruling and a final OPPS rule, just in kind of how we've kind of spoken on this call here. Can you kind of speak to that confidence in a little bit more detail as far as kind of any incremental color on kind of the feedback you've heard either from stakeholders in the field, your customers or from the relevant parties at CMS to kind of inform that confidence? Thank you.
+
+Jared Oasheim
+Chief Financial Officer, CVRx, Inc.
+Hi, Chase. Happy to cover that one. I think a lot of that confidence comes from the data that we've been reviewing. So this is the cost data that's been submitted by hospitals to CMS over the last 12, 24 months and understanding what level of costs they've been requesting or been submitting in connection with this procedure to CMS. We use that data when we shared information with CMS during our one-on-one meeting in early August. We also used that data when we presented to the panel on August 27th, where they unanimously supported the move to a level six code. And as a fallback, if they weren't ready to create a level six code, that they should create or keep us in the new tech APC.
+
+And then beyond those two activities on our part, there was also a lot of support that we received in the comment period from physicians, from administrators, even from patients. I think there were more than 100 comments this year supporting the move for Barostim therapy to a level six neurostim code, but as a fallback moving or staying in the new tech APC to be able to continue to collect additional data and then again look at this in 2025. I think it's all of those activities in the data that really support the confidence that we have that we believe we will land either in a Level 6 neurostim code or in APC 1580 for 2025.
+
+Chase Knickerbocker
+Analyst, Craig-Hallum Capital Group LLC
+Helpful color, Jared. Thanks again, guys.
+
+Jared Oasheim
+Chief Financial Officer, CVRx, Inc.
+Yeah.
+
+Operator
+Thank you. The final question comes from the line of Ross Osborn with Cantor Fitzgerald. Please go ahead.
+
+Ross Osborn
+Analyst, Cantor Fitzgerald & Co.
+Hi, guys. Thanks for taking our questions. Starting off with site of service and realize you're not directing where a procedure occurs, but could you walk us through what would allow a patient to be treated outpatient versus in with regard to your device, in particular?
+
+Kevin Hykes
+President, Chief Executive Officer & Director, CVRx, Inc.
+Sure. I'll take them and thank you, Ross. So I want to say I'm not a physician, obviously. But my understanding is that a patient that's being treated on an outpatient basis is stable and is seeing their physician as they manage their disease. And the two of them jointly determine that the timing is right for the patient to have an outpatient procedure to implant the device. In the inpatient setting, in some cases, these are patients – and again, our population, our patients who are being hospitalized periodically for heart failure decompensation.
+
+So an inpatient procedure could be performed on a patient who had decompensated, present at the emergency room and was admitted to the hospital. And over the course of 10 days or 2 weeks was diuretic or their fluids were offloaded. So before that patient is discharged, they're sufficiently stable to then be implanted with our therapy. So it's a bit more of a sort of real-time process than a typical outpatient procedure, which involves a little more consideration and scheduling, two or three, four weeks in advance of that outpatient procedure. So different workflow, same patient, but presenting in a slightly different state based on where they are in their disease sort of cycle.
+
+Ross Osborn
+Analyst, Cantor Fitzgerald & Co.
+Got it. That's helpful. Thank you. And then, bit of a longer-term question and not sure if this is quantifiable, but how should we think about your runway and diving deeper within existing accounts before needing to really shift your focus to new account growth?
+
+Kevin Hykes
+President, Chief Executive Officer & Director, CVRx, Inc.
+Sure. Well, I think our sense right now, we've discussed this in the past on an extremely conservative basis. On average, we're less than 2% penetrated into the annual incident population of these average centers and I would say even at the largest of those centers in the US, we're still in the low-single-digit penetration level. So, we have significant opportunity in the accounts we're already calling on to significantly deepen our adoption.
+
+So, I think we will certainly continue to add new accounts. We'll do so, I think, with more intention than perhaps we've been able to in the past and more insight, but we have a lot of upside in the very places we're calling on today. So, as we look at our current account mix, it's really about understanding where we want to spend our time and which of those accounts can get much, much deeper and have the patient populations and the community support and the payer mix to allow us to penetrate more rapidly and more deeply, and then going out and finding more accounts that look like those. So hopefully, that answers your question.
+
+Ross Osborn
+Analyst, Cantor Fitzgerald & Co.
+Yes. They do. Appreciate you taking our questions.
+
+Operator
+Thank you. That was the last question. I would now like to turn the conference over to Kevin Hykes for closing remarks.
+
+Kevin Hykes
+President, Chief Executive Officer & Director, CVRx, Inc.
+Thank you, operator. Thanks again to everyone for joining us for our third quarter earnings call. We appreciate your ongoing support and we look forward to updating you on our progress at our next update. Thank you.
+
+Operator
+Thank you. This concludes today's teleconference. You disconnect your lines at this time. Thank you for your participation.
+
+ 

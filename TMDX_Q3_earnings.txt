@@ -1,0 +1,329 @@
+Thanks, operator. Earlier today, TransMedics released financial results for the quarter ended September 30, 2024. A copy of the press release is available on the company's website. Before we begin, I'd like to remind you that management will make statements during this call, including during the question-and-answer portion of the call, that include forward-looking statements within the meaning of Federal securities laws. Any statements contained in this call that relate to expectations or predictions of future events, results or performance are forward-looking statements. All forward-looking statements, including without limitation, our examination of operating trends, the potential commercial opportunity for our current and next generation products, services and technologies, the potential impact of investments and infrastructure, the potential timing, impact and outcomes of new clinical programs, as well as our future financial expectations, which include expectations for growth in our organization and guidance and/or expectations for revenue, gross margins and operating expenses in 2024 and beyond, are based upon our current estimates and various assumptions.
+
+These statements involve material risks and uncertainties that could cause actual results or events to materially differ from those anticipated or implied by these forward-looking statements. Accordingly, you should not place undue reliance on these statements. Additional information regarding these risks and uncertainties appears under the heading, Risk Factors of our Form 10-Q filed with the Securities and Exchange Commission on August 1, 2024, our subsequent Form 10-Q filings and the forward-looking statements included in today's earnings press release, which are available at www.sec.com (sic) [www.sec.gov] (00:02:02), and in our website at www.transmedics.com.
+
+TransMedics disclaims any intention or obligation, except as required by law, to update or revise any financial projections or forward-looking statements, whether because of new information, future events or otherwise. This conference call contains time-sensitive information and is accurate only as of the live broadcast today, October 28, 2024.
+
+And with that, I will now turn the call over to Waleed Hassanein, President and Chief Executive Officer.
+
+Waleed H. Hassanein
+Founder, President, Chief Executive Officer & Director, TransMedics Group, Inc.
+Thank you so much, Laine. Good afternoon, everyone, and welcome to TransMedics' third quarter 2024 earnings call. As always, joining me today is Stephen Gordon, our Chief Financial Officer.
+
+As we discussed, 2024 represents an important foundational year for TransMedics as we shift into the next year of growth. As the market leader in organ transplantation, we have continued to scale operationally while also laying the groundwork from a business and product perspective to support our next phase of growth. Specifically, we have been and remain focused on three things. First, completing the first phase of build it – building our transplant logistics network and aviation infrastructure to better position us to capitalize on the growth anticipated next year and going forward. Two, continuing to invest in our NOP clinical and technology infrastructures. And finally, completing the first phase of next-gen OCS Heart and Lung technologies development to enable the launch of new clinical programs in 2025.
+
+These programs are aimed at unlocking the growth potential for OCS Lung market, expanding OCS Heart adoption and our approved indications in the US, and finally, catalyzing overall US heart and lung transplant volume and market growth annually. We continue to make meaningful progress across each of these key initiatives through the third quarter and maintain our conviction in our future growth runway in 2025 and beyond.
+
+From a revenue perspective, we continued to deliver significant year-over-year growth, particularly in the US, offset by an overall US transplant volume headwinds, as well as routine scheduled aircraft maintenance, which we discussed on our last call. Meanwhile, OUS revenue, which represents a modest part of our business, was impacted by variability that we have come to expect.
+
+Here are the key operational highlights from the quarter. Total revenue for 3Q was $108.8 million, representing 64% growth from 3Q 2023, driven by 76% year-over-year sales growth in the US, but offset by a 40% year-over-year decline OUS. From a sequential perspective, we saw a 5% decline in total revenue from Q2 2024. US sales declined 3% sequentially and OUS sales declined 45% sequentially. TransMedics transplant logistics service revenue from – for Q3 was $20.1 million, up from $2.1 million in Q3 2023 and up from $19.1 million in Q2 of 2024, an approximate 5% increase sequentially from Q2.
+
+Our overall gross margins for 3Q was 56%, down from 61% in 2Q 2024. The extent of sequential decline was somewhat expected given continued investment in our logistics network, clinical resources and next-gen OCS technologies. Finally, we delivered a GAAP operating profit of $3.9 million in Q3, representing 4% of total revenue.
+
+Now, let me provide updates on our aviation and logistics infrastructure results in the quarter. Through Q3, we continue to expand our fleet of owned aircraft, reaching 18 by end of Q3. We also continued to invest in hiring and training pilots. Importantly, we also made a strategic investment in our internal aircraft maintenance infrastructure by building and staffing at TransMedics aviation maintenance hub in Dallas, Texas in Q3. These investments were made to maximize the operational efficiency of our current and growing fleet and to prepare for the expected growth in demand for OCS NOP missions in 2025 and beyond. As we stated on our Q2 earnings call, we also completed routine maintenance on several of our owned aircraft scheduled in Q3. This resulted in lower average daily planes available for missions compared to 2Q 2024. Still, our owned aircraft covered 61% of our NOP flight missions in Q3, up from 59% into 2Q of 2024. We used third party logistics partners to meet NOP missions while our planes were in maintenance.
+
+Now, with this background, I'll provide more context on these results. First, let me discuss the revenue and case volumes. In Q3, overall, US national liver and heart transplant volumes declined sequentially, approximately 5%, while total lung volumes declined by approximately 3% in the US. There is no clear reason for these declines other than normal variability of donor availability and potential summer seasonality. So the sequential decline in the US case volume was directly in line with the decline in national transplant volumes. Importantly, we did not see any degradation of our market share or center penetration on all three organs. I want to take – I want to make it crystal clear, we have not seen any fundamental or competitive dynamics playing any role in the slight sequential decline in case volume for OCS in Q3. Let me repeat it again, I – there has not been or we have not seen any fundamental or competitive dynamics playing any role in the slight sequential decline in case volume for OCS in Q3.
+
+On the OUS revenue decline, as we've discussed previously, OUS revenues and, and will remain a very small part or portion of our business in the near term. OUS volumes are quite lumpy, given a heavy focus on heart and lack of broad national reimbursement. We are working on several initiatives to launch liver and lung technologies OUS and to secure broader national reimbursements in Europe or European countries to catalyze growth of OUS over the mid and longer terms.
+
+Second, let me discuss the transient impact on our margins. As we discussed earlier, we are continuing to invest in our logistics network, clinical resources and next-gen OCS technologies to capitalize on the significant growth opportunity ahead of us. In Q3, the primary driver of transient decline in gross margin was related to the impact of investments in our infrastructure and a higher utilization of third-party logistics partners to cover NOP mission as our planes received scheduled maintenance, impacting our service margins. To be clear, the near-term variability in quarterly margin is a direct results of our growth profile and our ongoing investments to catalyze future growth. As we start gaining efficiencies of scale and further scale – case growth, we are confident that service margins will grow to healthier levels.
+
+In summary, we believe margins will remain variable over the next several quarters, as we've said before, given the ongoing investments in our business. However, we have a very high degree of conviction that these investments will position us optimally for future growth and profitability.
+
+Moving now to our OCS Heart and Lung clinical programs, which we plan to launch next year, in 2025. As I mentioned earlier, these programs are anchored by our next-gen OCS technology developments and designed specifically to drive significant momentum in our lung market and broadening our clinical indications and adoption for OCS Heart technology. We are increasingly confident in the potential clinical impact of these new clinical programs, as preclinical testing has consistently demonstrated superior outcomes for OCS Heart and OCS Lung, up to 24 hours of OCS perfusion. These advancements tend to enable morning hours heart and lung transplants for the first time in history, which would represent a huge milestone that the cardiothoracic transplant field has long been aspiring to achieve. Detailed preclinical results will be formally and publicly presented at the upcoming heart and lung transplant scientific conferences in 2025.
+
+Again, we are excited about our product pipeline and the potential transformative nature of these programs to catalyze the near, mid, and long-term growth of our OCS platform and to drive more lung and heart transplant volumes nationally.
+
+In conclusion, we are encouraged by our 2024 results, and we have – as we have effectively doubled year-to-date revenue compared to 2023, while continuing to invest in our future growth. We are now focused on ending 2024 on a strong note and preparing for several growth catalysts throughout 2025 and beyond. To that end, we are maintaining our annual full year revenue guidance range of $425 million to $445 million, which represents 76% to 84% growth over full year 2023 revenue.
+
+With that, let me turn the call to Stephen to cover the detailed financial results for the quarter.
+
+Stephen Gordon
+Chief Financial Officer, TransMedics Group, Inc.
+Thank you, Waleed. I will now provide some additional detail on our Q3 results and other financial information for the quarter. Starting with revenue, for the third quarter of 2024, our total revenue was $108.8 million. This was an increase of 64% from the third quarter of 2023 and a 5% sequential decline from last quarter. In the US, transplant revenue was $104.9 million. US revenue increased 76% from the third quarter of 2023 and was down 3% sequentially from last quarter. Q3 2024 revenue includes $20.1 million of logistics revenue. The organ breakdown on US revenue was: $76.7 million in liver, $24.5 million in heart, and $3.7 million in lung. Ex-US revenue was $2.6 million, a 40% decline from Q3 2023, and a 45% sequential decline. The OUS organ breakdown was $2.4 million in heart and $0.2 million in lung.
+
+Next, on product and service revenue. As a reminder, our service revenue includes the NOP clinical service of surgical procurement and organ management, logistics revenue and flight school revenue. In Q3, product revenue was $65.9 million and service revenue was $42.9 million. The service portion was 39.4% of the total.
+
+In reviewing revenue this quarter, there were several headwinds. As discussed last quarter, while OUS revenue was a very small portion of our business, we expected this international revenue to decline sequentially as we had some stocking orders in Q1 and Q2 that we knew were not going to recur in Q3. We also pointed out that lung revenue was not yet on a growth trajectory, so both of these were headwinds as expected. And the other driver of sequential decline was the overall decline in US transplant from Q2 to Q3, and our performance reflected this as what we discussed.
+
+Moving to gross margin, for the third quarter of 2024, our gross margin was 56%. This was down from 61% in the third quarter of 2023. And in comparison to Q3 last year, this reflects the higher service component of our business. Also, Q3 2023 did not include a full quarter of logistics. Our product margin in Q3 was 80%. This was up from 77% in Q3 of 2023 and steady from last quarter. We expect the product margins to remain in the 79% to 80% range.
+
+On the service side, margin was 19%, a decline from Q2 of 2024, and this was driven by several factors. First, similar to last quarter, we are spending ahead in clinical service – excuse me – similar to last quarter, we are spending ahead in clinical services and logistics as we prepare for future growth. There were three areas of spend to highlight. We are investing in pilots and pilot training to prepare for additional utilization of our own planes in the coming quarters. Second, as Waleed mentioned, we have initial expenses related to our new aviation maintenance hub. And third, we have made additional investments in our NOP hubs, again, preparing for required future demand. All in, this represents approximately $2 million of non-recurring cost. And we also saw higher reliance on third-party logistics partners that cover NOP cases, which also had a negative impact on service margin.
+
+What I can say is that I feel very confident that our service margin will improve over time as we gain greater efficiency. For example, we already know that the additional planes we have added will add efficiency and operational availability. And we also know that the non-recurring cost items that I just mentioned will not repeat in Q4.
+
+Total operating expenses for the quarter was $56.9 million, and this is 36% above Q3 of 2023 and flat from last quarter. R&D was up 28% from Q3 of 2023, excluding $27.2 million of in-process R&D that was recorded in Q3 of 2023. And R&D was up 3% sequentially from last quarter. This represents investment both in near-term OCS innovation, which will be included in our new clinical programs next year, as well as longer term next-gen OCS technology development. SG&A grew 39% from Q3 of 2023 and was flat from last quarter. And as I've mentioned in the past, we still expect expenses to grow, but the rate of growth is coming down as we saw this quarter.
+
+Our GAAP operating profit was $3.9 million or 4% of revenue. Net income was $4.2 million. These compare with an operating loss of $28.3 million and a net loss of $25.4 million in Q3 of 2023. Earnings per share was $0.13 and diluted earnings per share was $0.12.
+
+Total cash at the end of the quarter was $330.1 million as of September 30, 2024. And this was a decrease of $32.7 million from June 30, 2024. And for context, we generated about $7 million in operating cash in the quarter, and we purchased three aircraft costing approximately $42 million. Basic weighted average common shares outstanding for the quarter were 33.4 million, and diluted weighted average common shares outstanding for the quarter were 35.7 million.
+
+In summary, Q3 again showed strong year-over-year growth. While we did see a pause in our consistent sequential growth trajectory that we have maintained since our initial commercial launch, we believe this is short-lived and is more reflective of the overall US national transplant volume and quarter-specific dynamics than a slowdown in our commercial momentum.
+
+Meanwhile, I have extremely high confidence that our gross margin will continue to improve and normalize given our expectations for 2025. Finally, to repeat Waleed's earlier comment, we are maintaining our annual revenue guidance to be in the range of $425 million to $445 million, which represents 76% to 84% growth over the full year of 2023.
+
+Now, I would like to turn the call back to Waleed for closing comments.
+
+Waleed H. Hassanein
+Founder, President, Chief Executive Officer & Director, TransMedics Group, Inc.
+Thank you, Stephen. Overall, we're proud of our year-to-date performance in 2024 and the significant progress our team has made across several initiatives designed to propel TransMedics into the future as the leader in organ transplantation. Our commitment to delivering world-class technologies and services to our transplant clinical partners while enabling further transplant volume growth remains unwavering. We look forward to continuing to execute in each of the major initiatives discussed today and remain extremely bullish on the future of TransMedics, particularly as we begin to benefit from the several investments made this year.
+
+With that, I will now turn the call to the operator for Q&A. Operator?
+
+Question And Answer Section
+Operator
+We will now begin the question-and-answer session. [Operator Instructions] Our first question comes from Allen Gong with JPMorgan. Please go ahead.
+
+Allen Gong
+Analyst, JPMorgan Securities LLC
+Hi, thanks. So, I guess, my first question looking forward a little bit is just on the dynamics you're seeing so far in fourth quarter, right? I think it's fair to say the third quarter came in a little bit shy of what the Street was expecting because of some of those dynamics that you've been highlighting, but have you been able to see a recovery in the fourth quarter that gives you confidence in reiterating that guide, given that we're about a month in now?
+
+Waleed H. Hassanein
+Founder, President, Chief Executive Officer & Director, TransMedics Group, Inc.
+Thanks, Allen, for the question. We have seen the dynamic starting to normalize in early October, and that's why we are reiterating the guidance that we set for ourselves.
+
+Allen Gong
+Analyst, JPMorgan Securities LLC
+Got it. And then I guess, when we kind of look at the breakdown of the quarter by organ, it definitely looks as though liver held in a bit steadier, definitely kind of outperformed the market, while heart, after a really strong second quarter, has taken a step back. Is that really just the market? Is there anything else you would call out there? I'm sure you've heard it. We've heard it is. There is some more noise around NRP going around. But you're saying there's no impact from competition. So, I guess what really happened in heart there?
+
+Waleed H. Hassanein
+Founder, President, Chief Executive Officer & Director, TransMedics Group, Inc.
+Thanks for the question, Allen. I reiterate what I stated, there's absolutely categorically no impact of any technologies, methodologies or competitive dynamic on the decline in Q3, specifically on heart. And as you're I'm sure aware, there is a significant negative inertia or headwind in the face of thoracic – thoracoabdominal NRP in the United States led by HRSA and OPTN is looking into it, as has been publicly stated. So we are not concerned at all about TNRP. The facts are the facts. TransMedics DCD heart transplant is responsible for approximately 70% of DCD heart donations in the United States. That number is actually up from last year. So we don't see that dynamic at all playing any role in the decline in the quarter. It's literally, the national volume went down and because we play a major role and we take the lion's share of that national volume, we got impacted by it. Next question, operator.
+
+Operator
+Our next question comes from Bill Plovanic with Canaccord. Please go ahead.
+
+William J. Plovanic
+Analyst, Canaccord Genuity LLC
+Oh, great. Thanks for taking my question. I just want to go back to the comments of – I think people are just going to try to get a handle [ph] on the – (00:24:23) I know the statements, Waleed, that you're making. But as we think of October and we go in, I think the word you used was we're stabilized. I mean, are we tracking to the fourth quarter or are you expecting a significant pickup to get to the fourth quarter? Just any kind of help we could get on that, I think, would be very helpful [indiscernible] (00:24:48) same word. And then just for Stephen on the service, so I understand the invest ahead, it sounds like $2 million in one-time expenses. If we subtract that $2 million out, is that roughly the kind of going quarter run rate on these – the new people and everything and overhead you had within the service and kind of we should kind of see in kind of a leverage off of that point as you continue to grow to kind of get the gross margin going back in the same direction? Thanks for taking my questions.
+
+Waleed H. Hassanein
+Founder, President, Chief Executive Officer & Director, TransMedics Group, Inc.
+Bill, thank you for your question. To address the first part of your question, again, we are in the middle of the quarter, or I should say, middle – we're at the end of the first month of the quarter. And I cannot really discuss any forward-looking statement on the quarter. But from all indication, if we believe that this was a national volume decline, we're seeing that decline or that gap started to close up pretty significantly through the first few weeks in October. That's all I can comment on. And our guidance remain unchanged. So we have high degree of confidence in the guidance we set forth.
+
+Stephen Gordon
+Chief Financial Officer, TransMedics Group, Inc.
+Yeah. And Bill, on the margin question, so, as you mentioned, there was about $2 million of non-recurring expense. So those will not recur again next quarter. But there were also some other exacerbating issues, which is we've been buying more planes, we have more capacity of our own, but since some of those planes were in maintenance, we were relying on the third party partners. So the less we use those third parties, the more we use our own planes, our margin will increase. And so, I think both of those things will help improve as we go forward and then as we do more volume, that will make it even better.
+
+William J. Plovanic
+Analyst, Canaccord Genuity LLC
+Thanks. Stephen, is there like a maintenance schedule you can help us understand, like as we go into the fourth quarter and then into next year, just how to think about that, like is this something that you'll see these non-recurring every quarter, because it's a maintenance thing, or those were just investments? Thanks.
+
+Stephen Gordon
+Chief Financial Officer, TransMedics Group, Inc.
+Those were truly onetime investments. But now, I think it'll kind of normalize out over the year. We'll manage the maintenance. We've managed the hub in Dallas. And so, I think it will normalize throughout the year.
+
+Waleed H. Hassanein
+Founder, President, Chief Executive Officer & Director, TransMedics Group, Inc.
+Next question, operator.
+
+Operator
+Our next question comes from Josh Jennings with TD Cowen. Please go ahead.
+
+Joshua Jennings
+Analyst, TD Cowen
+Hi. Good evening. Thanks for taking the questions. Waleed, you kind of reviewed the headwinds that you had called out on the 2Q call for 3Q. It sounds like the Street got a little bit ahead of itself, including our team, I think. But would you say that the performance here was relatively in line with what you were laying out on the 2Q call, or were the volumes in the US, there was a decline a little bit deeper than you expected? Because it sounds like from your comments on this call relative – just reiterating what you guys, you and Stephen, called out on Q2, that actually those headwinds did play out. They were in play. And we're expecting a stronger fourth quarter, which you're just seeing on the volumes side already.
+
+Waleed H. Hassanein
+Founder, President, Chief Executive Officer & Director, TransMedics Group, Inc.
+Thank you for the question, Josh. We were expecting some of that headwind, for sure. And that's what we are in habit of doing, a forecasting what we see coming from not just opportunities but challenges. We made our case. We thought we were clear, but maybe people didn't believe us. And if I want to provide any anecdote on it, I think, maybe the headwinds in Q3 was slightly higher than what we anticipated, but we always expect that there may be slowdown during the summer months and this one happened across all three organs. And again, the number speaks for themselves.
+
+Joshua Jennings
+Analyst, TD Cowen
+Understood. Thanks for that. I'm sorry to make you go back to this – the share action in DCD, but, I mean, is there any way you could do what you did for heart, for liver, just in terms of kind of reassuring investors...
+
+Waleed H. Hassanein
+Founder, President, Chief Executive Officer & Director, TransMedics Group, Inc.
+Yeah. Josh...
+
+Joshua Jennings
+Analyst, TD Cowen
+...that [indiscernible] (00:29:40).
+
+Waleed H. Hassanein
+Founder, President, Chief Executive Officer & Director, TransMedics Group, Inc.
+Yeah. That's an excellent question, Josh. Our share volume, both at the center level and at the national level had remained unchanged. And that's what gave us the confidence. And I repeat again, our share in heart and liver, both at the center level and at the national level, remain unchanged.
+
+Joshua Jennings
+Analyst, TD Cowen
+Great. So, 3Q share was stable in liver and heart in the DCD segment.
+
+Waleed H. Hassanein
+Founder, President, Chief Executive Officer & Director, TransMedics Group, Inc.
+Yeah.
+
+Joshua Jennings
+Analyst, TD Cowen
+Great. Thanks for taking the questions. Appreciate it.
+
+Operator
+Our next question comes from Ryan Daniels with William Blair. Please go ahead.
+
+Ryan Daniels
+Analyst, William Blair & Co. LLC
+Yeah, guys, thanks for taking the questions. Maybe a little bit of a follow-up there given that the focus remains on the sales weakness in the quarter. Waleed, should we really be thinking about things like your penetration now in DCD being so high versus where you were in past years that you will be a little bit more susceptible going forward to market fluctuations, again, just given that you don't have the opportunity to drive that up given that it's already so strong?
+
+Waleed H. Hassanein
+Founder, President, Chief Executive Officer & Director, TransMedics Group, Inc.
+Ryan, maybe in the short term, certainly that's what we've seen happen to us in Q3, but we're not – as I've outlined numerous times, and we still have high degree of confidence in that, we are just getting started, guys. Maybe at the current level, yes, but we are not fully mature yet. We are standing by our commitment to achieving the 10,000 transplants by 2028. For that to happen, we need to continue to grow our penetration and overall market. Unfortunately, in Q3, that didn't happen. The overall market in the US actually slowed down. And that's why we – when we looked at this, we think this is a onetime thing. It's one of the transplant variabilities. This is why TransMedics has never and always have forecasted that we do not talk about our annual volume and annual penetration until the end of the year, because we are used to seeing some fluctuation inter-year or sometimes inter-quarter. This one happened to be higher because we are becoming more and more, as you said, an integral part of the national transplant ecosystem. But we are going to continue to grow the overall market and we're going to continue to take market share. And we are – our clinical programs that are designed next year is to expand our reach even further in lung and heart and tackle areas that we have not tackled yet.
+
+So, yeah, that's the best I can address, Ryan, that we're not mature yet to assume this is going to be a frequent event. We definitely are going to be impacted by the national volume, especially if it's across the board decline like what happened in Q3. But from a actual case volume and penetration standpoint, we still are looking forward to a significant growth opportunity in front of us.
+
+Ryan Daniels
+Analyst, William Blair & Co. LLC
+Got it. That's a helpful reiteration, especially that 10,000 case metric. Maybe for my follow-up, one for Stephen. Just on the margins, I understand the pressure in the quarter as you kind of make investments and get ready to ramp up for another year of strong growth. But are you still trending towards the kind of mid to upper-60% longer term, or does the decision to actually invest in more hubs and now your own training and maintenance center maybe dilute that as the service margins could be a little bit lower going forward, so just an update there on the longer-term goal.
+
+Stephen Gordon
+Chief Financial Officer, TransMedics Group, Inc.
+Yeah. No, I think, Ryan, the long term of mid-60s is still very much where we want to be. I don't have a timeline on that, but mid-60s is definitely where we want to be. But it's really dependent on the efficiency of the service using our own planes more often than not and running those planes well, which we fully expect to do in the next few quarters and years.
+
+Ryan Daniels
+Analyst, William Blair & Co. LLC
+Okay. Thank you.
+
+Operator
+Our next question comes from Matthew O'Brien with Piper Sandler. Please go ahead.
+
+Matthew O'Brien
+Analyst, Piper Sandler & Co.
+Great. Thanks for taking the questions. Waleed, thinking about Q4 here a little bit, you guys reiterated the full year number. That's still a pretty wide range for Q4 specifically. And if it's the bottom end, it doesn't imply a lot of sequential growth. So, should we be thinking about the midpoint of the range is most likely? And then, do you really expect to outperform the OPTN data quarter-over-quarter here in Q4? Is that what we should be expecting?
+
+Waleed H. Hassanein
+Founder, President, Chief Executive Officer & Director, TransMedics Group, Inc.
+I think – Matt, thank you for the question. I think – listen, we're just coming out of a quarter where transplant volumes declined across three organs in the United States. I'm not going to stand here and say that we're going to outperform the national numbers. We need to prove that. As far as the first part of the question, the guidance is what the range is. I think I can't comment beyond that. And we have the range out there and then at the lower end of the range, or the higher end of the range, I can't comment on that, given that we're in the middle of the quarter. But that's all I can address that question with.
+
+Matthew O'Brien
+Analyst, Piper Sandler & Co.
+Okay. That's fair. And then Stephen, just – and sorry to keep circling around the gross margin in the quarter. But I just want to – if you can maybe look at Q2 versus Q3 in the – I think it was 500 basis point difference down sequentially, what were the buckets that made up that 500 basis points? I don't know if your partners on the logistics side were charging you much higher rates than expected, or things like that. But can you just bucket those? And then specifically, did you see any kind of meaningful like-for-like price degradation because of some of the competition or NRP availability across the year?
+
+Stephen Gordon
+Chief Financial Officer, TransMedics Group, Inc.
+Yeah.
+
+Matthew O'Brien
+Analyst, Piper Sandler & Co.
+Thanks.
+
+Stephen Gordon
+Chief Financial Officer, TransMedics Group, Inc.
+Yeah, sure, Matt. No, I mean, I think the buckets – I mean, the added investment is about half of it. That was like 4 to 5 points of it. And then it's not so much that we're getting charged more for the third-party logistics. It's that we have a lot of costs for more capacity, but we couldn't use that capacity. So we're using third parties. So we kind of get a double hit there for cost. And that's really the other half of it, it's really just those two buckets. Nothing more than that.
+
+Matthew O'Brien
+Analyst, Piper Sandler & Co.
+Nothing on pricing?
+
+Stephen Gordon
+Chief Financial Officer, TransMedics Group, Inc.
+Nothing on pricing. No.
+
+Waleed H. Hassanein
+Founder, President, Chief Executive Officer & Director, TransMedics Group, Inc.
+Guys, I want to be crystal clear, Matt, and I think your note a few days ago highlighted that. The NRP that's taking place in the United States is abdominal NRP. That's been ongoing for several years. It is not taking – abdominal NRP does not impact OCS. We take liver from abdominal NRP all the time. And it does not apply any pressures on our pricing whatsoever. So that's a misconception that is – that could be out there. The second thing is one has to take a step back and look at the actual cost of abdominal NRP as it's happening in the United States. This is easily referenceable. The service charge alone for abdominal NRP in the US is $40,000 per case to cover the surgeon and the perfusionist. On top of that, you need to add $20,000 for blood product and pharmacy product to prime the ECMO circuit. On top of that, you need to add a $20,000 cold storage device to move the liver from the donor to the transplant program. On top of that, you need to add $40,000 from a non-portable warm perfusion device to test the liver when it arrives to your center. So you add all that cost and you're already more expensive than OCS.
+
+But you forgot to add two very important and much more costly, costs of NRP that nobody is paying attention to. With NRP – with DCD, we all know that we have a 50% rate of donors not progressing. If you do NRP, centers are liable for full burden of the service cost and the full burden of logistical cost. With OCS NOP, which is our program centers are not liable for a dime on the technology cost. And we – they are only liable for 50% of logistics cost if it's a dry run cost. So anybody who thinks NRP is going to take share from OCS is really not understanding all these facts about abdominal NRP.
+
+And as I stated earlier during Bill's question, I'm sure all of you have seen the recent public letter from HRSA to OPOs and the OPTN in the United States, significantly underscoring the headwind that's coming towards NRP in the United States, given that it's an unvalidated and not regulated or controlled therapy. So again, guys, this is just for anybody who is doubting, is NRP has anything to do with this. These are the facts and everything I mentioned here, these are facts of applying NRP abdominally in the United States. And despite all that, abdominal NRP does not preclude us from taking livers and moving them and perfusing them and managing them and transporting them to the centers. It has never been a hindrance for us.
+
+Matthew O'Brien
+Analyst, Piper Sandler & Co.
+Thanks, Waleed.
+
+Operator
+Our next question comes from Suraj Kalia with Oppenheimer. Please go ahead.
+
+Suraj Kalia
+Analyst, Oppenheimer & Co., Inc.
+Hi, Waleed, Stephen. Can you hear me all right?
+
+Waleed H. Hassanein
+Founder, President, Chief Executive Officer & Director, TransMedics Group, Inc.
+Yes. Hi, Suraj.
+
+Suraj Kalia
+Analyst, Oppenheimer & Co., Inc.
+So, Waleed, I'd be remiss, in quite a shock. And Waleed, trying to connect all your comments together, I confess I'm still struggling to understand a few moving parts. So the DCD volume, at least by our account, July, August was pretty strong. September was okay. Your DCD volume, if I heard you correctly, you say was 70% or more. So the math is suggesting your loss share in DBD. And more importantly, Waleed, that I'm curious, there seems to have been a break in your trajectory of share gains sequential share gains. So maybe, Waleed, help us understand something's gave this quarter and just the overall market share doesn't seem to explain, I'm curious how you hold up 10,000 units by 2028. I know it's a long-winded question. I'm still struggling to understand this sudden shift in gears.
+
+Waleed H. Hassanein
+Founder, President, Chief Executive Officer & Director, TransMedics Group, Inc.
+Suraj, there is no shift in gears. It's your perception of reality. We did 1,000 transplant in 2022. We did 2,300 transplants last year. We're on track to doing approximately between 3,500 and 4,000 transplant this year. We see a path towards 10,000 transplants. Again, the community is focusing on liver. We're focusing on heart, lung and liver. And soon, we will add additional organs. So, as far as the DCD numbers that you highlighted, we did not lose market share in DBD. In fact, we gained a little bit a percentage point or two in DBD in liver. It's just the overall transplant volume went down in the United States. It's as simple as that. There's no – anything hidden or secret behind it. And we fully expect to recover from it. It's a transient event, and we fully expect to recover from it in Q4. At least that's based on all of the data that we monitor. Stephen, would you like to add anything else?
+
+Stephen Gordon
+Chief Financial Officer, TransMedics Group, Inc.
+Yeah. Suraj, one thing I would say might impact our organ-specific revenue a bit is the service portion was a little bit of a higher decline at heart than the product portion, because some of the distances this quarter were shorter. So, like our average selling price for the logistics portion in heart was lower than what it was last quarter. And so that's why the sequential decline in heart is a little bit more than the market. The opposite happened on liver. Those distances were a little longer, the revenue was a little bit higher, the share was a little bit higher. And so that had a little bit of an impact on the sequential revenue by organ.
+
+Waleed H. Hassanein
+Founder, President, Chief Executive Officer & Director, TransMedics Group, Inc.
+Yeah. Actually, to echo what Stephen just said, Suraj, be careful of looking at revenue as the only surrogate for case volume, because Stephen is absolutely correct. When we report revenue per organ, it includes both the case volume and the service component. And as Stephen said, because of the safety of OCS, we can do more car transport for hearts up to 4 hours now with the NOP and not use planes versus liver, we -where in the quarter, we saw a higher longer distance transport, which may have increased the service portion of the total revenue for liver. So that's – that could be the disconnect here.
+
+Suraj Kalia
+Analyst, Oppenheimer & Co., Inc.
+So my last question, Stephen, for you. The stocking orders you mentioned in Q1 and Q2, maybe I missed it, I don't recollect that being talked about earlier, but how should we think about that going forward? And, Waleed, when we look about heart and liver, right, you guys are 21% in heart by our count share, 27%, give or take in liver, are we getting to the zone now where incremental share gains are more determined by price elasticity of demand? Gentlemen, thank you for taking my questions.
+
+Stephen Gordon
+Chief Financial Officer, TransMedics Group, Inc.
+So, Suraj, let me first answer the question on OUS. What we've said consistently is that there's not a trend in OUS. So, I would say this quarter, it's probably going be similar to next quarter. We didn't have destocking orders this quarter. Unless something changes and we – a new customer comes on, it's probably going to be similar to what it was this quarter. I don't see any change really.
+
+Waleed H. Hassanein
+Founder, President, Chief Executive Officer & Director, TransMedics Group, Inc.
+And Suraj, again, thank you for asking the question. Again, I caution the Street from trying to create something out of nothing. Price elasticity or pricing pressure has nothing to do with what happened in Q3, because we've seen major transplant programs lose significant portion of their annual volume in the United States. I'm talking major transplant programs being behind 40, 50 transplants in the month of August, for example. Has nothing to do with pricing sensitivity. I could tell you that these transplant program would have done anything to get access to transplants during that time.
+
+Second, when you look at the competing dynamic out there, if you think NRP is a competing dynamic, I just outlined to you clearly that pricing is not the factor because NRP is more expensive than OCS when it comes to abdominal NRP. So, we feel pretty confident in our pricing point. And if and when we see a pricing pressure, we will deal with it as we always have. But we do not see that as the driving factor, we do not see that as impacting our Q4 forecast or, frankly, even 2025 forecast. So, at least, that's based on what we see today. And thank you for asking the question.
+
+Operator
+Our next question comes from David Rescott with Baird. Please go ahead.
+
+David K. Rescott
+Analyst, Robert W. Baird & Co., Inc.
+Oh, great. Thanks for taking the questions. Two from us. And I'll ask them both upfront. Just, Waleed, on some of your comments around how you're characterizing the way share is today, I heard your views on why this should be transient and maybe some early comments on how things are looking in Q4, should we tend to think that the way in which you exited Q3 should be the way we're thinking about Q4 from a share stabilization perspective? That's the first question.
+
+And then second one from us is just more on the planes. I heard some of the comments there. Can you just give us a sense for maybe the number of planes that's impacting how long this typically takes, if there's any other things in the future that we should think about from the maintenance perspective that could represent some other headwind at some point going forward? Thank you.
+
+Waleed H. Hassanein
+Founder, President, Chief Executive Officer & Director, TransMedics Group, Inc.
+Thank you for asking the questions. So, on the first part of the question, I think – again, I think, if we do nothing, we expect to maintain our share exiting Q3. For us, that's the low-hanging fruit. We hope that we could do better in Q4. And as I stated in my remarks, we are focusing on ending the year strong.
+
+On the second piece, I want to remind everybody that there is a reason why we said we want to be operational with anywhere between 16 to 18 or 19 or 20 aircraft and we're buying enough aircraft to enable us to do that. Let me explain what I just said.
+
+We need to assume that on any given month, there is at least one or two aircraft that are in some form of maintenance. Some are scheduled and some are unexpected. That's going to be the – that's the life of operating a logistics network. So, for that to happen, we need to plan on making sure that we have enough operational aircraft. What happened to us in Q3? It was the first quarter where we had more aircraft down for scheduled maintenance and some for unscheduled maintenance that – higher than what the average that we've been operating with up to that point. Again, it's early innings for us running this network. So, we've learned from that and our team is working very hard to minimize the impact on these downed aircrafts. And we've seen the impact on margin erosion when we use supplemental logistics partners. So, the team now understands the importance of leveraging our assets and minimizing the impact going forward. So, that's at least my perspective.
+
+Stephen, would you care to add anything else?
+
+Stephen Gordon
+Chief Financial Officer, TransMedics Group, Inc.
+No, nothing else. We do have 18 planes that we own today. We will probably add a few more over the next two quarters. And then, as we've said also before, we will probably take a pause and really run those as efficiently as possible and, again, to try to improve the margin that we've just talked about.
+
+Waleed H. Hassanein
+Founder, President, Chief Executive Officer & Director, TransMedics Group, Inc.
+Next question, operator?
+
+Operator
+[Operator Instructions] Our next question comes from Mike Matson with Needham & Co. Please go ahead.
+
+Mike Matson
+Analyst, Needham & Co. LLC
+Yeah, thanks. So, I just want to ask one on the new version of the OCS you're going to be I guess introducing next year. Can you tell us anything more about those, the timing and then how those will kind of fit with these programs you're talking about for heart and lung?
+
+Waleed H. Hassanein
+Founder, President, Chief Executive Officer & Director, TransMedics Group, Inc.
+Mike, thank you for the question. Yes, we talked about this during the last call, so I'll repeat it again. Those are the sort of the leading edge of our next-generation technology pipeline. It involves, in the case of the lung, new perfusion solution, new circuit design, new ventilation modality, new clinical use model designed to optimize lung function for an extended period of time and eliminate any – or the chances of edema, forming edema during that preservation period.
+
+On the heart front, it's a new preservation perfusion solution and new metabolic enhancer additives and new used model to optimize heart perfusion for up to 24 hours. Both are designed to enable morning-hour organ transplant, as well as significantly improve post-transplant clinical outcomes. So, we will be running multiple clinical programs at the same time, probably two for lung, two for heart to demonstrate these clinical enhancements and superiority in outcomes and driving further adoption and expansion of the OCS, NOP in heart and lung for 2025.
+
+Mike Matson
+Analyst, Needham & Co. LLC
+Okay, got it. And then just on the – on your – with your fleet of planes, I think you said it was 18. So I guess, what portion of the capacity there have you been using? Or maybe another way I put it is, how much more could you grow your revenue with that existing fleet of 18, I think, of planes before you have to start adding more?
+
+Waleed H. Hassanein
+Founder, President, Chief Executive Officer & Director, TransMedics Group, Inc.
+Matt (sic) [Mike] (00:53:18), that's an excellent question. So when we say we own 18, we did not operate all 18 in Q3. In fact, the average available planes in Q3 was about 10. So when you look at revenue in Q3, you look at it as a 10. So we are not planning – as Stephen said, we have 18 exiting Q3 and we are adding a handful between now and end of Q1. Say, we will be somewhere between 20 and 22 aircrafts. We're not planning to purchase any additional aircraft until we completely operationalize this and really sweat these assets for an extended period of time to drive efficiencies. And then we can reassess based on that initial volume or initial size fleet if we need to even purchase any additional aircraft going forward or not.
+
+Mike Matson
+Analyst, Needham & Co. LLC
+Okay. Got it. That's all. Thank you.
+
+Operator
+This concludes our question-and-answer session. I would like to turn the conference back over to Waleed for any closing remarks.
+
+Waleed H. Hassanein
+Founder, President, Chief Executive Officer & Director, TransMedics Group, Inc.
+Thank you all for your time this evening. And we look forward to our next call. Have a wonderful rest of the evening.

@@ -1,0 +1,123 @@
+Thank you. This is Jeremy Feffer from LifeSci Advisors. Before we begin today, let me remind you that the company's remarks include forward-looking statements. These statements reflects management's expectations about future events, operating plans, regulatory matters, product enhancements, company performance and other matters and speak only as of the date hereof. These forward-looking statements involve a number of risks and uncertainties. A list of these factors that could cause actual results to be materially different from those expressed or implied by any of these forward-looking statements is detailed under risk factors and elsewhere in our Annual Report on Form 10-K for the year ended December 31, 2023, our quarterly report on Form 10-Q for the quarter ended September 30, 2024 and our other reports filed with the SEC. These documents are available in the Investor Relations section of our website at www.senseonics.com. We undertake no obligation to update publicly or revise these forward-looking statements for any reason except as required by law.
+
+Joining me today from Senseonics are Tim Goodnow, President and Chief Executive Officer; and Rick Sullivan, Chief Financial Officer. Today, we also have Brian Hansen, President of CGM at Ascensia Diabetes Care, our global distribution partner for Eversense joining us.
+
+With that, I would like to turn the call over to Tim Goodnow, President and CEO. Tim?
+
+Timothy T. Goodnow
+President, Chief Executive Officer & Director, Senseonics Holdings, Inc.
+Thank you, Jeremy, and thank you all for joining us this afternoon. During our call today, we'll begin with a recap of what an exciting and pivotal quarter it has been for Senseonics. We'll also hear from Brian, who is responsible for the rollout of our recently approved Eversense 365, the world's first and only one-year continuous glucose monitoring. Lastly, Rick will review our third quarter financials and then we'll take any questions you might have.
+
+On September 17th, we received FDA approval for the Eversense 365, marking a significant accomplishment many years in the making. When we designed our 90 day and 180 day CGM products and we're always working towards the goal of one CGM for one year. A goal that seemed imposing at the time. We did the market research and knew what patients and prescribers wanted; convenience, flexibility and longevity coupled with accuracy and reliability. We set out to deliver all of these things to help people overcome common frustrations and interruptions experienced with traditional short-term CGMs. Early feedback we've received from patients and clinicians is extremely positive, and the lead generation that we have seen in the first month of the launch as well exceeded expectations. In the first week alone, we saw the highest influx of leads in the company's history indicating that the diabetes community is embracing Eversense 365.
+
+And as you may have heard during our KOL call, a couple of weeks ago, endocrinologists see the opportunity for Eversense 365 across Type 1 and Type 2 diabetes. Doctors Ahn and Ciaramita also agreed that for some people with diabetes, Eversense 365 is the only CGM that makes sense. For example, patients with difficulty hearing audible sensor alarms, patients with allergies to common adhesive materials used with short-term CGM, and patients who are physically active intend to lose sensors before the end of their stated expiration date.
+
+During the KOL event, we also heard from Mercy, the first hospital system to adopt Eversense 365 as part of a system wide solution. Mercy with over 30,000 patients who could benefit from a CGM believe that Eversense will improve outcomes for patients as well as decrease overall costs related to diabetes care. We believe that the Mercy collaboration can bring a model for other healthcare systems to follow, and we hope to enter into additional similar collaborations with other health systems in the coming year. By offering Eversense 365 to its participants and arranging access to our remote patient monitoring program, health systems can offer patients more ongoing support and providing a CGM device alone.
+
+As rpm leverages personal data to inform diabetes counselors who can proactively advise patients on improving their diabetes management. These professionals are intended to provide coaching and insight into things impacting patients' glucose levels such as medications, foods, exercise, and lifestyle, and that will allow patients to make better informed decisions and the program is designed to coach and interact with patients between physician visits. This is intended to shorten the feedback loop of information patients receive. Our goal is for the Eversense, CGM and RPM offerings to help health systems improve diabetes management and reduce the cost of care.
+
+On the reimbursement side, Eversense 365 is covered by nearly all US private insurers, as well as Medicare, covering over 300 million lives in aggregate. We have seen strong adoption by commercial payers to continue to work with a few smaller regional insurers to expand coverage as broadly as possible. I'm so proud of the Senseonics team and all the hard work put into delivering the world's first and only one year CGM. But our work doesn't stop here. Our pipeline includes the Gemini sensor incorporating battery power for continuous 24/7 readings, as well as the Freedom sensor, which communicates directly with a patient's phone with no transmitter required. We're making progress in our development programs to integrate these exciting enhancements into the Eversense system, and we continue our mission to improve the patient experience and reduce life disruptions that glucose monitoring can cost.
+
+Lastly, Eversense 365, has been granted the designation of an integrated continuous glucose monitoring system, recognizing its accuracy and meaning that it can communicate with and be integrated into automated insulin delivery systems. We continue to work with insulin pump manufacturers towards developing the necessary interface to seamlessly pair the two systems, creating a closed loop for the ultimate diabetes care. We look forward to providing update on the developments of these pump interfaces in the coming quarters.
+
+Now, as we pivot to our US launch execution and making Eversense 365 available to as many patients as possible, we'd like you to hear from Brian Hansen, President of CGM at Ascensia Diabetes Care. Brian is here with us today to provide additional information on the Eversense 365 launch strategy and the execution today. Brian?
+
+Brian B. Hansen
+President-CGM, Ascensia Diabetes Care
+Thanks, Tim, and thanks for asking me to participate in your call today. At Ascensia, we're equally excited to be offering the Eversense 365 product as part of our glucose monitoring portfolio. Since we began this partnership with Senseonics in 2020, they've continued to disrupt the landscape with novel, differentiated products. Eversense 365 is the most recent example, providing a significant breakthrough in diabetes technology and management.
+
+For those of you unfamiliar with Ascensia Diabetes Care, we are a global company based in Basel, Switzerland, of approximately 1,700 employees working in 31 countries entirely dedicated to improving the health and lives of those with diabetes. Ascensia's products are sold in more than 125 countries worldwide, including through multiple channels here in the United States and Canada. We have helped people manage their diabetes for more than 80 years and are proud to be the global distribution partner for Senseonics.
+
+Our approach to building the successful Eversense 365 launch has been to utilize multiple marketing channels. We have a very experienced team here in the United States exclusively promoting only the Eversense 365 system. This group that I lead has dedicated independent resources to drive Eversense expansion. Secondly, we have created a network of approximately 800 certified doctors and nurse practitioners to insert the sensor for US patients, with approximately 3,000 prescribers who can help patients start on Eversense 365. This network is in addition to Eon Care Services, which Senseonics created to support patient access with plans to build and grow the inserter network the Nurse Practitioner Group established. This network currently provides in-home and clinic placement of sensors by nurse practitioners in approximately 35 US geographies, with plans to expand access as we drive adoption.
+
+We're also employing traditional and digital marketing strategies with direct-to-consumer ad campaigns, as well as healthcare provider educational tools. And as Tim mentioned earlier, we are enhancing our resources for future hospital system integrations. We believe this multi-pronged approach to building brand awareness will enable Ascensia to reach a broader Eversense 365 potential customer base driving sales while building a comprehensive catalog of patient experiences. You get a bit more granular for a moment. Our immediate priorities include increasing awareness through optimizing our creative efforts and targeting to cost effectively drive high quality prospects to the Ascensia website.
+
+Our website has been fully updated to allow easier navigation for better access to product information, education, training, and cost and insurance details. These improvements are designed to help increase lead capture for qualified high scoring prospects, nurturing and expanding outreach approaches to leads to better reach them, and optimizing end-to-end processes and training to improve customer experience and drive conversion. As a result of these efforts, we saw healthcare provider and our direct-to-consumer leads increased by more than 200% in the four weeks post Eversense 365 approval compared to the four weeks prior to approval.
+
+Speaking of customer experience, I want to share with you some of what we've been hearing in the field. First of all, the primary reaction we've seen and heard is enthusiasm. We believe we have the best product in the world and our reps are tremendously excited to carry Eversense 365 in their bag. Secondly, we are seeing real enthusiasm from our healthcare providers. As I mentioned earlier, the referrals of new patients have more than doubled. In addition to encouraging those using the 180-day sensor to transition to Eversense 365 when their six-month sensor has expired. This is opening doors to us where we've had little to no access.
+
+Lastly, I've seen many successful as well as some not so successful launches in the diabetes space and the buzz and build up around this one certainly has me excited. There is one other aspect of Eversense 365 that I know will resonate extremely well with both patients and physicians, reduce calibrations. Once-weekly calibration is a marked improvement over previous Eversense generations and now does not differ much from the transdermal insertion necessary with short-term CGMs that are replaced every 10 to 14 days. I believe the reduced calibration requirement will make the Eversense 365 a much more competitive offering and early feedback confirms our market research that once-a-week calibration should benefit Eversense adoption, particularly given the enormous convenience benefit of a year-long sensor.
+
+As I mentioned, Ascensia is proud to partner with Senseonics to make Eversense 365 available to patients globally. We believe in the product and its potential to improve both the experience and the outcomes for patients with diabetes.
+
+With that, I'll hand it back over to Tim.
+
+Timothy T. Goodnow
+President, Chief Executive Officer & Director, Senseonics Holdings, Inc.
+Thank you, Brian. It's great to have you here and thanks for your invaluable efforts today. To follow on Brian's comments in terms of the actual commercial launch, I want to remind everyone that the first commercial insertion of Eversense 365 took place in early October, and we are just beginning to ship 365 sensors into the channel more recently. As a result, third quarter revenue we are reporting today is all pre-Eversense 365. Fourth quarter US revenue will be a mix of E3 sales from its final shipments and the initial shipments of Eversense 365, meaning we will not see the full impact of Eversense 365 revenue in the US until Q1 2025. We continue to serve the European market with Eversense to E3 and expect in the first quarter to submit Eversense 365 for its CE Mark in Europe. While we will not be providing 2025 revenue guidance until our next earnings call, I can tell you that we are ecstatic with the early response to Eversense 365 that we're receiving from patients and physicians thus far. And we are looking forward to an exciting and successful year ahead.
+
+With that, I'll now turn it over to our CFO, Rick Sullivan, who will provide more details on our financial results, recent financing activities, and our restructuring efforts. Rick?
+
+Rick Sullivan
+Chief Financial Officer, Senseonics Holdings, Inc.
+Thank you, Tim, and good afternoon, everyone. We appreciate the opportunity today to update you on our business. In the third quarter of 2024, net revenue was $4.3 million compared to $6.1 million in the prior year period due to the inventory dynamics associated with the 365-day product launch, where we sought to reduce US E3 inventories in anticipation of the transition to the 365-day product.
+
+US revenues for the third quarter was $2.4 million, and revenue outside the US was $1.9 million. As a reminder, our collaboration agreement with Ascensia is for revenue sharing with the percentage of revenue to Ascensia increasing based on duration of the contract and annual revenue levels. We recognize our portion of revenue when shipments are delivered to Ascensia and they take title and ownership of the inventory. This begins the multi-step distribution to patients via Ascensia and their distributors.
+
+We manage our manufacturing based on patient demand generated from commercial activities targeting 60 to 90 days of inventory across the various channels. Therefore, our shipments to Ascensia during the quarter are largely intended to support future demand for Eversense. Third quarter shipments were intended to support the final demand for the US 180-day systems. We began the planned transition to the 365-day product launch in the fourth quarter. We do not expect to reach target inventory levels for 365-day product in the fourth quarter and will gradually increase inventory to target levels through the first half of 2025.
+
+Gross loss in Q3 2024 was $4.1 million, a decrease from a gross profit of $1.2 million in the prior year period. This decline was primarily driven by one-time charges associated with the transition of Eversense E3 to Eversense 365. Research and development expenses in Q3 2024 were $10.5 million, a decrease of $2.3 million compared to $12.8 million in the prior year period. The decrease was primarily due to the completion of the enhanced clinical trial, which drove a $2.6 million reduction in clinical study costs over the prior year period.
+
+Third quarter 2024 selling, general and administrative expenses were $8.3 million, an increase of $0.9 million compared to $7.4 million in the prior year period, primarily driven by increased personnel and consulting costs related to Eon Care and other commercial efforts to support Ascensia. For the nine months ended September 2024, operating loss was $22.8 million, compared to $19 million in the third quarter of 2023 due to inventory write-offs associated with the transition to the 365-day product, offset by a reduction in clinical trial costs. For the three months ended September 2024, total net loss was $24 million or a $0.04 loss per share, compared to a net loss of $24.1 million or a $0.04 loss per share in the third quarter of 2023. Net income increased by $0.1 million due to the reduction in R&D expenses.
+
+As of September 30, 2024, cash, restricted cash, cash equivalents and short-term investments totaled $74.8 million, and debt and accrued interest was $55.9 million. In Q3 and in early Q4, we raised gross proceeds of more than $20 million, including the $16 million offering announced in October. These financings improve our current balance sheet and provide us the flexibility to repay the 2025 notes due early next year, significantly reducing our outstanding debt. In October, we also executed a restructuring that included a reduction force of nearly 20% and a planned reduction in operating expenses with a target of reducing cash operating expenses by more than $10 million in 2025. These efforts combined extend our cash runway for over a year into late 2025.
+
+We also recently acquired the Eversense insertion network assets of the Nurse Practitioner Group and have begun the transition to our Eon Care subsidiaries. As we work to grow this network, we believe the opportunity of the CPT [ph] code (00:19:08) payments associated with the insertions will enable a self-sustaining economic model for this initiative. We anticipate that having further influence over the insertion process through this strategic move will drive efficiencies, increase insertion throughput and ensure continued focus for an excellent patient experience. The acquisition will have a minimal cash impact to our Q4 financials.
+
+Turning to our outlook for the remainder of 2024, Senseonics expects full year 2024 global net revenue to be approximately $22 million as we begin to transition our US products to Eversense 365 following its approval in late Q3. The full year 2024 financial outlook assumes more than doubling the US new patient starts and increasing the global installed base by approximately 50% in 2024 compared to 2023.
+
+Inventory dynamics associated with the 365-day product launch impacted product sales in the third quarter as we began reducing E3 inventory in anticipation of the transition to Eversense 365. Sales are expected to accelerate in the fourth quarter based on anticipated initial 365-day product demand and the initial ramp of the Mercy collaboration. While we're not yet providing guidance for 2025, we're confident that based on early lead generation, Eversense 365 revenue growth should accelerate further in 2025, when it will be the only product sold in the US.
+
+We also continue to expect gross margins for 2024 to be in the range of 10% to 15%, excluding the $4.8 million of onetime charges associated with the transition to the 365-day product. We're really excited about the unit economics of Eversense 365 and expect our gross profit margins to meaningfully improve almost immediately approaching 30% next year. We expect our operating expenses for 2024 to continue to be in the range from $77.5 million to $82.5 million.
+
+For 2025, we expect to see cash operating expenses decreased by $10 million compared to 2024 as a result of the recent restructuring efforts. With Eversense 365 on the market and the expected positive margin contribution, we'll work to ensure that the organization is rightsized and staying disciplined in our use of capital while remaining positioned to support both our commercial partner in driving adoption of Eversense and our important work progressing our product pipeline.
+
+With that, I'll turn it back to Tim.
+
+Timothy T. Goodnow
+President, Chief Executive Officer & Director, Senseonics Holdings, Inc.
+Thanks, Rick. And as I mentioned at the start of the call, we feel confident in Senseonics future trajectory. We are well positioned as we head into the final quarter of the year with a solid foundation of new approvals, launch momentum, and a strengthened balance sheet. We see the opportunity to drive growth through the delivery of our strategic initiatives. We're executing our development and operational initiatives while Ascensia continues to enhance its commercial capabilities. Further, we are building from the strong foundation of our differentiated technology and a pipeline that has continuously advanced next generation products. The successful clearance and now the launch of our 365-day product represents one of the most significant catalysts in the company's history. And we are looking for 2025 to be a transformational year for the company. There is a large opportunity in front of us as we work to continue to simplify the lives of more people with diabetes and build higher growth in shareholder value.
+
+In addition to Rick, Brian, and myself, joining us for questions today is Mukul Jain, our Chief Operating Officer. Thank you for all your time today. Operator, let's now open up the call for questions. [Operator Instructions]
+
+Question And Answer Section
+Operator
+We'll take a question from [indiscernible] (00:23:34), Morgan Stanley. Your line is open.
+
+My question is, do you have an idea what the potential market is in the United States and also in Europe?
+
+Timothy T. Goodnow
+President, Chief Executive Officer & Director, Senseonics Holdings, Inc.
+Thanks, [ph] Bryan (00:23:52). Sure. Obviously, the market for CGM is huge and growing when we add something like $11 billion, $12 billion this year, we calculate the CAGR to be in the 20% to 22% range. Eversense can absolutely be a participant in the majority of that market. We are, as you may be aware, we are seeing most of our patients are coming from Type 2s with the indication for insulin, basal insulin and that's a – that segment of the market is even significantly underpenetrated. So that's even a larger opportunity for us. So, we see it as an alternative for the folks that are on CGM today and know we will participate meaningfully as the product generations roll out here.
+
+Okay. All right. Thank you. [Operator Instructions]
+
+Operator
+We'll move next to Vernon Bernardino of H.C. Wainwright.
+
+Vernon Bernardino
+Analyst, H. C. Wainwright & Co. LLC
+Hi. Good afternoon, everyone. Thanks for taking my question. Question I have is, I think it was you Rick who mentioned, your gross margin would improve to – if you could just remind us, what you have said, your gross margin would get to in 2025 and how that might change after 2025?
+
+Rick Sullivan
+Chief Financial Officer, Senseonics Holdings, Inc.
+Hey, Vernon. Great to hear from you. Thanks for the question. So in 2025, with the improved unit economics of 365-day product, we expect that the gross profit margins will increase approaching 30% by year-end and then continue to increase thereafter with the partnership as we have it today, we think that the gross profit margins could get to 50%, and that's after the revenue sharing with the Ascensia partnership.
+
+Vernon Bernardino
+Analyst, H. C. Wainwright & Co. LLC
+And regarding the switches to Eversense 365, do you anticipate that a majority of those will occur quickly or do you think that will be kind of a slow, so that we can look at how patients who went on 180, the six-month Eversense as a rate of switch going into 2025?
+
+Timothy T. Goodnow
+President, Chief Executive Officer & Director, Senseonics Holdings, Inc.
+Yeah, Vernon. So, we are transitioning the market very quickly. In the US, it's pretty much a light switch, right? We're – if you're up next for a sensor, you're going to go to the Eversense 365. Europe, of course, is going to take a little bit longer because we are seeking the approval to commercialize over there. But it's essentially immediate for obviously all new patients. But anybody that's coming off of 180, their next sensor will be Eversense 365.
+
+Vernon Bernardino
+Analyst, H. C. Wainwright & Co. LLC
+Okay. Thank you. That's very helpful. Thanks for taking my question and congrats on the results. Looking forward to meeting this third quarter, I mean in the fourth quarter.
+
+Operator
+Thank you. This does conclude our question-and-answer session. I'd be happy to return the call to Tim Goodnow for closing comments.
+
+Timothy T. Goodnow
+President, Chief Executive Officer & Director, Senseonics Holdings, Inc.
+Great. Well, thank you for the opportunity to speak. We appreciate it. And we look forward to updating you at our next quarterly call in Q1. Thank you.

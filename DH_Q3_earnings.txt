@@ -1,0 +1,293 @@
+Good afternoon and thank you for joining us today to review Definitive Healthcare's financial results. Joining me on the call today are Kevin Coop, Chief Executive Officer; and Rick Booth, Chief Financial Officer.
+
+During this call, we will make forward-looking statements, including but not limited to, statements related to our market and future performance and growth opportunities, the benefits of our healthcare commercial intelligence solutions, our competitive position, customer behaviors, and use of our solutions, our financial guidance, our planned investments, generating value for our customers and shareholders, and the anticipated impacts of global macroeconomic conditions on our business results and customers, and on the healthcare industry generally.
+
+Any forward-looking statements are made pursuant to the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995. Forward-looking statements involve a number of risks and uncertainties, including those discussed in the Risk Factors sections and elsewhere in our filings with the SEC. Actual results may differ materially from any forward-looking statements.
+
+The company undertakes no obligation to revise or update any forward-looking statements to reflect events that may arise after this conference call, except as required by law. For more information, please refer to the cautionary statement included in the earnings release that we have just posted to the Investor Relations portion of our website.
+
+Additionally, we will discuss non-GAAP financial measures on this conference call. Please refer to the tables in our earnings release and investor presentation on the Investor Relations portion of our website for a reconciliation of these measures to their most directly comparable GAAP financial measure.
+
+With that, I'd like to turn the call over to Kevin.
+
+Kevin Coop
+Chief Executive Officer & Director, Definitive Healthcare Corp.
+Thanks, Matt, and thanks to all of you for joining us this afternoon to review Definitive Healthcare's third quarter 2024 financial results. It's been an exciting and active time here. And today, I will provide you with an update on the initial progress we've made to position the company for a return to top and bottom line growth.
+
+Let me begin by reviewing our financial results for the quarter, which I'm pleased to share, were above the high end of our guidance ranges on both the top and bottom line. Our total revenue was $62.7 million, down 4% year-over-year. This decline was expected as renewal rates improved year-over-year, but they are still well below our potential. And we also anniversaried the acquisition of Populi this quarter.
+
+Adjusted EBITDA was $20.6 million, down 5% year-over-year and adjusted EBITDA margin was 33% consistent with the prior year, despite the decline in revenue, thanks to earlier cost actions and ongoing cost discipline. As indicated on our last earnings call, we do expect to see some volatility as we implement improvements in our operational execution focus areas. For example, the results this quarter were mixed. Positively, we delivered on our new logo and upsell expectations for the quarter.
+
+We saw improvement in expansion sales activity compared to Q2 as well as some nice wins that we call win-back customers, which are customers who had previously churned, but have now returned as their financial situations improved or they realized the value they were missing out without access to our data and solutions. While early, we believe these dynamics are a positive indication for the future.
+
+Conversely, our churn rates remained elevated. While we did see some modest year-over-year improvement in churn overall, the pressures we have discussed over the last two years, especially in the life sciences market, continue to impact many of our customers' financial health and their capacity to invest in growth investments. As I'll discuss in more detail shortly, investing in our customer success programs to ensure customers realize the full benefit of Definitive Healthcare platform is a top priority.
+
+We believe there are levers within our control to improve the retention dynamics of the business and we have already begun work on implementing those levers. Still, it will take time for these changes to positively impact our financial results. With that backdrop, let me provide some color on our progress against our strategic plan.
+
+As I mentioned last quarter, one of the early learnings from my time here is that we need to dedicate ourselves to simplifying all aspects of our business. As part of that process, I believe having a common platform to our product portfolio is an important step to simplifying both our product development and go-to-market.
+
+Let me explain how moving towards that goal will help us. Definitive Healthcare is committed to organic product development and we've augmented that with several acquisitions over the years, like Monocl, Analytical Wizards, Populi, and Carevoyance. The result is a portfolio of products that leverage a highly differentiated dataset to solve a complex array of business challenges for our customers, ranging from product development, sales intelligence and optimization, go-to-market planning and market intelligence.
+
+So, while the digital solutions and their value propositions are compelling, in many cases, they are siloed, meaning, they don't currently share the same data, they lack a unified UI/UX or even something as straightforward as a single sign-on. When we talk about developing a true platform, addressing those issues, so a customer has the ability to deploy access and derive value easily from a unified product framework rather than individual products is what we are focusing on delivering. The benefits of this will be multi-fold.
+
+First, from a product development perspective, we will greatly simplify and integrate our existing solutions, making them easier and more cost-effective to maintain. It will also simplify the development of new solutions going forward that can leverage this existing investment. For example, once our data is on a common platform, not only does it become more powerful when combined, but our data science team can more easily leverage it to create new insights, allowing us to provide our clients with robust master data management solutions, as well as to provide direct access through our powerful UI or direct connections to their CRM and other datasets.
+
+Second, in our go-to-market efforts, a common platform will make it significantly easier to upsell and cross-sell over time. Our approach is meant to meet our customer's initial business needs today and lay the foundation for a frictionless upsell process in the future. Ultimately, we want to offer customers a seamless user experience where accessing a new solution is as simple as the click of a mouse. The most important benefit is that it will deliver more value to our customers in a unified and simplified manner.
+
+It will also make Definitive stickier with customers and improve retention rates. Customers will be better positioned for success with the initial solutions they deploy, and as they adopt more of the platform, we will then become operationally embedded, and increasingly, a strategic partner in solving their business challenges. Having a deeper understanding of what our customers want from us will help Definitive strengthen our value proposition in all phases of customer engagement.
+
+We are still in the early days of this process, but I'm confident this platform approach should meaningfully improve our sales efficiency over time. I have now been able to personally see this value by participating in both sales calls and customer reviews in the field. Through active conversations with customers and prospects, I've confirmed that our data is differentiated and considered best-in-class, especially our reference and affiliation data. I have also learned firsthand that Definitive is considered a strategic partner for many specialized and complex use cases that require technical domain expertise in the end markets where we compete.
+
+There were clear indications that many customers want to be able to do more with Definitive's data, and we have a significant opportunity to expand our value proposition in the future. We can address this both with products as well as by addressing the challenge of how our customer facing teams are deployed.
+
+With differentiated data quality, a simplified and easy access product strategy, and more effective operational deployment of our customer success and advanced analytical resources, I expect that we will see meaningful progress in servicing our customers that will drive improvement in both our retention and revenue growth.
+
+In addition to moving towards a more common platform, we continue to innovate and develop new solutions based on the needs of our customers. In Q3, we introduced two new product enhancements that are examples of the ongoing product innovation that enhances our value proposition over time.
+
+Market forecast is a new predictive analytics solution that will help healthcare organizations identify high-growth markets and better position themselves to improve patient retention and acquisition, and expand into new market opportunities. Monocl conferences is a new solution that makes it easier for biopharma and medtech customers to effectively leverage their attendance and investment in industry conferences.
+
+Turning to our sales performance in the quarter, I'd now like to highlight a few customer wins that demonstrate our growth opportunity. First, I'd like to highlight a Q3 win-back customer. In 2023, a leading health organization dedicated to Alzheimer's care, support and research, decided to switch to a lower cost alternative. However, they quickly realized that the alternative fell short of their needs. They've since returned to Definitive, citing our comprehensive data and strong commitment to partnering with them for success.
+
+Next, a California-based pharmaceutical company dedicated to developing life-changing treatments for ophthalmic diseases has chosen Definitive to assess the market potential for a new long-term drug delivery platform. Our data and insights are empowering them to better understand the landscape of surgeons performing minimally-invasive glaucoma surgeries, enabling more informed decisions.
+
+Lastly, I want to spotlight a recent success that demonstrates the strength of our solutions across both the healthcare B2B and consumer markets. A specialty food and beverage company catering to individuals with swallowing difficulties has chosen Definitive to support its sales and marketing efforts. Their sales team is leveraging view to engage physicians and skilled nursing facilities, who play a critical role as influencers and referrers for these specialized products.
+
+Simultaneously, their marketing team is using Populi to drive targeted digital marketing campaigns aimed at consumers with special and specific dietary needs. Overall, Q3 was a productive and important quarter. We have implemented more rigor around transparency and accuracy in our forecasting. Our product innovation team continues to deliver new solutions. We signed important new customer and expansion wins, and we've made progress executing on our strategic priorities.
+
+We're developing a clear vision of where we are taking this business, and we are 100% focused on execution and accountability. As we discussed on our last earnings call, this is a work-in-progress, and it will take time for changes we are making to positively impact our financial results. This will require some patience from investors. As Rick will discuss, we expect continued revenue volatility in the fourth quarter and the upcoming year. We expect revenue to decline sequentially in Q4 and into early next year.
+
+Our goal is to return the business to sequential revenue growth in the second half of 2025, which is the first important milestone we need to achieve to return to sustainable year-over-year growth on both the top and bottom lines. We are committed to drive to this target while continuing to generate high levels of profitability and cash flow. We are in the midst of planning for 2025, and we'll provide more color on our next earnings call. But we believe it is important to be transparent with investors and to set expectations appropriately.
+
+I'd like to finish by discussing two items we announced a short time ago. The first is that our Board has approved a $100 million expansion of our share buyback program. We expect to complete our activities under this authorization by the end of 2025. This buyback authorization reflects our confidence in the long-term prospects of the business and our strong cash flow generation, and our commitment to enhancing shareholder value.
+
+The second is that following discussions regarding the scope of the CFO role, Rick Booth will be leaving Definitive Healthcare to pursue other opportunities. I want to thank Rick for his many contributions over the last four years, including establishing a strong finance team, taking the company public, and acting as a strategic sounding Board to both management and the Board. We have every confidence in a smooth CFO transition and on a personal level, Rick has been a tremendous partner and friend to me during my onboarding, and I look forward to continuing to work with him closely during this transition period.
+
+Rick will remain with Definitive until June 1 of next year, 2025, to ensure an orderly transition, during which time, we will begin a search process that evaluates both internal and external candidates. I will now turn the call over to Rick to cover our financials in more detail. Rick?
+
+Richard Douglas Booth
+Chief Financial Officer, Definitive Healthcare Corp.
+Thanks, Kevin. The last four years have been an incredible experience, including multiple financings and the opportunity to work with an amazing team of people. I'm proud of the team's accomplishments and believe DH is well-positioned to deliver long-term growth and profitability.
+
+On today's call, I'll start by reviewing our Q3 results in detail, then finish with our guidance for the remainder of the year, and some comments on 2025. In all my remarks, I'll be discussing our results on a non-GAAP basis unless otherwise noted. In Q3, we were pleased to deliver revenue, adjusted EBITDA and earnings per share, all above the high-end of our guided ranges. We remain focused on what we can control and continue to advance our efforts to operate more efficiently while delivering innovation for our clients.
+
+In the third quarter, we delivered $62.7 million of revenue. This was down 4% compared to Q3 2023, because although renewal rates were better than in the same period in the prior year, they're not yet where we would like them to be. And we also anniversaried the acquisition of Populi. And we delivered $20.6 million of adjusted EBITDA in the period, down 5% from the same period in the prior year.
+
+Thanks to earlier cost actions and ongoing cost discipline, even on the declining revenue base, our adjusted EBITDA margins were nearly flat year-over-year at 33%. Reflecting our focus on shareholder value, adjusted net income and non-GAAP earnings per share, each grew 6% and 5% respectively, over Q3 2023. And we've generated $24.3 million of unlevered free cash flow in the quarter, and $85.2 million on a trailing 12-month basis, up 58% versus the 12 months prior.
+
+Turning to our results in more detail. Revenue for the third quarter was $62.7 million, down 4% from the prior year, but above the high-end of our guided range. As expected, subscription revenue decreased by low single digits, while professional services revenue declined more significantly. The key driver of the revenue decrease is that renewal rates are not yet back to our desired levels, especially for our life science customers.
+
+We ended the quarter with 530 enterprise customers defined as customers with more than $100,000 in ARR per year. This was an increase of one enterprise customer year-over-year, and a decrease of seven customers quarter-over-quarter. As a reminder, enterprise customers represent roughly two-thirds of our ARR and are a key focus of our go-to-market programs. Our total customer count, which includes smaller customers, was approximately 2,570 at the end of Q3, down about 200 from Q3 2023 and down about 30 from the previous quarter as current conditions have disproportionately impacted smaller customers.
+
+Adjusted gross profit was $51.7 million, down 8% from Q3 2023. As a percentage of revenue, the adjusted gross profit margin of 82.4% decreased approximately 330 basis points from Q3 2023. This reflects our declining revenue and the largely fixed nature of most of our costs. Sales and marketing expense were $19.3 million, down 3% from Q3 2023. As a percentage of revenue, sales and marketing expenses were 30.8% of revenue, consistent with Q3 2023.
+
+Based on our current full-year revenue outlook, which I'll get to in a few minutes, we now expect to see operating leverage from sales and marketing in 2024 of approximately 150 basis points relative to 2023. Product development expense was $6.1 million, down 19% from Q3 2023. As a percentage of revenue, product development expense was 9.7% of revenue, down from 11.5% of revenue in Q3 2023, as the current quarter benefited from modest one-time savings.
+
+We believe investing in our platform and using both existing and new datasets to launch or enhance multiple products is an effective and efficient way to increase the value we deliver to customers. We will continue prudently investing in the highest ROI opportunities on our long-term product roadmap. We expect the full-year 2024 product development expense as a percentage of revenue to be down 50 basis points to 100 basis points compared to the full-year of 2023.
+
+G&A expense was $6.7 million, down 13% from Q3 2023. As a percentage of revenue G&A expenses were 10.7% of revenue, which is an improvement of 110 basis points compared to Q3 2023. We expect G&A expense as a percentage of revenue in 2024 to improve by approximately 150 basis points year-over-year. Adjusted operating income of $19 million was down 7% from Q3 2023. As a percentage of revenue, operating income was 30% of revenue, down 80 points from Q3 2023, the year-over-year margin decrease as a result of the revenue decline in the period.
+
+Adjusted EBITDA was $20.6 million, a 5% decrease from Q3 2023. As a percentage of revenue, adjusted EBITDA was 33% of revenue consistent with Q3 2023. For the full-year 2024, we expect to see a 100 basis point to 200 basis point improvement in our adjusted EBITDA margin versus 2023. We expect to continue to make investments in the areas that are most important to us and our clients, and maintain a balanced financial profile that drives long-term profit margin expansion when revenue returns to growth. Adjusted net income was $15.4 million or $0.10 per diluted share based on 155.5 million weighted average shares outstanding.
+
+Turning to cash flow, Definitive Healthcare's high margins, upfront billing, and low CapEx requirements provide substantial free cash flow generation. We focus on trailing 12-month cash flow due to seasonality. Operating cash flows were $54.8 million on a trailing 12-month basis of 70% from $32.3 million in the comparable period a year ago, as we benefited from strong collections and lower deferred commission costs. Unlevered free cash flow was $24.3 million in the quarter.
+
+On a trailing 12-month basis, unlevered free cash flow was $85.2 million, up 58% from the comparable period a year ago. Unlevered free cash flow was 33% of revenue on a TTM basis, or 105% of our TTM adjusted EBITDA of $81.4 million. On the balance sheet, we ended the quarter with over $305 million in cash and short-term investments with strong adjusted EBITDA profitability, and only $247.5 million of debt, we believe we're well-positioned to fund both organic and inorganic initiatives. Within the third quarter, we repurchased approximately 1.9 million shares at an average price per share of $4.24 for a total of $8 million.
+
+This leaves $5 million remaining under the existing authorization. Because we continue to believe that our stock is an attractive value, the board has authorized repurchase of up to $100 million in shares in addition to the remaining amount under the existing authorization, with such buybacks expected to be completed before year end 2025.
+
+This buyback authorization reflects our strong cash flow generation, our confidence in the long run prospects of the business and our commitment to enhancing shareholder value. We are confident that our existing cash and investments will allow us to execute on a buyback of this scale while retaining strategic M&A flexibility as needed. Current revenue performance obligations of a $164 million were down 4% year-over-year as reported.
+
+We're down 3% year-over-year when adjusting for contracts excluded from cRPO due to opt-out clauses. Total revenue performance obligations were down 3% year-over-year, and deferred revenue of $86.2 million was down 4% year-over-year. The current stock price caused us to book a further $228.2 million goodwill impairment as of September 30. That write-down also generated approximately $23.8 million of gain on the re-measurement of the TRA liability, and a $13.8 million deferred income tax benefit. As a reminder, these are non-cash accounting charges, have no impact to our debt covenants, and all impacts are excluded from our adjusted earnings.
+
+Shifting to guidance, we continue to expect revenue to decrease sequentially in Q4 as we continue to be impacted by the low first half bookings and elevated churn. In addition to the strong Q3 financial results, we now expect a modest improvement in our full-year 2024 profit outlook compared to what we talked about in our last earnings call. Improvement incorporates both the Q3 beat to our expectations and an improved outlook for Q4. For Q4, we expect total revenue of $60 million to $61 million, a revenue decrease of 7% to 9% year-over-year when compared to Q4 2023.
+
+Within total revenue, we expect subscription revenue to be down low single digits with a more significant year-over-year decrease in professional services revenue, similar to what we observed in Q3. The key driver of the revenue decrease is that renewal rates are not yet back to our desired levels, especially for our life science customers. As a result, we expect to report an overall MBR of 85% to 87% for the calendar year 2024.
+
+From a profitability perspective, we expect adjusted operating income of $14 million to $15 million, adjusted EBITDA of $16 million to $17 million or 26% to 28% adjusted EBITDA margin in Q4. And adjusted net income of $10.5 million to $11.5 million or $0.07 per diluted share on a 154.4 million weighted average shares outstanding. We will formally guide 2025 when we announce our Q4 results, but I can share some preliminary remarks as we approach year-end.
+
+Due to our recurring revenue model, 2024 bookings are the primary driver of 2025 revenue. The fourth quarter is an important sales and renewal quarters for us, so there are still a range of potential outcomes. But as of today, cRPO is our single best predictor of 2025 revenue performance. The 4% year-over-year decrease in cRPO provides a solid indication of the revenue pressure we expect in 2025. We continue to examine a range of scenarios for the upcoming year and expect that year-over-year decreases in revenue will moderate as we move through the year. But we do expect that 2025 revenue will be less than 2024.
+
+As we've discussed, renewal rates are one of the biggest drivers of our results and we continue to work through the product and operational changes required to best serve our customers. As we work through those operational adjustments, we're focusing on those with the best return on investment. Nonetheless, we do expect our adjusted EBITDA margin to contract by at least a few 100 basis points in 2025 compared to 2024 as revenue declines flow through the P&L. We will provide more specifics when we guide 2025 results, which we expect to do in our Q4 earnings call.
+
+So in conclusion, we're pleased to have again delivered revenue and adjusted EBITDA above the top end of our quarterly guidance and strong unlevered free cash flow generation. We remain confident that we're well-positioned for the long term in a large and attractive market that we believe will help us drive shareholder value for a long time to come.
+
+And with that, I'll hand it back to Kevin for a few closing thoughts before we take questions.
+
+Kevin Coop
+Chief Executive Officer & Director, Definitive Healthcare Corp.
+Thanks, Rick. I want to reiterate my excitement about the future for Definitive Healthcare. We have an incredible team that is committed to driving real value for our customers in a market with a large and growing TAM. We have proprietary data assets that create a true competitive edge, and we are confident that the work we're doing to drive innovation and operational efficiency will translate into long-term growth and profitability.
+
+And with that, I would like to open it up for questions. [Operator Instructions]
+
+Question And Answer Section
+Operator
+And our first question will come from David Larson with BTIG.
+
+Jenny Shen
+Analyst, BTIG LLC
+Hi. This is Jenny Shen on for Dave. Thanks for taking my questions. And congrats on the quarter. I'm just wanting to ask more about the overall demand environment with pharma. I know you mentioned win-back customers. From what we've been seeing with a lot of the CROs, they're facing a lot of pressure due to pharma undergoing some reprioritization with the IRA.
+
+I'm just wondering if that has any impact on you guys. I know you guys are focused on a kind of different area than the CROs, but a lot of the pharma companies have actually reported pretty strong results. So, just what you're seeing in the broader demand environment. Thanks.
+
+Richard Douglas Booth
+Chief Financial Officer, Definitive Healthcare Corp.
+Thanks, Jenny. Well, we've seen some modest improvement in some of our segments like provider and diversified, the pressures in life science. But unlike perhaps other companies that may have more clinical assets or other solutions, Definitive primarily enters at stage two clinical trials or later.
+
+And so, we are not surprised to see a delayed impact from market improvement for our solutions. And as investments move through the clinical trial process, we do expect to benefit. I mean, one of the good things about our business model is that it has a very attractive -- it has attractive economics as revenue grows, although right now we're experiencing the flip side of that equation.
+
+It's the reality of our fixed costs that we are focused on churn rate reduction right now as a way to help return to growth, which will also allow us to realize those inherent advantages on our business model. But I think the big -- the primary point though, we're trying to make there is that I think given the fact that we're stage two clinical trials or later and it's a very specific use case in that area, that's probably why perhaps sometimes that data point doesn't exactly line up.
+
+Jenny Shen
+Analyst, BTIG LLC
+Got it. That makes sense. Thank you.
+
+Operator
+And we'll move next to George Hill with Deutsche Bank.
+
+George Hill
+Analyst, Deutsche Bank Securities, Inc.
+Yeah. Thanks for taking the question, I guess. Could you guys talk about the kind of visibility, you feel like you the growth in the back half of 2025? And kind of what drives the assumption that the growth will resume there. And I guess, I would just kind of love the most current update that you guys could provide on the selling funnel, on the sales pipeline, and the demand environment. And whether you're seeing, whether you're seeing it kind of continue to weaken or whether it's stabilizing? Thank you.
+
+Kevin Coop
+Chief Executive Officer & Director, Definitive Healthcare Corp.
+Yeah. That's a good question. A couple of different components to that. I'm sure as part of this with if not this question, others will get to go to market some of the learnings and you do have asked an outlet of what you just ask related to that. But as it relates to the growth forecast, and I'll let Rick talk a little bit more specifics about maybe some of the metrics and how to start to gauge that. I think it's important to frame it, though, from the perspective of, we're really focusing on our operational execution, understanding that it is very important to regain trust.
+
+And that means we need to realistically communicate a transparent and conservative fashion, so that we really ensure that we're able to deliver on our promises to both the investors and stakeholders. And while we're seeing some early indication of improvements in many areas and
+
+I'll talk shortly, I'm sure about some of the more identified and promising opportunities for improvement. Until we have more empirical data on that, we're trying to really remain cautious in our predictions. But I'll let you know, Rick, maybe you want to amplify that a little bit with some of the specifics on how you think about that.
+
+Richard Douglas Booth
+Chief Financial Officer, Definitive Healthcare Corp.
+Yeah. And first, let me be clear on two things. One, we're not formally guiding 2025 yet because the fourth quarter is a really important quarter for us. And two, that although we expect the declines to moderate, and to get to sequential growth in the -- in the second half of the year, we are guiding on a full-year basis for revenue to be down, want no mistake about that.
+
+There is an inherent seasonality in our -- in our business where our bookings begin to ramp in the fourth quarter and that tends to be a stronger quarter for growth services as well, while those are small part of our groups. Does that help inform your question?
+
+George Hill
+Analyst, Deutsche Bank Securities, Inc.
+Yes, it does. Well, I can circle up kind of I'll find with more detail.
+
+Kevin Coop
+Chief Executive Officer & Director, Definitive Healthcare Corp.
+Thank you.
+
+Operator
+Your next question will come from Craig Hettenbach with Morgan Stanley.
+
+Hi. This is [indiscernible] (00:33:49) on for Craig. Thanks for taking my question. First, thanks for the preliminary color for 2025. I'm just wondering if there has been any changes in the approach on how Definitive is looking into next year, given the management changes this year and the continued headwinds?
+
+Kevin Coop
+Chief Executive Officer & Director, Definitive Healthcare Corp.
+Yeah. I would say, Kevin's approach is very helpful. He is focused on spending time with customers, he's very operational. And so I think it on the margin provides a little bit of conservatism not getting ahead of changes in operating results.
+
+Thank you. And my follow up is, I know kind of target acquisitions have been historically part of the growth strategy, but I believe you guys have also talked about kind of bring in the idea of partnerships. Can you provide more color on what's the strategy there, and what are the type of companies or assets that the Definitive Partner versus own?
+
+Kevin Coop
+Chief Executive Officer & Director, Definitive Healthcare Corp.
+Yeah. I think it's a very -- they have a sophisticated and well developed go-to-market. You need to have both your indirect and indirect channels working in harmony. And so we have added to the team to go to marketing. We have brought in to augment that team with folks that I've worked with in the past that are able to bring in a slightly different focus around partnerships. It is going to be a pillar of what we want to do going forward.
+
+And as Rick stated, as far as in going into next year, it'll be something that we will be talking about at the end of next quarter as part of our go forward plan. But that will be one of the pillars that we are going to rely on to help get us back to the growth trajectory.
+
+Thanks. [Operator Instructions]
+
+Operator
+And we'll move next to Stephanie Davis with Barclays.
+
+Hi, guys. This is [ph] Anna Kozinski (00:36:06) on for Stephanie. Thank you for taking our questions. Kevin, now that you've had a little bit more than a quarter under your belt evaluating organization, I was hoping to revisit your comments from last quarter around park development in strategic areas where you'll be a top three player in the category.
+
+And then I was talking about stepping back from the non-differentiated offerings into more of a partnership strategy. So if you could just talk more about maybe where you see your opportunities for market leadership versus your partnership opportunities.
+
+Kevin Coop
+Chief Executive Officer & Director, Definitive Healthcare Corp.
+Sure. And I think God specifically, I think I may have said we need to be a number two or number three. I don't even know if it was top three. I think it was actually top one or two. And that was primarily focusing on as you enter new markets and you're doing your product marketing, you're advancing into new solutions.
+
+But in the meantime, and as I mentioned, I think in my prepared remarks today, you know, the reality of changing last quarter with my assumption of the direct management of our selling team has really been a blessing. And I've been spending a lot of time with our customers' prospects, partners, sellers and support teams, which was giving me more of a direct access to those folks and have probably would have otherwise.
+
+And I now have more imperial data from firsthand experience that not only validates that we have solid data assets, good customer relationships, the opportunity to help our customers do more with our data. But the strategy of remaining focused on a simplified offering more integrated solutions within a common platform promise ease of use. Our focus on the enterprise customers, which has shown a lot of promise in far as improvement and early indications if that's working.
+
+We need to take that same approach to other segments as well. We think that's replicable. And frankly, deploying our advanced analytics teams in a more direct manner to assist our customers with their complex master data management needs as well as direct connections to drive better revenue and value is going to help our retention efforts.
+
+So, I think the, you know, the notion around simplification better and more intimate access with the customer is proving to be the right one. And we're just -- now the question is just to get more velocity into that into the system.
+
+Got it. Thank you. That's super helpful. [Operator Instructions]
+
+Operator
+.
+
+Richard Douglas Booth
+Chief Financial Officer, Definitive Healthcare Corp.
+While we're waiting for the next question. I will just add on a tiny bit to Kevin's answer there. We are absolutely not out of the M&A market. I wouldn't want to create the impression that that we are. Certainly anyone that has listening that has an attractive candidate, please bring it to us. We've got plenty of capital on our -- on our balance sheet to support those moves, in addition to the significant buyback, which we announced today.
+
+Operator
+And we do have a question from David Larsen with BTIG.
+
+David Larsen
+Analyst, BTIG LLC
+Hey, can you talk about the demand environment you're seeing in the health system for Populi value-based care, as well as the medtech space and sort of your growth expectations are in those divisions. Thanks very much.
+
+Richard Douglas Booth
+Chief Financial Officer, Definitive Healthcare Corp.
+That was a little bit garbled. I didn't get, healthcare systems. So, asking about the appetite for of the population intelligence and then also in medtech.
+
+Kevin Coop
+Chief Executive Officer & Director, Definitive Healthcare Corp.
+Yeah. So I think the [indiscernible] (00:39:49) you're looking at the market demand the way we have been assessing this, and we've been thinking of it in terms of our provider market diversified, and then, a broadly which medtech involved in our life sciences area, and we're seeing pretty robust demand in most areas. So, I don't think there's a differentiation there that there's any change.
+
+I think the challenge for us has been you're seeing elongated sales times, sales cycles, you are seeing different budgetary pressures in different areas. And frankly, the -- that, that the decision tree of the number of people that would be involved in the decision has actually increased. And so it's more of, I think it's a time issue, then you're seeing any sort of fundamental shift in in market demand?
+
+David Larsen
+Analyst, BTIG LLC
+Okay. That's great. And can you maybe talk a bit more about the competitive environment Veeva and IQVIA, they have very deep robust data systems. Obviously, you have some very significant competitive vendors there. But just any color on the competitive market win rate, stuff like that would be help on the life sciences side. Thank you.
+
+Kevin Coop
+Chief Executive Officer & Director, Definitive Healthcare Corp.
+So I don't know if we're actually quoting win rates. Rick, do we have statistics yet?
+
+Richard Douglas Booth
+Chief Financial Officer, Definitive Healthcare Corp.
+Yeah. We do not. We do not tend to get into those. I would say that we're seeing strong support from our existing customers, particularly around renewals, more pressure on upsells. We're not hearing a ton of competitive losses against the Veevas of the world. IQVIA is always -- always in the mix one way or the other, we haven't noticed a profound shift there.
+
+David Larsen
+Analyst, BTIG LLC
+Okay. Appreciate it. Thank you.
+
+Operator
+And we'll move next to Allen Lutz with Bank of America.
+
+Hi. This is [ph] Hannah Leon (00:41:55) on for Allen Lutz. Could you just talk about, like, with the unified platform, are you thinking about any potential pricing changes?
+
+Kevin Coop
+Chief Executive Officer & Director, Definitive Healthcare Corp.
+Well, there's the components around that competitive dynamic of, you can compete on quality, service and price. And I don't know if I would characterize it as pricing changes as much as a more sophisticated delivery option where you have the ability for the customer to dictate what is most important to them. It's very difficult to have a single size offering that provides the same white glove service at all price points.
+
+So, if you choose, we're going to have and we're going to maintain a ruthless vigilance around quality, and we're going to continue to maintain leadership as the premier data quality standard. But, the notion around are you optimizing for service, which could mean speed, it could mean access to more resources around master data management, or are you going to optimized price? That's the change that we're considering here is, how to become a more sophisticated delivery mechanism for those folks that are actually optimizing for price?
+
+Got it. That's helpful. Thank you.
+
+Operator
+And our next question will come from Ryan MacDonald with Needham.
+
+Ryan MacDonald
+Analyst, Needham & Co. LLC
+Hi. Thanks for taking my questions and I apologize if this was covered earlier, but as you think about this unified product strategy and sort of the integrations required, the progress you need to make here, can you just talk about general timeframe for when you think this can be completed?
+
+And then, as you think about sort of the preliminary commentary you gave for 2025 and sort of a -- I think it was a return to sort of sequential growth in the back half on the top line is this is completion of this sort of unification on the product strategy side crucial or sort of a critical component to being able to get back to that growth in the back half of next year or is that more market-dependent, if you will? Thanks.
+
+Kevin Coop
+Chief Executive Officer & Director, Definitive Healthcare Corp.
+Yeah, that's -- it's a good question. And the way I would think about sort of a unified product strategy, there's multiple elements to that. And I think the first and most important rung of that ladder, so to speak, is you've got to have -- it's because of the way you access and use the product, right, so the simplified and ease of access to our product strategy with single sign on, it needs to be easy to access.
+
+And that's really sort of that UI/UX interface which once that's quote unquote unified, the fact that we might not have completely unified, let's say, the data supply chain or some of the back office components or infrastructure. From the customer's perspective, it really doesn't matter. It does put pressure on the infrastructure, the cost and potentially what we have to do to support the customer. But that's something that's relatively straightforward and we're working on that now, and that is sort of imminent.
+
+So I think that's the first step. And so, that'll start to show some median improvements, to get the fully-integrated back office, the supply chain, all the other things comes along with that, that may take longer, not may take longer, it will take longer. But that's sort of behinds the scenes. So, as we talk about this more, especially going into the 2025 annual operating plan, in our three year plan, which we are underway right now, I think we'll be able to give you a better color on that as we start to talk about forecasting how that's going to be impact next year.
+
+But I do see the unification in the ease of use is a very important pillar to start to address some of the retention and churn dynamics that we have that we have to address. And it is improving and we have seen improvement over the past three quarters. But in order for that to start to show meaningful improvement to allow us to get back to those growth rates and accelerate the velocity to get to those growth rates, we've got to see -- we've got to see more progress on that. So, I think that could be very important.
+
+Ryan MacDonald
+Analyst, Needham & Co. LLC
+Thanks, Kevin. Appreciate the color.
+
+Operator
+And this concludes our question-and-answer session. I'd like to turn the conference back to Mr. Coop for any additional or closing remarks.
+
+Kevin Coop
+Chief Executive Officer & Director, Definitive Healthcare Corp.
+I just want to thank everybody for their time. Appreciate you joining. And we look forward to continue to keep updating you on our progress and talking to you next quarter. Thank you.

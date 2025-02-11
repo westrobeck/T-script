@@ -1,0 +1,122 @@
+All right. Good morning, everyone. My name is Michael Schmidt. I'm one of the senior biotech analyst at Guggenheim. And it is my great pleasure to start this fireside chat this morning with Compass Therapeutics. With us today, we have Tom Schuetz CEO. Tom, welcome and thanks for joining us.
+
+Unverified Participant	
+Thanks, Michael. Thanks for inviting us to the conference. Really appreciate it.
+
+Question & Answer Section
+So why don't we just start out with a high level question before we talk about your pipeline more detail and this has to do with your platform. So can you just walk us through your discovery capabilities and your Stitchmab? And perhaps also talk about your general approach to bispecific antibody discovery?
+
+Sure. So, you know, we have the sort of internal capacity to do naive discovery campaigns for monoclonal antibodies against antigens. And we've got a couple of different discovery platforms there where we generate our CDRs. I think your question is very interesting and very important to us, of course. So at the company, we developed a technology that we call Stitchmabs. It's a screening tool that allows us in a 15 minute room temperature incubation to covalently link any two monoclonal antibody fragments together. And we use that to screen for synergy in bispecific drug candidates. So, you know, if you think about a bispecific, right, I think there needs to be some advantage to the bispecific over the simple combination of two monoclonals. Right. And you know, because if there's no advantage over two monoclonals, they're just put just give it to monoclonals together. Right? So we developed a hypothesis that we could screen for combinatorial synergy and we use that tool to screen for synergy and bispecific drug candidates. Because in your synergy can mean, you know, a couple of different things. You know, synergy could simply be co-localization. I think the best example of that would be a bite, right? You know, that antigen and CD3 separately would have no effect whatsoever. Right. The co-localization from the bite is very important.
+
+Also, you know, drugging two signaling pathways simultaneously. So I think all of those things I think are part of our approach to bispecific drug discovery.
+
+Great. And so, yeah. Then why don't we talk about some of the key value drivers, starting with CTX-009, which is your DLL4 VEGF Bispecific antibody. And so again, remind us perhaps first of the mechanism of action behind this product candidate.
+
+Sure. So DLL4 Delta-like Ligand 4 that is the cell surface ligand for Notch-1. VEGF-A of course, is the well-known soluble ligand for the VEGF family of receptors. So those two signaling pathways DLL4 Notch-1 VEGF-A VEGF receptor have different phenotypic effects on angiogenesis in the tumor microenvironment. So importantly, I think dual blockade has been shown to be synergistic in preclinical models, and I think what ultimately could turn out to be really interesting is that DLL4 for upregulation in the tumor microenvironment has been shown to mediate resistance to VEGF targeted therapies such as Avastin. I think that's going to turn out to be really important.
+
+So it's CTX-009 is a next gen angiogenesis disruptor, if you will.
+
+Right. And then, yeah, I know you're focusing on BTC here with your lead indication, perhaps just remind us of the commercial potential of this of this opportunity.
+
+Sure. So we're currently running a randomized trial in patients with biliary tract cancer who have received one prior line of therapy. So that study is a randomized study of CTX-009 plus paclitaxel versus paclitaxel alone in patients who have received one prior line of therapy. And I think excitingly, we're going to get a readout from the primary endpoint of that study in the next couple of months. So it's a very obviously exciting time at the company. And, you know, because we're sort of so close to potentially commercializing this drug, we've done a lot of work to address your question, how many patients are out there? So we, we were really helped, I think, by an analysis that Komodo Health did. They looked at US claims data in 2021 and 2022 and they discovered that there were about 23,000 new patients annually. And the annualized prevalence was actually 30,000. So it's a really, really solid patient population.
+
+And you know, just unfortunately in BTC, only about 15% of patients have an actionable mutation. So believe it or not, the other 85% of patients in the United States have no labeled second line therapy. So there's no second line standard of care in a disease that is so common. So our estimate is that about 15,000 patients annually will progress to receive second line therapy. So it's a very substantial patient population, something like 3 times larger than the platinum resistant ovarian cancer market.
+
+Okay, great. And then as you mentioned, you are in an ongoing or nearly complete Phase 3 study right now. Just remind us of the data that supported the design of that study.
+
+Sure. In a Phase 2 study well, the Phase just backup one step in an all comer, Phase 1b where we tested out CTX-009 in combination with either arena taken or paclitaxel. We had two deep and very durable responses in a couple of patients with cholangiocarcinoma, and both of those patients received CTX-009 in combination with Paclitaxel. So it was a purely empirical observation at the very beginning, but it was an important enough observation that we had to confirm it in a Phase 2 study. So we treated 24 patients with advanced BTC who had received either one or two prior lines of therapy. So a mixed second and third line study and we had surprisingly a 37.5% overall response rate in that study. And those were confirmed responses. And, you know, what would you expect in the second line setting? So FOLFOX The three drug chemotherapy combination has about a 5% response rate in that patient population. So this was just an unequivocal efficacy signal. So that Phase 2 study informed the design of our current randomized trial.
+
+Right. And then can you talk about the randomized study of the primary endpoints and what your powering assumptions were?
+
+Sure. So the primary endpoint of the study is overall response rate. The study is 90% powered to detect a difference of 33% versus 10% in overall response rate. So 33% in the combination arm, 10% in the chemotherapy only arm. So a delta of 23%. So the study fully enrolled last August and where the primary endpoint is triggered by time, the analysis is scheduled for 28 weeks after the last patient was randomized. And we picked that because the latest first time that a patient responded in our Phase 2 study was at 24 weeks, six months. So an additional 4 weeks for a confirmatory scan gets you to 28 weeks.
+
+Yeah.
+
+So 28 weeks from mid-August is mid-March of this year. So we're coming up on a readout from the response rate endpoint. Key secondary endpoints we're using the hierarchical testing method to control for alpha spend. So PFS and OS are the key secondary endpoints.
+
+Right. And then can you discuss a little bit the regulatory interactions with the agency around filing requirements? Is there the need to demonstrate a significant effect on PFS and or OS to support potential filing or approval?
+
+So I don't know the answer to that in our exchanges with FDA around the design of this randomized study. They never told us what would specifically be required for filing. So they know this, as they commonly do, depends on the data.
+
+And this is an accelerated approval opportunity, a full approval. Any do you have any visibility on that?
+
+Sure. So that that question is interesting. And we had a specific interaction with FDA on that specific question. So we asked if overall response rate could potentially support full approval, not just accelerated approval. And I just want to be fair with you. FDA did not say yes and they did not say no either. So thank you. So they said it depends on the magnitude of difference. So and they didn't tell us what that magnitude needed to be.
+
+Right. And then just on the secondary endpoints, I know it's a fairly small study. Technically speaking, you know, can you actually demonstrate a statistically significant difference in PFS? And if so, you know, what magnitude of benefit on some of those outcomes?
+
+Sure.
+
+You technically, demonstrated.
+
+Yeah. So I think the technically are to use your word. The answer is yes. So PFS is 80% powered to detect a hazard ratio of approximately 0.6.
+
+Okay.
+
+So and we are used in order to calculate that we use the lower bound of the 95% confidence interval on PFS from our Phase 2 study. So the assumption for PFS is 5.4 months median in the combination arm, 3.0 months in the control arm that gets you to a hazard ratio of approximately 0.6.
+
+Okay. Got you. And then maybe how much information will you be able to include in your top line announcement?
+
+Right. So let me just go back briefly to the power calculations for PFS. So we used 5.4 months as the assumption of median PFS in the combination arm in the Phase 2 study the median PFS was 9.4 months. So again, we used the lower bound of the 95% confidence interval. So when we have our top line data in a couple of months, that's only going to be a response rate because we don't have enough events yet occurring in order to be able to have a readout on the time to event analysis. And the best that we can do right now is we've said publicly is that it's going to be in the second half of the year. I realize that's a broad range. Maybe in the coming months we'll be able to get a little bit more accurate on the timing of those analyses, but it's going to be in the second half of the year.
+
+That that makes sense. Will you be able to do an interim analysis on PFS and OS?
+
+So definitely no.
+
+Okay.
+
+So the reason for that is the alpha spend and with the hierarchical testing. You're not allowed to do an interim analysis.
+
+Got you. All right, cool. And then maybe just going back to the market opportunity. So this is presumably for second line...
+
+Yes.
+
+...biopsy, correct. How widely is paclitaxel used, which is your combination chemotherapy choice? And just talk about the bigger context, other drugs that are perhaps used for BTC.
+
+Sure. In the -- so let's start with the 15% of patients with an actionable mutation. So an IDH1 inhibitor and FGFR2 inhibitor or HER2 targeted drug, which is something like 3% to 5% of the patient population. So excluding that 15%. The other 85% of patients get a wide variety of different chemotherapy regimens. Some are getting FOLFOX based on the randomized trial against best supportive care. Docs don't really like that regimen because they don't like to give two platinum agents back to back because cisplatin is part of front line standard of care. So patients are getting 5FU leucovorin. Some patients are getting liposomal irinotecan based on the nifty study. Some patients are getting ABRAXANE based on SWOG S1815. So it's a complete mix of second line therapies that is frankly largely investigator specific.
+
+Got you. Okay. Understood. So again, looking forward to the top line announcement then in a few weeks. And then I know you guys are doing work with CTX-009 in colorectal cancer. I know there has been work done with other [indiscernible] (00:22:06) bispecifics and more or less successful. So how do you think about the potential of the antibody in colorectal?
+
+Sure. So in a Phase 2 study in the US, we had monotherapy responses in patients treated in the fourth line setting. So we had 2 responses out of 41 patients that were evaluable in that study. And, you know, as a largely fourth line study, you know, where your current standard of care is, either fruquintinib or regorafenib. And those two drugs have a 1% to 1.5% response rate, believe it or not. So and those are approved drugs in the fourth line setting. So we have a signal there. What we're doing right now is we're analyzing biopsy specimens that we collected from that study for DLL4 expression. And we're trying to figure out if there's a correlation between clinical activity and DLL4 expression. We had a hint of that from our Phase 1 study, but we're trying to repeat that with a larger sample set. And I think in the coming months, we'll probably finish that up and make a decision about whether or not to sort of go down the pathway of developing a companion diagnostic. So that's I think we're I'd like to have that decision made before the end of the quarter.
+
+Okay, great. And then perhaps switching gears and talk about CTX-471 which is your 401BB antibody. Again, it's been a category that has been challenging for others. And so perhaps just talk about the general concept behind your development strategy.
+
+Sure. So you're correct. Targeting for 401BB has been, you know, a very challenging field. And there are many, many drugs in development now targeting 401BB because it's such an important receptor on in the immune system. So we developed an IgG4 monoclonal antibody that is both epitope and affinity optimized for agonizing 401BB. So we did a standard dose escalation Phase 1, which was followed by a cohort expansions in the post-PD-1 patient population. So everybody that got CTX-471 had to have progressed on a labeled PD-1 containing regimen. Of course, PD-1 blockers now are labeled in. So many different diseases. So we enrolled 60 patients that had 17 different tumor types and we had five responses as a monotherapy in that population. I mean, look, I mean responses of any kind to any agent in the Post PD-1 patient population are very uncommon. So we had 3 responses out of 11 patients treated with melanoma for a 28% response rate, we had a very durable PR and in patient with mesothelioma one out of four patients treated. And then we had, believe it or not, a complete response in a patient with small cell lung cancer, one out of three patients treated. And in that study, we collected biopsies from patients and we analyzed those biopsies last year and we discovered that the small cell lung cancer patient who had the CR had a tumor that was highly positive for NCAM neural cell adhesion molecule also known as CD56 that made us look at all the other biopsies for CD56 expression in the tumor. And we found that all the patients with clinical benefit response or stable disease, their tumors were NCAM positive. All the patients whose tumors were NCAM negative had progressive disease. So a really interesting observation. We presented all that data at SITC last fall. And, you know, it's really interesting because we then did some research in the lab and, you know, does this make any mechanistic sense? So NACM and CD56 it interacts with itself. It's a homotypic interaction and CD56 positive NK-cells are a major subset of effecter NK-cells. So we believe that we may have discovered sort of a novel IO phenotype. So NCAM negative tumors cannot attract NK cells and NCAM positive tumors attract NK cells and what do you know that interaction upregulates CD137 on the NK cell where CTX-471 can activate it. So we're now going to do a basket study. We're well on the way to planning that now. That'll start probably middle of this year in the NCAM positive patient population and that's a substantial patient population probably 60,000 patients annually in the US because most solid tumors have subsets of patients whose tumors undergo so-called neuroendocrine differentiation, they express NCAM and so we're going to we're going to study that in a Phase 2 basket study.
+
+Okay. And that will be presumably post PD-1 and then prospectively selected for so.
+
+So that's a fascinating question. So not all of the NCAM positive indications have labeled PD-1. So we're going to that's one of the reasons we're kind of excited about this because we're going to be able to treat some IO naive patients. So, you know, neuroendocrine tumors in general, you know, are not amenable to PD-1 blockade. So where that'll be the first time that we, you know, treat some IO naive patients.
+
+Got you. Okay. So looking forward to that. And then maybe spending the last 5 minutes discussing your PD-1 portfolio now at this point CTX-8371 is a PD-1, PD-L1 bispecific is a very unique concept. Perhaps just walk us again through the rationale for targeting both in one molecule.
+
+Sure, that's the first time I've heard the phrase PD-1 portfolio. I'm going to I'm going to steal that from you. So we used our Stitchmabs technology and we asked an incredibly simple question, you know, what is the best combination partner for PD-1 blockade and a bispecific antibody? So we made a small library, tested those constructs, and much to our surprise, the best partner for PD-1 blockade turned out to be PD-L1 blockade.
+
+Now, we did this experiment. I want to be fair about one thing. We did this experiment about four years ago, so we did not include VEGF in that original screen, which I'll come back to in a minute. And what we discovered is that dual ligand receptor blockade in a bispecific is between 100 and 1,000 fold more potent than either antibody alone or the combination of the two. It was a very surprising outcome, and we spent about a year investigating the mechanism of action, and it turned out to be not just dual ligand receptor blockade. The BISPECIFIC is unequivocally a cell engager, no question about that. And we published on that. And fascinatingly, the BISPECIFIC exposes a metallic proteinase cleavage site on PD-1, and it leads to the cleavage of PD-1 off the surface of effector T cells.
+
+So we turn PD-1 positive exhausted T t cells into PD-1 negative T cells. It's an incredibly unique mechanism of action. We actually we confirmed that result actually in monkeys. We showed that we cleaved PD-1 from T cells in monkeys. So that was fascinating. It is the bispecifics better than known PD-1 or PD-L1 blockers in pre-clinical studies and we're now in a Phase 1 study. So we just fully enrolled the third a dosing cohort, which is 1 milligram per kilogram. We're going to probably move to the fourth dosing cohort, which is 3 milligrams per kilogram in the coming month or so. And you know, we've had no dose limiting toxicities so far, which is in and of itself quite fascinating actually, you know, that, you know, it's possible that the Bispecific actually could have maybe a better safety profile. We don't know yet. You know, early days. But I think in the second half of the year, we'll be able to share some data from that from that study.
+
+And just remind us through what types of patients enrolling in the Phase 1.
+
+Sure. So we actually we limited the basket a little bit, you know, based on our CTX-471 experience. So these are post PD-1 patients with melanoma, non-small cell lung, head and neck, triple negative breast and Hodgkin's lymphoma. You know, that's our first heme malignancy because, as you know, Hodgkin's lymphoma is a PD-L1 driven disease.
+
+Right. Okay. So looking forward to that in the second half. Then lastly, you recently announced a new product candidate CTX-10726, I believe your PD-1 VEGF antibody. And obviously there's been a lot of excitement in industry around that mechanism of action. And so perhaps just talk about the design of your molecule and perhaps any sort of differentiation or not or similarities to Stitchmab of that.
+
+Sure. So, you know, let's you know, from my point of view, right, when when did this when did this field get started? Right. So Roche did a study where they combined Avastin with Tecentriq in patients with liver cancer. And that combination was superior to sorafenib. And that really started the whole field. And, you know, there are lots of studies now on the immunological effects of blocking VEGF and combining that with PD-1 blockade.
+
+So a few years ago we started thinking about Bispecifics that could do this and it's not so straightforward, right? Because you've got four targets here, all of which have approved drugs. PD-1, PD-L1, VEGF-A VEGF receptor. So how do you think about this? So, you know, we spent a fair amount of time, you know, investigating the various combinations, and we did to be fair about it, we landed on a very similar type of construct to ivonescimab 2x2 by to valency internal VEGF capture or C-terminal PD-1 blockade. You know, we have, we believe, some differentiation. Our PD-1 blocking our component of CTX-10726 is better than Ivo in vitro. It's about 5 times better PD-1 blockade. We'll see what that means. You know, I don't know. And both components of that bispecific actually came from CTX-009 and CTX-8371. So the CDRs have already been in the clinic, you know, so and we've also, I think, importantly, a very important point. You know, we've developed some bispecific manufacturing expertise at Compass that we've used in order to develop CTX-10726 and I think, you know, that will ultimately hopefully, you know, turn out to be very important as well.
+
+Right. And then I think you said IND by the end of this year.
+
+Yes.
+
+Just philosophically, how do you think about longer term clinical development, perhaps relative to ivonescimab and the BioNTech product and others?
+
+Sure. Sure. You know, I think I think we should start with indications where both PD-1 access blockade and angiogenesis inhibition are approved therapies. So what's an example of that? Maybe something like renal cell where nivo is approved as well as VEGF kinase inhibitors are, you know, a big part of the therapeutic regimen in renal cell. So thinking about indications where both of the components have been shown to be effective, I think is where we're going to start. So indications like renal cell.
+
+Unverified Participant	
+Right. Okay, great. Well, I think it's time to wrap up.
+
+Unverified Participant	
+Great.
+
+Unverified Participant	
+Really appreciate the time and exciting things happening at the company.

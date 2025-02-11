@@ -1,0 +1,366 @@
+Thank you. Good afternoon, and welcome to Nevro's third quarter 2024 earnings conference call. With me today are Kevin Thornal, our CEO and President; and Rod MacLeod, our Chief Financial Officer. Before we get started, please note that our earnings release and the supplemental presentation accompanying this call are available on the Events & Presentations page of the Investors section of our corporate website at nevro.com. Also, this call is being broadcast live over the Internet to all interested parties, and an archived copy of this webcast will be available in the Investors section of our corporate website shortly after the conclusion of this call.
+
+I'd like to remind everyone that comments made on today's call may include forward-looking statements within the meaning of federal securities laws. Results could differ materially from those expressed or implied as a result of certain risks and uncertainties. Please refer to Nevro's SEC filings, including our Annual Report on Form 10-K filed on February 23, 2024, for a detailed presentation of risks. The forward-looking statements in this call speak only as of today, and the company undertakes no obligation to update or revise any of these statements.
+
+In addition, management will refer to adjusted EBITDA, a non-GAAP measure used to help investors understand our ongoing business performance. Non-GAAP adjusted EBITDA excludes interest, taxes, and noncash items such as stock-based compensation and depreciation and amortization, as well as litigation-related expenses, restructuring and supplier contract renegotiation charges, and other adjustments. Please refer to the financial tables in our press release issued today for reconciliations of GAAP to non-GAAP financial measures.
+
+I will now turn the call over to Kevin Thornal. Kevin?
+
+Kevin R. Thornal
+Chief Executive Officer, President & Director, Nevro Corp.
+Thank you, Angie. And thank you, all, for joining us.
+
+This afternoon, we issued our third quarter 2024 financial results. In my remarks today, I'll discuss the key factors that drove our financial results for the quarter, and share why we remain optimistic about the future of our business in our ability to return to sustainable growth. Rod will then provide details on our third quarter financial results as well as our full-year 2024 guidance.
+
+Our results for the third quarter of 2024 as compared with the third quarter of 2023, were as follows. Worldwide revenue of $96.9 million decreased 6.7% on a reported basis, and US revenue of $83.9 million decreased 6.5%. US spinal cord stimulation or SCS trial procedures declined approximately 15.2%. Net loss from operations was $13.9 million, compared with $25.6 million in the year-ago quarter. And adjusted EBITDA was negative $1.8 million, compared with a loss of $5.8 million in the year-ago quarter, reflecting the actions we took through our restructurings earlier this year and our focus on expense management as we drive toward profitability. And cash, cash equivalents and short-term investments increased $3.3 million to $277 million as of September 30, 2024 from June 30, 2024. This increase reflects the benefits from our restructurings in the first half of this year and strong working capital management. And as Rod will discuss shortly, we expect our cash position to increase further in the fourth quarter.
+
+Importantly, our balance sheet remains strong. On our second quarter earnings call, we discussed in detail the challenges we are facing in the de novo spinal cord stimulation market, as well as opportunities where we can improve our commercial execution. And in the third quarter, we continued implementing actions, including changes to our sales territories, as well as reallocating marketing resources to improve our competitive positioning, drive market penetration, return to sustainable top line growth, and continue on our path toward profitability.
+
+As we previously discussed, we promoted a number of our associate sales reps or ASRs to lead some newly created territories. In 2025, we plan on continuing to add new territories, many of which will be filled by promoting associate sales reps. There will be a ramp-up period throughout 2025 for these new sales reps as they get established in these territories, and we look forward to fostering their growth.
+
+We believe these changes will allow our sales team to reach more customers, go deeper with physicians, provide the high level of service our customers expect, while also laying the foundation for new product introductions. It is imperative that we achieve sustainable profitability, and one of our largest expenses has always been our commercial efforts. Over the years, we have made adjustments to align our commercial cost structure with our revenue base, with the goal of achieving profitable growth and delivering shareholder value.
+
+As a reminder, we took more than $30 million in annual run rate expenses out of our cost structure through our two restructurings earlier this year. We had some difficult decisions to make as we went through those processes. As we were evaluating our operating expenses at the beginning of this year to accelerate our path to profitability, we made the decision to reduce our overall direct-to-consumer or DTC advertising spend, as it is often difficult to measure the direct return on these investments.
+
+Furthermore, at that time, we believe that our strong referral network, combined with our best-in-class clinical data demonstrating the effectiveness of our 10 kHz Therapy, would be enough to continue driving customer and patient adoption of our unique SCS treatment therapy. However, based on our subsequent analysis, we now know that our DTC advertising efforts had a greater impact on patient lead generation and our US SCS trials than we previously thought.
+
+We also learned that patients had a higher likelihood of moving forward with the SCS therapy when we spent more time educating them upfront before referring them to their chosen physician. Accordingly, we began reallocating resources on these initiatives in the middle of the third quarter. At the same time, we are implementing improvements to our DTC advertising approach that are designed to effectively convert a higher number of patient leads into trials. We are beginning to see patient interest and response to our new DTC advertising campaigns, and are confident we will see a meaningful improvement in trialing activity in the second half of 2025.
+
+While it's still early, we believe the actions we are taking, including reinvesting in our DTC advertising, are beginning to have a positive impact as the rate of decline in US SCS trials in October decreased. We are laser-focused on returning to sustainable growth, and are monitoring trends and sales activity on a daily basis.
+
+We continue to build and leverage our R&D pipeline, and we are excited that in September we received FDA approval and announced the limited market release of HFX iQ with HFX AdaptivAI, which we believe further establishes our position as the leading developer of innovative technology using data-driven solutions for pain management. This is the only SCS technology using artificial intelligence, and is built on a strong foundation of landmark evidence, clinical research and big data, leveraging 100 million data points and 10 years of data acquisition innovation in patient care.
+
+We know that chronic pain is a dynamic, multifaceted condition unique to each individual. Therefore, therapies must be personalized based on the patient's changing experience of pain. Competitor SCS systems require programming paresthesia to a preferred setting in the physician's office using trial and error methods. This often results in patients requiring frequent in-office reprograming visits over many months. Only HFX AdaptivAI engages with the patient to personalize the delivered SCS therapy using evidence-based algorithms derived from our proprietary data set for specific indications.
+
+Through AI, the algorithm adjusts programming in real time using multi-dimensional metrics of pain relief, sleep quality, function and satisfaction. It is also important to remember that HFX is a paresthesia-free therapy. Examples of the advanced technology incorporated in HFX AdaptivAI includes tailoring dosing over time, while maintaining pain relief provides the opportunity to dramatically reduce charging requirements to as few as 6 times per year. This is compared to previous generations of our SCS devices that require some patients to charge once per week, up to 52 times per year. Proprietary Bipole Interlacing technology that stores the patient's programming, usage and pain relief history to create bespoke programming sequences that brings patients back to pain relief faster, or even to improve patients that have already achieved pain relief of greater than 50%. HFX AdaptivAI is raising the bar on what is considered adequate pain relief.
+
+Continuous device-based monitoring of the patient's pain relief state, device performance, and usage that automatically alerts our field-based care team to contact the patient to resolve clinical or device performance issues that might arise. Proactive intervention is now a reality. HFX AdaptivAI is truly a game changer for patients, physicians and Nevro, and importantly closes the loop that matters. Since the limited market release in late-September, HFX AdaptivAI is off to a great start, and already delivering improved clinical outcomes to patients. Our early data demonstrates that patients are achieving pain relief 41% faster when compared to our prior version, HFX iQ 1.0. Patients are achieving and maintaining meaningful pain relief, plus feeling the benefit of our Smart Power and Bipole Interlacing additions.
+
+Importantly for our shareholders, HFX AdaptivAI is also providing significant reduction in the administrative and clinical burdens through our organizational infrastructure that would otherwise be needed to provide long-term clinical care to these patients. In patients who are now utilizing HFX AdaptivAI, we're seeing an almost 40% reduction in the number of patient calls to our support teams, with an almost 50% reduction in call time duration, and a 20% reduction in in-office patient reprogramming visits when comparing de novo HFX AdaptivAI patients to Omnia, a previous generation of Nevro's non-AI-driven SCS platform.
+
+While we are still in the early days of this product release, we are extremely pleased with both the benefit we are providing to patients and the significant expense reductions we should realize with this product over the long term. This limited market release marks a major milestone not only for our product offering, but the SCS market as well as it is the first therapy to put patients in control of their pain relief, while at the same time providing physicians the ability to monitor the patient's pain journey. We look forward to the full US market launch later this month.
+
+We are also thrilled to announce that we recently received regulatory approval to offer HFX iQ in CE-marked countries in the European Union. HFX iQ will be available in select regions of the EU through a limited market release beginning later this month. We anticipate a full market release in the first quarter of 2025. This marks a major milestone in advancing our efforts in the EU, and I want to congratulate our team who worked long and hard to get this approval over the finish line.
+
+As part of our longer-term plan to become a more comprehensive pain management company and drive market penetration in very large and underserved markets over the next few years, we are working to grow our business through expanded SCS indications, next-generation SCS therapy, and alternative therapies that are earlier in the care continuum. As we've communicated previously, the PDN market remains underpenetrated at less than 1%. We continue to focus on growing this business by educating referring physicians and raising patient awareness on the benefits of SCS as treatment therapy for these patients.
+
+Building on our strong foundation of robust clinical data, new data was recently published in the Journal of Pain Research, demonstrating long-term improvements in pain intensity with our high-frequency SCS therapy. Notably, the analysis is the first study of SCS to demonstrate long-term, significant and clinically meaningful reductions in hemoglobin A1c and weight in study participants with PDN and Type 2 diabetes who received high-frequency SCS therapy.
+
+It was this data that led us to initiate a feasibility study to specifically evaluate the use of 10 kHz Therapy to effect HbA1c. At the 12-month point of this study, we're seeing very encouraging and similar results as with the PDN study, with patients demonstrating significant and clinically meaningful reductions in HbA1c. Our clinical work in this area is very exciting, and there is a signal of the possible metabolic benefit of 10 kilohertz SCS for diabetic patients. This clinical work continues to build evidence on the importance of new treatment options, such as 10 kHz SCS Therapy for patients who suffer from PDN and other diabetic-related comorbidities.
+
+Regarding the Senza-Sensory RCT, the interim analysis is ongoing, and we continue to expect a readout in early 2025. Recall that this trial is designed to more objectively prove the sensory improvements we observed in our initial randomized controlled trial, and to obtain an SCS indication beyond just pain. Depending on the outcome, this may allow for early publication, followed by potential review and specific inclusion of Nevro's proprietary 10 kHz SCS Therapy into evidence-based guidelines, particularly those published by the American Diabetes Association. We're excited that our PDN sensory protocol design abstract has been accepted as an oral presentation at the 2025 NANS Annual Meeting, and will be presented by Dr. Erika Petersen, Director of the Section of Functional and Restorative Neurosurgery at UAMS Medical Center.
+
+As we've shared previously, our SCS devices have rechargeable batteries with a very long functional life, yet they will need to be replaced. We began treating a significant number of patients commercially beginning in late-2015, which means that the IPGs implanted at that time are now nearing end of life. We believe many of our patients, in consultation with their physicians, will want to continue using our best-in-class, clinically proven treatment therapy, and they will now have access to the significant benefits of HFX AdaptivAI technology in treating their chronic pain.
+
+We believe that over time, a growing number of our implants will be in patients, who have already enjoyed effective high-frequency SCS therapy with Nevro technology for many years, and whose devices are nearing their natural life of their IPG battery. Remember that we began treating a significant number of patients commercially in late-2015, and now more than 115,000 patients globally are using our 10 kHz SCS Therapy.
+
+Our longer-term goal is to become the leading provider of treatment options with the most diversified, differentiated and innovative product portfolio in the pain management space. We continue to ramp and scale our SI joint fusion business, and anticipate that it will contribute more meaningfully to our growth beginning next year. SI joint pain is seriously underdiagnosed. And our fusion technology provides a new and simpler approach to this procedure. One of the ways we are educating surgeons in standing out from legacy devices is through the publication of positive clinical data.
+
+We are pleased that comparative biomechanical data on Nevro1, our novel posterior integrated single-cage system, has been accepted in a peer-reviewed publication, assessing the biomechanical fixation, invasiveness, infusion characteristics of the Nevro1 SI joint transfecting fusion system, as compared to other commercial SI joint transfecting devices. Nevro1 was found to be equivalent or superior to these devices, including the lateral triangular rod system. The officers conclude that Nevro1 provides a significantly better opportunity for robust SI joint arthrodesis. We continue to receive positive feedback from physicians, who are trained and outperforming SI joint fusion procedures with Nevro1. We believe that the success of our expanding portfolio of SCS and SI joint products will help create the type of scale, growth, operating leverage and sustainability to unlock the kind of shareholder value that our board and management team are intent on creating.
+
+With respect to our previously announced exploration of strategic options to accelerate growth, diversify our product portfolio and deliver shareholder value, the activity is ongoing, and we are evaluating several options. Beyond this, we will not provide any further comment or update on the process. In the meantime, we remain laser-focused on executing our strategy and the actions we implemented to return to sustainable growth and drive towards profitability, and are excited by the direction of the company as we begin to close out 2024 and head into 2025.
+
+We have the most advanced technology in the space supported by robust clinical evidence. With our launches of HFX AdaptivAI in the US and HFX iQ in the EU, the growth opportunity in an underpenetrated SCS market and our diversification into the SI joint fusion space, we have an exciting and compelling path ahead of us.
+
+I'll now turn the call over to Rod for a discussion of our third quarter financial results and guidance for the fourth quarter and full year 2024. Rod?
+
+Roderick H. MacLeod
+Chief Financial Officer & Senior Vice President, Nevro Corp.
+Thanks, Kevin. And good afternoon, everyone. To echo Kevin's comments, we are proactively making decisions and reallocating resources to better execute commercially, while embarking on a process aimed at accelerating our growth, diversifying our business, and creating stockholder value. Note that Q3 2024 had one additional day versus prior year.
+
+For the third quarter of 2024 and compared with the year-ago period, worldwide revenue decreased 6.7% as reported, and 7.0% on a constant currency basis. US trial procedures decreased approximately 15.2%, mainly due to competitive pressures, ongoing softness in the core US SCS market, as well as commercial execution. US revenue decreased 6.5% to $83.9 million, primarily due to the aforementioned factors. And international revenue of $13 million decreased 7.7% as reported, and 9.6% on a constant currency basis.
+
+As was the case in the second quarter of this year, our international business was primarily affected by the short-term impact of negative SCS-related media reports in Australia, where we have the largest market share that resulted in cases being postponed or canceled, as well as the impact of healthcare reform in Germany that caused a delay in procedures in the current year quarter.
+
+The impact of these two factors did abate somewhat in the third quarter, but we began to see an uptick in procedures in both of these markets. Gross profit of $64.6 million decreased 7.1% compared with the third quarter of last year. Gross margin was 66.7% in the third quarter, down slightly from the same period a year ago, primarily as a result of a meaningful charge for previously capitalized variances in overhead as we discussed on prior quarter's earnings call. We continued to make progress in shifting additional work to our Costa Rica manufacturing facility to further leverage our investment there, and continue on the path towards achieving a long-term gross margin in the mid-70% range, and drive toward profitability.
+
+Operating expenses decreased to $78.5 million, compared with $95.1 million in the prior-year quarter. Excluding restructuring charges, intangible amortization contingent consideration revaluations, and the year-over-year decrease in litigation-related expenses, OpEx was $83.5 million, or an approximately 12.2% year-over-year improvement over the year-ago period. This improvement reflects the benefits from our restructuring activity in the first half of this year, as well as our continued focus on expense management and operational efficiencies.
+
+We also strengthened our cash position in the third quarter. Cash, cash equivalents and short-term investments were $277 million at September 30, 2024, increasing $3.3 million from June 30, 2024. This increase reflects the benefits from our two restructurings in the first half of 2024, as well as our focus on working capital management.
+
+Turning now to our 2024 full-year guidance. We are maintaining our full-year 2024 worldwide revenue guidance of approximately $400 million to $405 million, representing an approximately 5% to 6% decrease from our 2023 worldwide revenue on both a reported and constant currency basis. This guidance takes into account the impact of market challenges that we are facing and reduced DTC marketing spend from earlier this year, as well as some impact in the fourth quarter from the two hurricanes that hit the Southeast that caused the shortage in IV bags, and thus a delay in procedures.
+
+While we are stepping up our commercial execution by optimizing our sales territories, and amping-up our DTC advertising program, we don't anticipate seeing the benefits from these actions in US SCS trialing growth rates for a few quarters. We continue to expect full-year gross margin to be approximately 66%, or 68% excluding the $6 million supplier charge that we discussed on our second quarter call. We continue to see our Costa Rica manufacturing facility produce excellent results with labor and material costs meeting our expectations for manufactured products.
+
+Additionally, we've continued to move head count from the United States down to Costa Rica to leverage our investment. As I mentioned earlier in my remarks, we continued to project long-term gross margins in the mid-70s, assuming pricing holds at current levels. Also, as we previously communicated on our first quarter earnings call, we projected we would see second half gross margin headwinds due to the accounting of inventory variances in overhead that occurred in 2023 as we were transitioning from a heavy reliance on contract manufacturing to bringing manufacturing in-house. Therefore, gross margin in the fourth quarter of 2024 will be lower than what the business delivered in the first half of this year. Also note that lower production volumes from decreased sales in 2024 will continue to create some margin headwinds next year.
+
+We expect our full-year 2024 operating expenses to be approximately $369.1 million, down $20.2 million or down 5.2% from 2023. As we communicated on our second quarter 2024 earnings call, we expect our restructuring efforts to generate savings of more than $25 million in 2024 and full-year annualized run rate savings of over $30 million. We remain laser-focused on maintaining a cost structure aligned with the size of our business, and continue to look for additional efficiencies to drive margin improvement. We're also raising our full-year 2024 adjusted EBITDA guidance to a range of negative $18 million to negative $16 million from the prior guidance range of negative $20 million to negative $18 million.
+
+It is also important to point out that our restructuring efforts and focus on managing working capital should also drive an increase to our cash, cash equivalents and short-term investments in Q4 2024 as well. While we aren't providing 2025 guidance at this time, as we look ahead to next year, we expect to reap the benefits from the changes to our commercial team and territories to drive growth and market penetration, increased investment in DTC advertising, continued ramping of our SI joint fusion business, and greater revenue contributions from IPG replacements as we move throughout the year.
+
+In closing, as we look to close out this year and head to 2025, the entire Nevro team remains committed to executing our strategy to grow and diversify our business, and getting us back on the path to profitability and value creation.
+
+We will now open the call up for questions.
+
+Question And Answer Section
+Operator
+Thank you. We will now begin the question-and-answer session. [Operator Instructions] Your first question comes from the line of Chris Pasquale with Nephron Research. Please go ahead.
+
+Chris Pasquale
+Analyst, Nephron Research LLC
+Thanks. And congrats on some of the cost-cutting initiatives starting to show through in the reduced OpEx and cash burn. It's nice to see. Kevin, I wanted to ask kind of a big picture question about the outlook for the core SCS business. By our math, your trials, excluding PDN, have been declining now for the better part of the last three years. And the trend this year has been really bigger declines each quarter. There's competitive noise in there in some launches that have probably impacted share, but it really feels like there is less interest or at least stagnating interest in SCS in general as a solution for these patients. You talked about the great work you're doing to develop clinical evidence on the PDN side, on the SI joint side. I'm wondering if you feel a need to maybe generate some new data to really support the use of SCS in the core market, especially given the fact that your technology has evolved quite a bit since the last really big clinical initiative you had for back and leg pain.
+
+Kevin R. Thornal
+Chief Executive Officer, President & Director, Nevro Corp.
+Yeah. Chris, thanks for the question, and for the shout-outs there with our restructuring cost. Look, we look at all of our competitor data. We do the same analysis you guys do on what's going on in the market. And as you know, historically, this SCS market is traditionally volatile as new products launch back and forth between competitors and what have you.
+
+In addition, we're still focused on creating that clinical data. We've done so both on the PDN side as well as non-surgical back pain, which is a new indication that we did just a few years ago as well. And that'll take some time to be able to ramp that up. And that is in the core back and the leg space.
+
+If you also recall, in the second quarter earnings call, we talked about those MIS procedures that are often in front of SCS, and those procedures continue to grow. And we believe that those patients will continue to get back to SCS to complete their full pain management journey. And so, with that, I think that when you look at our direct-to-consumer spend, we talked about it on the call, we turn that down. We saw an effect that was not just in PDN, but also in our core back and leg market. So, as we've turned that dial back up and really began to be more focused on those efforts and nurturing those patients, we're actually seeing a return of trials in all those areas. And so, we have to control what we control. And we're excited about AdaptivAI and our launch there to be able to compete against our bigger competitors as well.
+
+Chris Pasquale
+Analyst, Nephron Research LLC
+Do you have any plans to capture the impact of AdaptivAI in a way that's comprehensive? And can you generate some publications to put that in front of physicians?
+
+Kevin R. Thornal
+Chief Executive Officer, President & Director, Nevro Corp.
+Yeah, we always look at what we can do in real-world data to be able to bring new points out there. And as you heard during our call, we talked about statistics of what we're already seeing in our limited market release. And we believe some of those physicians that were involved there would love to do investor-initiated trials there. And so, we do want to continue our focus on clinical trials, as we always have, to bring out important data.
+
+And not only does this bring clinical data and benefits for the patients, benefits for the physicians because they're getting less phone calls, because the patients are actually getting back to pain relief really quickly, automatically from the algorithm. But also, we're seeing less of a burden on our internal staff on reaching out to those patients, because they're getting back to that pain relief on their own, using the algorithm and just answering four easy questions today. So, we're excited about it bringing not only clinical value but also commercial value and quite often going to be some cost avoidance and cost savings for us as an organization as well.
+
+Chris Pasquale
+Analyst, Nephron Research LLC
+Thanks.
+
+Operator
+Your next question comes from the line of Shagun Singh with RBC Capital Markets. Please go ahead.
+
+Shagun Singh
+Analyst, RBC Capital Markets LLC
+Great. Thank you so much for taking the questions. I guess I just wanted to get back to US trials down 15%. And you called out competition SCS market execution, and then you did call out the DTC impact that it sounds like it'll take up to second half of 2025 to really yield some results. Can you just elaborate on each of those buckets, where are you seeing more pressure versus the other? And I guess just as a follow-up, can you elaborate on your US sales force dynamics? How much of the heavy lifting is behind you? What still needs to be done as we look into 2025? That would be helpful. Thank you.
+
+Kevin R. Thornal
+Chief Executive Officer, President & Director, Nevro Corp.
+Sure. Yeah, I'll start with the last one first, our commercial efforts in the US. As you'll recall, in 2023, we made quite a bit of structural changes and reporting line changes, and brought on a lot of new people. Most of those were in entry level-type sales positions called associate sales reps. And that's why now, those reps have been out in the field for a year-and-a-half, and are ready to take on their own territories. That was planned all along so that they can hit the ground running much quicker than someone who's coming from outside of the spinal cord stimulation market. Most of those are taking over expansion territories that are within the territory in which they were providing assistance over the last year-and-a-half. So, they know the physicians, they know the doctors that are in that area, and areas where they can go out and convert competitive business as well.
+
+If you go through and look at what components were the headwinds of that 15.2%, there's one thing just to remember here. As our route replacements continue to grow and be more part of our overall business, you'll see a disassociation between trialing and revenue, because you do not do a trial when you're replacing the IPG. Just wanted to make that point. So, you can still see revenue growth despite some pressure on trials.
+
+The second is DTC. These are really hard things to measure. We have some great board members that sit on companies that also spend a lot on direct-to-consumer advertising. And it's always difficult to tell how much of an impact they're having or not having an impact until you increase it or you decrease and see the effects of that. And so, we made that decision back at earlier in 2024 to turn it down a bit. It takes a little bit of time before you see the effects on that. But as soon as we did, we were now able to realize that it does make an impact and we're turning that volume back up, and we're already seeing the benefits of that in the early days since we turned the volume back up. So, it's really difficult to try to put a percentage of what is providing that headwinds. But we do believe that all of our changes and all of our responses to that will reverse that trend.
+
+Shagun Singh
+Analyst, RBC Capital Markets LLC
+Thank you.
+
+Operator
+Your next question comes from the line of Robbie Marcus with JPMorgan. Please go ahead. [indiscernible]
+
+Robbie Marcus
+Analyst, JPMorgan Securities LLC
+(00:36:19) congratulations on some pretty impressive cost cuts here. And maybe to that point, I wanted to ask on R&D spend. It came down pretty meaningfully, about a third. It's the lowest, I believe, outside of the depths of COVID since 2017. How do we balance sort of the cost-cutting initiative versus future innovation here? And maybe you could give us a little insight into what was cut, how it was cut, and how you think about this impacting forward growth? And then, I have a follow-up.
+
+Roderick H. MacLeod
+Chief Financial Officer & Senior Vice President, Nevro Corp.
+Sure. Yeah. This is Rod, I'll take that. There's a couple of things to keep in mind here. We always want to be investing in what's going to be driving future growth, and we really protect those investments that are going to provide an ROI. I think what you're seeing here is focus in the organization towards those projects that do have an ROI associated with them. Also note that there's some clinical spending that goes on in that category, and we saw some reduction or some focus in that area as well.
+
+So, we've got a bias towards growth. Kevin and I, our entire careers have been about driving growth in a business. And we're really going to try to drive that focus in an organization towards those projects that can generate revenue returns over the next couple of years.
+
+Kevin R. Thornal
+Chief Executive Officer, President & Director, Nevro Corp.
+And I'll add a little bit here, Robbie, it's Kevin. On that clinical side, you will see some boluses up or down just based upon the enrollment and the timing. And so, we obviously had a couple of clinical trials roll off and come to completion, and we have our sensory trial that's ongoing. But it's at the preplanned midterm start. And so, you'll see reduction in spending as that occurs. So, that will go up or down, and that's in our R&D line.
+
+And as Rod mentioned, we are still focused on the diversification of that product portfolio along with spinal cord stimulation next-generation devices, as you can see with AdaptivAI, that's not the last one. We'll continue to focus on innovation there along with getting us into new markets that are already established in the pain management space today.
+
+Robbie Marcus
+Analyst, JPMorgan Securities LLC
+Great. And it's been touched on in some questions already, but maybe just help us understand, this year, you cut expenses, you cut head count, and sales came down. And we're going to see probably one of the flattest third to fourth quarters the company has ever had coming up now. How do you – especially, I imagine head count exiting the year is going to be lower by a good amount than entering the year. And I know you're adding some territories next year, but how do we think about the plan to grow revenues in 2025 despite some pretty meaningful expense and likely head count cuts throughout 2024? So, I imagine you're going to have tough comps at the beginning of next year on that count. Just help us understand how you can balance a lot less spending with growth. Thanks a lot.
+
+Roderick H. MacLeod
+Chief Financial Officer & Senior Vice President, Nevro Corp.
+Yeah. This is Rod again. It's a good question. I mean, as you look at the $30-plus million that we pulled out on an annualized basis, I think we got probably close to 90% of it right. When you do make those sort of reductions, you are going to find a couple of areas where, like Kevin mentioned on DTC where maybe we turn down the volume a little bit too much, I think as we sit here right now, we're confident that we have a much better sense as to what is going to drive that revenue, what has impacted that revenue. And we feel confident that we can close that gap that we saw in Q3 there with the cost structure that we have in place.
+
+As Kevin mentioned, we're dialing up the DTC, we're making some key investments in certain parts of the commercial execution and the commercial organization to help drive that growth into the future. So, I think we got the majority of it right, but there were definitely a couple of areas where it may have had a little bit of an impact on the business.
+
+Kevin R. Thornal
+Chief Executive Officer, President & Director, Nevro Corp.
+Yeah. It's Kevin here. Just to add into, one of the exciting portions and the reason we put it in the prepared remarks around AdaptivAI is the ability to grow without needing to add 1-to-1 ratios with that new patient population that continues to expand, right. As we implant more new patients, that means we have more patients to take care of. However, those new patients that start on AdaptivAI, and those that will eventually be replaced with AdaptivAI as their old IPGs sort of go to their end of life or end of their battery, we need less people to be able to take care of those patients. That's what AI does across all the industries, right, making those changes automatically. There used to be people that used to have to do a lot of that work. And so, as we expand in the future, technology would allow us to do that as well.
+
+Operator
+Your next question comes from the line of Matt Taylor with Jefferies. Please go ahead.
+
+Matthew Taylor
+Analyst, Jefferies LLC
+Hi. Thanks for taking the question. So, I just wanted to be clear about the comments on trialing, because you said that ramping back up DTC would improve them, the trial trends by second half 2025. Are we expecting the next few quarters for the trialing trends to be similar to what we saw in Q3? And then, could you provide any color on the quantum of DTC spending that you toggled down and up? It sounds like you said 90% right. So, is it 10% of the $30 million that you're toggling back up?
+
+Kevin R. Thornal
+Chief Executive Officer, President & Director, Nevro Corp.
+No, we can't really do that, Matt, on the expending. The good news is, in today's world, getting to our patient population is pretty targeted, and we even got better now than we did before by the channels in which we can find these patients easier. The reason why there's a little delay there is obviously, as these patients call in to learn more about this exciting therapy to help them out, specifically with their back and leg pain or painful diabetic neuropathy, what we've learned is we need to nurture those patients and educate them before we hand them off to their preferred physician. And we've seen a really good increase of those referrals and those leads going into consultations with their preferred physician. And that typically takes 4 to 6 months after they have their initial consultation before they would have a trial that would lead to a permanent implant. So, that's why it's going to take a little bit of time as the patient flow starts coming back in.
+
+As far as what we're spending on DTC, we've never put that number out there before, but we're able to do so. And it wouldn't have an effect on the $30 million that we said is going to be saved this next year.
+
+Roderick H. MacLeod
+Chief Financial Officer & Senior Vice President, Nevro Corp.
+Hey, Matt, just to pile on there a little bit. So, in some of our press releases and our slides, we said that for Q4, we're not commenting on 2025 at this point, but for Q4, we assumed the trialing doesn't improve. And as Kevin mentioned, it's – we still believe that our $30 million of annualized cost reductions are in place and we'll continue to see some benefit of that. But it counts your math, and it is not a huge investment, but it's something that once we realized that it was having an effect, we were able to turn on and get that investment flow going pretty quickly.
+
+Matthew Taylor
+Analyst, Jefferies LLC
+All right. Great. Thank you, guys.
+
+Kevin R. Thornal
+Chief Executive Officer, President & Director, Nevro Corp.
+Thanks, Matt.
+
+Operator
+Your next question comes from the line of Joanne Wuensch with Citi. Please go ahead.
+
+Anthony Occhiogrosso
+Analyst, Citigroup Global Markets, Inc.
+Hey, guys. Good afternoon. This is Anthony on for Joanne. I guess, your gross margin guidance and EBITDA guidance for the year, that implies a pretty big step-up in OpEx in the fourth quarter. Is that all related to DTC and expanding sales force, or is there anything else in there that we should keep in mind?
+
+Roderick H. MacLeod
+Chief Financial Officer & Senior Vice President, Nevro Corp.
+Yeah, I can take that. First of all, we had a pretty strong Q3 from an adjusted EBITDA perspective, and some of that was related to the revenue over-performance versus where we guided to, as well as some spend reductions, as well as some timing on some spend. So, from a timing perspective, some of that timing is pushing into Q4. And there are some additional investments, some commercial related, some related to AdaptivAI that are impacting the P&L from a timing perspective. Some of those we thought would have hit in Q3, but it looks like they're going to be more of a Q4 expense. So, it's primarily timing in terms of that shift really from Q3 to Q4.
+
+Anthony Occhiogrosso
+Analyst, Citigroup Global Markets, Inc.
+Okay. That's helpful. And then, just one on Vyrsa. Could you talk about how that integration is going, and if that's performing to internal expectation so far?
+
+Kevin R. Thornal
+Chief Executive Officer, President & Director, Nevro Corp.
+Yeah. Thanks, Anthony. Yeah. So, we're still in the integration process. As a reminder, it was a small spin-out of a small spine company there, and they handed us great technology. But we have had to build up a lot of the things needed to be able to fully launch that, one of which is the trays that you need to perform the procedure that need to be turned and flip back out. We now are finally at full capacity there so that we're able to cover any kind of the trials that's ongoing.
+
+One of the things we talked about before is that we are changing the paradigm for where those patients are treated. Traditionally, they've been treated by neurosurgeons and orthopedic surgeons because of the procedures that were commercially available were pretty intensive. And if you needed some help, if you did something wrong during that procedure, you needed to have a little bit different skills than the physicians that we normally call on.
+
+Now with this posterior approach, it's opened up a new world for the interventionalist to do this procedure. And we spent a lot of time training physicians for the first time. And so, instead of them referring those physicians to neurosurgeons like they had in the past, they're now able to keep those patients in their own practice. But that's going to take them some time to be able to build up that patient flow and that patient base that stays within their practice. So, we're liking how it's progressing. Obviously, we always want more than what you have right now, but we're in line with where we want to go as far as the training, the number of physicians that are trained, how they're building their practices, and our reps' ability to learn and be able to upscale, to be able to be proficient in covering those cases. And we expect that it'll have a more meaningful impact as we said, as we head into 2025.
+
+Anthony Occhiogrosso
+Analyst, Citigroup Global Markets, Inc.
+Great. Thanks for taking the question.
+
+Operator
+Your next question comes from the line of Brandon Vazquez with William Blair. Please go ahead.
+
+Brandon Vazquez
+Analyst, William Blair & Co. LLC
+Hi, everyone. Thanks for taking the question. First, I just wanted to focus on the P&L. You guys have done a great job here of taking some costs out. I guess the question being those that go to 2025-plus is kind of the next leg of improvements in profitability going to be coming from just reaccelerating the top line? Or is there another leg of OpEx that might come out next year as you guys look towards moving even closer to breakeven and eventually profitability?
+
+Roderick H. MacLeod
+Chief Financial Officer & Senior Vice President, Nevro Corp.
+Yeah. Hey, Brandon, this is Rod, I'll take that. As we continue to run this business, we continue to look for areas where we can drive focus in the business, and get more efficient in what we're doing, right-size the business for the size of that particular aspect of the business. So, we still have some projects in areas that we're going after to drive efficiencies in this business. And we'll continue to do that on a go-forward basis.
+
+And additionally, we'll continue to go after working capital. We saw pretty good sized reductions in inventories and receivables in the third quarter. And that's for me, a strong part of our offense is we're really trying to drive this business towards a place where we control our own destiny, both from a profit and a cash flow perspective.
+
+Kevin R. Thornal
+Chief Executive Officer, President & Director, Nevro Corp.
+And I'll just add on to that, Brandon.
+
+Brandon Vazquez
+Analyst, William Blair & Co. LLC
+Okay.
+
+Kevin R. Thornal
+Chief Executive Officer, President & Director, Nevro Corp.
+As we talked about in the prepared remarks, we also are moving some – the people down to Costa Rica so they can be closer to the manufacturing plant when they're manufacturing engineering and people like that as well. And so, that will continue to have some benefits that we don't fully realize yet.
+
+And then, as I mentioned earlier on another question, we really believe that using AI not only in our product but across the organization, will give us opportunities for us to become more efficient, and allow us to grow our top line without having to add 1-to-1 ratio, if you will, of people to be able to take care of our large and growing installed patient base. And so, that will be a cost avoidance, and allow us to be able to do more with less people, because AdaptivAI is doing a lot of that work in that right now or in previous generations a person would be left to do to reprogram.
+
+And that additional work that they were doing doesn't really give meaningful reimbursement to the physician nor zero reimbursement for us at Nevro or revenue for us at Nevro. So, it's not only a cost avoidance, but it allows us to do more meaningful things that actually can drive the top line.
+
+Brandon Vazquez
+Analyst, William Blair & Co. LLC
+Got it. And, Kevin, on the last point that you were making, I think with HFX iQ, even you're already starting to lower some of the barriers or some of the pain points of programming and managing these patients. So, maybe can you walk us through a little bit of like what's the patient workflow look like for an iQ versus an AdaptivAI patient, when they're coming in and then later down the road, just so that we can understand a little bit of what's the incremental pain points here that AdaptivAI can really take the next leg on? Thank you.
+
+Kevin R. Thornal
+Chief Executive Officer, President & Director, Nevro Corp.
+Yeah. iQ is the first AI-powered, big data-driven device, but we didn't put AI in the name, because we weren't using the full capabilities of our AI power. And so, now we're up to over 100 million data points that we can leverage. And so, the AdaptivAI now gives us a full range of capabilities and all of the programming available on our devices. High-frequency, low-frequency, iQ mode, there's a ton of different modes.
+
+And I don't want to miss this point, because I said it pretty quickly in the prepared remarks. One of the biggest differences here is because the algorithm is changing the therapy quickly, we're now able to dial that in and likely reduce for many patients the burden of the energy use of the battery of the device. And so, you think about someone who maybe was on an older generation device that needed to charge once per week, because their IPG was still set on that initial first higher power-type waveform.
+
+Now, over time, as we get to dial in and personalize that therapy, we see patients now that are only going to need to charge 6 times per year. So, that's a massive decrease in the burden of charging, and something that we're really excited about in this new AdaptivAI that wasn't available in the iQ system previously.
+
+Operator
+Your next question comes from the line of Bill Plovanic with Canaccord. Please go ahead.
+
+William J. Plovanic
+Analyst, Canaccord Genuity LLC
+Great. Thanks. Good evening, and thanks for taking my questions. Just first off, I was wondering if you could help quantify the magnitude of the changes for the territory managers as you promote these maybe from probably the low point of right after the changes you made earlier this year and cost cuts, and then kind of where you expect to be next year. Are you increasing it 10%, 20%, 30%? And then, I've a follow-up.
+
+Kevin R. Thornal
+Chief Executive Officer, President & Director, Nevro Corp.
+We haven't given a number yet, but there is quite a few people that we hired in 2023 that were assistant sales reps or therapy consultants that are now ready to take on their territory. And just, Bill, you've been watching the story for a long time. So, in past, sometimes we would add territories that were pretty much brand-new dirt that had zero revenue, and you put in a high priced sales rep to sort of grow that business. Even the best of the best takes years to be able to build up a sizable business and converting those physicians from competitors.
+
+So, the approach since 2023 was you put in these assistant sales reps in territories that have a full line sales rep that is already proficient and been in the space for a while where they get to learn from them and go to the outreaching areas, if you will, where that sales rep is located today. And so, a lot of these ASRs are taking over a piece of dirt that they know that is sort of adjacent to the territory in which they have today. So, we believe that they'll be more effective sooner than just pulling somebody off the street. But we've not given any numbers for how many that we've added.
+
+William J. Plovanic
+Analyst, Canaccord Genuity LLC
+Okay. And then, just on to the AdaptivAI product, as you start full launch of that, you had the HFX iQ. Historically, you've seen a price premium for new products as you bring them to market. How should we think about that as you go full launch on the AdaptivAI?
+
+Kevin R. Thornal
+Chief Executive Officer, President & Director, Nevro Corp.
+Yeah. A lot of these things are done through contracts, and it take some time for us to get through additional products on contract. So, we're just now having those conversations. We couldn't do it until we received FDA approval, of course. So, we're still just a few weeks into that. But we're applicable. Obviously, we'll always be able to drive a premium for new technology if it brings value to those physicians. But it's really early right now to try to give an ASP increase, because it's still going to be starting off as a smaller portion of our total implants.
+
+William J. Plovanic
+Analyst, Canaccord Genuity LLC
+Great. Thanks for taking my questions.
+
+Operator
+Your next question comes from the line of Suraj Kalia with Oppenheimer. Please go ahead.
+
+Suraj Kalia
+Analyst, Oppenheimer & Co., Inc.
+Kevin, I'm in the airport, so pardon the background noise. I'll ask both of my questions upfront. So, Kevin, you mentioned Adaptiv iQ. And if I heard it correctly, 20% reduction in in-office visits, 41% sooner reduction in pain relative to HFX 1.0. Maybe you can just give us, how does that compare to other platforms to the extent that you can talk about it? And also how should we think about the robustness of the 100 million data points that you've referenced in your prepared remarks?
+
+And the second question, if I may, quickly, Kevin, what percent of systems, Nevro systems, are HF10 versus the more modular waveforms? Thank you for taking my questions.
+
+Kevin R. Thornal
+Chief Executive Officer, President & Director, Nevro Corp.
+Yeah, thanks, Suraj. Safe travels. It's AdaptivAI, not Adaptiv iQ. Just I want to make sure I sort of blended those together in talking. And look, we've compared against our previous version, AdaptivAI versus HFX iQ in those brand-new patients and seen how quickly they get to pain relief. And so, that was that 41% number. And then, when you look at our 40% reduction of patient visits, 50% reduction in call time, and 20% reduction in in-office patient reprogramming, that's versus Omnia, which was our previous version before iQ that did not have any AI-powered technology in that. And so, we have not done any head-to-head against any of the competitors out there, because again, we're still in limited market release. And so, we'll continue to provide some of those data points as we get into full market release starting later in this month.
+
+As far as percentage of HFX 10 versus the other, we exited the quarter with...
+
+Roderick H. MacLeod
+Chief Financial Officer & Senior Vice President, Nevro Corp.
+Yeah. So, Q3 was about 68% of our mix of iQ product. And if you're specifically talking about HF10, almost all of our patients exclusively use the HF10 therapy versus any of the other wavelengths. In fact, it's probably north of 95%.
+
+Operator
+Your next question comes from the line of Richard Newitter with Truist Securities. Please go ahead.
+
+Richard Newitter
+Analyst, Truist Securities, Inc.
+Hi. Thanks for taking the questions. Maybe just on the first going back to the DTC, just curious, am I reading this right that if you're expecting a back half 2025 impact from turning the switch back on midway through 3Q, is that a longer timeframe to see the ROI from that investment in DTC versus what happened when you turned it off midway through 1Q hitting in the third quarter? Are they equal timeframes or why would it be longer on the back-end?
+
+Kevin R. Thornal
+Chief Executive Officer, President & Director, Nevro Corp.
+Yeah. So, as we said earlier, what'll you do when you turn it back on, you get patients to see the ads and they say, wow, this is great technology, I want to learn more about it. They have a call to action, which goes into a call center that's within our team, a great team, by the way, these HFX Coaches that we have that take care of the patients. So, I want to give a shout-out to the great work that they're doing.
+
+And then, they talk to them numerous times to get them to along the pathway towards getting referred to their physician of choice. And once they do, we see those referrals turn into consultations, because we know when they get booked in to see the physician. After they're booked to see the physician, it's going to take 4 to 6 months for those patients to then go through that care continuum to make sure they're worked up and ready for the procedure. So, that's a little bit where you see the delay.
+
+As far as on the front-end, right, when you're doing direct-to-consumer, you have months and months of those patients that are part of the – it's still part of the process. And so, when we turn it down, you don't see an immediate impact of that, because there're still patients within that process. And so, as soon as we saw it start to dip down as those patients were out of the funnel, that's when we turned it back on. And as we said in the prepared remarks, that was in the middle of the third quarter is when we started reinvestment.
+
+And as we also said, in October, we already have seen a flow of those patients back in, and already to consultation, and it'll take some time before they go to a trial and then to a procedure.
+
+Richard Newitter
+Analyst, Truist Securities, Inc.
+Okay. Thanks for that. Well, Kevin, what gives you confidence that you haven't – I mean, congratulations on the work you've made on rightsizing the P&L, but what gives you confidence that you haven't cut too far into muscle in that it's limited to the DTC area that perhaps you went a little too far? And then, just one follow-up would just be any commentary that you could provide on kind of the 4Q as a jump-off point in 2025 for expenses, and anything we should be considering as we refine our 2025 models based on where the consensus sits? Thanks.
+
+Kevin R. Thornal
+Chief Executive Officer, President & Director, Nevro Corp.
+Yeah. As Rod said, we've got about 90% of it right. What we missed was the DTC, the other areas, while it's never exciting or fun or even doesn't feel good as a human being to have to make readjustments and refocus teams and restructure like that. We do believe we were very thoughtful in how we went about that. And really focusing on those areas that will have a bigger impact on our revenue and profit over the next strat plan period of time versus maybe some of those expenditures that would be great possible homerun or moonshot that could turn into something maybe 15, 20 years from now. Obviously, we had to make the hard decisions to say, hey, let's focus on the ones that are more bird in the hand that are great projects that we should continue to fund.
+
+So, we believe we did a good job on trying not to affect the top line. In fact, as Rod mentioned, we are investing into our sales channel now as we expand these territories. We have new products that are launching. And we're educating more physicians than we ever have on our courses. And so, we still feel good about our commercial efforts, as far as an investment perspective.
+
+As far as expenses as we head into 2025, I'll Rod answer that one.
+
+Roderick H. MacLeod
+Chief Financial Officer & Senior Vice President, Nevro Corp.
+Yeah. We're not providing any 2025 guidance at this point. But what I'd say is similar to what we spoke about earlier in that we're going to continue to look at areas of the business where we can drive efficiencies, both internally, and also as it relates to products Kevin mentioned, AdaptivAI helps drive a lot of efficiencies in our overall commercial model. So, we've still got some work to do. We've got some areas that we're going after. We continue to leverage our Costa Rica investment, both from a manufacturing, as well as kind of more of a back-office perspective. We'll continue to look at those as we go into 2025 and the years thereafter.
+
+Richard Newitter
+Analyst, Truist Securities, Inc.
+Okay. Thank you, guys.
+
+Operator
+Your next question comes from the line of David Rescott with Baird. Please go ahead.
+
+David K. Rescott
+Analyst, Robert W. Baird & Co., Inc.
+Oh, great. Thanks for taking the questions. Two on the AdaptivAI platform, and I'll ask them both upfront. The improvement and the reduction in patient visits, and time that the patients are on the phone with the rep maybe when the AdaptivAI program, I think, sounds pretty promising. And so, my first question is, how replicable do you think this becomes as you roll this out to a broader number of patients that are out there? When you when you compare that to those that are in the earlier launch versus those when you have a [indiscernible] (01:03:35) higher number of reps or patients out there.
+
+And then, the second piece, it feels like one of the bigger kind of pain points, again, has been around the higher reprograming rates versus what you see from other kind of stimulation technologies. So, what I'm wondering more on the AdaptivAI platform side is, if this is the technology that maybe could level the playing field or not so level the playing field, but I guess just bring up your margins or bring up your, I guess you have better margins, more rep time when you have this type of technology out in the field. Thank you.
+
+Kevin R. Thornal
+Chief Executive Officer, President & Director, Nevro Corp.
+Yeah, we believe it will, and we're seeing in the early patients. And while we're not telling you how many patients we've implanted during the limited market release, it's aplenty, the N is very large. And so, it gives us high degree of confidence that it'll have these impacts across a broader installed base, if you will. Also, don't forget, when we launched iQ, we talked about it being a platform technology that will allow us as the only company to be able to go backwards compatible for patients that would like to upgrade just the software portion of the device.
+
+And so, a portion of those patients that have been on AdaptivAI that we've seen these stats are patients that had the first generation 1.0. We brought them back in and downloaded the new software for AdaptivAI on their older IPG. And we're seeing those benefits from where they were just a week before to where they are a week afterwards. And so, it gives us a high degree of confidence that not only in de novo brand-new patients installed with AdaptivAI, but those that we've also upgraded, we've seen those benefits.
+
+And as far as reprogramming rates, yeah, those are some of the biggest cost burdens on us as an organization, as well as physicians, because it involves drive time, it involves trying to find a time on the physician's calendar, and you sort of have to meet three people all at once to be able to make that reprogramming happen, whereas now it's happening in the cloud behind the scenes. One of the other things that we're very excited about that we saw is, we in our systems, we get alerted when patients aren't doing well. And so, this is for the first time that we see proactive management, what allows our people that are on a phone to reach out to those patients and be able to rectify anything that needs to be rectified without them calling into us or into their physician. And proactive taking care of patients is always more cost effective than waiting for something to happen. So, we're excited about it.

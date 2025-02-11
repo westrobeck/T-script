@@ -1,0 +1,245 @@
+Good afternoon, and thank you all for participating in today's call. Joining me from Pulmonx are Steve Williamson, President and Chief Executive Officer; and Mehul Joshi, Chief Financial Officer. Earlier today, Pulmonx issued a press release announcing its financial results for the quarter ended September 30, 2024. A copy of the press release is available on Pulmonx's website.
+
+Before we begin, I'd like to remind you that management will make statements during this call that include forward-looking statements within the meaning of federal securities laws, which are made pursuant to the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995. Any statements contained in this call that relate to expectations or predictions of future events, results or performance are forward-looking statements.
+
+All forward-looking statements, including without limitation, those relating to our operating trends, commercial strategies, and future financial performance, the timing and results of clinical trials, expense management, market opportunity, guidance for revenue, gross margin and operating expenses, commercial expansion and product pipeline developments are based upon our current estimates and various assumptions.
+
+These statements involve material risks and uncertainties that could cause actual results or events to materially differ from those anticipated or implied by these forward-looking statements. Accordingly, you should not place undue reliance on these statements.
+
+For a list and description of the risks and uncertainties associated with our business, please refer to the Risk Factors section of our filings with the Securities and Exchange Commission, including our Quarterly Report on Form 10-Q filed with the SEC on August 2, 2024. Also, during this call, we will discuss certain non-GAAP financial measures. Reconciliations of these non-GAAP financial measures to the most directly comparable GAAP financial measures are provided in the press release, which is posted on our Investor Relations website. These non-GAAP measures are not intended to be a substitute for our GAAP results.
+
+This conference call contains time-sensitive information and is accurate only as of the live broadcast today, October 30, 2024. Pulmonx disclaims any intention or obligation, except as required by law, to update or revise any financial projections or forward-looking statements, whether because of new information, future events, or otherwise.
+
+And with that, I will turn the call over to Steve.
+
+Steven S. Williamson
+President, Chief Executive Officer & Director, Pulmonx Corp.
+Thanks, Elizabeth. Good afternoon everyone, and welcome to our third quarter 2024 earnings call. Here with me is Mehul Joshi, our Chief Financial Officer. I am pleased with our third quarter performance and our team's continued execution across several of our most critical commercial and clinical initiatives.
+
+Our commercial strategy continues to gain traction as we achieved worldwide sales of $20.4 million, representing 15% growth over the same period of the prior year. In the US, revenue was $13.8 million, representing 17% growth year-over-year, while OUS revenue was $6.6 million, representing 12% growth year-over-year. We were pleased by our growth in procedure volume, despite seeing a more typical seasonal impact in the US in Q3 compared to the third quarter of 2023.
+
+As a reminder, we viewed the decreased impact of seasonality in the third quarter of 2023 as a potential anomaly. We were also pleased by the increase in the number of active accounts in Q3. As we enter the final months of the year, we remain confident in our ability to deliver on the previously communicated revenue guidance of $81 million to $84 million for the full-year 2024.
+
+As a reminder, our commercial strategy is built on three pillars. First, training physicians at hospitals that have the potential to be high-performing Zephyr Valve centers. Second, automating patient workflows and facilitating the sharing of best practices among existing centers to optimize their Zephyr Valve programs. And third, building local awareness of the benefits of our treatment among COPD physicians and patients.
+
+My experiences over the last few months have given me even greater confidence in this playbook, and I believe we are well positioned for significant and sustained growth. I've had opportunities to talk to high-level hospital executives, meet key opinion leaders, and to spend time with our customers and their patients.
+
+Most recently, I attended cases with a key physician in London and then talked with one of his patients in the recovery room just minutes after his valve replacement. The benefit of the procedure was evident as the patient explained. He could already breathe better as he smiled and he laughed with us. This is just one example of how life changing Zephyr Valves can be for patients with severe emphysema and how valuable our solution may be to any COPD treatment program.
+
+We remain confident in the high demand for our solution and our ability to provide needed relief to this massively underserved patient population. In conjunction with our first strategic commercial pillar, training physicians and hospitals that have the potential to be high-performing Zephyr Valve centers, we added 15 new accounts in the US in Q3, ending the quarter with 280 active accounts.
+
+As a reminder, we define active accounts as centers that placed a revenue-generating order in the quarter. Importantly, our value proposition continues to resonate with hospital system administrators, as well as interventional pulmonologists who are eager to provide Zephyr Valve treatment to their patients.
+
+While we continue to identify potentially high-performing Zephyr Valve centers and expect to opportunistically establish new accounts, I'll remind you that our primary focus remains on increasing awareness of Zephyr Valves and driving utilization in treatment centers.
+
+With respect to our second strategic pillar, automating patient workflows and facilitating the sharing of best practices among existing centers, we are pleased to provide an update on our LungTraX platform, which is in pilot release and is garnering a high level of interest from our customers. LungTraX is designed to streamline customer workflows and identify patients eligible for Zephyr Valves.
+
+As we previously shared, LungTraX Connect is a PACS integration solution that eliminates the manual CT upload process by allowing the CT scan to be uploaded directly to the StratX platform from the hospital's PACS system. Additionally, it enables the care team to track and share patient workup status, potentially reducing time to treatment for the patient. This stands to meaningfully reduce key friction points in patient workflow and allow centers to better manage the growth in their Zephyr Valve caseloads.
+
+Building on these efficiency capabilities, we are now expanding the functionality of our platform to enable hospitals to screen for new potential patients with LungTraX Detect. Currently, chest CT scans ordered for lung cancer detection or other diagnostic purposes are not routinely evaluated for severe emphysema.
+
+Our new screening software prospectively analyzes non-contrast chest CTs hospital-wide to identify patients who have radiographically significant emphysema regardless of the primary health concern. This represents a long-term opportunity to help patients already moving through the healthcare system receive an accurate diagnosis and better care in a more timely manner.
+
+We expect to implement our LungTraX Connect and Detect and detect pilot programs in a handful of select centers toward the end of the year as we move to optimize the software and user experience before launching them more broadly. Importantly, I'd like to note that we are not yet generating direct revenue from our LungTraX platform, and we believe it will take some time to launch into customer accounts, complete the work necessary to integrate infrastructure with any treating centers, and initiate and complete beta testing.
+
+We anticipate the LungTraX platform will streamline patient identification and work up, which should provide a meaningful tailwind to procedure volumes over the medium to long term. As we engage customers on LungTraX, we continue to develop new capabilities for the platform that have the potential to further enhance case management efficiency.
+
+On our third strategic commercial pillar, building awareness of the benefits of the Zephyr treatment, we continue to do focused education of COPD clinicians and patients. We sponsor live and virtual education programs, which see a lot of provider interest.
+
+In a recent partnership with Medscape, we had over 12,000 providers take online CME courses about endobronchial valve patient selection. We also directly educate patients about Zephyr Valves via targeted direct to patient initiatives. And year-to-date, over 34,000 potential patients have actively engaged by phone or online quiz. This represents a 150% increase over the same period of the prior year. We see targeted patient education as a valuable means of both spurring conversations with doctors, enhancing awareness and increasing patient's ability to access specialized care.
+
+Shifting to our international performance, we've been investing in our foundations for commercial success in our international business, and are already beginning to see the impact. We delivered international year-over-year revenue growth of 12% in Q3. Growth was fueled in part by recurring orders from our new distributor in China, offset somewhat by seasonal dynamics typical in the third quarter.
+
+In our European markets, we continue to adapt many of the proven sales tools we've developed and utilize in the US for use in local geographies, such as operational best practice sharing, community physician engagement and peer-to-peer education programs. We believe these will drive continued growth in our international business. Outside of Europe, we're making progress on our post-market surveillance study in Japan. We are encouraged by the positive reception our technology has received from participating centers and the ability of our Japanese team to drive adoption of Zephyr Valves.
+
+That said, we anticipate it will take time to grow widespread awareness of this new treatment option, and we expect a bulk of participating patients to be treated in the back half of the enrollment period. We continue to expect more material revenue contribution from Japan in 2026.
+
+This study marks an essential step toward broader commercialization in the new market, where an estimated 100,000 patients stand to benefit from Zephyr Valves. In addition to growing our global footprint, we remain committed to our goal of expanding the number of patients that can be treated with Zephyr Valves through our AeriSeal Clinical Development Program.
+
+At the European Respiratory Society Congress in October, new clinical data from our AeriSeal CONVERT I trial demonstrated successful conversion of collateral ventilation status in 77.6% of patients following treatment with the AeriSeal system. Notably, patients treated with Zephyr Valves following conversion experienced clinically meaningful benefits over the baseline, including in lung function and quality of life.
+
+At six months following valve implantation, 89% of converted patients achieved target lobe volume reduction or TLVR equal to or greater than 350 milliliters, the minimal clinical relevance difference. The actual mean TLVR was 1,062 milliliters, three times greater than the targeted reduction volume.
+
+We are excited by these results that indicate CV+ patients can successfully undergo treatment with Zephyr Valves following closure of the fissure gap with our AeriSeal System. Through Q3, we've expanded enrollment in our CONVERT II pivotal trial, a multicenter global study designed to support our FDA pivotal trial and evaluate the safety and effectiveness of the AeriSeal System in limiting collateral ventilation in severe COPD and emphysema patients.
+
+We continue to activate centers around the world in our CONVERT II trial and anticipate commercial launch for AeriSeal outside of the US in approximately 2026 and in the US in approximately 2027. AeriSeal has the potential to expand our immediately addressable market of eligible and motivated patients by an estimated 20% globally.
+
+We continue to advance the science around Zephyr Valves. At the ERS Congress, long-term safety and durability data from the LIBERATE study demonstrated positive, durable improvements for patients treated with Zephyr Valves out to at least five years. Data demonstrated annual improvements in lung function from year one to five, an important advantage over medical treatment alone given the known decline in lung function over time.
+
+The five-year data also demonstrated improvements in survival when compared to historical controls. In addition, a post-hoc analysis of the LIBERATE study also presented at ERS demonstrated that those patients treated with Zephyr Valves who achieved a TLVR of 50% or more experienced significantly fewer severe COPD exacerbations requiring hospitalization over the long term when compared to medical management alone.
+
+In summary, the results from the five-year follow-up and post-hoc analysis of the LIBERATE study further validate the positive clinical benefits of Zephyr Valves for patients with severe emphysema and COPD. Finally, at the recent American College of Chest Physicians meeting in Boston, we saw high engagement by referring pulmonologists. Our research has shown that 94% of pulmonologists know about valves, but only 36% say they feel confident about which patients to refer.
+
+At the conference, we engaged extensively with community pulmonologists to discuss patient selection criteria and received post-conference feedback that our discussions had a positive effect on these physicians' willingness to refer. I'm encouraged by the high interest and desire to learn, I heard from this community of physicians as they came to our booth, attended the LVR clinical presentations and packed our educational symposium.
+
+We are pleased with the strong presence Pulmonx has had at these recent key scientific meetings and view our growing portfolio of positive clinical evidence is a crucial component of our strategy to drive increased awareness of Zephyr Valves and their clinical benefits.
+
+Now, I'll turn the call over to Mehul to provide more detailed review of our third quarter results.
+
+Mehul Joshi
+Chief Financial Officer, Pulmonx Corp.
+Thank you, Steve, and good afternoon everyone. Total worldwide revenue for the three months ended September 30, 2024 was $20.4 million, a 15% increase over the prior year period, and also an increase of 15% on a constant currency basis.
+
+Our performance was driven by continued commercial execution and adoption of Zephyr Valves, offset by pronounced seasonality, particularly in the US compared to the prior year period. US revenue in the third quarter was $13.8 million, a 17% increase over the prior year period. International revenue in the third quarter of 2024 was $6.6 million, an increase of 12% over the prior year period and also an increase of 12% on a constant currency basis.
+
+Gross margin for the third quarter of 2024 was 74%, compared to 74% in the prior year period, reflecting slightly improved capacity utilization, offset by geographic mix. Total operating expenses for the third quarter of 2024 were $29.2 million, an increase of 3% over the prior year period.
+
+Non-cash stock-based compensation expense was $5.4 million in the third quarter of 2024. Excluding stock-based compensation expense, total operating expenses in the third quarter of 2024 increased by 5% over the prior year period.
+
+We are executing our cost optimization program as an enterprise initiative as we continue to drive operating leverage. R&D expenses for the third quarter of 2024 were $3.7 million, a decrease of 11% over the prior year period. The decrease was driven by lower expenses from completed R&D projects and a decrease in stock-based compensation expense, partially offset by higher clinical expenses.
+
+Sales, general and administrative (sic) [Selling, general and administrative] (25:49) expenses for the third quarter of 2024 were $25.4 million, an increase of 6% over the prior year period. The increase was driven primarily by additional spend in therapy awareness programs and other commercial investments.
+
+Net loss for the third quarter of 2024 was $14.1 million, or a loss of $0.36 per share as compared to a net loss of $14.9 million, or a loss of $0.39 per share for the same period of the prior year. An average weighted share count of 39.3 million shares were used to determine the loss per share for the third quarter of 2024.
+
+Adjusted EBITDA loss for the third quarter of 2024 was $8.1 million as compared to $9 million in the third quarter of 2023, a 10% improvement on a year-over-year basis. Please refer to our reconciliation of net loss to non-GAAP adjusted EBITDA for further details.
+
+We ended September 30, 2024 with $107.8 million in cash, cash equivalents and marketable securities, a decrease of $6.8 million from June 30 of 2024. Our current cash position, combined with our demonstrated ability to drive revenue growth and operating leverage beyond our existing operating plan assumptions, continues to provide confidence in our ability to become cash flow breakeven with the existing cash on hand.
+
+Turning now to full year 2024 guidance, we are reiterating our previously communicated fiscal year 2024 revenue guidance and updating gross margin and OpEx guidance. We expect to deliver full year 2024 revenue in the range of $81 million to $84 million, representing approximately 20% growth at the midpoint. We remain confident in our guidance as we continue executing our commercial strategy.
+
+Moving down the P&L, we expect gross margin for the full year 2024 to be approximately 74%. Gross margin is slightly impacted by the strength of distributor revenue in the current year, despite being accretive to operating margin.
+
+Lastly, operating expenses for the full year 2024 will fall within a range of $122 million to $124 million, including approximately $22 million of non-cash stock- based compensation expense. Total operating expense growth at the midpoint is expected to be approximately 9% and continues to demonstrate our focus on operating leverage. In conclusion, we are confident in our outlook for 2024 and look forward to executing on the next stage of growth.
+
+With that, I'd like to turn the call back to Steve for his closing remarks.
+
+Steven S. Williamson
+President, Chief Executive Officer & Director, Pulmonx Corp.
+Thanks, Mehul. In summary, we are pleased with our progress through the third quarter as we made continued commercial traction despite seasonality, presented positive new clinical data from our AeriSeal, CONVERT I and Zephyr LIBERATE trials, and made headway with critical case efficiency programs like our LungTraX platform.
+
+Our continued success in our commercial and clinical programs demonstrate our ongoing commitment through expanding access to our life-changing treatment. Looking ahead, we remain confident in our opportunity, plans and people and the future we are building.
+
+I'd like to thank you for your attention, and we'll now open the call for questions. Operator?
+
+Question And Answer Section
+Operator
+Thank you. At this time, we will conduct the question-and-answer session. [Operator Instructions] Our first question comes from Rick Wise with Stifel. Please go ahead.
+
+Hi, this is [ph] Annie (29:57) on for Rick. Thanks for taking the question. I was hoping I could just start and you could talk us through guidance. You clearly had a solid performance this quarter and I believe it's now the third quarter in a row of top line outperformance without raising sales guidance. Maybe you could help us better understand what's leading you to reiterate these numbers apart from general conservatism? And is there something giving you hesitation in the fourth quarter? Thank you.
+
+Steven S. Williamson
+President, Chief Executive Officer & Director, Pulmonx Corp.
+Hi, [ph] Annie (30:28). This is Steve. As you look at the guidance that was provided for the year, we saw overperformance in Q1. We saw significant seasonality in Q3 and it looks like we're in line with that guidance for the year. And so, we didn't feel that it would be prudent to make changes to the guidance at this time.
+
+Operator
+Thank you. And our next question comes from Jason Bednar with Piper Sandler. Please go ahead.
+
+Jason Bednar
+Analyst, Piper Sandler & Co.
+Hey, good afternoon. I've got a couple. I'll maybe dovetail off of that last question. You chose to adjust the gross margin OpEx part to guidance, but you did leave the revenue guide unchanged. It's a bit of a wide range or at least opens up a range of outcomes for the fourth quarter. So, if I could pin you down, Steve, or Mehul, are you more comfortable at one end or the other of that revenue range?
+
+Mehul Joshi
+Chief Financial Officer, Pulmonx Corp.
+Hey, Jason, this is Mehul. So, all year we've kind of guided to the midpoint with 20% growth and that's where we feel comfortable with at this point. We thought about narrowing the guidance, but we just wanted to make sure that the guidance that was set earlier on in the year is focused on achieving and driving to at least that midpoint.
+
+Steven S. Williamson
+President, Chief Executive Officer & Director, Pulmonx Corp.
+Yeah, Jason, if I can add on to that. If you look at our guide, it's relatively small range. And so, it just didn't seem prudent really to hone in on anything right now. We're coming up against a – we're coming out of a quarter that had high seasonality, as I mentioned. We will start to see that grow in Q4, which is typical of pulmonary procedures and what we've seen in the past. And so, as we go into Q4, I think it would just be – it seemed to be in line with what we've been saying for the year, which is that we will continue to deliver on the expectations that we gave at the beginning of the year.
+
+Jason Bednar
+Analyst, Piper Sandler & Co.
+Okay. Fair enough. And then one other one on the guide, if we could just maybe unpack the OpEx spend reductions pulling that range in by about $5 million. What's changing in the spending plans? I heard the call out on the cost optimization program, but again that's a fairly large reduction from where guidance set last quarter. That's encouraging as we think about improving adjusted EBITDA from here. So, just wonder what's coming out and then if that's a – if where we exit here in the fourth quarter is a reasonable jumping off point into 2025?
+
+Mehul Joshi
+Chief Financial Officer, Pulmonx Corp.
+Sure, Jason. So, most of the leverage in the OpEx guide is coming from SG&A and that's really focused on non-revenue-generating spend as well as lower SBC expense. So, as you probably noted that we brought SBC down by about $3 million. So, a that's a large component of our OpEx guide reduction.
+
+The other couple of pieces have to do with lower distributor OpEx as we've gotten into an arrangement for China. So, that's helped out quite a bit. Also, we are managing head count on an individual head by head basis. So, we're really focused on continuing to drive operating leverage. As we hit that 20% midpoint on the revenue guide, we wanted to ensure that the leverage on the OpEx side was there.
+
+Jason Bednar
+Analyst, Piper Sandler & Co.
+All right. Very helpful. Thank you.
+
+Operator
+Thank you. Our next question comes from John Young with Canaccord Genuity. Please go ahead.
+
+Zachary Day
+Analyst, Canaccord Genuity LLC
+Hey, it's Zachary on the call for John today. Thanks for taking the question. To start, how do we think about OUS in 2025? It's been pretty flat historically, but had a really strong quarter this time around. Just what are your thoughts going forward? Thank you.
+
+Steven S. Williamson
+President, Chief Executive Officer & Director, Pulmonx Corp.
+There's a number of reasons to be bullish of the OUS market moving forward. We've implemented the US sales process. That's really done great things for us here in the US for growth. And it's showing signs of success outside the United States right now. So, the early indications there are positive.
+
+China helped us outside the United States as well. We're seeing bigger growth in China than we were originally expecting. And I don't think it will get to a significant level probably until late 2025, early 2026, we'll start to see that really take off. But we've ramped up that distributor and we are seeing good adoption there. So, China has been a help. And then our key European target markets are doing well also. The major markets have shown some growth, and I believe that is tied to the implementation of the US sales process.
+
+And then finally, I think there's some other things to be bullish about. As you look at European markets in general, there's – the UK just came out with a targeted lung health check program where they've launched across the UK free screening for patients that are between 55 to 75 years old that are either prior or current smokers. Those patients can come in and receive screening for lung cancer, but they also were screened for emphysema as well. So, there's a lot of positivity going on outside the US right now. I do believe that over the long term, though, we will see significant growth in the US and that will be our driving force.
+
+Zachary Day
+Analyst, Canaccord Genuity LLC
+Got it. Thank you. And then just to follow up, so with all of that, I mean it sounds like there's a good amount of catalysts coming, especially out of Europe. How can we think about the growth rates for OUS, whether it's just in Q4 or in 2025, just going forward? Thank you.
+
+Steven S. Williamson
+President, Chief Executive Officer & Director, Pulmonx Corp.
+Yeah. I'd say we expect continued growth in OUS in Q4 as well as in the future. We're not going to guide to 2025 growth yet until the Q4 call, but we will continue to expect similar types of growth in OUS as we've experienced over this first three quarters.
+
+Zachary Day
+Analyst, Canaccord Genuity LLC
+Thank you.
+
+Operator
+Thank you. Our next question comes from Frank Takkinen with Lake Street Capital Markets. Please go ahead.
+
+Frank Takkinen
+Analyst, Lake Street Capital Markets LLC
+Hi. Thanks for taking the questions. Maybe I'll start with one on the numbers a little bit. Given the time of the year, just wanted to kind of take your temperature on 2025 expectations. I know I think right now expectations are at about 19%. You're thinking about this year at about 20% growth. Any reaction to where the Street is right now and where we should think about kind of a steady state growth rate for 2025?
+
+Mehul Joshi
+Chief Financial Officer, Pulmonx Corp.
+This is Mehul. We're not going to guide to 2025 yet. We will do so in our Q4 call. But as we've indicated at the midpoint, 2024 will be at 20%. But I'd like to say that we're seeing some early signs and some momentum of the strategic driver enhancements that Steve has made as we've come into the organization now about seven months.
+
+And maybe, Steve, you can make a couple of comments on those drivers, and we would expect to see them materialize later in 2025 and beyond.
+
+Steven S. Williamson
+President, Chief Executive Officer & Director, Pulmonx Corp.
+Yeah, I'd be happy to. So, if you look at the three legs of our stool, the creating of the high-performing centers, workflow automation and best practice sharing, and then creation of awareness with COPD physicians and patients.
+
+We've really executed or we're in the process of executing initiatives in each of those three phases. So, on the high-performing centers, we're working on administrative buy-in, teaching them that there is an opportunity to build lung health programs within their hospital systems, and then they need to invest in those programs.
+
+We've developed kind of the blueprint there. We've shared that with them, the vision, and we've received positive feedback. So, that's on the high-performing center side. On the workflow automation and best practices, we've accelerated the launch into a pilot actually of LungTraX Connect. We also accelerated LungTraX Detect behind that.
+
+I think what I've been most excited about is the response we've gotten from our hospital customers and physicians as well on our LungTraX Detect product, which is more than just workflow automation and ease of use. It's the next level innovation. It goes deeper. It provides screening, and it really touches on two legs of the stool.
+
+So, it helps them become a high-performing center. But it also drives physician and patient awareness as they look at the patients that are already in their system, already in their PACS system, that are suffering from severe hyperinflation, severe emphysema and allows them to get treated. So that's something that was moved forward.
+
+It was – I think we could have gone through and continued development here, but we thought that we would work with some customers out in the field and pilot the program, go through beta testing and understand better. It's really our first time selling a software program. And so, we wanted to make sure that we got it right and we were meeting all the customer needs there.
+
+On the third leg of the stool as the COPD physician and patient awareness. One of the things that we've done, although that our OpEx guide is down, is we've reallocated spend to more targeted direct to patient advertising as well as peer-to-peer education events.
+
+And the feedback from those have been very, very strong. If you look, we've got 34,000 patients have engaged with us. That's a significantly higher, 150% higher than where we were last year. So, that spend is showing that we are able to educate physicians and patients alike. We've increased our presence in some of these in the UK with this targeted lung health check and we're doing what we can to drive COPD physician awareness there as well as patient awareness, too. So, we're looking at accelerators for that plan that we would like to see kick in in 2025 and beyond. So, that's really been our focus here over the last seven months.
+
+I would say it's early innings with these, though. We had to come in. We needed to understand the needs of our customers. We develop a plan. I spend a lot of time in the field talking to customers and validating that plan, making sure that we are meeting their needs and that we're delivering products that will be useful to them.
+
+Once we do that, we have to drive the adoption of the hospitals. So, the hospital has to come onboard. There's contracting that goes along with our LungTraX program, so you involve IT which can be a – can take a little bit of time, the legal aspects of it as well. So, adoption of the solution by the hospital. Once that's adopted, then we need to go implement and work with the IT teams to implement the software solution. And then once that's done, we need to go through and get patients through. So, they then need to be identified, worked up and treated. So, it takes a little bit of time. We're in our early innings there, but seven months in, I'd say that we're seeing that we're executing in the right areas.
+
+I think that's evidenced, as I said, by the patient numbers and engagements that we're having there. Our COPD engagement by clinicians across the United States has been very strong as well. So, I feel good about the execution of the team. But as I said, we're early innings and I see these as catalysts for growth in 2025 and beyond.
+
+Frank Takkinen
+Analyst, Lake Street Capital Markets LLC
+Got it. That's helpful. Maybe if I could come back to – I think you touched on a little bit in [ph] Pronghorn (42:14), but C-suite engagement being a priority and reflecting not only the clinically supported patient benefits, but also the economic value proposition. When you're having these conversations, what are those economic benefits that are resonating most with the C-suite and how is that kind of expected to convert into a better utilization?
+
+Steven S. Williamson
+President, Chief Executive Officer & Director, Pulmonx Corp.
+The first thing that the C-suite seems interested in is when they see the patient population that they have in their geographic area. That's not being treated right now. There is a huge underserved patient population that doesn't really have options here. They go through, they end up with medical management and many of them pass on.
+
+And so, our ability to educate them on the opportunity that exists in front of them is really where we start. We've got the ability to help patients that need help. I think that resonates with the C-suite as well as our physician base.
+
+Secondly, we walk them through the economics of the procedure. There's workup economics that go along with it. As I've mentioned in the past, we've got a strong economic value proposition. We have good reimbursement. We talk about the fact that we are the standard of care. We're in the gold guidelines as the standard of care for patients with severe emphysema.
+
+And so, our value propositions are very compelling to these C-suite executives. The next thing is, okay, how do we do? What do we need to do in order to make them a high-performing center? How do they really build a lung health program that they can build a moat around so that they can become a hub for a hub-and-spoke system or really treat that broad patient population that they have in their areas? And that's what we spend most of our time on. And there's been a lot of interest there. It's building that blueprint and showing them how to stand up the program. That's really where we are right now.
+
+Frank Takkinen
+Analyst, Lake Street Capital Markets LLC
+Helpful. I'll stop there. Thank you.
+
+Steven S. Williamson
+President, Chief Executive Officer & Director, Pulmonx Corp.
+Thanks, Frank.
+
+Operator
+Thank you. [Operator Instructions] One minute for our next question. I'm showing no further questions at this time. I'd now like to turn it back to Steve Williamson for closing remarks.
+
+Steven S. Williamson
+President, Chief Executive Officer & Director, Pulmonx Corp.
+Great. Thanks everybody for joining us today. To conclude, I'd like to thank our Pulmonx employees worldwide for delivering a strong third quarter and also for their continued dedication to fight every day for every breath, so our patients don't have to. Thank you all for your time.

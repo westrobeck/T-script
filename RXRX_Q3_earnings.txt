@@ -1,0 +1,190 @@
+Hi everybody. I'm Chris Gibson, Co-Founder and CEO of Recursion and I'm delighted to welcome you to our update call today just post-close of the business combination with Exscientia. I'm joined today by our Chief Commercial and R&D Officer, Najat Khan; and our newly minted Chief Scientific Officer, Dave Hallett and really excited to be sharing a bit more about the go-forward plan for Recursion coming along pretty soon here.
+
+So, let's dive into some slides. Perfect. So, I want to just talk a little bit about today where Recursion is, the overall value proposition post this business close. And I think I want to start at this high level here. After this business combination, this entity now has about 10 clinical and preclinical programs spanning oncology, rare diseases, and other areas of high met need. There's another approximately 10 programs in advanced discovery. There's more than 10 programs that have been optioned by our partners and are advancing towards the clinic.
+
+And over the next 18 months, we expect to have approximately 10 milestones for our programs. That could be new clinical start, that could be updates on data or even clinical readouts. All of this on top of one unified operating system, combining the best elements of a first-in-class drug discovery, leveraging technology at Recursion, and best-in-class drug discovery leveraging technology at Exscientia.
+
+And I think these two companies have now combined into one company with incredible track record in this industry, together having earned $450 million in upfront and milestone payments today. And that is just the start. There's over $20 billion in potential milestone payments in the future from our four large pharma partnerships before the potential for royalties on net sales of many of the programs that we may advance together. So, it's a really, really exciting time to be here at Recursion as we look forward to the future.
+
+Our overall strategy remains unchanged. We're going to continue advancing an internal pipeline of assets focused in areas where we believe recursion can truly build differentiated medicines and advance those medicines to patients. We'll continue to partner with large pharma companies in areas with complex therapeutic challenges, large intractable areas of biology like neuroscience, immunology, and perhaps in the future places like cardiovascular and metabolism.
+
+And then, of course, our data strategy, which is so core to our business, we'll continue to explore mechanisms for licensing subsets of our data and tools like LOWE. And I think together, these three value drivers are just so exciting in terms of the long-term value proposition for Recursion.
+
+Now, to dive in a little bit and talk about the combined Recursion operating system, let's go to this figure. I want to kind of lift us up as we bring these organizations together, talk about the overall view of how we think about how Recursion is looking at biology and chemistry to try and understand how to advance medicines to patients more quickly. And the way we understand biology and chemistry is by measuring the real world, measuring biology, measuring chemistry, learning from those data and building models of those data that we then use to create hypotheses and we put them back through this system to test.
+
+And we do this in a laboratory, a laboratory full of robots both in Salt Lake City and in Milton Park here in the UK where we're coming to you live. We're generating massive quantities of data across millions of experiments every week and those data are being incorporated into a wide variety of different models. You can see these different kinds of data, these different kinds of models are coming together to create truly, truly fantastic hypotheses and warnings about biology. And ultimately, as we take these models and we get better and better, our belief is that eventually they will become not just models of the real world, but actually a virtual cell. And that's what will actually transpose from real world informing the world models to a virtual style that informs simulations and hypotheses that we can make to take drugs into the clinic.
+
+With that, let's dive into a couple more slides. Perfect. I want to talk a little bit about our pipeline at a very high level. Ultimately, at the end of the day, we are here to make medicines for patients. And so I want to really start there and we will go ahead and just head over and look at the pipeline overviews.
+
+Today, sharing our go-forward pipeline strategy, 10 clinical and preclinical technology-enabled program spanning oncology, rare disease, and other therapeutic areas. Many of these programs actually are going to be generating readouts in the coming quarters. As I mentioned before, 10 different milestones over the next 18 months. We're going to be working across first-in-class, best-in-class, and to share a little bit more about these programs, I'm happy to turn it over to my colleagues, Najat and Dave.
+
+I think we're going to go over to you first, Dave, to talk a little bit about CDK7.
+
+David Hallett
+Chief Scientific Officer, Recursion Pharmaceuticals, Inc.
+Thank you, Chris, and truly delighted to join Recursion as Chief Scientific Officer. The story behind CDK7 is one part of precision design, in particular to reflect the fact that this target has broad utility both in cancer [indiscernible] (05:34) healthy cells. Hopefully, I think we're all aware of the impact that the CDK4/6 inhibitors have had in the treatment of breast cancer but they are imperfect and resistance is an issue.
+
+CDK7 is a multifaceted protein. It can be thought of as sitting upstream of some of the CDKs, including CDK4/6. So, it controls of the progression in cell cycle. It is involved in transcriptional kind of [indiscernible] (06:05). And interesting as well, it also actually modulates the activity of the estrogen receptor. Well, because it's got an impact on healthy [indiscernible] (06:14) cells, this is a story of [indiscernible] (06:17) very thoughtful and precise design.
+
+[indiscernible] (06:22) that we wanted to deliver. Compound has to be oral. It had to be reversible in nature because we didn't want to [indiscernible] (06:30) type 2 during the course of the day. We have [indiscernible] (06:34) molecule that is meant to have a relatively short half-life in humans, again, this kind of goldilocks effect of inhibiting the target just enough to actually kind of driving efficacy by allowing the target some freedom [indiscernible] (06:46) healthy cells.
+
+We've done that. [indiscernible] (06:51) 136 compounds [indiscernible] (06:56) candidates. We have an ongoing monotherapy dose escalation study that I'll be delighted to reveal some data on. This is an AACR special event in Toronto in December where I'll give some insight into the ongoing studies, so looking at pharmacokinetics, pharmacodynamics, and also initial safety signals. And also telling you a story about how well did we do against our design [ph] promises (07:22).
+
+Najat Khan
+Chief Research & Development Officer, Chief Commercial Officer & Director, Recursion Pharmaceuticals, Inc.
+Thank you, Dave. And just a comment on precision design and why it's so important. The ability to actually increase permeability so that you have higher systemic exposure versus GI, something that has plagued some of the other peer compounds that are available. So, potential best-in-class, but depending on how things go, it also has the potential to be a first-in-class with appropriate [indiscernible] (07:47).
+
+David Hallett
+Chief Scientific Officer, Recursion Pharmaceuticals, Inc.
+And it is, yeah.
+
+Najat Khan
+Chief Research & Development Officer, Chief Commercial Officer & Director, Recursion Pharmaceuticals, Inc.
+And that's where you'll see a common theme through the [ph] one pages (07:51), the one we will touch on today, but also overall in the corporate deck, which is using AI and machine learning to really solve the hardest problems in that design to create that differentiated value Chris mentioned. So, let's go to another example in oncology, RBM39 degrader, REC-1245. So, the unmet need in solid tumors and lymphoma is significant. Over 100,000 patients in US and EU. The mechanism of action, this is a degrader focused on RBM39, which is an important splicing factor, really critical for maintaining splicing fidelity and by degrading that leads to many challenges which we would want, such as triggering cell stress and apoptosis.
+
+So, what is the differentiation play? I think the first is really the biological insight which came from the Recursion platform. This is what you've heard from Chris before and this is the foundation of Recursion, which is around phenotypic screening, looking [indiscernible] (08:50) disease and help you to understanding what compounds [ph] naturally reverse (08:54) to that multi-state.
+
+Now, we're combining that with transcriptomic, proteomic, truly becoming a multimodal powerhouse in terms of decoding biology to change patients' lives. That was the first differentiation, is the insight. And by the way, it looks similar phenotypically to CDK12, which has been really challenging to drug, right? This is an alternative approach to do that.
+
+The second piece is it's an oral first-in-class potent and then the third, of course, we looked at some in vivo data. So, as you'll see here, here's one CDX model, but there are multiple CDX and PDX models where you start to see at monotherapy regressions of the tumor.
+
+Couple of things to note, similar to what you've heard from Dave, the number of compounds we're synthesizing, 150, 200 to get to the lead, which in industry average and range in the multiple thousands.
+
+And also, we're doing that from target insight, two actually IND-enabling studies in 18 months, true. So, really accelerating the end-to-end and that's what the AI end-to-end tech stack can do. So, next step, as you heard [ph] and you've heard two weeks (10:00) ago, we are imminently looking forward to opening the study site activation and first patient dose with a Phase 1 update slated on this monotherapy dose escalation for the first half of 2026.
+
+All right. So, we had two examples in oncology. Now, we're going to move over to rare diseases. We'll give you a couple of snapshot examples as well. Here's REC-4881 focused on FAP. So, again, a disease with high unmet need. 50,000 patients in the US and EU. No approved therapy today. Colectomy is what is done in adolescence, but even after that, there is a high incidence of not just cancer, a list of cancer, but also just challenges to quality of life.
+
+So REC-4881, this is a MEK1/2 inhibitor, selectively blocks the MAPK pathway. A couple of things to note from a differentiation perspective. Again, potential for first-in-class in FAP and definitely a best-in-class because there are other MEK inhibitors out there but focused in other areas versus FAP.
+
+It is potent, allosteric and another point I want to note is really around the preferential GI exposure. That's important for a disease like this where you're basically having hundreds of thousands of polyps in the GI. Preclinical data, this is a mouse model, Apc Min mouse model, kind of tiny, but I'll tell you two highlight. Number one, in terms of polyp reduction, significant polyp reduction even at the lowest dose, 1 mg per kg, and outperforming that of Celecoxib, which is a drug that's used quite often today across two inhibitor as standard of care. The other, it's not just a reduction of the polyps, but also a reduction in the pre-cancerous polyps as well.
+
+So, what are we looking for in this Phase 2 that running now, the primary endpoint is polyp reduction. That can be important from a key consideration around benefits. Key consideration is around [indiscernible] (11:58) with MEK1/2 inhibitors and more.
+
+All right. I'm not going to go through the Recursion approach with very, very similar [indiscernible] (12:08) really identify this insight and then the drug, the starting compound that we have now optimized. And it has, first, Fast Track and Orphan Drug designation. Futility analysis for this, expect the focus on polyp burden reduction in about 10 or so evaluable patients in the first half of 2025.
+
+So, with that, I'm going to hand it back to Dave to tell us more about ENPP1 inhibitor.
+
+David Hallett
+Chief Scientific Officer, Recursion Pharmaceuticals, Inc.
+Thank you, Najat. Super excited to be presenting this today. For those who are not aware, hypophosphatasia is a rare genetic disorder that's actually caused by mutations in a human gene called tissue non-specific alkaline phosphatase. And the impact of those mutations is that you see detrimental effects on bone mineralization. So, bone's obviously kind of made of calcium and kind of phosphorus deposits and those other things.
+
+And really extreme cases is actually lethal before birth. Again, kind of even if they're kind of – the children kind of actually survive [indiscernible] (13:17), they've then gone to have a very [indiscernible] (13:18) quality. And in the mildest case, if you can call it that, is early onset loss of teeth and bone [indiscernible] (13:28).
+
+And the first line of care is an enzyme replacement therapy. The problem with that is that currently it's over $1 million per patient here to administer that drug. And, unfortunately, [ph] as the also (13:42) antibodies get generated as a function of time, so its effects wane.
+
+ENPP1 is genetically validated at preclinical setting and to the best of our knowledge, Recursion is the first company to demonstrate that chronic oral administration over the ENPP1 prototype molecule, we call REV101 not only suppressive effects on a key biomarker so [indiscernible] (14:11). I'm going to show in the graphic here, but more importantly has kind of functional [indiscernible] (14:18) both on the movement to the animals but also on bone morphometric, as kind of shown in this diagram. These materials were actually presented by our key opinion leader, [ph] Jose Milan (14:30) at a key bone meeting a couple of months ago.
+
+We are advancing a much more superior compound that we call now REV102 looking to [indiscernible] (14:41) candidate status before the end of this year. [indiscernible] (14:47) molecule, very potent, very selective. Remember, that it's likely that [indiscernible] (14:54) taken for the rest of somebody's life. And so the safety is kind of is front and center. And I'm hoping to kind of be able to showcase [indiscernible] (15:06) we have behind this potential [indiscernible] (15:09) candidate in the coming months.
+
+Christopher C. Gibson
+Co-founder, Chief Executive Officer & Director, Recursion Pharmaceuticals, Inc.
+Awesome. Thank you, Najat. Thanks, Dave. It's fantastic to hear a bit about those four programs, just 4 of 10 that we have in our clinical or nearly clinical pipeline in Recursion. But beyond those programs, we also have some incredible partnership programs and we have the great fortune to be able to partner with some of the best companies in the industry from a therapeutic perspective. Roche-Genentech, we're several years into this massive partnership focused on neuroscience, the whole of neuroscience and a single program in oncology. We are partnered with Sanofi, focused in both oncology and immunology. That partnership is going extraordinarily well.
+
+We're partnered with Bayer, focused in various areas of precision oncology and in addition to that, Bayer is one of the first companies leveraging our LOWE software platform. And of course, partnered with Merck KGaA in oncology and immunology. I don't think there's any other tech bio company in the industry that's able to put together such an incredible roster of partners.
+
+And beyond just this roster of partners, we're demonstrating delivery in each one of these partnerships, as you can see here. Now, we won't be able to update this all the time. There's a lot of information in here, but this gives you a sense of the scale that Recursion is operating across all four of these partners and several others. Each of these programs has the potential, we believe, to be a compelling medicine for patients. And we're going to continue working hard not only on our internal pipeline, but on every one of these programs as well.
+
+And beyond the therapeutic partnerships, we've also partnered across the technology spectrum and the data spectrum with partners like NVIDIA and Google Cloud. With partners like Tempus and Helix, we're helping to augment the incredible datasets that we're building in-house at Recursion and, of course, our partners at [ph] AddImmune (16:58) who are helping us to synthesize many of the molecules that we need at scale. These are the incredible partners that we want to see going forward with us into the future, continuing to build on the incredible operating system that we have at Recursion.
+
+Now, we've talked a lot about our strategy for our pipeline, our partnerships and our data. I do want to take a minute and focus a little bit on the culture and team because this is a really big day for us. We've been flying all around. We're coming to you live from Oxford today. We've been spending time with the teams here. We'll be spending time with the team in Salt Lake and across all of our different sites tomorrow and for the rest of this week. And we really feel like we have an opportunity to bring together some of the best employees across the entire not just tech bio industry, but biopharma industry in this united mission to decode biology to radically improve lives.
+
+And in addition to all of the incredible people on our teams at Recursion, I want to share some of the updates to our executive team and board today. We have Dave joining us, of course, as CSO. But I also want to share that Ben Taylor, the Chief Financial and Chief Strategy Officer of Exscientia, has joined us as Chief Financial Officer. We've promoted Kristen Rushton to Chief Operating Officer; and we have Matt Kinn being promoted to Chief Business Officer; and Lina Nilsson joining us as head of platform from within Recursion.
+
+Really excited to have such a capable team of executives guiding this company now across multiple countries, multiple clinical programs, multiple partnerships. It's really an incredible team. And I do want to take a moment to say a huge thank you to Tina and Michael, and Laura, three incredible members of our executive team who've been with us for half a decade or more in every case. And they've just been such incredible colleagues, partners, mentors, and we can't wait to see all the incredible things that each of them goes to do next.
+
+In addition to our executive team changes, we're also welcoming Franziska Michor from Dana-Farber to our board. She was part of the board at Exscientia. She's now part of the board at Recursion as of earlier this morning. And this is a stacked board, really incredible folks from the technology side, from the biotechnology side, from academics, and from industry. And I think together with this executive team, the incredible team we have at Recursion, now approximately 800 employees across sites in Milpitas, Salt Lake City, Toronto, Montréal, New York, London, and the Oxford area.
+
+This is truly, I think, the tech bio company to watch and the tech bio company to be. And we are all very, very excited about the mission going forward. We're going to work extraordinarily hard to deliver on it for patients and for all of you, our shareholders. And we really appreciate your support during what's been a very busy few months and we're looking forward to pulling our heads back up and getting forward on some of the science.
+
+And with that, I think we'll turn over to some questions.
+
+Question And Answer Section
+Christopher C. Gibson
+Co-founder, Chief Executive Officer & Director, Recursion Pharmaceuticals, Inc.
+Let's see, going to the board. First, we have a question from Joe. Can you talk about your reasons for shifting from cell paint to brightfield imaging for your screening of cells?
+
+Thank you, Joe. Great question. So actually, we put a blog post out about this recently and I would say at a high level, it turns out despite it looking like very, very challenging to see a lot of information in a brightfield image to a human eye, you can train a computer vision algorithm to extract essentially all of the same or almost as much information as you can get out of a fluorescently-labeled image. And because we are able to train these massive computer vision models on millions, hundreds of millions of brightfield images, we put ourselves in a position to be able to not have to fix and stain cells.
+
+And the huge advantage there is it means we can now do time-lapse and if you're trying to build causal models of biology, not just understanding correlations between different genes and pathways, but actually have different genes and pathways cause and effect each other, this time series data is going to be incredibly important. So, thank you for that fantastic question.
+
+All right. Next, let's head over to – let's talk about Dennis Ding from Jeffries. Can you speak more to the CDK7 monotherapy data coming December and what would constitute good data for a Phase 1 dose escalation? What's your relative confidence in threading the needle on efficacy safety as others have tried the drug CDK7 and then faced safety issues? I think turn it over to you first on that one, Dave.
+
+David Hallett
+Chief Scientific Officer, Recursion Pharmaceuticals, Inc.
+Yeah, it's a great question. So, the plan in this meeting is to present human pharmacokinetics, also looking at blood-based pharmacodynamic measures. So, as we kind of dose escalate, kind of what we're doing in terms of target engagements. Obviously, looking at kind of adverse event profile as we've dose escalated. We're still actually in the dose escalating phase. We've not [indiscernible] (21:50) but still ongoing.
+
+[indiscernible] (21:54) kind of how we've made a lot of predictions about the target candidate profile. We've got preclinical data that suggests say targeting [ph] kind of IC80 (22:07) coverage for about 8 to 10 hours over the course of 24 is about optimal. Any less than that, then you lose efficacy in kind of preclinical models. Any more than that and you drive – start to drive side effects.
+
+So, [indiscernible] (22:22) is like, as we said, we're trying to kind of show sort of modest half-life in humans, how do against that. As we've dose escalated, are we anywhere near what we think might be biologically effective dose? And as we dose escalate, what's the adverse event profile like because remember it's highly likely that this is a drug that will be used in combination indeed got to elucidate a study and will pivot towards a combination study in breast cancer.
+
+So, looking at CDK4/6 refractory patients together with fulvestrant, but there are other indications looking as well where you might combine this agent with, say, a checkpoint inhibitor. And so trying to kind of find a thread that needle, as you said, relatively benign kind of safety profile [indiscernible] (23:10) dose as high as possible.
+
+So yeah, watch this space. I'll be in Toronto in two to three weeks and will provide an update there.
+
+Christopher C. Gibson
+Co-founder, Chief Executive Officer & Director, Recursion Pharmaceuticals, Inc.
+December 9.
+
+David Hallett
+Chief Scientific Officer, Recursion Pharmaceuticals, Inc.
+Indeed. Yeah.
+
+Christopher C. Gibson
+Co-founder, Chief Executive Officer & Director, Recursion Pharmaceuticals, Inc.
+[indiscernible] (23:22). Awesome. All right. Let's next go to – it looks like we've got a couple questions from [ph] Corey, Soledad (23:28) and Brendan that are all pretty related. So, in terms of platform capabilities, what are the most salient points of synergy with the new combined platform? What are the most important capabilities that the new integrated tech will now be able to provide that either was not able to do separately? For that, turn it over to you, Najat.
+
+Najat Khan
+Chief Research & Development Officer, Chief Commercial Officer & Director, Recursion Pharmaceuticals, Inc.
+Great. Thanks, Chris. Thank you, Brendan, for the question. Very, very excited about the new end-to-end platform. So, what are the points of synergy?
+
+On the biology front, as I was saying, Recursion started with phenomics, but really the last year, year and a half has been the era of multiomics and being able to really stack that, genomics, clinical genomic data, transcriptomic, proteomics. Those layers really help us do two things. Number one, first-in-class targets.
+
+Number two, also new insights from in best-in-class targets and potential poly pharmacology you want to avoid. That is a great addition to what Exscientia is bringing to the table, which is really around precision design using their central platform, generative AI, and [ph] QMNP (24:28) dynamics in order to really understand what are the hotspots that exist where we have structure.
+
+And next, using active learning for one of the challenges, biggest challenges in the pharma space, which is lead optimization. The two are highly complementary. So, we'd expect to see and you'll see. Earlier, Chris mentioned 10-plus advanced discovery programs. You're seeing more and more first-in-class novel targets is really coming from the multiomic era from Recursion coupled with high, rigorous and efficient approaches to precision design, an average of 200 compounds synthesized in order to get to your Lead Series versus couple of thousand, which is the industry standard today.
+
+And I would be remiss to say the third part, which is not so much as points of synergy from this combination, but a point of growth and evolution for Recursion as well. 10 clinical/preclinical programs mean we want to be best-in-class in discovery and in development. So, also watch out for some of the investments we are making to develop the development space, no pun intended, leveraging real world evidence and AI for smarter trial design to drive precision medicine, and then thirdly also in order to recruit patients much faster.
+
+David Hallett
+Chief Scientific Officer, Recursion Pharmaceuticals, Inc.
+If I can maybe start a little soundbite, the way I think about is think about the first slide that Chris presented, so about Recursion decoding biology. Exscientia was about encoding chemistry and I think the combination here is about, on the one hand, how do you deliver insights from large datasets that have either been kind of generated experimentally or procured. But in some cases, the datasets are smaller, datasets are sparse and you have to [ph] learn them (26:13) into a problem. And I think the combination actually allows the go forward company, Recursion, to actually bring both those powerful elements together.
+
+Christopher C. Gibson
+Co-founder, Chief Executive Officer & Director, Recursion Pharmaceuticals, Inc.
+Thanks, Dave. And I think that builds onto a question that Alec from BofA asked, which is just talking about where does the deal complement or enhance Recursion's capabilities beyond just the pipeline and the partnership. And I think both of you, you mentioned here, but at the end of the day, biology and chemistry are extraordinarily complex and the interplay between these two is just such a magnificent and challenging problem to try and understand.
+
+And I think we are in better position than almost anyone in the world with the scale of the data we've generated in-house between the two companies, the skills, the data we are building into our pipeline from partners like Tempus and Helix, perhaps more in the future. And then the incredible teams and algorithms that we're building on the world model side that are allowing us to turn all of that data into a computational understanding of how biology and chemistry are working.
+
+And we're both decoding and encoding biology and chemistry, as you said, Dave. And this is one of the greatest challenges that I think humans are facing, is trying to get to a place where we can demonstrate that biology and chemistry are deterministic, where we can get to a place where we can truly industrialize drug discovery. And we are just a little over a decade into that mission. Now, together as one company, I think the most compelling company in this space. And I think in many ways, we're just getting started.
+
+We'll go back to the board for one more. We got a quick question from Roman. Previously, it was mentioned and written in several places that Recursion was on track to deliver 25 unique data packages to Bayer within Q3. Can you give us an update? I can. Done. All right. Next. Let's see. Let's go to – yeah.
+
+Najat Khan
+Chief Research & Development Officer, Chief Commercial Officer & Director, Recursion Pharmaceuticals, Inc.
+I just want to add one thing because there's a broader theme around the progress we're making from a partnership perspective. So, if you look at Sanofi, we've achieved three out of the three milestones this year on programs across oncology and immunology. In Bayer, for instance, we're moving rapidly with two programs in the oncology space to Lead Series nomination and on track with additional five for a full set of seven.
+
+And one other thing I just want to say, I can't help but go back to the prior question. There's a platform piece, there's a pipeline piece. But actually having the right talent is incredibly important. I think this is the secret sauce in terms of how do you get two disciplines to come together and drive value from it, not experiments for the sake of it, but actually drive value whether it's the programs and the platform.
+
+And I think that's what you have with both Exscientia and Recursion coming together, our respect and humility understanding both biology, chemistry, science overall and AI/machine learning. And then the next is, look, 10, 10, 10, which is the theme that we've started off it as ambitious, yet it's also being disciplined. So, you'll see in our slides also some of the choices and trade-offs we have made because it's going to be complex to execute on everything. And as Chris said before, we're really doubling down on areas where we have a differentiated right to win.
+
+Christopher C. Gibson
+Co-founder, Chief Executive Officer & Director, Recursion Pharmaceuticals, Inc.
+Thanks, Najat. I think we're going to go to the last question here. We're going to talk a little bit about the path to revenue for the Recursion OS and explaining – this looks like a summary of multiple people's questions, explaining what that is for those who are new to the company. If you are new to the company, thanks for joining us. I think ultimately, the path to revenue for the Recursion OS is going to be making medicine and make a difference for patients.
+
+On the way there, there's lots of ways we can continue to help subsidize the incredible mission and adventure that we're on to try to decode biology. One of those drug partnerships, those I shared earlier, we've already earned upfronts and milestones today, nearly $0.5 billion in economics from our partners. That is before a potential $20 billion in additional economics and royalties that we can earn on some of the programs that we have just coming with the four companies that we have partnered with already today.
+
+Beyond that, we have the opportunity to leverage tools that we're building, potentially software tools like LOWE as part of partnerships or even potentially as stand-alone tools with partners. And that's part of a business experiment that we continue to do. We love the feedback we're getting from our colleagues at Bayer in terms of their usage of LOWE. We continue to open source a number of different models and tools that we're building at Recursion as well and I think you can continue to see us leading there.
+
+But at the end of the day, a company like us will be successful when we drive medicines to patients. We are well on our way there with many programs in the clinic today, many programs leading to important readouts in the coming 18 months and I am as excited as I have ever been about the future of Recursion.
+
+Christopher C. Gibson
+Co-founder, Chief Executive Officer & Director, Recursion Pharmaceuticals, Inc.
+I'm so thankful to be joined by both of you today, to be joined by the incredible teams at Recursion, at Exscientia. Now, all going forward together as Recursion and the future looks really bright from here in Oxford, from Salt Lake City, and we look forward to talking to you again very, very soon. Thanks, everybody.
+
+David Hallett
+Chief Scientific Officer, Recursion Pharmaceuticals, Inc.
+Thank you.
+
+Najat Khan
+Chief Research & Development Officer, Chief Commercial Officer & Director, Recursion Pharmaceuticals, Inc.
+Thank you.

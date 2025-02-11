@@ -1,0 +1,376 @@
+Thank you, operator. And good afternoon to everyone joining today's third quarter 2024 earnings call. To get started, while our year-over-year top line revenue grew 30% and came in at $21.3 million, it fell short of our expectations for the quarter. This is largely due to a shortfall with the DTC side of the business, which we acquired last year. However, we are pleased with our legacy HCP business growth, bottom line performance and cash flow generation in the quarter. We were able to realize incremental savings during the year, as we completed the integrations of the combined commercial businesses and found operating efficiencies on top of what we had initially expected at the time of the acquisition.
+
+As a result, we're updating our guidance and are now expecting 2024 annual revenue to come in between $88 million and $92 million for 2024, with a modest change to the adjusted EBITDA landing between $8 million and $10 million. Given we are well into November, we have high visibility on this revenue guidance. Regarding the revenue shortfall, we encountered macro shifts at the DTC business, specifically the market trend away from managed services where we create compliant audiences and manage media buying for the clients towards a self-service model.
+
+In this self-service model, we provide audiences to clients who then use them to run their own messaging campaigns. Self-service is specific to the DTC business and less common on the HCP side of the business. In this self-service model, which has become our primary focus, we built compliant audiences in 50 states for customers to purchase for their own digital media. This patent-protected solution is our Micro-Neighborhood Targeting and is experiencing strong growth, with a notable percentage increase in customer engagements during the year. However, despite the growth in Micro-Neighborhood Targeting, it has not yet offset the decline in our managed services.
+
+Acquiring Medicx Health during the fourth quarter of 2023 made it challenging to capture customer wallet share in the middle of the calendar year sales cycle. However, we have implemented commercial changes going into 2025 that we believe will resolve the softness we saw in our DTC business this year, as we focus a greater portion of our efforts on securing self-service revenue streams. With one year as an expanded team, we are seeing continued cross-selling and upselling, which should have a very positive impact on 2025 given the year-over-year growth in our pipeline build thus far.
+
+A top three pharmaceutical manufacturer is leaning into this solution, especially as they navigate an increasingly complex regulatory environment spreading across multiple states. This client alone could mean significant growth in 2025 in DTC, with privacy regulations expected to expand nationwide. We are well-positioned to meet the market's evolving privacy demands.
+
+We remain very bullish on our business and our industry thesis around the combination of DTC and HCP under one platform. And our customers are experiencing meaningful value add through the marriage of HCP and DTC. In fact, we recently held a panel discussion with a top five pharmaceutical company at Digital Pharma East where they confirmed this market need and value. I would encourage everyone to go to our website and listen to the panel. It's a harbinger of where the market is going and how far ahead we are with a scalable technology-enabled solution. We continue to be the only company among our peers providing this union at scale.
+
+We are seeing progress with growing our total wallet share with our largest customers still dominated by our HCP business. We now have one client expected to surpass $15 million of in-year revenue and see at least four customers for 2025, which are expected to generate over $10 million in revenue. All this gives us confidence in the business, its trajectory and the value proposition to our client base. This is how pharma scales with their partners and we are thrilled they trust us to help them with commercialization.
+
+Our point of care network continues to grow, and we recently added several EHR partners to our network incrementally adding thousands of HCPs. Our channel partner network continues to be our largest moat, and we have seen potential competitors attempt to get into the space but have not seen anyone show the ability to succeed with scale. In a similar vein, on the DTC side of the business, we continue to expand our direct integrations with leading publishers and media partners, which allow us to extend our reach to support both direct and indirect go-to-market execution. This enables us to sell to publishers and media partners or sell through them as they approve use of our audience data in their publishing networks.
+
+We believe we have the right solutions and the right people to execute on our strategic roadmap. With the addition of DAAP to OptimizeRx omnichannel network, we have a pioneering and foundational AI-directed capability, which removes the mistake of seamlessly integrating point of care and traditional digital media, offering a transparent and measurable solution for pharmaceutical marketing that is able to reach nearly 240 million US adults lives and 2 million HCPs. DAAP, coupled with our proprietary EHR network and channels outside of the EHRs, are driving powerful next best action capabilities based on dynamic real world data. As a result, DAAP is now used to power CRM alerts as well as social media, web display and other mass digital communication channels which fosters greater efficiency in collaboration with our customers salesforces.
+
+OptimizeRx is expanding its AI solution work with customers, while others in our space are still trying to figure out how to apply AI. As a result, I believe we have an opportunity to capture a significant market share in the coming quarters and years to drive highly profitable growth.
+
+And with that, I would like to turn the call over to our CFO, Ed Stelmakh, who will walk us through our financial details. Ed?
+
+Edward Stelmakh
+Chief Financial Officer & Chief Operational Officer, OptimizeRx Corp.
+Thank you, Will. And good afternoon, everyone. A press release was issued with the financial results of our third quarter ended September 30, 2024. A copy is available for viewing and may be downloaded from the Investor Relations section of our website and additional information could be obtained through our forthcoming 10-Q.
+
+Third quarter revenue came in at $21.3 million, an increase of 30% from the $16.3 million we recognized during the same period in 2023. Gross margin for the quarter increased to 60% in the quarter ended September 30, 2023 to 63.1% in the quarter ended September 30, 2024. Year-over-year gross margin expansion is tied to higher DAAP-related revenue, as well as a favorable channel partner mix. Our operating expenses for the quarter ended September 30, 2024 increased by $8.7 million year-over-year, largely due to the Medicx Health acquisition and a $7.5 million goodwill impairment charge. And we saw significant benefits from cost cutting initiatives that approach $5 million annually tied to the integration efforts with the acquisition.
+
+We had a net loss of $9.1 million or $0.50 per basic and fully diluted share for the three months ended September 30, 2024, as compared to a net loss of $2.9 million or $0.17 per basic and fully diluted share for the same three months period in 2023. On a non-GAAP basis, our net income for the third quarter of 2024 was $2.3 million or $0.12 per fully diluted shares outstanding as compared to non-GAAP net income of $1.6 million or $0.09 per fully diluted share outstanding in the same year ago period.
+
+Our adjusted EBITDA came in at $2.7 million for the third quarter of 2024, compared to $2.9 million during the third quarter of 2023. We're happy to see that this came in ahead of our expectations and highlights our improving margins and cost-cutting initiatives. Operating cash flow came in at $4.7 million for the first three quarters of 2024, and we ended the quarter with $16.1 million cash balance as compared to $13.9 million on December 31, 2023. At the end of the third quarter, the principal of our debt financing stood at $36.8 million.
+
+If you recall, to help fund the $84.5 million cash portion of last October's Medicx Health acquisition, company took on $40 million in debt financing, and we paid off $3.2 million in principal through the third quarter of 2024. In addition, we made an incremental $2 million paid down in October, we have paid down $5.2 million in the first 12 months since the acquisition was consummated, way ahead of the required schedule from our operational cash flow. We continue to believe we are well-funded to execute against our operational goals.
+
+Now let's turn to our KPIs for the third quarter of 2024. Average revenue per top 20 pharmaceutical manufacturer now stands at $2.8 million, and we work with all top 20 largest pharma companies in the world. Net revenue retention rate is showing an improvement at 127%, up from 93% in Q3 2023. Meanwhile, revenue per FTE came in at $630,000, topping the $568,000 we posted in Q3 2023.
+
+And with that, I'll turn the call back over to Will. Will?
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+Thank you, Ed. Operator, now let's move to Q&A.
+
+Question And Answer Section
+Operator
+We will now begin the question-and-answer session. [Operator Instructions] At this time, we will pause momentarily to assemble our roster. The first question is from Ryan Daniels with William Blair. Please go ahead.
+
+Ryan Daniels
+Analyst, William Blair & Co. LLC
+Yeah, guys, thanks for taking the questions. Maybe given some of the weakness you saw on the Medicx business during the quarter, I'm curious if you could talk about any go-to-market changes you're making specific to that asset, number one. And then number two, given the strength you're seeing in kind of the legacy core business with that, are you shifting any more management or sales focus to that specific offering on a go-forward basis?
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+Hey, Ryan. Yeah, great question. So relative to Medicx, I'll start and then Steve, you can add in if you want. Relative to Medicx, yeah, we through Q2 into Q3 finalized the enhancement of that sales team. And obviously, we had a sense of this shift materializing and feel like we have absolutely the right team to go after this shift to self-service model, as well as a group that's sophisticated enough to understand how DAAP is a real differentiator relative to DTC. So net-net, the go-to-market is the same but enhanced team. And we also made a lot of progress coordinating the marketing efforts which just allow that messaging to get out there. And if you remember, and as we talked about in the prepared remarks, we really believe that pharma is going to lean towards combining DTC and HCP really as a way to get one true source of data to allow them to make quicker, more agile marketing decisions.
+
+And so go-to-market same enhanced with team. And on the core, we continually invest in that team. It's a very experienced team, obviously now with the years behind us and what I've seen is just a tremendous cross-sell effort between the two, which is why we referenced pipeline just being up year-over-year and I think it's attributable to that team. Steve, do you want to add anything to that?
+
+Steve Silvestro
+President, OptimizeRx Corp.
+I think you mostly covered it. Well, the only thing Ryan, that I would add to what Will said is in terms of product roadmap and evolution of what we're doing on the Medicx side, bringing DAAP into that audience creation is really going to be a game changer, we think, in that space and in this space, DTC specifically is largely a space that operates with static audiences, meaning they pull an audience one time and execute messages throughout the course of the program. And as you know, from leaning way into DAAP, DAAP is real-time update. And so there is a massive first-mover advantage by bringing DAAP into that. And we're well down the road there with a couple of already tests and things going out [indiscernible] (00:15:03).
+
+So I think we're encouraged by that. I wish it was moving faster to fill the gap for the managed service shift. But the good news is, as I think the overall business profile in terms of margin and execution, the renewability, all of those things improve by moving away from managed service and into self-service, which is where that business needed to go. So I think we're encouraged by the change, but, yeah, unfortunately, it gives us a bit of a hiccup on the quarter.
+
+Ryan Daniels
+Analyst, William Blair & Co. LLC
+Yeah, understood. All right. And then it sounds like sales pipeline is good. New DAAP contracts good. The metric you provided on the four clients for next year, over $10 million, great. So question there, is that all in your revenue for 2025, so meaning, do those four clients alone give you over $40 million in visibility? And then, I know you don't want to provide the outlook for 2025, but maybe assuming the end of the year the $90 million mark, what type of growth would you be satisfied with or comfortable with for 2025? Thanks.
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+Yeah, thanks, Ryan. Yeah, it's a little early. We'll be back to the market on 2025. But to answer your direct question, yes, that's all in-year revenue. And what's really been encouraging is just seeing multiple enterprise-like discussions, not just those four, but others that are – that are also climbing up. As you saw, our average KPI for manufacturer keeps moving up. I think we'll keep seeing that trend.
+
+And what that really means on the four that we have visibility on is there's just more opportunity for others to follow. And generally that is how pharma will work. You've got a couple early believers and you start to scale and prove it out and have the right return on marketing investment. And then the others come. And I think between our time at some of the conferences and also just seeing that, that kind of visibility, this time last year, we did not have that visibility so.
+
+Ryan Daniels
+Analyst, William Blair & Co. LLC
+Yeah. Okay. And then maybe one more, if I could, I apologize for doing three instead of one, the follow-up. But if I do look at your key performance indicators, the average revenue per top 20 is up about almost 50% year-over-year, which is great to see versus the revenue growth at 30%. So, does that mean exactly what you just said, that the bigger companies are kind of latching on, just being a little bit more innovative and some of the smaller pharma manufacturers are a little bit harder to move towards DAAP or some of these integrated programs. Is that a fair thought?
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+It's a mix of things. I think there's some truth in that. And then there's also just some of the transition away from managed service that's going to impact us as well. But what I think is most encouraging is they are buying into the more precision-based point of care to omnichannel digital marketing. And we have an incredible position in there. And adding DTC in the last six months, I've seen just our profile as a company within the client base being taken much more seriously and frankly, the whole team has been fully trained up. So it really adds a lot of punch to it. So I would anticipate others are going to start moving towards the bigger enterprise discussions and with DTC and HCP together, that can move faster, right, than if we were just doing HCP. So very encouraging.
+
+Ryan Daniels
+Analyst, William Blair & Co. LLC
+Okay, great. Thanks, guys.
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+Thanks, Ryan.
+
+Operator
+The next question is from Sean Dodge with RBC Capital Markets. Please go ahead.
+
+Sean Dodge
+Analyst, RBC Capital Markets LLC
+Yeah, thanks. Maybe just going back to the pipeline and backdrop, Will, you mentioned some significant progress with the pipeline and seeing pharma continuing to lean into digital. Is there any quantification or kind of other bookends you can share with us just to give kind of some sense of how much bigger or how much more advanced the value of your pipeline is now versus maybe this time last year?
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+Yeah, we've kind of gotten away from pipeline as a metric, but we've basically doubled the sales force rate year-over-year with the addition of Medicx and then continue to investment in the team, both sales, marketing and account management and operations. And it's a higher percentage than the growth on the quarter. But we – pipeline for us is an indicator for the year. And then having the visibility around the 4 million or 10 million plus, we just haven't had that before. So I think I'll ask Steve to comment, but the pipeline is just cleaner, smarter, and the market really understands what we do now in terms of the clients.
+
+Steve Silvestro
+President, OptimizeRx Corp.
+Yeah. Hey, Sean, good to hear your voice. In addition to that, I would say, one of the challenges with the Medicx business sort of acquiring it and you heard Will in his prepared remarks during the actual RFP cycle just smack DAAP in the middle of it. I do think there was some disruption around that. And what we've learned from now having that business for a little over a year is that it's heavily dependent on the RFP cycle, more so than our core HCP business. We've got levers in here to be able to accelerate there and close deals with a pretty good velocity on the DTC business. We're more reliant on the annual cycle and right now because that team is leaning in so well on the annual cycle, as Will said, the pipeline is building very, very nicely. So I think that we're encouraged by that.
+
+Sean Dodge
+Analyst, RBC Capital Markets LLC
+Okay. That's good color. And then for the 2024 guidance for the full year, you continue to imply a pretty significant step-up in Q4 revenue. Will, you alluded to it, but anything you can share just on visibility you have into that, it's mid-November now, is there any go-get left in the guidance? Is, I guess, everything you need for that in backlog at this point?
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+Yeah, very minimal go-get. Correct. Yeah, high visibility.
+
+Sean Dodge
+Analyst, RBC Capital Markets LLC
+Okay, great. And then just last one for me. So you talked about sales cycle before on some of these larger deals being a little bit longer upfront, but ultimately the larger deals so well worth the effort. But I guess any change you've seen since then in terms of sales cycles, are these still taking a little bit longer? Are you seeing anything kind of accelerate or drawing out more heading into next year?
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+Steve, do you want to take that?
+
+Steve Silvestro
+President, OptimizeRx Corp.
+Yes. Thanks for the question. Yeah, I'll grab it. Yeah, no problem. It's different by business, Sean. On the HCP side, we've definitely seen an acceleration of our sales cycle, which has been good, probably at – probably 20% improvement, which I think is largely a credit to two things. One, we've got a more mature sales force, which is doing an excellent job of driving that business. And two, our legal team and contracts team have done an absolutely spectacular job of streamlining all of the contractual stuff with our clients, which has just made it easier to do business with us. So I think that's helping on the sales cycle.
+
+On the DTC side, like I said earlier, we're really relying on that RFP cycle. So sales cycle is still about the same, but I think it's within the bands is what's appropriate for that. But again, I think we're encouraged, early days but encouraged by the pipeline growth and have a ton of confidence in the new hires and folks that we've brought on from all the key competitors in that space. So excited to see what the rest of Q4 looks like and what Q1 will bring for that business specifically. And I think we've got a great deal of faith and confidence in it at this point.
+
+Sean Dodge
+Analyst, RBC Capital Markets LLC
+Okay, great. Thanks, again.
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+Thanks, Sean.
+
+Operator
+The next question is from Kyle Bauser with B. Riley. Please go ahead.
+
+Kyle Bauser
+Analyst, B. Riley Securities, Inc.
+Hi. Great. Thanks for taking my question. Maybe I'll just start off and some housekeeping things. So last quarter, I think there was a slight miss just based on that one contract that kind of slipped through the $6 million contract. And then during Q3, we got an update talking about how that contract is increased to $10 million, which is great, but the DAAP portion of that was still kind of going through the internal review process. Is that the same program as the $15 million contract that you talked about in today's press release? Maybe I'll start and then I have the follow-up.
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+Yeah. That's the in-year revenue expected from that particular contract.
+
+Kyle Bauser
+Analyst, B. Riley Securities, Inc.
+Okay. So that went through and is expected to be captured both on the DTC and the DAAP side.
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+That's one client. No, it's all HCP. Yeah.
+
+Kyle Bauser
+Analyst, B. Riley Securities, Inc.
+Okay. So it's all the HCP and it was approved and..
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+Yeah, it's rolled in a year. Yes. Yes.
+
+Kyle Bauser
+Analyst, B. Riley Securities, Inc.
+Okay. Okay.
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+Yes, it's all in year. Yes.
+
+Kyle Bauser
+Analyst, B. Riley Securities, Inc.
+Got it. Got it. Excellent. And then – so EBITDA came in better than expected despite the lower sales. Can you talk a little bit more about the reasoning here? I didn't quite catch it. So the cost cutting initiatives or the lower sales, just curious how we were able to kind of capture that much margin expansion?
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+Yeah. Ed, do you want to take that?
+
+Edward Stelmakh
+Chief Financial Officer & Chief Operational Officer, OptimizeRx Corp.
+Yeah. So a couple of components here. Obviously, we've got the expansion in gross margin that's driven by channel partners of mix of the product mix. And then secondly, we do have some nice tailwinds in the operating expense run rate driven by the [indiscernible] (00:25:12) we did earlier in the quarter, last quarter. And then also just savings across the board in terms of spend.
+
+Kyle Bauser
+Analyst, B. Riley Securities, Inc.
+Okay. And I guess going forward, what are some expectations for how we should look at kind of that G&A line item? We obviously have guidance for the balance of the year, but heading into next year with the strong pipeline, how should we be thinking about that?
+
+Edward Stelmakh
+Chief Financial Officer & Chief Operational Officer, OptimizeRx Corp.
+I mean, G&A, essentially, most of what we typically would bake into our run rate has to do with merit increases and really the small head count growth and any other accidentals or kind of one-off types of expenses related to expansion in the channel partnership ecosystem. Outside of that...
+
+Kyle Bauser
+Analyst, B. Riley Securities, Inc.
+Okay.
+
+Edward Stelmakh
+Chief Financial Officer & Chief Operational Officer, OptimizeRx Corp.
+...we didn't have much anticipated.
+
+Kyle Bauser
+Analyst, B. Riley Securities, Inc.
+Okay. So I guess in terms of looking at how it should grow off of kind of 2024 levels, should it be similar to what we saw? So are you saying 2025 could be similar kind of growth of OpEx or G&A line to what we're seeing in 2024?
+
+Edward Stelmakh
+Chief Financial Officer & Chief Operational Officer, OptimizeRx Corp.
+Yeah, you'll be in the ballpark and maybe we'll come back obviously with more precise numbers once we get the budget finalized. But if you're looking for some directional kind of guidance, if you add 5%, 6% [ph] merit (00:26:49) and then you kind of [indiscernible] (00:26:52) small amount for head count growth, plus, like I said before, some additional potential expansion in channel partnership realm should be pretty close. We'll come back with, but we'll come back with more precise numbers in a couple of months.
+
+Kyle Bauser
+Analyst, B. Riley Securities, Inc.
+Got it. Excellent. Appreciate the color, and I'll jump back in queue. Thank you.
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+Thank you.
+
+Operator
+The next question is from David Grossman with Stifel Financial. Please go ahead.
+
+David M. Grossman
+Analyst, Stifel, Nicolaus & Co., Inc.
+Good afternoon. Thank you. I'm wondering, you talked about these four contracts that could do over $10 million each next year. Can you give us a better sense of, kind of what they may look like in terms of, how much is HCP versus DTC? I assume DAAP contracts, and how did they perform from a margin profile, particularly the cadence over the year? Are there some upfront implementation costs? Just trying to get a sense for what this bundle may look like.
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+Sure. Steve, do you want to – do you want to dive into those?
+
+Steve Silvestro
+President, OptimizeRx Corp.
+Yeah. Happy to take it. Hey, David, good to hear your voice. Yeah, so it's not four contracts, it's four clients, just want to be clear on that. So it's total client spend. The majority of that, the lion's share of that will be the HCP business. It'll be led out by significant investment in DAAP and in rules-based messaging. So things that are sort of a preempt to DAAP and in transitioning over there. There definitively for each of those we will have sort of upfront costs similar to our normal DAAP model of where you've got model costs and then you have transaction revenues that are tied to messages. So very, very similar. Although you've heard us start to talk to the migration of the DAAP components themselves being more subscriptive in nature. So a monthly data fee that's feeding in and then a transactional price for messages that are being deployed.
+
+And the idea there is to, number one, make it stickier, more recurring like. And number two is to sort of smooth the revenue over time, just to make it more predictable and easier to manage, sorry, I got a cold, but that's sort of where we're headed and good visibility there. We're talking, as Will said earlier, we're talking largely renewals. And then the fourth one is sort of a new entrant, different use case and one that we'll talk about as we get closer to it. But again, pretty good visibility at this point as much as we've had.
+
+David M. Grossman
+Analyst, Stifel, Nicolaus & Co., Inc.
+And just getting to that subscriptive comment that you made. Steve, the...
+
+Steve Silvestro
+President, OptimizeRx Corp.
+Sure.
+
+David M. Grossman
+Analyst, Stifel, Nicolaus & Co., Inc.
+...is your sense that, just the way that the construct of these contracts are migrating is that you may have better visibility? You said I think if I heard you right, three of the four renewals, right? Did I hear that right?
+
+Steve Silvestro
+President, OptimizeRx Corp.
+Yeah. It's important. I want to make sure you know, these are not four contracts, it's four client level spends north of $10 million. And so there are multiple contract that need to be renewed for each of those clients to get us to the north of the $10 million mark. But the renewability of those is high. As you know, our client net revenue retention is very high for our sector. And then secondly, the migration component is we're moving to DAAP pieces from being sort of an upfront one-time fee to more of a subscriptive component where when a client subscribes to that, there's a data piece that drops every single month across the agreement, and that's really what we want to get to. It just behaves better and it's easier to renew with the clients when we're engaging with them. There's not a pause to measure ROI. It takes away all of that sort of stop and start dynamic that we've been trying to overcome. I think we've got a good way to do that this time.
+
+David M. Grossman
+Analyst, Stifel, Nicolaus & Co., Inc.
+Right. And then, maybe in a similar context, but a different question, just thinking about this mix shift to self-service in the DTC business, how do you want us to think about that, how – in terms of year-over-year revenue growth, because we're going to anniversary the acquisition in the fourth quarter? So, just wondering, are we going to have had what should we expect to see headwinds from this mix shift going into 2025? And I think you made a reference to the margins maybe being better without the managed service component. So maybe you could just help us better understand what mix shift or what impact this mix shift may have on both growth and margin.
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+Yes, I can start. Maybe Steve...
+
+Steve Silvestro
+President, OptimizeRx Corp.
+I think we're going to... go ahead.
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+Go ahead. No, no, no, Steve, you go.
+
+Steve Silvestro
+President, OptimizeRx Corp.
+Sorry, you first.
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+I'll go after you. So I was just going to say, look, when you have managed services and media, right, it's chunkier revenue at the top, but the margins are lower, right? You're placing media, it's a lower margin business and largely agencies live off that business, right? But the audiences and your data are really what's valuable. And Steve highlighted the two differences. He highlighted one of them, which is just having a dynamic audience. So we do see that continuing to grow through Q4 into 2025, but we're not going to go forward and say that'll make up the complete difference in managed services going down. We will give more clarity on that obviously over the next couple of months. But it's actually a – it's a better business to be in, especially with the Q2 start to come together. So you've got a patient profile, a dynamic audience, both for HCPs and consumers. We think that's the future and we're in a good place to do it. So I just wanted to get that out there, Steve, feel free to jump in.
+
+Steve Silvestro
+President, OptimizeRx Corp.
+No, I think you nailed that. I mean, it's massively differentiated the ability to bring self-service with dynamicity, David, to it. So taking the dynamic nature of DAAP, turning that into the self-serve audience, which has already now been done, and then deploying that. Similar to kind of Ryan's question, it's just a – it's a massive differentiator in the space. And I think right now, we're in the middle of the RFP cycle. And as I shared earlier, this is a business, DTC is a business that's dependent, much more dependent than HCP on a successful RFP cycle. And so we are laser-focused as a team on making sure that we execute well there.
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+Yeah, David, the last piece.
+
+Steve Silvestro
+President, OptimizeRx Corp.
+Just to add, though, there's really these two pieces, right? Dynamic audience, we're going to continue to see self-service Micro-Neighborhood Targeting growth through Q4 into 2025. It won't outpace managed services. So we don't expect that to be a big top line driver for the next 18 months. But it'll be – it contributes and it brings the stories together and it's highly valuable. And the other piece that is still taking shape is, and this is one of the reasons why we really like Medicx and the methodology and their patented methodology is it's a more compliant solution and on a state by state basis, right, regardless of what's happening in the country, these states are moving this way, right, to the standard.
+
+And we have a compliant method and we're seeing our clients take notice to that. So a lot will depend on how fast they take notice to that. That will be a growth driver and we'll talk to that each quarter next year.
+
+David M. Grossman
+Analyst, Stifel, Nicolaus & Co., Inc.
+All right. Got it. Thanks very much. Very helpful, incremental context. Appreciate that.
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+Thanks, David.
+
+Operator
+The next question is from Constantine Davides with Citizens JMP. Please go ahead.
+
+Constantine Davides
+Analyst, Citizens JMP Securities LLC
+Yeah, just a follow-up on self-service. Who are you competing against for those kind of opportunities? And for you – I guess, related question for you to really scale that business up from here, do you have to do anything to invest in or sort of add resources to really take advantage of some of the growth potential in that part of your pipeline?
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+Yeah, I'll start. Yeah, we don't need to – we've done the investing, we've got the team, the tech, the data, platform. No incremental CapEx there. If anything, we've gotten smarter with data and how to use it in lots of different ways. And as Steve said, we've been very focused internally. The product and operations team have done a sensational job just leveraging data with tech and transparency and operationalizing it so that it helps our clients. I think that's a key takeaway there. I don't know, Steve, if you want to add anything to that.
+
+Steve Silvestro
+President, OptimizeRx Corp.
+No, I think you said it. I mean, at this point, really, Constantine, it's about focus and making sure that we execute well. But the investments have already been made. Great product team, excellent salespeople. Just think we've got to lean in and stay focused on it. But investments have been made.
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+Yeah. And relative to competition, I'm not going to give them free airtime on the call. But I think how we stand out, there are people, there are clients, I mean – sorry, there are competitors on the DTC side. Most of those competitors do not have the HCP component. And we believe those two elements of being dynamic audiences and compliant get us sort of those three legs to stand above the market and we're very focused on audience quality and bringing those together. And we're seeing really nice progress there. So these things all come together that will accelerate growth.
+
+Constantine Davides
+Analyst, Citizens JMP Securities LLC
+Great. And then just – I saw you guys closed another five DAAP deals. But just a point of clarification, are those all new or are some of those renewals, number one? And number two, what are you seeing on maybe some of the earlier DAAP clients as they come up for renewal in terms of either revenue or scope lift or anything else you can call out? Thanks.
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+Steve?
+
+Steve Silvestro
+President, OptimizeRx Corp.
+Yeah. Happy to talk to it. So, basically from last year to this year, we've doubled the number of DAAP deals, Constantine, that we've done. So we've got accrete happening. We're also doing renewals at the same time. The renewal rate is very high for DAAP, just for all the reasons that you articulated earlier and several other folks have done. It still is dependent to where drugs are in their life cycle and where people are prioritizing spend. So we anticipate that, while we'll have a good renewal rate when things go LOE or their shifts in marketing spend, et cetera, it'll still be subject to those shifts and changes.
+
+But so far, the renewal rate is very solid. I think we're encouraged by that. We won't know the full renewal rate, [ph] cyclical (00:38:30), obviously we'll share that till the end of the year once we've had all of the programs pause, measure and renew, and we'll be happy to share that. But I think we're all encouraged by the progress. And if we can – if we continue to march in this sort of double than double and double again, it's going to have a very meaningful impact on revenue. [Operator Instructions]
+
+Operator
+The next question is from Stephanie Davis with Barclays. Please go ahead.
+
+Stephanie July Davis
+Analyst, Barclays PLC
+Hey, guys. I hate to beat a dead horse, but I got more questions on the self-service model. Two quick ones, if I kind of go on pivot. The first, I guess the self-service model is more attractive from the managed services. But are there any concerns of macro remains tough? It could create challenges as the next buying activity or rather a lack of buying activity. A little bit easier to do in a more real time basis. I guess, secondly, what is keeping you from expanding this in a more meaningful way than HCP?
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+Let's tackle the first one. So I think, look, I think the dynamic nature of what we're seeing in pipeline is sort of telling us this is pharma believes in DTC, they believe in precision, they like dynamic and they will require compliance, a compliant method over time. How fast that happens will drive growth. And I think we're in a perfect position for it. I think that our stage in where we are, the macro, we're not fully mature baked business, right? So the macro is relative on that. I think there's still plenty of spend, and you're still seeing allocations going that way and I think it'll continue.
+
+On the HCP side, we've invested heavily, we're obviously deep into the more predictive AI-enabled DAAP and we're seeing adoption there. But rules-based messaging is still a real piece of our business and we think it will continue to be a real piece of our business because all along the cycle of large pharma, mid, small, they're all coming to digital, right? It's one of the most efficient ways to spend your money. You've seen it scale and other businesses in the market. And so I think we're viewed as an honest broker and a good player in the business, and that's going to attract more pharma and other sectors.
+
+For example, medtech is now a real space for us and we're in all the top medtech companies, so we continue to see that expand. Could we do it faster? That it's pharma, you can't force pharma to do more. I think there's – I think we're getting to that place where our name is really well-known for the first time in our history as clients sat with us on a stage and actually talked about what we do together that I think that's a sign. But I think the takeaway, Stephanie, yeah, this is an early business, and so we think we're in a great place to capture more over time. And we'll continue to invest as we need to.
+
+Stephanie July Davis
+Analyst, Barclays PLC
+And on the HCP front, we've heard of pharma really leaning into marketing to HCPs or GLP-1s specifically, that's becoming a bit more of a crowded field. I was hoping you could give us your view from the ground. Is that also what you're seeing?
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+Yeah, I'll start and then hand it over to Steve. But, yeah, there's clearly the demand to get differentiation out into the market, do it in a way that's digestible and understandable. And there are choices. And I do think they're going to – there's a lot of different strategies going on with the approach to the consumer and the HCP and got a couple that are out there ahead of the rest. And I think the spend will continue to get larger in that sector and that there's two things. One, they're going to pick people to scale us and we have scale, so we think we'll win there. And secondly, they – it puts pressure on the other brands in other sectors, right, because this is a space that goes across multiple therapeutic areas. And so we think it will actually increase the spend in other therapeutic areas as well, just to get mindshare and to be in the thoughts when decisions are being made on therapeutics. Steve, do you want to add anything to that space in particular?
+
+Steve Silvestro
+President, OptimizeRx Corp.
+Yeah. I mean, I would just add two things that sort of support exactly what you said, Will. One is, we're seeing a significant push, Stephanie, from all of these massive manufacturers that have got these GLP-1 franchises to communicate directly with the patients in a more meaningful way given that these are behaving a little bit like lifestyle drugs. And then secondly – so we're seeing massive investment there.
+
+Secondly, on the HCP side, because they are all – basically, there's very little differentiation between these GLP-1s, with the exception of one that has a cardiology indication also approved for it. And the timing element and the pricing elements are really critical for pharma to be able to capture patients via the HCP. And so we are seeing much more of a lead into consideration of those dynamics, the timing of the message in the care window, qualification of a brand, eligible patient, looking at things like cost reimbursement out of pocket, those pieces that are the pre-determinants of successful onboarding for a specific patient and they're not insignificant. There are prerequisites. I think broadly consumers believe that it's sort of just easy to get the GLP-1, and it's a little bit more than that, their prior requisites and so forth, as you know. So I would say we do a really good job of tackling both of those pieces and enabling those messages to get to the right folks at the right time.
+
+Stephanie July Davis
+Analyst, Barclays PLC
+Thank you much.
+
+Operator
+This concludes our question-and-answer session. I would like to turn the conference back over to William Febbo for any closing remarks.
+
+William J. Febbo
+Chief Executive Officer & Director, OptimizeRx Corp.
+Thank you, operator. And thank you, everyone, for joining us today. As we approach the close of the fiscal year, we want to extend our heartfelt gratitude to our shareholders for staying the course with us on this journey. I would especially like to thank the team at OptimizeRx. They are amazing. They worked tirelessly to integrate these businesses and bring our platform to life, benefiting our rapidly growing base of pharmaceutical clients and brands during this pivotal time in the technological landscape. We remain a relatively young company with our Dynamic Audience Activation Platform, DAAP still in its infancy and an evolving DTC business acquired just last year.
+
+We remain ever present serving our clients' needs as they continue to buy in to the adoption of our integrated HCP, DTC businesses. While it may take a little longer than we thought, there's a clear, large market opportunity and we are squarely focused on it as one of the early leads at the table. This has elevated our presence in the market among our clients, partners and peers, and many have taken notice, not a matter of if, but when this company gets back to solid organic growth. I encourage everyone to stay the course and believe in this team as I do. We'll be attending the conferences later this month and I hope to provide some insights into the year ahead prior to our next earnings call. Until then, thank you for your time and belief in the OptimizeRx team. Have a good night.
+
+Operator
+Thank you, sir. Before we conclude today's call, I would like to provide the company's Safe Harbor statement that includes important cautions regarding forward-looking statements made during today's call. Statements made by management during today's call may contain forward-looking statements within the definition of Section 27A and the Securities Act of 1933, as amended, and Section 21E of the Securities Act of 1934, as amended. These forward-looking statements should not be used to make investment decisions.
+
+The words anticipate, estimate, expect, possible and seeking, and similar expressions identify forward-looking statements. They may speak only to the date that such statements are made. Such forward-looking statements in this call include statements regarding estimation of total addressable market size, market penetration, revenue growth, gross margin, operating expenses, profitability, cash flow, technology, investments, growth opportunities, acquisitions, upcoming announcements, and the need for raising additional capital. They also include the management's expectations for the rest of the year and adoption of the company's digital health platform.
+
+The company undertakes no obligation to publicly update or revise any forward-looking statements, whether because of new information, future events or otherwise. Forward-looking statements are inherently subject to risks and uncertainties, some of which cannot be predicted or quantified. Future events and actual results could differ materially from those set forth in, contemplated by, or underlying these forward-looking statements.
+
+The risks and uncertainties to which forward-looking statements are subject to include but are not limited to the effects of government regulation, competition and other material risks. The risks and uncertainties to which forward-looking statements are subject to could affect business and financial results are included in the company's Annual Report on Form 10-K for the quarter ended December 31, 2023, in subsequent quarterly reports on Form 10-Q and its other filings with the Securities and Exchange Commission. These forms and filings are available on the company's website and on the SEC website at sec.gov.
+
+Before we end today's conference, I would like to remind everyone that this call will be available for replay via webcast-only starting later this evening running through for a year. Please refer to today's press release for replay instructions available via the company's website at www.optimizerx.com.

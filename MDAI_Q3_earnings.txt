@@ -1,0 +1,253 @@
+Thank you, Gary. Good afternoon, everyone, and thank you for joining us for Spectral AI's 2024 third quarter financial results conference call. Our speakers for today will be Dr. Michael DiMaio, Chairman of the Board; and Vince Capone, the company's Chief Financial Officer.
+
+Before we begin, I'd like to remind everyone that during this call, certain statements may be made that constitute forward-looking statements within the meaning of the Safe Harbor provisions of the United States Private Securities Litigation Reform Act of 1995, including statements regarding the company's strategy, plans, objectives, initiatives and financial outlook. When used during these discussions, the words estimates, projected, expects, anticipates, forecast, plans, intends, will, should, future, propose, and variations of these words or similar expressions or the negative versions of such words or expressions are intended to identify forward-looking statements. These forward-looking statements are not guarantees of future performance, conditions or results and involve a number of known and unknown risks, uncertainties, assumptions and other important factors, many of which are outside the company's control that could cause actual results or outcomes to differ materially from those discussed in the forward-looking statements.
+
+As such, investors are cautioned not to place undue reliance on any forward-looking statements. Investors should carefully consider the foregoing factors and the other risks and uncertainties described in the Risk Factors sections of the company's filings with the SEC, including the Registration Statement and other documents filed by the company. These filings identify and address important risks and uncertainties that could cause actual events and results to differ materially from those contained in the forward-looking statements.
+
+With that said, I'd now like to turn the call over to Dr. Michael DiMaio, Spectral AI's Chairman of the Board of Directors. Dr. DiMaio, please go ahead.
+
+J. Michael DiMaio
+Chairman, Spectral AI, Inc.
+Good afternoon to you and everyone. I cannot tell you how happy and excited I am to be here. I am here kind of chuckling calling with Spectral AI. Some of you may know, some of you may not, I'm actually the founder of this company. We founded as Spectral MD in 2009 and I represent the second largest shareholder in the company to this date.
+
+We're getting back to basics. Just like our election that recently happened, we're kind of getting back. We've had a renewal and refresh of what's going on in the country and there's a renewal and refresher going on in this company as well. We've come full circle. I founded the company. I was the CEO for over a decade and I'm back now as the Chairman of the Board and helping Chair, the office of the Chair. We have an outstanding leadership team. One of them being Vince Capone, who's here, who is General Counsel and CFO.
+
+So, I want to remind everyone why I founded the company and why we're still here to this day with a focus on what we're trying to do. We are and continue to develop a revolutionary device based upon basic science research that was founded on animal studies that were done to show the best wavelength of light that could be used to capture the most information from damaged skin. [indiscernible]
+
+(00:04:00) we have an outstanding partner in BARDA, the Biomedical Advanced Research and Development Authority, which is a branch of the federal government, the United States federal government, which is quite a worthy sponsor for our company.
+
+We continue to embark arm-in-arm on developing a device and a product that will be able to revolutionize and treat burn and all kinds of wounds based on AI technology. We have nine wavelengths of light that's being trained by algorithms that are using truthing by burns in real clinical studies with hundreds of patients and literally thousands of images that will be able to show or tell the doctors the ability of a wound to heal or not heal. That information, clinicians like myself, can utilize that information and thus be able to triage and treat patients in a thoughtful manner.
+
+Now that I'm back, I've been grouping – regrouping the team, which is outstanding. We have a leadership team with Vince Capone, Louis Percoco, Jeremiah Sparks and Stan Micek that are going to lead us to take this device to commercialization. It's quite a challenge and as a heart and lung surgeon, I certainly welcome any challenges. I don't have any problem taking those challenges on – head on and face on.
+
+So, what I've done in resuming the command module here is to try to focus things in a very clear way, just like going into an operation to surgery, I like to imagine verbalized and focused on what we're going to do. And to that end, I've focused on the three Fs. And here are the three Fs. Number one is finance. Number two is focus. And number three is finish.
+
+By finance I mean, we have the best reliable source of revenue and support, which is BARDA, right, to the US federal government and another source is called MTEC, which is division – Defense Health Agency, which is focusing on our miniaturization device.
+
+The second F is focus. The regrouping and focusing to be laser-focused on completing these projects. We're focused on delivering those items that we promised to BARDA and to the population at large. We're focusing on getting the clearance from the FDA for this technology and this device. And we're focused on the mission of doing all that in a very clearer way. The company has embraced this change and embraced this focus. The team is intact. Nobody is left. Everybody remains excited on the mission.
+
+The third F is finish. Complete the project that BARDA has asked us to do. Complete the miniaturization device or the MTEC device, which is for the military or the war fighters. Finish the FDA submission, get the clearance and go forward with that to the US market. And finish what we started in the UK. We're in the UK now with several devices. It's receiving a tremendous response in the UK. The burn doctors there are excited. There was a recent meeting of the ISBI, where the preliminary data was presented, showing that this changed and improved the care of the patients with the devices that they have in the UK. We will continue that excitement, continue that push in the UK.
+
+I might add at this point that it's become so exciting in the UK that the partners in Australia, in addition, are looking to get the devices there. So, very, very soon we have a powder – a workflow that we're going to be sending devices to Australia under special access program to be able to get the doctors and the burn doctors in Australia to use the devices as well.
+
+With that introduction, again, I say I'm excited to be back. I'm excited to focus on the three Fs and get this company and this device and this dream that I had in 2009 with the eventual goal of commercialization and completion of this project.
+
+With that, I'd like to turn things over to Vince Capone, who again is our Chief Financial Officer and General Counsel, for a review of our third quarter performance. Vince? [audio gap]
+
+Vincent S. Capone
+Chief Financial Officer, Corporate Secretary & General Counsel, Spectral AI, Inc.
+(00:08:32) Dr. DiMaio and thank you all for joining us today. We recently issued our press release this afternoon, which contains additional details of our operating results, and we have filed our 10-Q with the SEC this evening as well. With that in mind, I will focus my remarks on select highlights and key financial metrics.
+
+For the third quarter of 2024, we are quite pleased to report that we have outstanding operating results, reflecting our focus on advancing the development of our DeepView System for burn centers and the reduction of non-supported operational expenses.
+
+With that in mind, let me turn to our financial results. Research and development revenue for the third quarter rose by 138% to $8.2 million, from $3.4 million in the third quarter of last year. This growth reflects an increased level of activity under the BARDA Project BioShield contract, which was awarded to us in September 2023.
+
+Gross margin also improved and improved to 44.9% from 42.8% in last year's third quarter, reflecting both increased product development activity as well as the higher reimbursement rate under the BARDA PBS contract as compared to the reimbursement rate in our BARDA Burn II contract, which accounted for most of our operating revenue in 2023.
+
+General and administrative expenses during the third quarter of 2024 declined to $4.6 million, or 55% of revenue. That's down from $5.6 million, or 164% of revenue, in last year's third quarter. This was driven primarily by an approximate $1 million reduction in non-revenue-generating research and development activities associated with the company's strategic focus on the BARDA PBS contract for the near term. We anticipate continued operational focus on the BARDA PBS contract as we work towards our FDA submission in the first half of 2025.
+
+Other expenses for the third quarter of 2024 declined as well to just over – up to just under $800,000 as compared to $6.5 million in the same period last year. The primary driver of this decline was $7.6 million of non-recurring transaction costs that we recorded in the third quarter of 2023, which was associated with the September 2023 consummation of our business combination and our listing on Nasdaq. There were no such expenses in this year's third quarter.
+
+Our net loss narrowed to $1.5 million, or $0.08 per share, from a net loss of $10.6 million, or $0.77 per share in the third quarter of last year, again reflecting our focus on operational efficiencies.
+
+Adjusted EBITDA loss for the quarter was approximately $700,000 as compared to an adjusted EBITDA loss of $3.9 million in last year's third quarter. As of September 30, 2024, we had approximately 18.5 million shares outstanding.
+
+Moving over to the balance sheet, as of September 30, 2024, cash and cash equivalents totaled $3.7 million as compared to $4.8 million at year-end last year. Cash at September 30, 2024 included $900,000 in the company's wholly-owned subsidiary, Spectral IP. As of September 30, 2024, the company had approximately $6 million in notes payable as well.
+
+With respect to our cash position, we believe we are positioned to support ongoing operations through an improved operating efficiencies, as well as our ability to raise additional opportunistic funding. As you may know, we recently filed our S-3 shelf registration, which was effective by the SEC on October 31 to support these efforts.
+
+For 2024, we are reiterating our revenue guidance of approximately $28 million, an expected increase of about 55% from the $18.1 million we reported in 2023. This growth reflects our work on the BARDA Project BioShield contract as well as additional government funding in the continued development of our handheld device, DeepView SnapShot M.
+
+With that, I also again want to thank you and I turn the conversation back over to Dr. DiMaio.
+
+J. Michael DiMaio
+Chairman, Spectral AI, Inc.
+Thank you, Vince. Well done. I want to tell everyone on the call again I'm happy to be here and have full confidence we're going to complete these tasks before us. I'm also happy to report that although it's not the most important metric at this point, the share price in a couple of weeks I've become Chairman of the Board has gone up 30% from about $0.93 a share to about $1.50 per share. A good sign that we have stability and confidence in our company and that the leadership is working very well together.
+
+With that, I'll ask the operator to open the call up for questions from our analysts.
+
+Question And Answer Section
+Operator
+We will now begin the question-and-answer session. [Operator Instructions] Our first question is from Ryan Zimmerman with BTIG. Please go ahead.
+
+Ryan Zimmerman
+Analyst, BTIG LLC
+Good afternoon. Thanks for taking our questions. So, congrats on the progress on the burn study. I guess I want to ask kind of how you're preparing for FDA submission. It sounds like you still need to collect a little more data, if I'm not mistaken, on some of those burn patients as they finish up, I could be incorrect on that, but maybe Dr. DiMaio could just talk about kind of the next six to nine months or so before you get that submission in the FDA and what we should be looking for.
+
+J. Michael DiMaio
+Chairman, Spectral AI, Inc.
+Thanks, Ryan Zimmerman. So, as you know – you may not know, I was talking to the doctors that are doing the truthing actually, as we speak. There has never been more time or devotion to a single BARDA study to be able to truth the process of product and they have spent hundreds of millions of dollars in other companies. So, all the enrollment for the burn center portion of the study has been completed. The images are being truthed. And for those who may not understand, that means using burn biopsies and the condition of the burns at 21 days to determine what parts of the burn wound healed and which parts did not.
+
+That information is then fed back to train the algorithm, which is being developed as we speak, to be able to produce a result or a product that can be used by the doctors. So, once we complete all that I just said there, the truthing, the algorithm development and we kick in information, then we'll send the process and submission to the FDA. I will share with you, Ryan and everybody else, that we're [ph] literally (00:16:04) in talks with the FDA, not quite daily, but pretty frequently, we have several meetings set up in the next few weeks. So, we will get an interactive feedback from the FDA on exactly what else they need or want us to do so when we send our submission.
+
+So, in summary, we're collating the images, collating the data, perfecting the algorithm, and getting the submission organized in a manner that's conducive to the FDA for the submission, as Vince said, in the first half of next year.
+
+Ryan Zimmerman
+Analyst, BTIG LLC
+Okay. Very helpful. And then maybe turning to the UK for a bit, I think last quarter you had about five systems in the UK hospitals that you were gathering feedback on. Any incremental update on either more systems in the field or feedback you've gotten, when you could potentially see some commercial revenue from those initial placements? And really, anything on your efforts in the UK?
+
+J. Michael DiMaio
+Chairman, Spectral AI, Inc.
+Good question. Thanks, Ryan. So, again, for the audience, there are several devices in the UK, we're expanding it slowly. We're continuing to iterate the device and get the necessary improvements from the feedback we're getting in a real-time manner from the docs in the field. This is by far the most valuable feedback to me as a doctor and to them as doctors is how's the machine working? Is it working as intended and how can it be used in the workflow of my practice? And the answer to that is a resounding yes. And in fact, the abstract has been created and presented demonstrating the improvement and the happenings that the doctors have seen in the UK with the device.
+
+Now, having said that, as we continue to iterate, we don't necessarily expect at this point the revenue to come immediately because the value proposition is still being formed. The ultimate goal here is to get the device that will be amenable to the NICE, that's N-I-C-E for those of you who know who that is, in the UK, is a one healthcare system called the National Health Service, NHS, and they have a metric called the NICE, which is a consortium and a body that determines that a device or a drug is a significant value to the UK population. So, our goal here is to get and achieve that NICE designation for the UK and thus we would anticipate revenue to flow after all this.
+
+So, to repeat, the primary goal we have is to get the device perfected in the workflow, get good feedback and use that in further studies. I mentioned earlier that the docs in the Australia have heard about this in the UK and now they want it. So, we're going to be rolling our devices in the UK.
+
+And finally, this information and this clinical use situation will be very useful for the US FDA application, so they understand the workflow and it'll be a smoother transition to be able to integrate that in the US burn flow – in the US burn community.
+
+Ryan Zimmerman
+Analyst, BTIG LLC
+And just to follow up, Dr. DiMaio, the Australian doctors that are asking for it, is there any regulatory hurdles that we have to consider, any timelines you can put on kind of when you can be in Australia with DeepView?
+
+J. Michael DiMaio
+Chairman, Spectral AI, Inc.
+We've had some early feedback. I don't want to be – get ahead of my skis as Vince like to say to say the exact timelines now, we're working on those right now. I'd say in the few – next few months or so, we will be having devices prepared and rolled out to the Australia. I think in the next conference – in the next quarterly call, we'll have more information, but that is imminent and we are literally in memorandums of understanding, it's called the special access pathway is what is called in Australia and we're working through that. So, to your question about the hurdles, yes, they are, but we're going through those hurdles right now and we anticipate success.
+
+Ryan Zimmerman
+Analyst, BTIG LLC
+Okay. Thank you for taking my questions.
+
+J. Michael DiMaio
+Chairman, Spectral AI, Inc.
+Thank you.
+
+Operator
+The next question is from Carl Byrnes with Northland Capital Markets. Please go ahead.
+
+Carl Byrnes
+Analyst, Northland Capital Markets
+Thanks for the question and congratulations on your progress. My question is regarding regulatory and UK commercialization were answered. But looking out a little bit, what do you expect with respect to commercial readiness in the United States in terms of training and dedicated sales force? I know that's out a little bit, but just curious on how you view that this time. Thanks.
+
+J. Michael DiMaio
+Chairman, Spectral AI, Inc.
+Thank you for the question. So, if I understood the question, what are we looking, so you may not know, but the BARDA contract actually has some clauses in there to help us begin to kick start the sales force for the device. So, also in the BARDA contract, to get approximately 200 devices via the government pathways into the burn centers across the United States. At the same time or in a parallel fashion, we're also going to be doing clinically, some people call them RCTs, but there's clinical applicability or workflow studies to understand and show the value, the value proposition of the device to be able to save certain metrics in the patient's care.
+
+In other words, it may be quicker time to the operating room. It may be length of stay, it may be decreased costs, it may be better efficiency on the transplants, of the skin transplants that are done. So, once the devices get out there and the use case is shown and the value proposition is shown, that is when we expect the docs and the hospitals and the different agencies to be able to see the value and then the sales will kick up. Obviously we want to get those in the hands of the doctors first and then begin the clinical trials that will demonstrate the usefulness to the patients initially and the doctors and hospitals.
+
+Carl Byrnes
+Analyst, Northland Capital Markets
+Got it. Great. Thanks so much and congratulations again.
+
+J. Michael DiMaio
+Chairman, Spectral AI, Inc.
+Thank you.
+
+Operator
+The next question is from RK Ramakanth with H.C. Wainwright. Please go ahead.
+
+Swayampakula Ramakanth
+Analyst, H.C. Wainwright & Co. LLC
+Thank you. Thanks for taking my questions. So, with the five units or six units that you have in the UK, are you able to collect enough data just as you were talking? What needs to be done in terms of improving the workflow and the projected value, which you also have – I believe which you also have to do to NICE before you get that designation so that you can commercialize in UK? Is these five units are enough or you need to put in more in the hands of the UK docs, any commentary there?
+
+J. Michael DiMaio
+Chairman, Spectral AI, Inc.
+So, thanks, RK. Appreciate the question. So, I don't – I'm not going to answer that and I don't know how many units or images we need to get to get the NICE approval. So, let me be very clear. I don't know the answer to that question, but however going back to what I said with Ryan and other analysts, the initial results from those units in the UK, from the doctors has been overwhelmingly positive. And I'm not saying that to exaggerate. They truly have found it to be terribly useful into the process of their care.
+
+And I'm sure everybody on this call knows that there really isn't a device that has anything close to what the DeepView device does to be able to show the predictive value of healing. So, the reason we developed this device over the last 10 or so years is to be able to give a clinician a very useful device. And that is what's proving to be the case in the UK with the burn surgeons. But to your question, exactly how many images we need or the patients, no, I don't know that. I will get the answer and we will have that for you.
+
+Swayampakula Ramakanth
+Analyst, H.C. Wainwright & Co. LLC
+Okay. Thank you for that. And then based on what you're seeing – sorry, the other question is, would any of the data be publicly presented at some conference or something so that we also can see how excited these physicians are with what they're getting in terms of the patient care improvement?
+
+J. Michael DiMaio
+Chairman, Spectral AI, Inc.
+RK, thank you. You're singing my song. As you know, you don't know, I mean, I've written many hundreds of articles and manuscripts and literally have a manuscript, a publication plan in place that we're going to implement and fast track a number of articles, including those that you're talking about in terms of presentations or publications. As you know, in the medical community, that is a currency that we talk about. On Wall Street, it may be stock prices, but in the medical community, it's publications and presentations. So, yes, we have data that we're collating now. We also have information from the – in the US not to answer your question kind of indirectly, we've interviewed emergency room doctors and burn doctors and trauma doctors to see how accurate they are in determining wounds and it's very, very interesting information. I can't reveal it now because we're going to publish it, but we're going to have a lot of papers coming out in the next several months that are going to be showing its usefulness, its applicability and the continued need for a device and a technology to solve the problems that remain in the burn community.
+
+There are thousands of patients that come into the emergency rooms and the hospitals, it's very difficult. There's not much expertise in burns. It's spread out a lot. And so, to have a device that can help triage this and send the patients to the right place in the right time is going to be very fantastic.
+
+Swayampakula Ramakanth
+Analyst, H.C. Wainwright & Co. LLC
+And then the last question from me is, I understand your focus is squarely on the burn indication at this point, but I believe the company is also looking to get into the DFU wounds. Any commentary there in terms of the study or when we should start thinking about studies and data from – for that indication?
+
+J. Michael DiMaio
+Chairman, Spectral AI, Inc.
+Yeah. Thanks, RK. And by three Fs, the second one is focus. And at this point, based upon everything that I've seen, now that I'm back, is we're going to focus for the moment, for the next near term on burns and on BARDA, the two Bs, because that is our major funding source. We've got a commitment. We have received or going to receive almost $0.25 billion from that funding source, and we need to deliver that product. So, the DFU is temporarily in a holding pattern, my words. We will pull them out of the holding pattern once I'm convinced and the leadership team is convinced that we are – we have our organization streamlined and focus on delivering the BARDA product to the FDA.
+
+So, in summary, the answer is yes. We will look at other indications. But how we do that and whether we do DFUs or we may have a more widely applicable indication to be able to look at burn, wound viability or something more general, maybe a more reasonable manner to be able to get this product to a wider market.
+
+Swayampakula Ramakanth
+Analyst, H.C. Wainwright & Co. LLC
+Thank you. Thank you for taking all my questions. [Operator Instructions]
+
+Operator
+The next question is from John Vandermosten with Zacks. Please go ahead.
+
+John D. Vandermosten
+Analyst, Zacks Investment Research, Inc. (Small Cap Research)
+Thank you. And hello, Dr. DiMaio and Vince. How are you guys doing? Since the last...
+
+J. Michael DiMaio
+Chairman, Spectral AI, Inc.
+Great. Thanks.
+
+John D. Vandermosten
+Analyst, Zacks Investment Research, Inc. (Small Cap Research)
+Great. Since the last quarterly update, you've announced another award for – from MTEC for the portable version of DeepView. What – I guess, first of all, was that – some of that award the reason why third quarter revenues were maybe a bit higher than kind of the trend line for the year? And then secondly, what are the major milestones you expect for the SnapShot device as we move towards getting to go in front of the FDA? [indiscernible]
+
+J. Michael DiMaio
+Chairman, Spectral AI, Inc.
+(00:28:18).
+
+Vincent S. Capone
+Chief Financial Officer, Corporate Secretary & General Counsel, Spectral AI, Inc.
+So, John, we've focused our efforts on the BARDA PBS contract and as such, we've dedicated more resources to that contract as Dr. DiMaio has indicated right, we've kind of pivoted some resources to the burn contract. It – we're focused on delivering that product to the FDA submission in the first half of 2025 and that's contributed to a number of things for us, right, higher margin and higher revenue, frankly.
+
+John D. Vandermosten
+Analyst, Zacks Investment Research, Inc. (Small Cap Research)
+Okay.
+
+J. Michael DiMaio
+Chairman, Spectral AI, Inc.
+In addition to your question on the MTEC, I've heard about the miniaturization, there's, very soon, in the next few weeks, the – which is called BAMC, the Brooke Army Medical Center, is going to be doing a little bit of feedback back and forth on the preliminary – underlying preliminary design of the miniaturization device, the MTEC device. And so, with that, we'll get feedback from the military, see what they think about the size and shape and et cetera on the – that we met the specs that they asked us for and then we'll reiterate that or iterate that and then come back with some more improvements. So, the answer is we're still in the throes of developing that to a device that will be amenable and acceptable to the military, a war fighter, and that we're in the middle of that contract now.
+
+John D. Vandermosten
+Analyst, Zacks Investment Research, Inc. (Small Cap Research)
+Great. And then on the revenue guidance for the year, I seem to remember, I think it was somewhere around $28 million in government contracts. Is that still the number that we should be thinking about for this year?
+
+Vincent S. Capone
+Chief Financial Officer, Corporate Secretary & General Counsel, Spectral AI, Inc.
+Yeah, I think so. I mean, we're in – we're through 10 months so far. I think $28 million is a reasonable and conservative number to see us drive the market to for 2028. Hopefully will be above that but I think that's good revenue guidance for the rest of 2024.
+
+John D. Vandermosten
+Analyst, Zacks Investment Research, Inc. (Small Cap Research)
+Okay, great. Thanks for taking my questions.
+
+J. Michael DiMaio
+Chairman, Spectral AI, Inc.
+Thank you.
+
+Operator
+The next question is a follow-up from Ryan Zimmerman with BTIG. Please go ahead.
+
+Ryan Zimmerman
+Analyst, BTIG LLC
+Hey, guys. Just one quick question, I'll wrap up. I think we're going to see or at least we were slated to see top line data from the Burn study. And I don't know if you mentioned this, Dr. DiMaio, around December of this year. I just want to see if that's still the case, number one. And then two, remind us kind of what we're looking for in terms of top line data, what those outcomes are, and what you consider maybe successful and so forth as we look for that.
+
+J. Michael DiMaio
+Chairman, Spectral AI, Inc.
+Great question. Thanks, Ryan. You are on target. So, the answer is, yes to your question. We expect some top line data to come out in December. I'm going to be cautious, not because I'm cautious, but because the FDA, we're working, as I said earlier, with iterative feedback with the FDA literally in the upcoming weeks. And so that the metrics that we are looking at, we want to make sure it's the same metrics that they're interested in. And those metrics include a Dice coefficient, sensitivity, specificity, accuracy and some combination thereof. It's also comparing our – of those statistics, Ryan, to what's called CJA, which is a clinical judgment annotation, that's a fancy word for what the doctors are going to think is going to be the part of the burn area that's going to heal or not heal.
+
+And historically, we compare them to historical controls and literature. And I think right now that's evolving in discussions with the FDA. So, in summary, what we're going to have is data showing our, repeat what I've said, sensitivity, specificity, Dice coefficient, which is a measure of the true positive and the false positives within a binary presentation of a non-healing pixels or healing pixels and all that information – we have the information, but we want to collate it in a way that is what the FDA wishes to see for our submission and for our clearance. Does that make sense, Ryan?
+
+Ryan Zimmerman
+Analyst, BTIG LLC
+Very helpful. Thank you.
+
+J. Michael DiMaio
+Chairman, Spectral AI, Inc.
+Yeah. Again, to kind of follow on, we got the data. We have [ph] Greg Jihong (00:32:34) who leads our data science team. And I got to tell you he is a very, very exciting, deliverable, brilliant young man that is all over this information. He's looking at four different algorithms in what's called a symphony matter to be able to collate these different algorithms to see which ones of these in combination are going to provide the best answer to these questions. Thank you, Ryan.
+
+Ryan Zimmerman
+Analyst, BTIG LLC
+Thanks.
+
+Operator
+This concludes our question-and-answer session. I would like to turn the conference back over to Dr. DiMaio for any closing remarks.
+
+J. Michael DiMaio
+Chairman, Spectral AI, Inc.
+Again, thanks, everyone, on the call. I want to thank everyone on our team, as well as our business partners and investors. Their ongoing support is paramount for us to deliver on our commitment to develop and commercialize our DeepView System, which we believe and know will significantly improve patient outcomes. As I've said before, I'm glad to be back. I'm happy to be back. And we're going to continue to do the three Fs, which is finance, focus and finish all this. I thank you all for your attendance and interest in our company, and I wish you all a good evening.
+
+Operator
+The conference is now concluded. Thank you for attending today's presentation. You may now disconnect.

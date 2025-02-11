@@ -1,0 +1,267 @@
+Thank you, operator, and good afternoon, ladies and gentlemen. Welcome to Zomedica's third quarter 2024 earnings results and business update call. Joining me on today's call are Zomedica's Chief Executive Officer, Larry Heaton, and its Vice President and Corporate Controller, Mike Zuehlke.
+
+Before we begin, we would like to remind everyone that on this call, we will be making various remarks about future expectations, plans and prospects that constitute forward-looking statements. These forward-looking statements are based on assumptions, and there are risks that results may differ materially from those statements. As such, Zomedica cannot guarantee that any forward-looking statements will materialize, and you are cautioned not to place undue reliance on them.
+
+We refer current and potential investors to the forward-looking information and risk factors sections of our public filings available on SEDAR+ at www.sedarplus.ca and on EDGAR at sec.gov. Forward-looking statements made on this conference call represents Zomedica's expectations as of today, November 7, 2024.
+
+I will now pass the call over to Zomedica's Chief Executive Officer, Larry Heaton. Larry?
+
+Larry C. Heaton
+Chief Executive Officer & Director, Zomedica Corp.
+Thanks, Mike. I'd like to start by thanking our shareholders for your support, wishing prospective investors, analysts and others a good afternoon, and welcome all to the Zomedica third quarter earnings results and business update call. I'll start by providing an update on our recent operational performance, followed by a financial update from Mike Zuehlke, our Vice President of Finance and Corporate Controller, before opening the line for questions.
+
+Earlier today, Zomedica released its financial results for the third quarter of 2024. The third quarter was strong for Zomedica. We delivered double-digit top line growth, executed on a variety of growth initiatives, posted solid gross margins, reduced our operating expenses and stabilized our operating cash burn. Revenue set a new record for the third quarter at $7 million, reflecting over 10% growth over the third quarter of 2023, driven by year-over-year growth in both our Therapeutic Devices and Diagnostics segments. This marks the 14th quarter in a row that revenue set new quarterly highs, a trend that we expect to continue.
+
+Total Therapeutic Device revenue increased 8.5% year-over-year due to solid PulseVet performance, which increased 24% over the prior year quarter as our capital sales team returned to normalcy. As we discussed on last quarter's call, we experienced some disruption in the US in the second quarter as a result of short-term productivity headwinds associated with multiple of our sales representatives being out unexpectedly on medical leave.
+
+Moving into the third quarter, our sales force was back to full strength, and as expected, we saw a rebound in new system sales and installations. We also noted macroeconomic factors that potentially impacted new system purchases during the second quarter of this year, primarily related to interest rate concerns. Although we noted these concerns abating somewhat as rates declined a bit and stabilized, we still deployed additional placement and pricing models to provide greater access to veterinarians looking to better serve their pet patients. This resulted in multiple customers acquiring a new PulseVet system using one of our flexible models, which highlights the demand for the technology and as a differentiated revenue stream outside of a typical capital purchase.
+
+We believe there is a high likelihood that most of these placements will result in a capital purchase in the future, as these customers realize the value of operating shock wave therapy from PulseVet within their practices. In short, we continue to be encouraged by the demand for the PulseVet system amongst both new and existing customers, and note that our current penetration of the small animal US market is minimal at this point, leaving substantial upside for this product line in the US and abroad.
+
+Our Diagnostics segment had another strong quarter, with revenue growing 38% year-over-year. This was largely driven by 80% growth from the TRUFORMA platform, as we are seeing solid utilization trends with our legacy assays as well as encouraging adoption trends with our recently launched assays including cPL and equine eACTH.
+
+Outside of the strong revenue performance during the quarter, we also made noteworthy progress towards a number of our key initiatives to drive growth in 2024 and beyond to ultimately reach cash flow and GAAP profitability. Let's begin with our focus on commercial expansion efforts. One of the significant commercial expansion opportunities is in international markets. Supporting the broader availability of our portfolio globally is the extensive work we've done this year to make our products available on a global scale. We now have CE marking on all Zomedica products, so we were able to freely sell into markets in the EU as well as other countries that accept the CE Mark.
+
+To take advantage of this opportunity, we expanded our global reach through the execution of multiple strategic partnerships with leading distributors in new international markets. In July, we partnered with Leader Healthcare Group to be a distributor of our entire product portfolio to both small animal and equine, and actually also camel veterinarians in the Middle East, Egypt, and India.
+
+In August, we partnered with SIRE Veterinario to be the exclusive distributor to veterinarians in Costa Rica to expand our reach within Central America. During the current quarter, we announced the expansion of our partnership with Grovet, who has been effectively selling the equine PulseVet system in many countries in Europe. In addition to expanding their coverage to all of the EU and the UK, totaling 30 countries in all, Grovet will be the first international distributor of our TRUFORMA equine product platform, including equine eACTH, equine cortisol, and soon, equine insulin and equine progesterone in this region.
+
+In addition, we are currently in the process of acquiring the necessary approvals to launch our TRUFORMA, TRUVIEW and VETGuardian diagnostic products in Japan in 2025. These will join the equine PulseVet systems already on the market in Japan and will be directed at the 12,600 companion animal veterinary practices in that country. With new distributor partnerships in place and broad global regulatory approvals, we have significantly expanded our reach outside of the US, which provides Zomedica with increased opportunities for growth on a global basis.
+
+Now, I should note in each country that we introduce Zomedica products, multiple steps are required to generate meaningful revenue, including execution of the distribution agreement, training on the sales and marketing staff, launching the product, engaging key opinion leaders, and developing the market, all leading to a ramp in sales over time.
+
+As we're actively engaged in this process in several new countries, we continue to expect the international business to be an incremental contributor to performance during the balance of the year and be a material growth driver for Zomedica in 2025 and beyond. In addition, these commercial opportunities provide leverage to our existing operating expenses. Because we sell into international markets primarily through distributors, which cover their [ph] fall (00:08:05) overhead expenses for sales and marketing, we're able to enjoy increased revenue without significantly increasing our operating expenses. We also achieved a number of significant milestones within our product portfolio.
+
+Turning to the PulseVet line. PulseVet continues to be our leading product. And we have made significant progress in growing its adoption across our customer base, including both equine and small animal veterinarians. As we announced during the quarter, we continued to be the official shock wave therapy of a number of equine associations, including the American Quarter Horse Association, the National Cutting Horse Association, the US Eventing Association, and US Equestrian, which fielded the USA team at the Olympics this past summer.
+
+I'd also like to give a shout out to veterinarian Dr. Pam Nichols, past President of the American Animal Hospital Association and a member of Zomedica's board of directors who just last weekend won the world championship in Level 2 Amateur Cutting at the AQHA World Championship show in Oklahoma. Congratulations, Dr. Nichols.
+
+To support PulseVet's adoption beyond its existing historic installed base, we continue to focus on developing clinical data across a variety of indications for use, including its potential to treat respiratory conditions in horses and perhaps dogs, improve equine hoof health and forestall osteoarthritis in small animals, paving the way for new sales opportunities beyond the technology's historic applications and customer base.
+
+With respect to our Assisi platform, our Assisi Loop products received a renewal of its fear free status during the quarter, a designation important to pet parents concerned about their pets' anxiety levels, especially following an injury or surgery, which is when the Assisi Loop is most beneficial. Our Assisi sales were relatively constant quarter-over-quarter in line with historic seasonality, but lower than the third quarter a year ago due to a substantial onetime initial stocking order from a new online distributor that we received in the third quarter of last year. The Loop business gets busy around the holidays, in the fourth quarter, so we expect a strong finish for the year in this product line.
+
+Turning now to an update on the TRUVIEW digital microscope and pathology platform. During the quarter, we continued our activity to add artificial intelligence or AI interpretations to the TRUVIEW system. When this is complete, each hematology slide processed will be accompanied by an AI-generated diagnostic report. We're currently field testing the AI functionality and getting ready to deploy the system later this year with a full launch in the New Year.
+
+Beyond the development of our AI capabilities, we continue to expand the functionality of the TRUVIEW system. During the quarter, as part of internal R&D efforts, we introduced hardware enhancements resulting in dramatic improvements in the speed of imaging, which will further bolster the value we're able to deliver to customers moving forward. We also finalized and rolled out a new protocol specifically for ear cytology. This innovative feature streamlines the slide preparation and scanning of ear cytology cases, allowing veterinary professionals to diagnose and treat companion animals faster and more efficiently. We believe this will be a highly impactful protocol because ear cytologies are performed daily at pet clinics. As otitis, a common ear condition affects between 10% to 20% of dogs and 2% to 6% of cats.
+
+The effect of the various enhancements to both hardware and software of the TRUVIEW system is to allow it to lay claim to being the fastest digital microscope available, the digital microscope with the highest quality image and the only digital microscope that automatically prepares the slides and soon also able to offer AI-generated diagnostic reports.
+
+Turning to the TRUFORMA platform, we continue to be encouraged by the growing adoption of TRUFORMA platform as we are seeing continuous increases in our installed base. Importantly, we're seeing expansion into equine veterinary practices as we launched equine assays over the past year to benefit from our growing portfolio penetration across both small animal and equine practices. We continue to focus on accelerating the development and commercialization of new assays, both for small animals and horses. In addition to the assays launched earlier this year, we're preparing to launch several new assays during the fourth quarter, including equine insulin, which is needed as a standalone assay for diagnosing insulin dysregulation and is frequently used in conjunction with our eACTH assay for diagnosing PPID, which affects more than 21% of horses over 15 years old.
+
+The second is equine progesterone, which is used to monitor progesterone levels in equine breeding. For which there are over 25,000 attempts annually in the US and this assay will be a complement to our recently launched equine cortisol assay for foals. Third is the canine progesterone assay, which is used to identify optimal breeding times for dogs, which currently produces over 4 million puppies per year in the US. And finally, canine proBNP, which is a screen for heart disease used by breeders concerned due to the fact that around 10% of dogs will develop heart disease in their lifetime.
+
+We have a robust effort to launch these assays and develop new high volume assays in 2025 as we look forward to the continued ramp of this fast growing product line.
+
+Turning now to an update on the VETGuardian platform. The sale of new VETGuardian systems continue to highlight the value of the technology and the benefits our customers are seeing. We're constantly seeking ways to make the VETGuardian even better for customers and their pet patients. In August, we launched advanced audio capabilities for the platform, which include cutting-edge features like real-time audio streaming, recorded playback functionality and customizable alerts, empowering veterinarians with unparalleled insights into animal health through monitoring data. These sophisticated tools build on the existing features of VETGuardian and further enable veterinarians to detect subtle nuances in animal behavior and health, facilitating enhanced monitoring and giving veterinarians peace of mind when pet patients are at their most vulnerable, in post-surgery, in the ICU, and alone in the clinic overnight.
+
+During the quarter, we also expanded the capability of our My Zomedica portal to be able to accommodate more than the previous eight VETGuardian monitors at one time on one screen. This was launched as we had a customer request to buy 10 additional VETGuardian monitors to add to the one that they initially purchased. While still early in the launch cycle for our VETGuardian system, we're pleased with its adoption in the small animal market and expect a strong finish for the year and significant growth in 2025 and beyond.
+
+We also remain excited about bringing VETGuardian to the equine market. We delayed development just a bit this year, so we can incorporate the various enhancements we've made into the small animal system before customizing it for equine use. We're now planning to develop and launch the equine version in 2025, which we believe will be very well-received by the equine veterinary community and set the stage for potential expansion of the market opportunity to horse trainers, breeders and owners.
+
+Now, turning to an operational update. As noted on our last earnings call, we installed a new automated robotic manufacturing line in our Minnesota manufacturing facility that automates steps that previously required high levels of manual labor. After validation, this new production line is now live and manufacturing most of our TRUFORMA assays. We expect to move the remaining assays onto this line during the current quarter and continue to believe that this new line will drive efficiencies, which allow us to realize cost benefits to further improve our gross margins in the future. This is important because as we work towards cash flow breakeven and GAAP profitability, maintaining and growing our gross margins is a critical contributor.
+
+Leveraging our expense structure by growing revenue faster than expenses is also critical. In the third quarter, aside from non-cash impairment charges recorded in the second quarter, we reduced operating expenses by over $900,000 versus the previous quarter. Over the last three years, we've invested in infrastructure and we're now beginning to see the impact of our ability to increase operating leverage through scale. As we continue to generate high margins and reduce operating expenses as a percentage of revenue, we're moving closer to our goal of profitability.
+
+Before turning to a financial overview, I want to provide an update on our CFO search. The process to identify a new CFO is currently ongoing and we're pleased to see the quality of candidates we're engaging with and we'll let you know when we've completed the search. In the meantime, Mike has been doing a very nice job on the financial side of things here at Zomedica.
+
+So, with that, I'd like to turn the call over to our Vice President of Finance and Corporate Controller, Mike Zuehlke. Mike?
+
+Mike Zuehlke
+Vice President-Finance & Corporate Controller, Zomedica Corp.
+Thanks, Larry. Unless otherwise noted, all financial results highlighted will be for the third quarter of 2024 and compared to the third quarter of 2023. Total revenue for the quarter was $7 million, an increase of 10.2% driven by growth in both our Diagnostics and Therapeutic Device segments. Capital revenues were $2.2 million, an increase of over 21%, primarily due to continued execution of our PulseVet commercial strategy.
+
+In the third quarter, consumable revenue was $4.8 million, an increase of approximately 6%. Despite a significant distributor initial stocking order for Assisi, consumables that took place during the third quarter of last year, which did not reoccur in the third quarter of 2024. Excluding Assisi products, consumable revenue grew 27% over the prior-year quarter. Consumable revenue represented 68% of total revenue in this quarter.
+
+Therapeutic Devices segment revenues from PulseVet and the Assisi products were $6.5 million, up 8.5%, primarily driven by the strength of PulseVet, which was up 24.5% or $1.1 million. The strong performance of PulseVet within Therapeutic Devices was offset by the aforementioned large Assisi distributor order that occurred during the third quarter of 2023, which again did not reoccur in 2024. Third quarter Diagnostics segment revenues were approximately $500,000 or an increase of 38%. This was driven primarily by growth within the TRUFORMA product platform resulting from our expanded catalog of assays. We have launched four assays since the second quarter of 2023, including three that have been launched subsequent to our acquisition of Qorvo Biotechnologies in the early fourth quarter of 2023. This is worth noting as an increased ability to develop and launch additional assays was a key driver of our acquisition. Within the Diagnostics segment, capital revenue was slightly down by 6%, while consumable revenue, primarily driven by the previously mentioned assay-related revenue grew 79%.
+
+In the quarter, gross margin was a strong 72.3%, which is slightly better than the high end of our previously stated target range of 65% to 70%, and higher than last year's 69%. In the quarter, total operating expenses were $12.5 million, an increase of 21% over the prior year. Importantly, as Larry also noted in his remarks, when compared to the second quarter of 2024, operating expenses were $900,000 or 7% lower, primarily as a result of reduced non-recurring professional fees. In the quarter, research and development expenses were $1.8 million, driven by labor and supplies consumptions as we advanced new assay development.
+
+Sales and marketing spend was $3.9 million compared to $3.3 million during the same period of 2023, primarily due to people and salary-related expenses as we reached full staffing within our sales force. General and administrative expenses were $6.8 million compared to $6.1 million during the prior year, with most of that increase resulting from non-recurring professional fees. Net loss for the quarter was $6.7 million or $0.007 per share, compared to a net loss of $491,000 or $0.0005 per share in the prior year, which included a one-time gain of approximately $2.2 million related to our acquisition of Structured Monitoring Products, or SMP.
+
+Non-GAAP EBITDA loss, which includes adjustments for stock compensation for the three months ended, September 30, 2024 was $4.8 million compared to a loss of $0.3 million for the three months ended September 30, 2023, which again included the previously referenced one-time gain. When adjusting for non-cash and non-recurring items, our adjusted non-GAAP EBITDA loss was approximately $4.3 million.
+
+Turning to the balance sheet. Zomedica ended the third quarter with $77.8 million in cash, cash equivalents and available for sale securities. Cash used in the quarter was approximately $5.1 million and included $1.1 million of non-recurring items with the remaining $4 million used for operating expenses. Quickly, I'd like to highlight our declining use of cash in 2024 to date. Our total use of cash by quarter so far this year has been $9.6 million, $7.9 million and $5.1 million. While our adjusted operating cash burn by quarter has been $6.9 million, $5.2 million and $4 million, respectively, reflecting positive trends in operating efficiency and revenue growth. As a reminder, we carry zero debt. We have nearly $78 million in liquidity, and feel we are well funded to capitalize on our opportunities for both organic growth and growth through potential acquisition.
+
+With that, I'd like to hand the call back to Larry for closing remarks. Larry?
+
+Larry C. Heaton
+Chief Executive Officer & Director, Zomedica Corp.
+Thanks, Mike.
+
+As you've heard, we have a lot going on. Five highly differentiated, unique, continuously improving product lines and active commercialization by a fully staffed, professionally-led salesforce. Growing product adoption in the United States, fueled by tremendous marketing activities. Substantial opportunities to grow our international revenues with newly authorized products; very strong gross margins generated by efficiently manufacturing our own products; and substantial opportunities to leverage the infrastructure we have invested in to bring expenses down as a percentage of revenue.
+
+In summary, we're incredibly excited about the future of your company. Supported by the strength of our balance sheet and driven by the wide variety of growth initiatives we're executing, we're positioned to deliver a strong revenue trajectory while setting ourselves up to achieve positive cash flow and GAAP profitability.
+
+Before opening the line for Q&A, I wanted to thank our employees for their dedication and thank our customers who support our mission to help veterinarians provide the best care possible to our pets and yours around the world.
+
+With that, I'd be happy to open the line for questions. Operator?
+
+Question And Answer Section
+Operator
+Thank you. [Operator Instructions] Our first question comes from the line of Robert LeBoyer from Noble Capital Markets. Your line is open.
+
+Robert LeBoyer
+Analyst, Noble Capital Markets, Inc.
+Good afternoon and congratulations on a nice quarter. You had mentioned that some of the products had recovered due to the sales force coming back to full strength. And I was wondering how the remaining quarter of the year looks and what the outlook for growth in 2025 is, as best you can tell at this point.
+
+Larry C. Heaton
+Chief Executive Officer & Director, Zomedica Corp.
+Sure. So, thank you for the question, Robert. So, the products that were primarily affected in the second quarter, we had five salespeople that really unexpectedly went out on medical leave. A couple different conditions. I won't go into the details. But that really put us at a kind of behind the eight ball when it came to selling new capital products, right? So, PulseVet new system installations, VETGuardian new system installations, new TRUFORMA installations. Of course, our consumable business was – remained strong during the second quarter. While PulseVet capital was down actually, our consumable PulseVet business was up in that quarter by 11%. But it's where in those conditions or in those situations where the reps need to be actively pursuing the capital sale, we were at a disadvantage in the second quarter.
+
+Those folks came back. And actually, by the time we had the call last quarter, they were pretty much back in place. During the course of the quarter, a couple of them unfortunately had to return to medical leave and won't be going back to work anywhere, sadly. But having said that, we had plans in place that we implemented to make sure that we had a backup. And so, in the third quarter, we saw really a nice rebound in capital sales. PulseVet sales, as I mentioned earlier, were up. Capital sales were up by 24%. So, we're really pleased with that. And we expect that to continue in the fourth quarter and beyond.
+
+Now, as we look into 2025, we do have some plans to increase our sales presence. We have a couple of positions that we're creating for the New Year that will focus on corporate accounts, being able to sell to many accounts at one time. And also some positions that will focus on capital sales specifically. And so, we're in the process during the fourth quarter of backfilling the people who are being promoted and filling a couple of slots. Having said that, then we expect growth to accelerate in 2025 and beyond what we saw in 2024. And we expect that once we get the new CFO on board, that we'll reinitiate providing guidance and we expect to do that in the New Year.
+
+Robert LeBoyer
+Analyst, Noble Capital Markets, Inc.
+Okay. So, is there any ballpark figures that you can give for revenue growth or any expectations pending the arrival of the new CFO?
+
+Larry C. Heaton
+Chief Executive Officer & Director, Zomedica Corp.
+So, I would tell you that we're highly confident on being able to increase revenues across all of our product segments, both Diagnostics and Therapeutics. As I mentioned earlier, this is the 14th quarter in a row where each quarter we set a new record revenue level. And so, you can expect that, that would be the case as we move into 2025. And then in addition, as I mentioned, we have the ability to further accelerate revenue and growth in our international markets. Beyond that, I would I prefer to wait until we're able to provide you with credible guidance, which we'll do in the New Year.
+
+Robert LeBoyer
+Analyst, Noble Capital Markets, Inc.
+Okay. Yeah, that's fine. And if I could just ask a question about the expenses, cost of goods sold was relatively low as a percentage of sales, and some of your other numbers for G&A and SG&A roles were also proportionately lower. Are those trends that one can expect going forward or with these one-time gains? Any guidance on that side?
+
+Larry C. Heaton
+Chief Executive Officer & Director, Zomedica Corp.
+So, with respect to gross margins and cost of goods sold, we expect that we'll continue to have to generate margins. I think we had previously provided a range of 65% to 70%. Earlier in the year, we were toward the lower end of that range. Of course, the last two quarters have been above that range. We continue to expect, as we think about our business going forward, we continue to expect revenue margins to be around 70%. But we would continue with that range. So, yes, we expect that trend to continue. And then with respect to our overall operating expenses, as Mike mentioned, we were able to reduce, I think I mentioned it too. We were able to reduce the OpEx from third quarter to the second. There were some one-off things in that area. But basically, what you're seeing is all, maybe not all, but the preponderance of those onetime items, those non-recurring items. They're pretty much behind us.
+
+We've spent three years now building the company, building the infrastructure, putting the team in place, so that we can really improve efficiencies, and so on. And so, we expect whether the absolute number goes down in a particular category, it depends on the category and the quarter, and what's happening during that quarter. But I will tell you that we absolutely expect that percentage, that operating expenses in each category as a percentage of revenue will continue to decline as we move forward.
+
+Robert LeBoyer
+Analyst, Noble Capital Markets, Inc.
+Yes. Okay. Great. Thank you very much. That's very helpful.
+
+Larry C. Heaton
+Chief Executive Officer & Director, Zomedica Corp.
+Thank you, Robert. Operator, are there other questions from the phone line?
+
+Operator
+There is no question at this time. Please continue.
+
+Larry C. Heaton
+Chief Executive Officer & Director, Zomedica Corp.
+I see one from – on the phone line from [ph] William Caroll (00:31:35). Is that somebody we should call on?
+
+Operator
+Yes. [ph] William Carroll (00:31:40), your line is open.
+
+Yeah. So, a couple of questions. As you increase revenue, increase your – well, I can't say decrease your losses, but can you give us any timeframe, 2027, 2028, where the bleeding stops and at least you're cash flow breakeven?
+
+Larry C. Heaton
+Chief Executive Officer & Director, Zomedica Corp.
+So, we expect... [indiscernible]
+
+(00:32:06)
+
+Larry C. Heaton
+Chief Executive Officer & Director, Zomedica Corp.
+Go ahead.
+
+Yeah. So, I mean, I realize that you don't have a CFO to do these analytics, but is there a gut feel of when the company is cash flow breakeven?
+
+Larry C. Heaton
+Chief Executive Officer & Director, Zomedica Corp.
+Yeah. So, we continue to expect that we will be cash flow positive once we hit $50 million in annualized revenue. And we are – everything in our planning and in our execution is geared towards getting to that level. I will know that at $25 million in sales, which is what we produced last year, that's about 1% penetration of the total available market for our products in the US. And so, I could say it's $50 million in annualized revenue. I could say it is 2% of our addressable market penetration. As to exactly when we'll get into to that level, I'll again defer to providing guidance, but I would – what we had said before is that we would be there by 2026. I think that that's an aggressive goal, but one that we're certainly shooting to achieve.
+
+Okay. Now, with the stock at $0.12 a share, is there any consideration to doing some kind of a nominal buyback?
+
+Larry C. Heaton
+Chief Executive Officer & Director, Zomedica Corp.
+At this point, we continue to believe that a stock buyback would not be in the best interest of all of our shareholders. Rather, using the capital that we have to be able to provide opportunities for fueling organic growth and/or potentially making additional acquisitions to bring additional products, revenue on board. We – early on in the – over the last three years, early on in that period of time, we focused our M&A activities on a variety of things, including acquiring the infrastructure that we needed to build a company. As we look forward to M&A, we're really limiting our view on those things that we would acquire to those things that would be accretive to earnings that have current revenue and have decent margins, so that we can accelerate the attainment of cash flow breakeven and GAAP profitability. So, to utilize the cash that we have for a buyback might benefit some shareholders for a short period of time, but the data shows that it's not long lasting. As somebody mentioned, it's a short-term gain in share price trading off a permanent loss of the capital. So, we would prefer not to go that route.
+
+Okay. Now, what about the risk of being de-listed at this price?
+
+Larry C. Heaton
+Chief Executive Officer & Director, Zomedica Corp.
+There is a risk. Once we fell below $0.20 on a 30-day moving average, we are subject to a potential delisting. As we've said on previous calls when we spoke to the exchange, following the failure of the reverse split, we spoke to the exchange, and let them know that we had not accomplished the increase in share price through that activity, but let them know that we wanted to remain listing or listed. We shared with them our plan to continue to grow the company organically. We shared our large amount of liquidity or cash that we had. And I think they viewed us as a real company. Not to say that there are not real companies on exchange. But, they viewed us as a credible company. And they let us know that we would continue to stay listed. They did tell us that, it's their call, right. If the stock fell to a precipitously low level, then they can step in. But we don't anticipate that happening. But it is a potential. It is a possibility.
+
+Sure. Yeah. Then now the last question. So, let's say we go down the road here a few years and you've burned through enough cash. What would be your sources of potential funding? Would you guys look at debt or issuing more stock, or is my question just totally premature?
+
+Larry C. Heaton
+Chief Executive Officer & Director, Zomedica Corp.
+Well, first, I do think the question is really hypothetical, right, because we believe we've got was $78 million in liquidity, meaning cash available to sell securities and things like that, that we don't have any – a need to raise money to fund the company or to fuel operations. We believe, as you heard from Mike, are not only our operating burn, but also our total use of cash has declined each quarter this year. We expect that by keeping and by continuing to be very efficient. And what we do, be mindful of our cash expenditures that we have, substantially more capital than we need to be able to fund the company through cash flow breakeven and profitability, not only to fund the company for that purpose, but also to provide cash for any additional acquisitions that would be accretive to earnings.
+
+Having said that, we do not have debt. It's not unreasonable for a company to leverage its balance sheet with some debt. So, that would be our preference is it would not be dilutive to shareholders. But I think I'll go back to the way I answered at the beginning. We're not contemplating any need, any requirement to raise cash, to operate the company and to achieve our goals.
+
+Okay. No. Very good. Thank you. Appreciate the honest answers. Thank you. Right.
+
+Larry C. Heaton
+Chief Executive Officer & Director, Zomedica Corp.
+You're welcome. Okay. So, let's turn to a couple of questions from the web. Let's see, the first one is, can you comment on the sales force disruption from last quarter?
+
+Okay. So, as noted, we're back up to full strength. I think I talked a little bit about that. And when we – we talk about how we've addressed those issues, I mean, in the third quarter, we saw PulseVet capital sales go up 24%. Interestingly, we also saw Trode sales or the consumable sales go up 24% as well. We expect that to continue. The only other thing I would mention as well, we didn't factor it into our calculus, the election may also have given pause to some customers. We got one of our sales reps who did not get a sale – one of the sales he did not get in the third quarter, yeah, in the end third quarter, told the sales manager that the veterinarian wanted to wait till after the election. And you always take that with kind of a grain of salt, right? It's – maybe that's exactly right or maybe they were just putting them off. But at 9:00 yesterday morning, that called with the order. So, to the extent that had any impact, we should see a positive uplift from that as well.
+
+All right. Let's take another one from the web. Has the interest rate environment had an adverse impact on capital sales?
+
+I think it probably has. We haven't seen it – if it had, it was minimal in the third quarter. Certainly, we saw really good traction in capital. Sales not only there for PulseVet, but also for VETGuardian. And as I mentioned, we put into place programs that would give flexibility to the customer in the event that they were reluctant, for whatever reason. Election, interest rate, whatever, it was a way for them to acquire the PulseVet system without a capital commitment. It did basically increase their consumable price from – just to give you the perspective, from $40 per therapy session to $100, so maybe 2.5 times, which is, obviously, good for our margins, but doesn't carry with it a capital sale. But we have that program in place. We think most of our customers will continue to want to buy them. We'll reserve that program for those that have an issue with committing capital for whatever reason. So, we don't really see any issues with interest rate and whatnot. And we note that I mean, just today, they came down again. So, if that was a factor, we expect that to diminish.
+
+Now let's take another one here. How do you see international performance from the third quarter and what are your expectations for fourth quarter?
+
+That's a good one because it's an area of focus for us. International sales remain around 15% to 20% of our total revenue. I think in the third quarter they amounted to about 18% of it. It continues to be a growth area for the company. We're performing well this year. Sales outside of North America grew just under 12% in the third quarter versus a year ago, versus overall sales for the company overall at 10%. So, it's growing a little bit faster, at least in the third quarter.
+
+Year-to-date sales outside of North America are up 21%, almost 21.5% versus the first three quarters of last year. So, we're pleased with the progress that we've made, and we really haven't seen the benefits of the new distributors yet. As I mentioned earlier, there's a process that you follow, but we expect that to be accelerating in 2025. We've got the regulatory approvals, we've got the distributor agreements, and so we'll continue to see, I think, this level of growth maybe a little bit more in the fourth quarter, but in 2025, we expect to see substantial growth as we move forward.
+
+Okay. Let's see what we got here on the web. You have sales – you have seven sales positions currently open. How many of these were turnover and how many are a new territorial role?
+
+So, we have let's see, one, two, three four – or, say, one, two, three. We have three, four, five territories that are open as people move into new roles, which I touched on earlier. We have a couple of people that unfortunately had to retire for medical reasons. And that pretty much accounts for all of those. So, that's the answer to the question. I think that the – obviously, the new positions that we're adding in sales, we expect to have a nice return on those investments as we move forward.
+
+Let's see. So, next one, we're starting to get low on cash. What are the plans to turn this company profitable and slow down spending?
+
+I think we've talked a little bit about that. First of all, we're lower on cash than we were before. I would not characterize where we are as low on cash by any means. But having said that, reducing expenses is a function of – as a percentage of revenue is a function of both increasing revenue, which is straightforward, but also is on not having as many of the onetime things that we have to spend money on. We did a number of acquisitions over the last three years. That is why we have the product lines that we do. In particular, the acquisition of Qorvo Biotech just a year ago, actually, October of last year, that had an impact in terms of raise and expense, and it's taken us during the course of the year to be able to bring some of those expenses down. But we expect that to be improving as we move forward.
+
+So, we'll continue to invest in driving organic growth. The idea here is not to be a profitable company at $50 million in revenue. It's to be a profitable company at an annual run rate of $50 million on our way to $100 million. And so, you need to have the infrastructure to do it. We have it now. We expect to provide operating leverage as we move forward.
+
+Will assays be available for humans in the future? Insulin?
+
+When we acquired Qorvo Biotech, they also had a human health side of the business. We've preserved all of that technology, all of the clinical data, the FDA regulatory studies and so on and so forth. And we expect to be able in the future to see if that's monetizable by someone that wants to enter the human market with this revolutionary, really innovative technology for doing rapid diagnostics at the point of care. Having said that, we do not intend to commercialize the product in the human market ourselves and our expectation is, is that, first, we build a nice track record of this being used at veterinary health and then we would try and capitalize on the opportunity in the human market.
+
+What are the margins headed toward with the new technology products?
+
+I think we sort of covered that. We've got – not all of our products carry the same gross margin percentage as you might imagine. The consumables have very, very, very attractive margins. The capital, a little bit less so. But we think that overall, we'll continue to be in that 65% to 70% range. And I think, actually, I think pretty close to 70% on either side of it, as you've seen this year.
+
+No question. But a thank you to those of the executive staff purchasing shares of Zomedica.
+
+Well, first of all, you're welcome. Several of the company executives and members of the board of directors have acquired shares. I myself, I won't speak for anyone else as to why they did it. I myself, I think I've shared this a while ago. I've got at the time, I first bought shares, I had eight grandchild or two, and then, I bought another 100 and now, I'm sitting at with four grandchildren. But I just heard the other day that one of my daughters in law is pregnant. So, my expectation would be, my intent is to give them each 100,000 shares. And so, you'll know why I'm doing it as we move forward. I have tremendous confidence in Zomedica and our prospects. And people have different reasons for buying or selling shares. That's my reason. And I think, well, thank you for the comment. Let's see here.
+
+What else here? What are the new products Zomedica has that have not been released to the public?
+
+So, we've got, as I mentioned earlier, we've got four new assays. We'll be launching here shortly, in fact, equine insulin, we expect to actually launch next week and start shipping a week from Monday. And that's really good because now is the seasonal time when horses get tested for PPID and there's a big equine trade show that we attend in early November. And so, that'll come out, plus the other assays that I mentioned.
+
+We have the equine version of VETGuardian which we expect to launch next year. And the other, I really can't answer the other question. But we'll let you know that we will certainly answer it in terms of new products as we launch them, we make public announcements of those. I will say that we have products under consideration now, but it wouldn't to be right to kind of speculate on those at this point other than we're confident that we'll continue to expand the product line as we move forward.
+
+Let's see. There are questions, multiple questions on potential delisting. I think I've covered that. Will we have more locations in customer service and customer service in the United States?
+
+Location wise, I think we're good. We have the manufacturing facility in Georgia where we manufacture all of our electromechanical products and that we recently expanded. So, my – our Chief Operating Officer, Tony Blair, tells me that we can sell – we can produce and distribute five times our current level, or at least our 2023 level of sales from that facility without any future expansion or any additional equipment needed. So, pretty happy about that. Don't need more there. The facility in Minnesota that we acquired with Qorvo Biotech, with the robotic automated line. We can produce, I think it's a million cartridges a year. So, it'll be a few years anyway before and that's not literal. But it won't be many years or several years before we need the next million units on a single ship. So, it'll be a little bit before we have to manufacture more than 2 million. The headquarters here in Ann Arbor is modest, but it doesn't need to be bigger. So, we actually have plans to actually reduce our Ann Arbor facility expenses. And we'll provide that information in the future as that comes to pass. So, that would be the answer on that.
+
+We'll – let me see. What else we have here? How much money has been expended on trade shows?
+
+I'd have to look that up in terms of what that is. But I will tell you that we get a tremendous return on the investment from the trade show expenses that we make. In the veterinary market, veterinarians attend trade shows as a way to get required continuing education credits. They attend them with their checkbooks to basically shop at these areas and to see new technology and to see new products. Our marketing team has put together a very nice program of key opinion leaders speaking at the podium at these conferences where they're introducing the Zomedica products and how they're used for particular disease states. After every one of these presentations, people from that conference or from that presentation make their way to our booth with an interest in acquiring the technology. And so, trade shows we see are a tremendous way. We have a field sales force of 35 sales reps that can see a number of veterinarians every day. But when we take two or three sales reps to a trade show, we're able to see hundreds of veterinarians every day, and then the field reps can follow up on them. So, I'm not giving you an absolute number, but I will tell you that the money is very, very, very well spent.
+
+Fully staffed sales force. If that's true, why are there multiple sales jobs? I think I mentioned that we're doing a little bit of expansion, and we're promoting a few people there.
+
+Let's see what else we got. A number of questions on the listing and compliance, and I think I answered that. We're – we've had no indication that as long as we stay at our current levels of stock price, that there will be any reason for us to expect to be delisted. On the other hand, it's – we serve or we're listed at the pleasure of the exchange. So, I can't speak for them. I can only relate what our experience has been up until this point.
+
+What do you say to shareholders to ease their minds that are thinking of selling their shares and cutting their losses?
+
+I would say that the decision on whether to sell shares in a company are uniquely personal and depends on a number of factors that have to do with that particular individual. And so, I really can't comment on if they need to sell it to acquire the cash or there's some huge benefit from taking the loss and then they wait 30 days and then they buy it back or whatever. I mean, that all has to do with their own individual situations. In my situation, I'm holding these shares and this is – I mean, this is despite the fact I also have a boatload of options, right? I mean – but I think that, for me, staying long in the stock is a really good move because I have tremendous confidence, as do members of our board of directors, our senior management team, and all the employees that are here at Zomedica, who are going out every day and introducing this new technology to veterinarians, to help veterinarians take better care of your pets, our pets, and everyone's pets. So I think, hold it. On the other hand, again, I can't advise any individual person because I don't know their particular situation.
+
+Let's see. So, a lot of people have to have some questions about the delisting. So, I'd mention that. Why is it taking so long to hire a new CFO? Not actually taking so long. We have a number of candidates that we're talking to. We're not in any particular hurry. Mike Zuehlke, who you heard from earlier, has been doing a very nice job, the same job that he did when Peter was here. I think that it's not so much the time it takes to bring a new CFO on board, but to make sure we get one that understands the situation that Zomedica is in with respect to its share price, with respect to its shareholders, and with respect to the opportunities. So, we'll take the time that we need to get the right person for the position. And we're not at all concerned or alarmed.
+
+If we were, frankly, it's relatively common for a company like ours to bring in an interim CFO, if the CFO departs until you get your permanent full time CFO. In our case, we didn't have any issues with our accounting nor our finance team. And so, we're super confident in Mike holding the reins until we bring in a new a new CFO.
+
+You said before you would be profitable by late 2025. I have the recording. Why has it changed to 2026?
+
+Well, we previously said that we would see our first month or quarter of profitability. We would see the first month or quarter of a $50 million annualized run rate by the end of 2025. And that has proven to be a bit aggressive. As you know, for whatever reason, the entire animal health market has slowed down in 2024. And the factors that affect all of the other animal health companies, including the largest ones, certainly affect Zomedica as well. In the second quarter, we did not have the kind of growth that we expected. And so, rather than continue to say, well, no, we still have a shot at it in 2025, I'd rather be realistic, transparent, and provide you with a credible answer. So, it's nothing in particular. It was aggressive to get there by the end of 2025. So, it's just a matter of conservatism on our part to be able to give you the answer even if it's not the same exact answer that we gave you a year ago. It's an honest answer.
+
+Let's see. What else? Here's somebody that would like my email. Happy to give it to you, and I will. In fact, I'll give it to all of you. It's lheaton, lheaton @zomedica.com. And if you have a particular question that you'd like to have me answer or just want to set up a time to talk, happy to do it. We'll not share any material non-public information with anyone, whether it's by email or on phone, but we'll be happy to talk to you and hear your ideas and your input as well.
+
+Is products overcapacity? I'm not quite sure what that means, but we have a lot of capacity to build our products. Our reps can certainly handle the products that are in their bag. And we're not even close to saturating the market. I mean, we're at 1% penetration of our overall total available market. Our – the thing that we have the highest penetration in is with the equine PulseVet. And even there, it's only about half probably in the US market and that's being kind of generous to us. So, plenty of upside opportunity for that as well.
+
+Are you going to ask for reverse split again? Number one investor question on all platforms. I think we heard very clearly earlier this year that our investors would prefer not to execute a reverse split. But even if it meant to bring the share price above potential delisting threshold, we heard that. So, you haven't heard us talk about requesting a reverse split again for, basically for that reason.
+
+And, I think there's no more phone call ones, we'll take one more because we're coming up right on time is well, here's one, Mike should be the new CFO. He did a great job. You're smiling. Let's see, is marketing in China in the horizon? So, I will say that we have a distributor in Hong Kong. In Hong Kong, we have a distributor that sells the Assisi products. And this past year has also begun to take on the PulseVet products. And just recently indicated that they want to start selling VETGuardian. That's Hong Kong.
+
+China itself is a sort of a different – or Mainland China, I should say is a little different. And there, we would go through a more robust distributor. And at this point, we don't – frankly, we don't have one actively engaged, although, we often get requests. So, I think with that, I think we're right at time. So, let me just conclude by saying that, as you've heard, your company's come a long way in the last three years. We expect to go a long way from here. And on behalf of our employees, veterinarians, pet parents, and our pets and yours, thank you again for your support of Zomedica and for your time today. Appreciate it. Operator, thank you.

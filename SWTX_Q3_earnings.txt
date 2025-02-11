@@ -1,0 +1,242 @@
+Thank you and good morning, everyone. Welcome to the SpringWorks Therapeutics' Third Quarter 2024 Earnings Conference Call. This morning, we issued a press release, which outlined our financial and operational results for the third quarter. You can access the press release as well as the slides that we will be presenting today by going to the Investors & Media section of our website at www.springworkstx.com.
+
+Joining me today are Saqib Islam, Chief Executive Officer; Bhavesh Ashar, Chief Commercial Officer; Dr. Jim Cassidy, Chief Medical Officer; Frank Perier, Chief Financial Officer; and Dr. Badreddin Edris, Chief Operating Officer.
+
+Before we begin, I would like to remind you that some of the statements made during the call today are forward-looking statements that are subject to a number of risks and uncertainties. These may cause our actual results to differ materially, including those described in our reports filed with the SEC. You are cautioned not to place any undue reliance on these forward-looking statements, and SpringWorks disclaims any obligation to update such statements.
+
+I will now turn the call over to Saqib.
+
+Saqib Islam
+Chief Executive Officer & Director, Springworks Therapeutics, Inc.
+Thank you, Kim, and thank you all for joining this morning. I'm pleased to share our third quarter results, as well as an update on how we're delivering on our objective to make a profound impact on the lives of patients with devastating diseases. Starting with OGSIVEO for patients with desmoid tumors, we are very pleased with the continued strong momentum of our US launch. In the third quarter, we reported $49.3 million in net product revenue, which represents a 23% growth quarter-over-quarter. This strong and steady growth is driven by robust demand, both from new patient starts, as well as existing patients who are continuing to experience meaningful antitumor activity and substantial improvements in their quality of life on OGSIVEO. As we approach the one-year mark of our launch, we are very pleased with our progress in making OGSIVEO a standard of care systemic therapy for patients with desmoid tumors.
+
+Our commercial execution to-date has been exceptional, and our market research shows we have only reached a small portion of people with desmoid tumors who can potentially benefit from OGSIVEO. In a few moments, our Chief Commercial Officer, Bhavesh, will highlight key metrics from the launch, including those related to patients, prescribers, and evolving treatment trends that inform our view of the significant opportunity ahead of us. In these data, you will see high enthusiasm for OGSIVEO, increasing likelihood and desire to treat, and an addressable patient population that appears to be meaningfully larger than we initially estimated.
+
+Our conviction is further reinforced by insights we have gained from our early launch, and measures we have taken to position ourselves for long-term success. Four key drivers underscore our confidence and the significant opportunity in front of us. First, this quarter, we successfully introduced 150 milligram and 100 milligram strength tablets of OGSIVEO in blister packaging to increase patient convenience, adherence, and renewal times. Second, we now have real-world data that strongly suggests that the addressable patient population is larger than we initially had estimated. Third, we have continued to see very high satisfaction from physicians and expect that the majority will increase their usage of OGSIVEO in the coming year. And fourth, we have continued to generate data on the benefits of longer-term treatment with OGSIVEO. We will review all four of these factors over the course of this morning's presentation, to highlight our increased confidence that we have only scratched the surface of OGSIVEO's opportunity to benefit patients with desmoid tumors, and are poised for success to help this patient community going forward.
+
+Turning to mirdametinib. There is a substantial unmet need for the approximately 40,000 people living with NF1-PN in the United States alone; 30,000 of whom are adults and 10,000 are children. Our NDA for adults and children with NF1-PN was granted Priority Review and launch preparations are on track ahead of our February 28 PDUFA date. Data from our pivotal Phase 2b ReNeu trial form the basis of our NDA, and provide the potential for mirdametinib to become the first FDA-approved treatment for adults with NF1-PN and a best-in-class option for children.
+
+Our team is excited by the opportunity to deliver a medicine that has the potential to provide deeper responses than existing therapies, a manageable tolerability profile, improved quality of life, and a dispersible tablet formation for children and adults unable to swallow a pill. We look forward to continuing to work with the FDA throughout the NDA review process, while simultaneously advancing our commercial preparations in anticipation of a potential approval in early 2025.
+
+In parallel, we are advancing our efforts to bring our innovative therapies to patients globally, with EU regulatory reviews for OGSIVEO and mirdametinib underway. With the potential for both approvals to come in 2025, we have onboarded European commercial and medical leadership to further advance these efforts and prepare to bring our medicines to market. Beyond our work in desmoid tumors and NF1-PN, we continue to advance our emerging portfolio, which Jim Cassidy will provide an update on later in the call. Lastly, we have a strong balance sheet that we expect to fund us through profitability, which we are on track to achieve in the first half of 2026.
+
+I'll now turn the call to Bhavesh to discuss our progress with OGSIVEO for patients with desmoid tumors and our pre-launch preparations for mirdametinib for patients with NF1-PN. Bhavesh?
+
+Bhavesh Ashar
+Chief Commercial Officer, Springworks Therapeutics, Inc.
+Thank you, Saqib. Nearly a year into our launch, OGSIVEO has continued to consolidate and expand its leadership position as the most prescribed systemic therapy for adults with desmoid tumors. In the third quarter, we generated $49.3 million in net product revenue, representing a 23% growth over the second quarter. We've seen strong adoption of OGSIVEO in newly diagnosed patients, and in those seeking their next line of therapy after unsatisfactory outcomes with previous interventions. We're also seeing continued depth of prescribing amongst physicians at Centers of Excellence and an increase in prescribing amongst the community physicians.
+
+As we expected, the month of July was a transition period as patients switched to the 150 and 100 milligram blister packs, which were developed to enhance the patient experience, and improve adherence. While the transition to this new product form caused some short-term delays due to the need for new prescription for some patients, the transition is now largely complete and we expect to see the positive benefits of the blister packs in the coming quarters, including the impact of flat pricing across doses.
+
+In addition, and as is common with many therapies, we experienced some summer seasonality that impacted new patient starts in July. However, we were pleased to see strong demand return in August and September, with each month successively representing our best performance since launch. Importantly, OGSIVEO is providing meaningful clinical benefit in the real-world setting that are consistent with the robust data in our FDA-approved label. And we are seeing limited discontinuations, which we expect will be further supported by the new long-term data from DeFi, which show that, with longer-term use, patients are experiencing further reduction in tumor size, and sustained symptomatic relief, contributing to their overall improved quality of life and desire to stay on therapy.
+
+These positive treatment experiences, combined with our focused commercial execution, and real-time patient identification efforts, make us confident that we are well-positioned for continued growth in the fourth quarter and beyond. As we approach the one-year mark in our launch, we're now in a position to share some learnings and metrics from the past year, all of which increase our understanding of key prescribing and patient dynamics, and underscores our confidence in the magnitude of the commercial opportunity.
+
+First, I'll touch on the patient population. In September, over 800 unique patients filled a prescription for OGSIVEO. As you might recall, we've observed median durations of treatment between three and four-and-a-half years in our clinical trials. While it's still too early to know what our median treatment duration will be in the real-world setting, we are pleased by the low rates of discontinuation we have seen thus far, and believe that the new long-term follow-up data from DeFi will support extended treatment durations and enable patients to continue receiving the life-changing benefits of our medicine.
+
+Now, it's important to note that the number of patients filling a script in any given month, underrepresents the total number of actively treated patients, since not all of them refill exactly on time. The introduction of the blister packs gives us greater visibility into dosing and administration patterns. And given their flat pricing, the blister packs also allow us to capture commensurate value at the dose best suited for each patient.
+
+We're already seeing the timing and predictability of refills improve with the adoption of the blister packs. As of the end of September, approximately 65% of OGSIVEO patients are on the blister pack, and are experiencing the convenience, reduced pill burden, and improved compliance that this product format offers. We expect to complete the transition to the blister packs by the end of the year.
+
+We're gratified with the increasing number of patients we've had the opportunity to serve, but we believe that we've only scratched the surface, and here's why. Growing use of the desmoid-specific ICD-10 code, which was launched right before our FDA approval in October 2023, has better informed our understanding of the overall market size. Based on our prior analysis, we originally calculated that there were 5,500 to 7,000 desmoid tumor patients under active management each year in the US, out of a diagnosed prevalent population of approximately 30,000 patients.
+
+Through August of this year, approximately 10,000 unique desmoid tumor patients have already been identified through the new diagnosis code data. This strongly suggests that our earlier estimate of patients under active management was markedly conservative. Although not every patient captured by these codes may require active treatment immediately, the transparency afforded by a desmoid tumor-specific code enables our team to reach prescribers as they're making treatment decisions. We also know that these desmoid tumor-specific codes have not yet been fully adopted, as is the case with any new ICD-10 rollout, so we expect these numbers will continue to grow and we will revise our estimates accordingly in the future.
+
+Moving on to the physician community. As of quarter end, we see in our data that providers at approximately 420 treatment centers have prescribed OGSIVEO, which is far beyond the approximately 90 Sarcoma Centers of Excellence. Physicians at these centers were our earliest adopters and OGSIVEO is firmly established as a systemic standard of care therapy for desmoid tumors in these centers. One of our key goals has been to reach physicians and patients outside of these centers, and our strong commercial execution, coupled with high awareness and robust demand, has allowed us to broaden our reach to community physicians. As it stands today, 57% of OGSIVEO prescribers are practicing in the community setting.
+
+Lastly, robust and broad payer coverage has been an area of strength since our FDA approval, and remains strong with the introduction of the blister packs. When patients are prescribed OGSIVEO, they have been able to access it efficiently due to strong reimbursement.
+
+Our feedback from physicians started off positive and has only continued to improve. In our market research, we asked physicians how well the treatments they use perform on a number of important attributes. On this chart, you can see that OGSIVEO far outperforms across every attribute, most notably from an efficacy perspective but also along the dimensions of tolerability, improvements in pain, and overall quality of life.
+
+The positive feedback on OGSIVEO's profile translates into strong physician intent to prescribe. Specifically from our research, approximately 90% of prescribers surveyed said that they're likely to use OGSIVEO as a frontline treatment. Second, our research indicates that nearly all physicians surveyed not only expect to continue using OGSIVEO, about 60% of them also expect to increase their usage in the coming year. Collectively, this supports the potential for strong growth ahead.
+
+I would now like to share some evolving treatment dynamics that further underpin our confidence in the desmoid tumor opportunity, starting with overall attitudes towards how and when to intervene for patients with desmoid tumors, which point to the urgency to treat at the earliest sign of progression.
+
+We're seeing increasing levels of alignment with guideline-based treatment, which favors systemic therapy over surgery for patients who require active treatment. However, more recently, we've also observed a growing emphasis on prescribers initiating treatment based on a range of clinical symptoms of progression, not only radiographic evidence of progression. In fact, 87% of physicians surveyed indicated likelihood to use OGSIVEO for symptomatic patients without radiographic progression.
+
+As shown on this slide, 67% of doctors view new or worsening pain; 75% view worsening symptoms overall; and 51% consider decline in function as factors for initiating treatment. Each of these responses is higher than what we saw at this time last year, and we expect that this sentiment will continue to grow amongst the treating community and drive urgency to treat.
+
+As a reminder, OGSIVEO's label covers treatment based on either symptomatic or radiographic progression. So, with this shifting treatment landscape dynamics, we expect that more patients will become candidates for OGSIVEO earlier in the course of their disease.
+
+We also continue to make important progress to bring OGSIVEO to patients outside the US. In the EU, our Marketing Authorization Application is currently under review, and we anticipate approval in the first half of next year. Our plan for the EU launch is to begin with Germany and then expand to other countries. To support these efforts, we've established European headquarters in Switzerland and hired commercial and medical leadership, as well as medical science liaisons, with other key personnel and field team members in the process of being onboarded. We're also conducting comprehensive pricing and market access work in each of these key European markets to facilitate a successful series of launches.
+
+The European market represents an attractive opportunity for us, with a proportionate number of desmoid tumor patients to that in the US. We see a number of characteristics that are conducive to a successful launch. First, prescribers recognize the high unmet need with available treatment options, which are limited, given that there are currently no EMA-approved therapies and access to off-label treatments is not broad. Further, while surgery is considered for some patients, it is selected less frequently for the treatment of desmoid tumors in some European countries.
+
+Our survey work indicates high enthusiasm for the potential approval of OGSIVEO. Based on a blinded profile, more than 90% of oncologists are likely to prescribe and believe that OGSIVEO offers clinical benefits not offered by other therapies. Importantly, several key opinion leaders and sites already have experience with OGSIVEO through DeFi, as well as through our compassionate use program, which has more than 250 active patients. And finally, the care of desmoid tumors is relatively centralized in Europe, enabling the use of an efficient commercial footprint.
+
+Turning briefly to Japan. We've had several successful discussions with the PMDA over the course of the preceding months, and we expect to initiate a bridging study next year. We are very pleased with the commercial performance of OGSIVEO to-date in the US, and are confident in the significant opportunity for growth ahead of us on a global basis.
+
+To recap, just a few of the tailwinds supporting continued strong growth, there is a large and growing patient population, which is larger than our original estimates. And increasing propensity to treat with systemics, based on treatment guidelines. A shift towards initiating treatment based on symptoms, rather than radiographic criteria. Strong physician preference for OGSIVEO across efficacy, safety, and quality of life metrics; as well as long-term data that support durable benefits with continued use of OGSIVEO. We are gratified that OGSIVEO is changing the lives of patients with desmoid tumors and look forward to serving many more patients in the months and years ahead.
+
+Turning now to mirdametinib. We're very excited about the significant opportunity ahead of us to make a profound impact on lives of patients and families living with this chronic and highly debilitating disease. There are approximately 100,000 people in the United States living with NF1. These individuals have a 30% to 50% lifetime risk of developing plexiform neurofibromas, which are tumors that grow along peripheral nerve sheets, and can cause severe disfigurement, pain, and functional impairment. We estimate that there are approximately 40,000 patients with NF1-PN in the US today, 75% of whom are adults who currently do not have an FDA-approved therapy.
+
+As there is no specific demographic leaning for this disease, we estimate that there are a proportionate number of people living with NF1-PN outside of the United States as well. While MEK inhibitors have emerged as a validated class of treatment for NF1-PN, there is currently no standard of care, no formal treatment guidelines, and a highly fragmented treatment landscape with significant use of off-label therapies, even for pediatric patients for whom there is an approved medicine. Our market research shows that only a small portion of NF1 patients have been treated with a targeted therapy, and that this community is desperately in need of new options.
+
+Data from our Phase 2b ReNeu trial support mirdametinib's potential to be a differentiated therapy for both adults and children with NF1-PN. The ReNeu trial results that were presented at ASCO this year and the additional data that will be presented in a few weeks at the Society of Neuro-Oncology meeting, which Jim will share in a few moments, emphasize robust efficacy across both the adult and pediatric cohorts. These results show not only significant reductions in the size of PN tumors with robust objective response rates confirmed by blinded independent central review, but also very deep responses, which we believe represent an important differentiator for us.
+
+In addition, both adults and children experienced early and sustained improvements in health-related quality of life over their course of treatment with mirdametinib, including clinically significant reductions in pain. These outcomes are very meaningful since, in many cases, the primary goal of treatment is to improve pain and other PN-associated morbidities.
+
+Mirdametinib also demonstrated a manageable safety profile in both children and adults, with low rates of Grade 3 related adverse events and low discontinuation rates due to AEs. We believe mirdametinib's tolerability profile supports the potential for extended treatment durations, which is important in a chronic disease like NF1-PN where there are high rates of recurrence after stopping therapy.
+
+Lastly, we believe that mirdametinib's convenient dosing regimen, which provides a built-in treatment holiday and a pediatric-friendly dispersible tablet for oral suspension, could further optimize the patient experience and potentially enhance compliance. With our NDA accepted under Priority Review and our Marketing Authorization Application validated by the EMA, we are moving full steam ahead with commercial preparations. We are leveraging our commercial infrastructure and learnings from the successful OGSIVEO launch to serve patients with NF1-PN.
+
+We've spent the past several years collecting important insights from treating physicians, and working to thoroughly understand the needs of the NF1-PN patient and caregiver community. These efforts have been especially critical on behalf of adult patients who have had to face this devastating disease without an approved therapy. Our disease state education Campaign, entitled Coping Isn't Care, focuses on educating and empowering young adult patients to advocate for themselves and to engage in ongoing treatment. This campaign has received high engagement and positive feedback from patients and physicians alike.
+
+We've also developed a launch plan that focuses on the aspects that differentiate mirdametinib from other systemic treatments, based on our robust efficacy and safety data in patients of all ages. As we did for those with desmoid tumors, we will offer comprehensive patient services through our SpringWorks CareConnection (sic) [CareConnections] program, which is designed to support the unique needs of patients with NF1-PN and ensure that eligible patients have access to therapy.
+
+We've also hired and started training our sales team, which consists of 35 field representatives. Their initial focus will be on the 70-or-so NF clinical network centers across the United States, many of which have experience with mirdametinib from our ReNeu trial, as well as other key treatment sites in both the academic and community setting. These teams will be equipped with comprehensive resources and data to assist with patient identification and enable them to target physicians who are currently managing patients with NF1-PN.
+
+We're incredibly excited by the opportunity ahead of us to serve NF1-PN patients, and we will share more on our commercial plans as we get closer to our February 28 PDUFA date. With that, I'll turn the call over to Jim to discuss recent data highlights and provide an update on our emerging pipeline programs. Jim?
+
+James Cassidy
+Chief Medical Officer, Springworks Therapeutics, Inc.
+Thank you, Bhavesh. I'm pleased to take you through some of our recent data and important updates on our pipeline programs. Starting with nirogacestat, long-term follow-up data from our Phase 3 DeFi trial will be presented in a late-breaking oral session at the Connective Tissue Oncology Society this weekend. These results, utilizing an August 2024 data cutoff and with a median duration on therapy of approximately three years, showed that longer-term treatment with nirogacestat was associated with further reductions in tumor size; an increase in the objective response rate, with additional partial responses and complete responses; sustained improvements in desmoid tumor symptoms, including pain; and a consistent safety profile compared to the April 2022 data cut utilized for the primary results of the trial.
+
+Given the debilitating and chronic nature of desmoid tumors, these results are very important for clinicians and patients, as they provide valuable insights on the longer-term use of our medicine. Other DeFi data to be presented at CTOS include an oral presentation of a post hoc analysis assessing the effect of nirogacestat in subgroups of patients with desmoid tumors who have risk factors associated with poor prognosis, and a poster on patients with beta-catenin and APC mutations. We're very pleased that the growing evidence from DeFi continues to support the significant benefit that OGSIVEO can provide for a broad range of patients with desmoid tumors.
+
+Turning to mirdametinib, we are pleased that our Phase 2b ReNeu trial was recently published in the Journal of Clinical Oncology, and that new data from ReNeu will be presented at the upcoming Society for Neuro-Oncology meeting. The first data set being presented at SNO is a review of patients achieving deep responses on mirdametinib. We observed impressive depth of response in ReNeu for both children and adults, which was confirmed by blinded independent central review. Depth of response is acknowledged by many clinicians and patients to be an important indicator of treatment success, especially when the tumor is in a critical site like the head and neck region.
+
+As highlighted in our abstract, 62% of adults and 52% of children who achieved an objective response had a deep response, which we defined as a greater than 50% reduction in tumor volume from baseline. Patients who had a deep response were on treatment longer than those who did not. And importantly, our data identified no baseline characteristics that predict which patients will achieve a deep response, suggesting that the ability of a patient to stay on therapy is an important factor.
+
+We believe that mirdametinib, with its differentiated tolerability profile and tablet for oral suspension formulation, offers patients a meaningful chance to achieve long-term disease control, tumor shrinkage, and symptomatic improvement. [ph] Also to be (00:29:17) presented at SNO is analysis of patient's health-related quality of life on mirdametinib. Patients with NF1-PN have significant morbidities, which include pain and other symptoms that negatively impact quality of life.
+
+Addressing these symptoms is an important goal of treatment. In the ReNeu trial, patients on mirdametinib experienced clinically meaningful improvements in their health-related quality of life, which emerged early and were sustained during the course of treatment. Nearly half of the patients achieved clinically meaningful improvements at cycle 13, which was the pre-specified analysis point, and improvements were noted in sub-scales, measuring patients' physical, emotional, and social experience as well.
+
+Next, I will cover a few highlights from our earlier-stage programs and collaborations. Beyond desmoid tumors, nirogacestat is being studied as a monotherapy in a Phase 2 trial in patients with ovarian granulosa cell tumors. We now expect the top line data from this trial to be released in the first half of 2025.
+
+The Phase 2 St. Jude-sponsored study of mirdametinib in children and young adults with low-grade glioma is ongoing. Exciting data from 23 patients enrolled in this study will be presented in an oral presentation at SNO, and suggest promising clinical activity in patients with recurrent or progressive low-grade glioma across a variety of MAPK pathway aberrations. Our combination studies of mirdametinib with brimarafenib and lifirafenib are also ongoing, and the next set of data from the monotherapy trial in brimarafenib in patients with MAPK alterations is on track for release in the second half of 2025.
+
+Lastly, the Phase 1 trial of SW-682 in patients with Hippo-mutant mutant tumors is underway, with dose escalation currently ongoing. At the recent Triple Meeting held in Barcelona, we presented two preclinical data sets, elaborating on the potential of SW-682 as both a monotherapy and in combination with mirdametinib in patients with head and neck cancer, and also as a combination partner with KRAS G12C inhibitors in patients with non-small cell lung cancer.
+
+Now, I'll turn over to Frank to discuss our financial results. Frank?
+
+Francis I. Perier
+Chief Financial Officer, Springworks Therapeutics, Inc.
+Thank you, Jim. I'll now summarize a few highlights from our third quarter 2024 financial results. Starting with revenues, we recorded $49.3 million of OGSIVEO net product revenue in the third quarter. This brings our 2024 year-to-date OGSIVEO net product revenue to $110.5 million. Our total operating expenses increased compared to the third quarter of 2023, driven by the commercial activities to support the US launch of OGSIVEO and the anticipated US launch of mirdametinib.
+
+We have a strong balance sheet with $498 million in cash, cash equivalents, and marketable securities as of the end of the third quarter. We believe that our current balance sheet will be sufficient to fully fund our operations through profitability, an important milestone which we expect to achieve in the first half of 2026.
+
+Lastly, we have a durable operating plan designed to fund multiple global product launches, and to enable the continued investment in expansion opportunities across our pipeline. With that, I'll hand the call back over to Saqib.
+
+Saqib Islam
+Chief Executive Officer & Director, Springworks Therapeutics, Inc.
+Thank you, Frank. We are very pleased with our 2024 accomplishments to-date, and have several important milestones ahead of us. The long term follow-up data from our DeFi trial being presented at CTOS are highly supportive of the benefits of extended treatment durations with OGSIVEO in desmoid tumors, and we believe the data from our ReNeu trial being presented at SNO reinforce the differentiated profile of mirdametinib for patients with NF1-PN. Looking ahead, we have multiple readouts in our emerging portfolio expected in the first half of 2025 as well, and are continuing to advance our early-stage discovery programs.
+
+To close, we are very pleased that OGSIVEO has rapidly become the standard of care for adults with desmoid tumors. As we discussed this morning, there is a large and growing population of desmoid tumor patients in need of the transformative benefits that OGSIVEO offers. And our performance to-date represents exceptional progress in terms of market uptake, patient-focused product innovation, physician experience, and data supporting long-term use for OGSIVEO and evolving treatment preferences that highlight the growing importance of earlier intervention and systemic therapies for this disease.
+
+We have strong conviction that we are just getting started in serving this community in the United States and have a significant opportunity on a global basis as well. We are working with urgency to bring mirdametinib to children and adults with NF1-PN in the US, following our PDUFA date of February 28, and have begun our expansion to serve patients in Europe starting next year. In parallel, we are advancing our emerging portfolio to serve additional patients living with devastating diseases. We are confident that our strong foundation will support our continued success as we deliver on our mission to make a profound impact on patients' lives.
+
+As always, I would like to thank the patients and investigators who participate in our clinical trials, our patient advocacy partners and collaborators, and our team of SpringWorkers working on behalf of patients in multiple community settings.
+
+We are now happy to take questions. Operator?
+
+Question And Answer Section
+Operator
+We will now open the call for questions. [Operator Instructions] Please limit yourself to one question. And our first question will come from Anupam Rama of JPMorgan. Your line is open.
+
+Anupam Rama
+Analyst, JPMorgan Securities LLC
+Hey, guys. Thanks so much for taking the question. Could you give us a little bit more color on how the blister pack transitions progressed over 3Q, and how we should think about sort of that remaining 35% progressing through 4Q? And I'm just trying to understand what have been the biggest sort of challenges to the transitions and how you guys have been working through those and getting around some of the challenges? Thanks so much.
+
+Saqib Islam
+Chief Executive Officer & Director, Springworks Therapeutics, Inc.
+Thanks, Anupam. So, listen, we made the choice to make the transition this quarter, knowing that it was going to pose some challenges over the course of the quarter, and we're very happy with where we've come out. And so, what it means – what it meant over the course of the quarter is we saw about a two-week delay for many patients in getting their prescriptions refilled, as they transition from bottle to blister pack refills. And so, over the course of that time, we saw the impact of that largely in July. We finished, as we've said on the call with our strongest month ever in August, and an even stronger month in September. And I think it positions us really well.
+
+Now, the reason we made this transition, quite frankly, for patients, it's a reduced pill burden. It tends for adults – that resulted in improved compliance and adherence, and improved convenience for those patients. For SpringWorks, it improves our tracking of dose reductions, and we've got flat pricing between 100 milligrams and 150 milligrams. And so, where that positions us going forward is to accelerate. And that's what we're seeing over the course of the third quarter. That's what we expect to see going forward. And I think that, as you've mentioned, Anupam, we were two-thirds through that transition with the bulk of the patients who actually were going to benefit from that transition in the third quarter. And obviously, well through that now, and expect to be through it by the end of the year.
+
+Operator
+And our next question comes from Yaron Werber of TD Cowen. Your line is open.
+
+Hi, this is [ph] Jana (00:43:29) on for Yaron. Thanks for taking our question. You mentioned on the call that your ICD-10 data suggests that you've underestimated the desmoid tumor population. Could you elaborate a little bit on this? And specifically, what does your ICD-10 data indicate to you about the size of the overall opportunity in desmoid tumor? Thank you.
+
+Bhavesh Ashar
+Chief Commercial Officer, Springworks Therapeutics, Inc.
+Sure. Thank you for the question. So, just to level-set, right, these 10,000 patients were identified between the introduction of the desmoid tumor-specific ICD-10 codes in October 2023 and August of this year. So, just a little under one year. The number is meaningfully higher than the 5,500 to 7,000 patients that we've spoken about in the past, and we know that's actually an undercount since new codes actually take several years to become fully adopted.
+
+Proof of this fact is that, in our data, we are seeing many desmoid tumor patients being prescribed OGSIVEO, yet still being coded on the old code, which was for the general soft tissue neoplasms D48.1 ICD-10 code. And for a chronic and debilitating disease like desmoid tumors, it's not a matter of if, but when they will get prescribed on therapy.
+
+Operator
+Thank you. And our next question will be coming from Peter Lawson of Barclays. Your line is open.
+
+Peter Lawson
+Analyst, Barclays Capital, Inc.
+Great. Thanks for taking my question. And just on the – thanks for the demand dynamics. Wondering if you could kind of dig in a little bit around that? What does demand look like beyond September, and did you see month-over-month growth in Q3, and how does that continue through Q4? Thank you.
+
+Saqib Islam
+Chief Executive Officer & Director, Springworks Therapeutics, Inc.
+Sure. Thank you, Peter. Listen, I think we are – as we said, we're poised for acceleration from here. And within the quarter, you saw that our largest-ever month was August, and then that was superseded by our largest-ever month being September, within that quarter, adjusting for certainly the decision we made to get in – to do the blister packs, with the impact of that in July.
+
+But if we step back, let's think about where we are in this journey to get to the larger group of patients. We already have 800 unique prescriptions in September. We've been steadily adding a consistent number of patients throughout the year with no reduction, from where we are now to where we were then. And we're starting to see the benefits of the blister pack both in the third quarter, and then going forward here, right, with parity pricing between 100 milligram and 150 milligram dose.
+
+Add to that the fact that this is a larger addressable market than the one we anticipated, and by quite a bit, as we think of 10,000 ICD-10 claims already processed within a year. And that, we believe, is an undercount of that patient population going forward. Combine that with the fact that the physician satisfaction is not just very high but the likelihood to treat is higher. And those – the large majority of those physicians say they expect to be using it more going forward.
+
+Quite frankly, the question here on the treatment use of OGSIVEO for desmoid tumor patients is not if, but when. As patients need the treatment, we believe they will come to us, if not at the outset, we are certainly seeing them steadily being added to our patient rolls over the course of the year.
+
+Now, I think the important element to all of this, so not only are we seeing it's a bigger patient population, physicians are getting more familiar with the medicine [ph] and are much more (00:41:41) likelihood to treat. We have patients on a blister pack, which is going to improve refill rates and certainly be pricing-neutral to us. But on top of that, we are going to be sharing data at CTOS next weekend showing the benefits of continued treatment. So, not only is there a kind of the rational benefit of [ph] OGSIVEO (00:42:04) having reduction in pain, but we are seeing a continued reduction in tumor size, continued benefits on patient-reported outcome scores, increased complete responses, partial responses from the benefit that – from the data that we have from our open-label extension that's now out to three years.
+
+So, put that together, we feel great about the fourth quarter, but even well beyond the fourth quarter, Peter, going forward. Knowing that we made the conscious decision in the third quarter to set ourselves – to set ourselves up for it going forward.
+
+Operator
+Thank you. And our next question will be coming from Corinne Johnson of Goldman Sachs. Your line is open, Corinne.
+
+Corinne Johnson
+Analyst, Goldman Sachs & Co. LLC
+Thanks. Good morning. Helpful commentary on that last question, Saqib. I'm hoping you could expand a little bit on that. It sounds like all the trends are kind of pointing in the right direction. So, is there any reason to expect that trends into October, November, December would reverse what you've seen thus far, which is month-over-month growth every quarter? And can you just help clarify what you're seeing now as we get into this fourth quarter?
+
+Saqib Islam
+Chief Executive Officer & Director, Springworks Therapeutics, Inc.
+Yeah, I see nothing here, certainly over the long-term trend, that does not bode well for us in terms of stacking patients, getting better refill rates, certainly, pricing obviously being set, and now, getting to people showing that benefit to physicians for longer-term dosing. So, the stacking of patients, the acceleration that I see currently, and [ph] so then what I (00:43:33) expect to see, I don't see any abatement there.
+
+Corinne Johnson
+Analyst, Goldman Sachs & Co. LLC
+Thanks.
+
+Operator
+And our next question will be coming from David Nierengarten of Wedbush Securities. Your line is open.
+
+David Nierengarten
+Analyst, Wedbush Securities, Inc.
+Hey. Thanks for taking the question. If we could dig in to the patients being treated at the moment, are they – who come on to OGSIVEO treatment, are they typically active progressors? Are they transitioning from watch-and-wait to active treatment? Are they switching from other treatments? If you could dig into that and if that's been changing over summer to include more maybe more watchful waiting or vice versa, I don't know? But if you could comment on that, that'd be great.
+
+Bhavesh Ashar
+Chief Commercial Officer, Springworks Therapeutics, Inc.
+No, thank you for the question. Obviously, we're very pleased with the number of patients we see at the end of September. Specific to your question, we are seeing patients across the treatment continuum in our data, right. We are seeing newly diagnosed patients. We've seen patients who came off of watch-and-waiting. We've seen switched patients from TKIs, chemotherapy. And as you've seen from the data we presented also, patients who had surgery, have seen regrowth in their tumor. So, we've seen a mix across the whole bag. There is no particular leaning towards any specific group.
+
+Saqib Islam
+Chief Executive Officer & Director, Springworks Therapeutics, Inc.
+So, David, what I would add to that is kind of what I was saying before, is that we really believe it's not a function of if, but when, with this patient group. And as with most rare diseases, with greater awareness, greater familiarity with the medicine from the prescriber community, we expect to see a greater urgency to treat all of the clinical data, including what we shared at CTOS actually, argues for that. And so, what we see – as we've seen in many other situations of rare diseases, you cross that threshold of awareness and you will continue to add patients. And particularly in this disease, patients do go through other treatments before they get to us, and we expect more and more to come to us first.
+
+Operator
+And our next question will be coming from Alec Stranahan of Bank of America. Your line is open.
+
+Alec W. Stranahan
+Analyst, BofA Securities, Inc.
+Hey, guys. Thanks for taking our questions. Bhavesh mentioned limited OGSIVEO discontinuations to-date. Do you have a sense of how prescribers are approaching this and maybe what the patient profiles were, who did discontinue? And as a follow-up, what percentage of patients have had dose reductions, and are maybe drug holidays also being considered for some patients, perhaps in the context of ovarian dysfunction? Thanks.
+
+Bhavesh Ashar
+Chief Commercial Officer, Springworks Therapeutics, Inc.
+Yeah. So, I think rate of discontinuations have – as I've said, have been generally low. And what we'd expect, given the clinical trial experience, indicating that patients are having a positive experience on OGSIVEO, and they're able to stay on therapy, right. So, overall, I think, I'm trying to recall the other part of the question. We've seen fewer than 10% of patients overall who started OGSIVEO discontinue a year, roughly a year into launch, at this point in time.
+
+From a dose reduction perspective, we – with the transparency afforded by the bottles, we did not have full visibility. We're starting to get more visibility with patients switching to the 100- and 150-milligram blister packs. And based on the conversion data we've seen so far, we're seeing a majority of patients are still on the 150 milligram, which actually just portends well from a – being able to tolerate therapy at the maximum dose. But we do see a proportion of patients at the 100 milligram dose as well. We will get much better transparency into that overall mix by the end of Q4 when the transitioning is complete.
+
+Saqib Islam
+Chief Executive Officer & Director, Springworks Therapeutics, Inc.
+And what I'd say, Alec, is you can use the reference of the DeFi study where you had about 40% of patients by clinical protocol dose reduce down. So, as we think of the opportunity for the blister packs going forward, we haven't seen that yet. We'll have greater clarity, as Bhavesh says, with the – once you've got people on the 100 milligram dose. But if that is the amount that goes down, that is the capture that we see possible through the introduction of a blister pack and 100 milligrams. Hope that [audio gap] (00:48:09).
+
+Operator
+And our last question will be coming from Rosy Liao of Guggenheim. Your line is open, Rosy.
+
+Rosy Liao
+Analyst, Guggenheim Securities LLC
+Hi, guys. This is Rosy on for Michael Schmidt. Thanks for taking our question. So, I guess, for OGSIVEO, looking forward to 2025, how should we think about the trajectory for the second year of OGSIVEO launch, relative to the first year, and perhaps the longer-term effects of the new formulation? And I guess, switching things up a little bit. With respect to mirdametinib, with your PDUFA coming up at the end of February, I guess, how should we think about the trajectory there for that launch relative to that of OGSIVEO?
+
+Saqib Islam
+Chief Executive Officer & Director, Springworks Therapeutics, Inc.
+So, thank you, Rosy. And listen, I think I'll come back to where we are. I think we are positioned incredibly well for 2025 and beyond, right. All of the stage has been set. And let me take you through the parameters once again, right. Already, we're talking about unique – 800 unique prescriptions going forward. But what gives us the confidence going forward from here is the fact that it is a larger patient population. We talk about the 10,000-plus ICD-10 claims, which we think is an [ph] under-call (00:54:53). Our – the enthusiasm of physicians with OGSIVEO, we are already the systemic standard of care and we expect that only to improve, with doctors indicating their desire to use it more going forward. We now will be – by the end of the year as we get into 2025 through the blister pack transition, so you'll be able to benefit from better refill rates, the better compliance for patients who are now required to take their pills. And certainly, as I said, parity between 100- and 150-milligram dosing for us.
+
+And then certainly, that benefit of longer-term duration dosing. And now, we've got clinical data, not just patient data, which will clearly benefit from a pain reduction standpoint, but clinical data supporting why those patients are benefiting from continued dosing here with OGSIVEO. So, I think we are in a very good position for 2025 and beyond. And the ability to stack patients, to have a medicine that these patients do need, better awareness of what is out there. And now, with the transition of the blister pack largely behind us, we think we are very well-positioned going forward.
+
+Thank you.
+
+Operator
+And this concludes today's call. Thank you for joining. You may now disconnect.

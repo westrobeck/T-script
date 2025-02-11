@@ -1,0 +1,188 @@
+Thank you, Leonardo. And good afternoon, everyone. Earlier today, TELA Bio released financial results for the third quarter of 2024. A copy of the press release is available on the company's website. Joining me on today's call are Tony Koblish, President and Chief Executive Officer; and Roberto Cuca, Chief Operating Officer and Chief Financial Officer.
+
+Before we begin, I'd like to remind you that during this conference call, the company may make projections and forward-looking statements regarding future events. We encourage you to review the company's past and future filings with the SEC, including, without limitation, the company's Annual Report on Form 10-K and quarterly reports on Forms 10-Q, which identify the specific factors that may cause actual results or events to differ materially from those described in these forward-looking statements.
+
+These factors may include, without limitation, statements regarding product development and pipeline opportunities, product potential, changes in surgical procedure volumes due to various factors and conditions identified in our filings, changes in the regulatory environment and in our sales and marketing strategies, our capital resources and our operating performance.
+
+I'd now like to turn the call over to Tony.
+
+Antony Koblish
+Co-Founder, President, Chief Executive Officer & Director, TELA Bio, Inc.
+Thanks, Louisa, and good afternoon, everyone. Thank you for joining TELA Bio's third quarter 2024 earnings call. Roberto and I will provide our respective updates on the quarter and review our financial results before we open the call up for your questions.
+
+I am pleased to report that we delivered a very strong third quarter that marked a return to growth rates across the portfolio more consistent with what we've delivered historically. Recall, last quarter we had to work through the impact of cybersecurity events that affected some of our hospital customers. That effect appears confined to that period, as evidenced by revenue for Q3 of $19 million, a 26% year-over-year increase. Demand for our portfolio of products was high, with unit sales for OviTex and OviTex PRS growing 39% and 44%, respectively, while our European business grew 67% from the prior-year period.
+
+Global average daily sales exceeded $300,000 per day, and there are now more than 700 hospitals worldwide using our products across a steadily growing GPO contract base. Additionally, we recently announced the closing of a public offering that added $43 million of cash to the balance sheet. As a result, we believe that we are amply funded to continue driving strong revenue growth and reach profitability.
+
+With that overview, let me provide some additional details starting with the dynamic international growth we generated this quarter. Europe's performance has been particularly strong with significant market share gains in UK, Germany, the Netherlands, Austria and Switzerland, along with promising early results in Spain and Portugal.
+
+In Q3, we achieved our first $1 million month in Europe, with OviTex firmly established as a market leader in the UK and the Netherlands, supported by encouraging clinical data presented in journals and at congresses. We are effectively adjusting to Europe's widely practiced and UK-mandated model of patient consent or shared decision-making to guide us in developing tools that better support surgeons worldwide in this essential practice. These tools empower informed choices, aligning with our commitment to patient-centered care globally.
+
+The shift from polypropylene and synthetic mesh towards a more natural repair product like OviTex is steadily gaining recognition for its safety profile and clinical benefits. We have implemented multiple strategic initiatives to leverage recent shifts in the market to position OviTex as the preferred choice for surgeons and their patients when deliberately opting out of plastic.
+
+In hernia and abdominal wall reconstruction, we sold nearly 5,000 OviTex units this quarter, with 60% usage in minimally invasive procedures, reflecting strong adoption of OviTex LPR and IHR products. Our plastic and reconstruction portfolio also saw significant growth, fueled by OviTex PRS LTR topping $6.3 million in Q3.
+
+I am also very pleased to report we are doing a very effective job gaining mind share among surgeons. Q3 was a standout period for TELA Bio at key society meetings, exposing us to thousands of potential surgeon customers. At the American Hernia Society meeting in Chicago, we generated significant awareness around TELA's brand and its products, including by hosting a highly attended lunch symposium featuring global thought leader, Professor Marja Boermeester from Amsterdam, speaking about her experience with OviTex in complex hernia repairs. We were also able to host a unique evening reception with AHS and a couple of hundred surgeons, where Professor Boermeester captivated everyone again with her talent this time as DJ eMBee.
+
+We also continued to drive exposure in the PRS arena and sponsored the welcome reception at Plastic Surgery The Meeting, where we were able to reinforce our commitment to innovation and partnership in plastic and reconstructive surgery to the nearly 2,000 surgeons in attendance at the conference. Our meeting presence also included expanded partnership with Intuitive Surgical at their 360 meeting for hospital and health system leadership, and a symposium at the American Foregut Society meeting, where renowned former Society President, Reg Bell, shared his insights on OviTex.
+
+Commercially, we are set to benefit from a growth strategy that is based on data-driven selling across the whole portfolio. We appointed Greg Firestone Chief Commercial Officer in May, and he wasted no time making important changes to our commercial strategy that have already resulted in a more productive sales organization. Most notably, the deep PRS training and skill assessment that began in the late fall of 2023 and extended through this year has involved our sales forces' balanced selling across both PRS and hernia product lines.
+
+These improvements across our training and development program have also enabled us to streamline our commercial organization with a focus on more productive, quota-carrying sales representatives and less on other auxiliary functions that have historically supported our sales organization in PRS and other highly specialized applications. We are already seeing those benefits and believe the strength of performance in the third quarter is indicative of early success and sustainable growth moving forward, as we continue to evaluate and evolve our teams to support a more efficient commercial organization.
+
+From a financial perspective, we have also made notable progress. We implemented changes in the third quarter that will annualize to approximately $5 million to $10 million in OpEx reduction, with some of the savings expected in the fourth quarter and the full impact manifesting in 2025. These changes in conjunction with the recent public offering that added $43 million in cash to our balance sheet should allow us to reach breakeven while maintaining a solid growth trajectory. I look forward to speaking less about our balance sheet and more about operational performance in the coming quarters.
+
+I'll now turn the call over to Roberto to review our financial results in more detail.
+
+Roberto E. Cuca
+Chief Operating Officer & Chief Financial Officer, TELA Bio, Inc.
+Thanks, Tony. As Tony mentioned, revenue for the third quarter of 2024 grew 26% year-over-year, or nearly $4 million to $19 million, with revenue from OviTex growing 23% and OviTex PRS growing 31%. Gross margin was 68% for the third quarter, compared to 69% in the prior-year period. The decrease was primarily due to a higher charge for excess and obsolete inventory as a percentage of revenue.
+
+Sales and marketing expense was $16.5 million in the third quarter of 2024, compared to $14.5 million in the same period in 2023. The increase was primarily due to increased compensation costs, including increased severance costs and additional consulting and travel expenses. General and administrative expense was $3.7 million, effectively flat when compared to the same period in 2023.
+
+R&D expense was $2.1 million in the third quarter, compared to $2.4 million in the prior-year period. The decrease was primarily due to lower study and development costs, which offset higher compensation and benefits. Loss from operations was $9.4 million in the third quarter of 2024, compared to $10.2 million in the prior-year period. Net loss was $10.4 million in the third quarter of 2024, compared to $11 million in the same period in 2023.
+
+As we've disclosed previously, we still expect operating loss and net loss to be less in 2024 than in 2023, even excluding the impact of the NIVIS divestiture. We expect operating expenses will be lower sequentially in the fourth quarter as cost-saving effort's expected to reduce 2025 OpEx by $5 million to $10 million from annualized first half of 2024 OpEx begin to kick in. We ended the third quarter with $17.3 million in cash and cash equivalents. After the end of the quarter, we conducted a public equity offering, resulting in net proceeds of approximately $43 million.
+
+Turning to the outlook for 2024, with the strong return to growth in the third quarter, we remain on track to achieve our previously issued full-year revenue guidance from $74.5 million to $76.5 million, reflecting growth of 28% to 31% over 2023 across that range. This estimate does not include the potential effects of IV fluid shortages resulting from recent natural disasters. We are carefully monitoring elective procedure volumes for evidence of disruption and to enable potential remedial actions, but as of yet have been unable to detect a meaningful impact.
+
+I'll now hand the call back to Tony for closing remarks.
+
+Antony Koblish
+Co-Founder, President, Chief Executive Officer & Director, TELA Bio, Inc.
+Thanks, Roberto. In closing, Q3 has been an exceptional quarter for TELA Bio, both financially and operationally, as we continue to accelerate our momentum in hernia and PRS, while reinforcing our leadership in innovation and surgeon education. From achieving record-breaking average daily sales to crossing the milestone of our first $1 million month in Europe, we continue to drive growth across markets and deliver on our mission. I have never been more confident in our prospects to establish OviTex and OviTex PRS as the leading technology in soft tissue preservation and restoration. What is most exciting is that we are just getting started, as most of the market remains up for the taking.
+
+Lastly, I want to speak directly to TELA Bio's employees, both here in Malvern and in the field, our commercial team. I'd like to thank you and acknowledge your dedication, tenacity, unity and resilience in overcoming the headwinds in prior quarter Q2 and delivering an exceptional Q3. We thank you very much. It was a great effort and we look forward to continuing the path for future success.
+
+So, with that, I'll now ask Leonardo to open the line for questions. Please go ahead.
+
+Question And Answer Section
+Operator
+Thank you. We will now begin the question-and-answer session. [Operator Instructions] Your first question comes from the line of Caitlin Cronin of Canaccord. Please go ahead.
+
+Caitlin Cronin
+Analyst, Canaccord Genuity LLC
+Hey, guys. Congrats on a great quarter.
+
+Antony Koblish
+Co-Founder, President, Chief Executive Officer & Director, TELA Bio, Inc.
+Thanks, Caitlin.
+
+Roberto E. Cuca
+Chief Operating Officer & Chief Financial Officer, TELA Bio, Inc.
+Thanks, Caitlin.
+
+Caitlin Cronin
+Analyst, Canaccord Genuity LLC
+Yeah. Yes, just to start off, can you provide a little more color on the $5 million to $10 million in OpEx savings? Where are these coming from? And are these savings just for Q4 and 2025, or sustainable beyond that?
+
+Roberto E. Cuca
+Chief Operating Officer & Chief Financial Officer, TELA Bio, Inc.
+So thanks for the question, Caitlin. I'll start off, and Tony can jump in. So the primary source of the savings are head count reductions that we implemented in the first part of the third quarter. So we began more intensive training on PRS selling for our sales force about a year ago at the behest of our now Chief Commercial Officer, Greg Firestone. As our sales force became more adept at selling across the portfolio, so both hernia products and PRS products, and relied less on clinical development specialists to assist them in the PRS sales in specific, we were able to redeploy some of those more expensive clinical development specialists and also reduce the total size of that force as well as some other supportive heads.
+
+So, Greg talks about our sales and marketing organization being broken into doers and helpers, where doers are the people who carry the quotas and everyone else is a helper. So we were able to reduce our reliance on helpers while keeping the focus on quota-carrying sales reps. We believe that those reductions are such that we'll be able to carry them from the 2025 into 2026 as well. And as Greg continues to take a look at the sales organization, there could be other places where we can become more efficient.
+
+Caitlin Cronin
+Analyst, Canaccord Genuity LLC
+Great. And then just turning to revenue for the quarter. Did you recover procedures from the cyberattack challenges in Q2? And how much of the revs in Q3 were related to the clearing of that backlog?
+
+Antony Koblish
+Co-Founder, President, Chief Executive Officer & Director, TELA Bio, Inc.
+Yeah. I mean, I think from our COVID experience, Caitlin, we just never see a backlog load up and then flow through the system. In hernia, it just seems like the procedures fade and then come back to more normal levels. And I think that's what we saw here. There was really no, that we could discern, load up of patients that entered the system into Q3.
+
+I actually think that through the cyber hack problems at the one GPO, those patients might have actually been rerouted to other places perhaps where we don't have customers or we don't have a footprint. So I don't think all of those patients were reallocated, but I think some were. And hernia just seems to be one of those quasi-elective procedures where watchful waiting is part of the treatment algorithm anyway. So, plus or minus a quarter or two for most procedures is probably very much doable in the cycle of treatment. So I don't think we saw much of a load-up from Q2.
+
+Roberto E. Cuca
+Chief Operating Officer & Chief Financial Officer, TELA Bio, Inc.
+Yeah. And I'd add, Caitlin. We don't think that the Q3 was goosed by backlog from Q2 because, in order for that to have happened, you would have had to see a higher rate of procedures at the affected hospitals in Q3 than you saw in Q1. And what we really saw was that the rate was returning to the pre-disruption level.
+
+Caitlin Cronin
+Analyst, Canaccord Genuity LLC
+Got it. Makes sense. Thanks, guys.
+
+Roberto E. Cuca
+Chief Operating Officer & Chief Financial Officer, TELA Bio, Inc.
+Thanks, Caitlin.
+
+Operator
+Your next questions come from the line of Takkinen of Lake Street Capital Market. Please go ahead.
+
+Frank Takkinen
+Analyst, Lake Street Capital Markets LLC
+Great. Thanks for taking the question. Congrats on the quarter. Maybe I was going to start with talking a little bit about 2025. I'm sure there's a little reluctance to speak to too much detail about it, but maybe initial thoughts as we enter the year into 2025, how we're thinking about growth. I think consensus right now is in the 25% range. Any reaction to that? And any thoughts around that growth profile?
+
+Roberto E. Cuca
+Chief Operating Officer & Chief Financial Officer, TELA Bio, Inc.
+So, we haven't provided guidance for 2025 yet. We typically do that on our fourth quarter earnings call. We are guiding to 26% to 31% growth for this year. 25% is a little below that. You do see that as the company matures, the growth rate can throttle back. Obviously, that's just below the lower end of the current range for this year, a year where we had the second quarter disruption.
+
+So, I don't think it's out of line in any direction. But as we complete our own budgeting process internally and then get into the fourth quarter earnings call, we'll provide an update on what our expectations are for next year.
+
+Frank Takkinen
+Analyst, Lake Street Capital Markets LLC
+Got it. That's helpful. And then maybe swinging back to some of Tony's prepared remarks on the international front. It sounds like things are going really well there. What can you extrapolate from that market and apply to the US market, especially in light of some of the synthetic settlements that are occurring and maybe the trend away from synthetics?
+
+Antony Koblish
+Co-Founder, President, Chief Executive Officer & Director, TELA Bio, Inc.
+Yeah. Thanks for that. I think it's an interesting thought experiment. If you look at the UK and the NHS, they've put together a program called Get It Right The First Time (sic) [Getting it Right First Time]. And there is this collaboration that the NHS is driving between surgeons and patients to have almost a consent process or a shared decision-making process on the mode of treatment.
+
+And certainly, mode of treatment for hernia repair is what type of mesh is the patient comfortable with and what kind of mesh is the surgeon comfortable with. And I think this shared decision-making model has been something we have used here in the US quite a bit. And I think we've actually published a little bit of data on that, that shows that if you show all the different samples of product out that are available, whether it's permanent plastic, or temporary plastic, or biologic, or our reinforced tissue matrix, that well into the 90% time, the patient will have a conversation with the surgeon about our product.
+
+So, it seems to be an effective way to get everybody educated on natural repair with the reinforced tissue matrix. And I think we're seeing a little bit of that taking effect in the UK, which is a country that is the size of the UK. And so, if we extrapolate that model becoming more popular and more used in the US with 350 million people, I think it shows that we are heading in the right – we are in the right place for where this market is heading.
+
+I think it's unquestionably clear that there will come a day where permanent plastic is less implanted in the US than it is today. I think it's probably 80% of all implants that go in today, believe it or not, even with some of the litigation and settlements that have played out of considerable size. So, that's going to change over time. I think it's just a natural force of innovation and evolution.
+
+And if a shared decision-making model similar that's coming out of the NHS and the UK gains some traction here, it's going to be great for us. But certainly, the shift towards natural repair is going to be great for us. We're sitting in a good spot over the next, I'd say, five years.
+
+Frank Takkinen
+Analyst, Lake Street Capital Markets LLC
+Got it. Okay. That's helpful. Thanks for taking the questions.
+
+Antony Koblish
+Co-Founder, President, Chief Executive Officer & Director, TELA Bio, Inc.
+Thanks, Frank. [Operator Instructions]
+
+Operator
+Your next question comes the line of Michael Sarcone of Jefferies. Please go ahead. [audio gap]
+
+Michael Sarcone
+Analyst, Jefferies LLC
+(00:21:34-00:21:40) you're seeing so far through the fourth quarter to date.
+
+Roberto E. Cuca
+Chief Operating Officer & Chief Financial Officer, TELA Bio, Inc.
+Sorry, the first part of your question cut out through. Can you repeat it?
+
+Michael Sarcone
+Analyst, Jefferies LLC
+Oh, yeah, sure. Was just curious what kind of trends you're seeing so far in the fourth quarter. And should we expect that OviTex IHR is going to continue to grow pretty rapidly, and we'll continue to see some of those mix shifts drive ASP pressure?
+
+Roberto E. Cuca
+Chief Operating Officer & Chief Financial Officer, TELA Bio, Inc.
+Yeah. So we talked about in our last call what the first month of the quarter looked like because there was some concern about weather disruptions lagging over into the third quarter from the second quarter. We are seeing a similar progression in the fourth quarter, meaning that October is a record-high first month of a quarter for us, suggesting that we're on track to hit the fourth quarter numbers that we need to hit to get to our guidance.
+
+And then the second part of your question was...
+
+Antony Koblish
+Co-Founder, President, Chief Executive Officer & Director, TELA Bio, Inc.
+IHR and price pressure. Yeah. So I think IHR is off to a good start. We're only about a quarter in to that rollout. I think as the volume goes up there, there's going to be some puts and takes, Michael, right? So, IHR volume could bring ASP generally down. But our encouragement of balanced selling is going to mean that we want to go after all of the different hernias that are out there, including ventrals and complex ab walls, which is where we got our start quite successfully.
+
+So it stands to reason that as our ventral and complex users get into IHR, IHR will grow. And as new users develop an interest and start using IHR, hopefully, our ventral and complex products will grow. So there may be a little bit of a put and take on ASP, depending on the ratio of the bigger pieces in the complex and the IHR product. So I think, in general, the ASP will come down as the IHR volume goes up, but there could be some offsets as well.
+
+Michael Sarcone
+Analyst, Jefferies LLC
+Got it. Thanks, Tony. That's helpful. And I guess, you talked about the balanced selling, and you gave some color around sales rep training and productivity. Do you think you can elaborate a little more? Are you basically through a lot of the initial training that you had planned? Or is this going to be kind of a continuous process to improve rep productivity over time?
+
+Antony Koblish
+Co-Founder, President, Chief Executive Officer & Director, TELA Bio, Inc.
+Yeah. I think our motto, Michael, is perpetual training, right? This market is so dynamic and it's changing so rapidly that we have to continue to stay on top of the training. So we've hired a purpose-built training team that is going to focus on both first training, second training, field training, basically Zoom update calls, so essentially perpetual training. This is something that we deeply believe in. It gives us a competitive advantage. We have a lot of innovation in clinical data to talk about that's positive. So we are really going to up the ante on our training going forward.
+
+Michael Sarcone
+Analyst, Jefferies LLC
+Great. Thank you.
+
+Roberto E. Cuca
+Chief Operating Officer & Chief Financial Officer, TELA Bio, Inc.
+Thanks, Mike.
+
+Operator
+Ladies and gentlemen, that concludes today's call. Thank you all for joining. You may now disconnect.

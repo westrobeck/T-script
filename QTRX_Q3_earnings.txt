@@ -1,0 +1,320 @@
+Thank you and good afternoon. With me on today's call is Masoud Toloue, Quanterix's President and CEO. Before we begin, I would like to remind you of a few things. This call will be recorded and a replay will be available for investors on the Investors section of our website. Today's call will contain forward-looking statements within the meaning of the US Private Securities Litigation Reform Act. These forward-looking looking statements include, among other things, statements regarding our preliminary results for the third quarter and the expected impact of the restatement of our historical financial statements. These forward-looking statements are based on management's beliefs and assumptions and on information available as of the date of this call.
+
+We may not actually achieve the plans, intentions or expectations disclosed in our forward-looking statements. Forward-looking statements involve known and unknown risks, uncertainties, assumptions, and other factors that may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements. The risks and uncertainties that we face include that we may have underestimated the scope and impact of the restatement, risks and uncertainties around the effectiveness of our internal control over financial reporting, the risk at our restated financial statements may take longer to complete than expected and other risks described in our filings with the Securities and Exchange Commission.
+
+To supplement our preliminary financial statements presented on a GAAP basis, we have provided certain preliminary non-GAAP financial measures. These preliminary non-GAAP measures are used to evaluate our operating performance in a manner that allows for meaningful period-to-period comparisons and analysis of trends in our business and our competitors. We believe that such measures are important in comparing current results with other periods results and assessing our operating performance within our industry. The preliminary non-GAAP financial information presented herein should be considered in conjunction with and not as a substitute for the preliminary financial information presented in accordance with GAAP. Investors are encouraged to review the reconciliation of these non-GAAP measures to the most directly comparable GAAP financial measures set forth in the presentation posted to our website and in the earnings release issued today.
+
+Finally, any percentage changes we discuss will be on a year-over-year basis unless otherwise noted. Other than revenue and cash balance, the financial results we are discussing today for the third quarter are preliminary only, are based on currently available information, and are unaudited and subject to adjustment included in connection with the finalization of the restatement of our financial statements. We will report our financial results for the third quarter of 2024, which could vary from the preliminary financial statements discussed today in our quarterly report on Form 10-K following the filing of our restated financial statements.
+
+Now I'd like to turn the call over to Masoud Toloue.
+
+Masoud Toloue
+Chief Executive Officer & Director, Quanterix Corp.
+Thank you, Vandana. I'm pleased to report Quanterix continues to outperform, delivering a sixth consecutive quarter of double-digit revenue growth despite market pressures our industry continues to face related to capital funding. We're a technology leader in a uniquely positioned category where continued demand for Simoa ultra sensitivity, our unique business model, and our ability to serve customers has shown resiliency. Revenues of $35.7 million grew 13% this quarter, driven by 36% growth from our accelerator lab, 8% growth from our consumables business, and continued traction with partner enablement in diagnostics.
+
+On a preliminary basis, third quarter non-GAAP gross margin of 53% reflects our disciplined approach to operational improvements, cost and price, where we see continued opportunity for expansion. We are advancing our strategic priorities with a balance sheet of nearly $300 million of liquidity and cash usage down to $3 million in the quarter. Vandana will touch on these results and our reaffirmed guidance in more detail.
+
+As a reminder, our three core growth objectives are: one, high growth menu, specifically maintaining our leadership position in neurology and growing into adjacencies; two, our goal to achieve ubiquity of Simoa in all labs where we are allocating resources to provide our customers with solutions in immunology and oncology. We will achieve this with new menu and higher multiplexed ultra-sensitive protein detection, which we expect will culminate in a new platform sometime in 2025; and three, leading to build the global diagnostic testing infrastructure for Alzheimer's disease.
+
+We're making great progress on growing our menu and expanding into adjacencies. Year-to-date, we have commercialized a total of 16 new products, including several novel multiplexes, with plans to launch another four assays by the end of the year. In neurology, we recently launched a N4PD assay which combines BD-Tau with additional relevant neurology markers. Our neuro-multiplex has performed well, and we expect similar adoption for N4PD.
+
+In the last couple of months, we launched three new Cytokine 4-Plex kits that will support our immunology and inflammation customers performing long-running studies and translational work. With over 3,000 publications, there is a lot being built using our Simoa platform.
+
+I'll discuss two important developments. First, on a recent paper from Nature Medicine, researchers used Quanterix's TDP-43 assay to evaluate the progression of frontotemporal dementia or FTD and ALS. This study showed that plasma extracellular vesicles or EVs, for short, aided in the detection of molecular pathology for these conditions with biomarkers related to repeat tau isoforms and TDP-43. This example is part of a growing body of literature using Simoa to probe EVs and gain new insights into disease pathology.
+
+We believe extracellular vesicles will be an important field of research spanning multiple disease areas and are engaged with leading researchers to evaluate our new products aimed at streamlining EV testing workflows. Second, in an October 16 publication in the Annals of Neurology, Professor Jens Kuhle used Quanterix's GFAP and NfL assays to monitor patients with multiple sclerosis or MS. Professor Kuhle's findings support a rationale for monitoring MS relapse activity with both NfL and GFAP, whereas much of past work has only examined neurofilament light.
+
+This data suggests that in MS patients, an elevation of GFAP after B-cell depleting therapy is associated with an increased risk of continued progression. These findings build upon the growing body of evidence that biomarkers such as NfL and GFAP are key, informative analytes for our customers to monitor when evaluating drug efficacy and disease progression.
+
+Moving to the third pillar in our growth strategy, we continue to progress an Alzheimer's disease testing. Beginning with recent news from the clinical trials of Alzheimer's Disease Conference last month, we announced the launch of LucentAD complete, our multi-marker assay as a lab developed test. As a reminder, this multi-marker combines p-Tau 217 with NfL, GFAP and amyloid β40, amyloid β42 and uses an algorithm to provide a single-patient result.
+
+In over 1,000 patients across three clinical cohorts, our data has shown that this algorithmic test reduces the intermediate region by threefold, while also maintaining overall accuracy above 90%. Demand and interest from our customers has been strong as clinicians want the most comprehensive information for diagnosing patients. This test builds upon our best-in-class single marker p-Tau 217 offering providing results to more patients. In the long term, we expect multi-marker blood-based testing to be the predominant method to diagnose Alzheimer's disease.
+
+We've already begun to see this develop. In September, Mt. Sinai Health System announced they would deploy multiple blood-based biomarkers as early detection tools across primary and specialty care settings. Mt. Sinai will be examining p-Tau 217, NfL and GFAP using our assays through a grant from the Davos Alzheimer's Collaborative. We also continue to engage with the FDA on our p-Tau 217 single-marker submission. We expect to wrap up our clinical validation studies next year. Our FDA submission with multi-marker will use the same clinical trials as their single marker test, and therefore, we expect its regulatory timeline to closely trail our single marker p-Tau 217 process.
+
+Finally, an update on global diagnostics development. With approximately 10 million individuals estimated to have Alzheimer's disease, China has been an early adopter of blood-based biomarker testing. As a country with approved therapies such as LEQEMBI to help treat the disease progression, we view China as an important region to build critical Alzheimer's testing infrastructure.
+
+In September, our partner, UltraDx received Chinese IVD clinical registration for its UD-X system, which uses Simoa technology. UltraDX planned to use the UDX and our highly sensitive Simoa technology for early diagnosis of Alzheimer's and other disease states, thereby making our superior blood-based biomarkers accessible in China, a large market with an aging population.
+
+This is a great example of several global initiatives we're working on to build the infrastructure for non-invasive blood-based Alzheimer's testing. Vandana will now discuss our financial performance.
+
+Vandana Sriram
+Chief Financial Officer, Quanterix Corp.
+Thank you, Masoud. I will now go over our third-quarter preliminary results and our reaffirmed guidance for 2024. Before we go through the financials, I'd like to remind you that the company disclosed the need to restate certain prior period financial statements to correct non-cash errors related to those periods.
+
+I refer you to the schedules attached to our earnings release. These represent our preliminary best estimates of the potential impacts of the restatement, and we leveraged these for our prior period comparisons. Please note that these preliminary figures set forth in the schedules are based on currently available information and are unaudited and subject to adjustment.
+
+We intend to complete the restatement by the end of this year. Actions are also underway to continue to strengthen reporting processes and internal controls. And I'd like to emphasize that there is no impact from this restatement on the underlying strength of the business and on our above-market revenue growth rate. As Masoud described, the third quarter continued our trend of double-digit growth and margin expansion compared to the prior year and sequential improvement in revenue and cash flow.
+
+Total revenue for the third quarter of 2024 was $35.7 million, an increase of 13% compared to the prior year. Accelerator lab revenue was $10.5 million, an increase of 36%, driven by strength in testing services for clinical trials and custom assay development. Consumables revenue was $17.3 million, an increase of 8%, offsetting the decline in instrument revenue, which was $2.4 million, a decrease of 39%.
+
+Similar to prior quarters, the instrument outlook continues to be challenging. However, our differentiated accelerator offerings have created a valuable franchise that has helped us weather a tough cycle and demonstrate double-digit growth, highlighting the continuing demand for our ultra-sensitive Simoa technology.
+
+Other sales of $5.5 million in the quarter includes $1.5 million of license revenue related to diagnostics, an increase of $0.5 million from the prior quarter. Total revenue from our diagnostics enablement partners was $2.7 million.
+
+In terms of revenue stratification, our customer mix in the period was approximately 50/50 between pharma and academia, and 92% of our assay and accelerator sales were for neurology disease states, including testing services for multiple Phase 1, 2 and 3 trials. Revenue from Lucent patient testing was immaterial for the quarter. Our revenue growth was led by North America, which grew 27% due to strong momentum in lab services and from our diagnostic enablement partners. The Europe region grew 2% and the Asia-Pacific region was down 34% in the period.
+
+Moving on to gross margin for Q3. On a preliminary basis, GAAP gross profit and margin were $21.1 million and 58.9% respectively, up $2.2 million and down approximately 100 basis points compared to the prior year. Third quarter preliminary non-GAAP gross profit was $19.1 million, and preliminary non-GAAP gross margin was 53.4%, up $2.8 million and approximately 160 basis points respectively, compared to the third quarter of 2023.
+
+We ended the third quarter of 2024 with $296.1 million of cash, cash equivalents, marketable securities and restricted cash. Cash flow in the period was a net outflow of $3.3 million, which was higher than the prior year period by $1.5 million, but an improvement from the prior quarter by $1.7 million. As we had outlined at the beginning of the year, this includes significant investments in our strategic priorities, assay development, advancing into adjacencies and diagnostics.
+
+We continue to improve core RUO cash burn, as demonstrated by improving margins and continue to expect that the RUO business will achieve cash flow breakeven in the $170 million to $190 million revenue range. With a strong balance sheet, we continue to implement our disciplined capital allocation strategy to support our three-pronged strategic plan.
+
+I will now address guidance for the remainder of 2024. We are reaffirming the guidance we previously issued. We expect full-year 2024 revenue of $134 million to $138 million, representing double-digit growth of 11% at the midpoint. Similarly, we are reaffirming our GAAP gross margin guidance of 57% to 61% and our non-GAAP gross margin guidance of 51% to 55%. Finally, there is no change in our previous cash burn assumption of approximately $30 million for the year.
+
+I will now turn it back over to Masoud for his final thoughts before opening the call for questions.
+
+Masoud Toloue
+Chief Executive Officer & Director, Quanterix Corp.
+Thank you, Vandana. Quanterix continues to deliver despite the industry's macro backdrop for three reasons. First, Simoa sensitivity is unparalleled and its demand robust. Second, we're able to deliver on this demand through instruments or accelerator services, which is a non-CapEx and efficient way for biopharma to receive Simoa data. Third, our translational customers are heavily invested in Phase 2 and 3 studies, and there is no sign of slowing when it comes to neurology related trials. We are at the beginning of a neuro decade.
+
+Today, Quanterix is a tools company growing double digit, differentiated through our resilient business model, uniqueness of Simoa ultra-sensitivity, and clear path to RUO cash breakeven. Breakeven such that we're using our balance sheet to fund and drive large upside opportunity to our existing double-digit tools growth story specifically leading the way in non-invasive testing for Alzheimer's disease.
+
+Operator, we can take some questions.
+
+Question And Answer Section
+Operator
+Thank you. [Operator Instructions] And your first question comes from the line of Matthew Sykes with Goldman Sachs. Thank you. Please go ahead.
+
+Jake Allen
+Analyst, Goldman Sachs & Co. LLC
+Hello. This is Jake on for Matt. Thank you for taking my questions. The first one I wanted to talk about the accelerator lab as this continues to outperform our expectations. How would you characterize the sales in the quarter in terms of new versus existing customers? And for my follow-up, how would you frame the level of utilization from your Alzheimer's diagnostic health system partnerships? And has this trended in line with your expectations? Thank you.
+
+Masoud Toloue
+Chief Executive Officer & Director, Quanterix Corp.
+Yeah. Hey. I think the – obviously, we're very excited about the accelerator business. Accelerator grew 36% this year – I mean, this quarter, it made up about 30% of our business. If you add sort of our consumables and accelerator together, you have what is 80% reoccurring revenues, which is really a unique position of strength in the market.
+
+So, I would say about 70% to 80% of the reoccurring customers in accelerator this quarter, our customers are just coming back to us. In terms of the diagnostics capabilities, while LucentAD testing was immaterial for the quarter and we continue to enable partners around the globe. And we did see some instrument placements and consumables being driven through that enablement strategy for the quarter.
+
+Vandana Sriram
+Chief Financial Officer, Quanterix Corp.
+Yeah, that's right. You know, on the enablement front, we talked about $2.7 million of revenue this quarter. Last quarter, we had reported $700,000. So, these will ebb and flow as we get individual partners stood up, but we're seeing good interest from our partners. We also referenced what Mt. Sinai is doing with our instruments in terms of being able to use them for diagnostics testing. So very pleased with the progress and starting to see Simoa technology spread through our diagnostic footprint.
+
+Masoud Toloue
+Chief Executive Officer & Director, Quanterix Corp.
+Operator, do we have another question?
+
+Operator
+Thank you. Yes. Your next question comes from the line of Sung-Ji Nam with Scotiabank. Thank you. Please go ahead.
+
+Sung-Ji Nam
+Analyst, Scotia Capital (USA), Inc.
+Hi. Thanks for taking the questions, and congrats on the quarter. Maybe just on – I know the diagnostics revenue will be immaterial this year, but as we think about next year without providing guidance, could you kind of give us a sense of how we should frame in terms of puts and takes and what different scenarios could look like from a diagnostics – how that could contribute to your overall top line growth next year?
+
+Masoud Toloue
+Chief Executive Officer & Director, Quanterix Corp.
+Hi, Sung-Ji. Yeah. That's going to be an important question we're going to answer more towards the beginning of 2025. And obviously, it's going to be directly related to patient utilization of LEQEMBI and Kisunla and how that ramps. And so, we were just at the CTAD conference last month and part of the kind of the situation with this ramp is really accessibility to PET scans and how PET is inaccessible in rural areas, uncertainty and eligibility for the therapy and then obviously infusion accessibility.
+
+We think, obviously, that blood-based markers changes this. We can really reduce cost versus PET and overall streamline diagnostics and that should help with more people getting access to the therapies. So, I'd say – and to your question is really kind of correlated to how the therapies ramp in the year. We're seeing excitement. We're seeing obviously a lot of utilization of our markers in the clinical trials for anti-amyloid and anti-Tau trials that are happening. And we'll comment at the beginning of the year on how much of that we think is diagnostic testing related to the therapy?
+
+Sung-Ji Nam
+Analyst, Scotia Capital (USA), Inc.
+Got you. Thank you for that. And then just on the biomarkers. Congratulations on launching the multi-panel assay. And you mentioned that you expect the LucentAD Complete to be used predominantly in the future over the single-marker assay. Just kind of curious, I know you mentioned kind of the threefold improvement or reduction in terms of the intermediate zone. And was wondering, could you remind us again what the difference is between this multi-marker panel versus your own 217 single marker assay from being able to kind of narrow this intermediate segment of the diagnosis?
+
+And then also kind of maybe you also presented data on the BD-Tau assay and was wondering kind of how all these different assays will fit together in the future. Do you expect the BD-Tau to be used more for kind of the new therapies under development? Or do you think the BD-Tau could also be utilized for LEQEMBI and Kisunla as well? Thank you.
+
+Masoud Toloue
+Chief Executive Officer & Director, Quanterix Corp.
+Yeah, sure. So starting with your question on LucentAD Complete, so LucentAD Complete is a significant improvement on the single-marker test. And that our single-marker test LucentAD is a 217 marker. And then the LucentAD Complete is not only 217, but it adds the NfL, GFAP, Aβ40 and Aβ42. So it's a five-marker test with an algorithm that takes a look at the five markers and provides a single patient score.
+
+Now, when we use the additional markers on the algorithm, we're able to reduce the intermediate zone by threefold, which essentially provides a more definitive result to a higher number of patients versus any sort of single-marker test. As a comparator, if you look at immunoassay single-marker test in the industry, they typically have intermediate zone that's 20% or up to 30%. And so this is a market improvement for patients. And we've been seeing lot of excitement about the test at CTAD, where we launched it and also in a follow-up conversations after CTAD. So, we're excited about that.
+
+And then I think Sung-Ji, your second question was around BD-Tau. And so, BD-Tau, we launched a quarter ago and now recently we added BD-Tau in a 4-Plex test. And really where we're excited about these tau proteins is being able to differentiate tau variants from what's happening in the brain versus peripheral sources. And we think that is going to be important in staging the tau pathology but also important for monitoring patients in clinical trials, and ultimately, could enter into some of our multiplexes in diagnostics. So, I would say it's still very much a research marker to be used in research applications and clinical applications, but there are potential for diagnostics in the future.
+
+Sung-Ji Nam
+Analyst, Scotia Capital (USA), Inc.
+Great. Thank you so much. We'll get back in the queue.
+
+Operator
+Thank you. Next question comes from the line of Kyle Mikson with Canaccord Genuity. Thank you. Please go ahead.
+
+Kyle Mikson
+Analyst, Canaccord Genuity LLC
+Hey, guys. Thanks for the questions, and congrats on good results. So first, I want to talk about the product line for revenue. I think it was touched on earlier, but specifically just this kind of interplay between instruments and accelerator. I think instruments was down 34% in the quarter year-over-year. I think accelerator was up conversely like kind of 36% or so, any instrument revenue slip into accelerator in 3Q? And how does that kind of like that exchange that overlap progress over the next several quarters, let's say, given macro kind of dynamics changing and evolving? Thanks.
+
+Vandana Sriram
+Chief Financial Officer, Quanterix Corp.
+Yeah. So, let me address the first part of the question and then we'll talk about how we expect the macro to evolve. So, at this point, there's definitely that toggle of instrument versus accelerator. We've seen that play out for almost six quarters at this point now. And what we've seen really is the reduction in the instrument revenue is more than offset by what we're pulling through from an accelerator perspective.
+
+So, that toggle has in the short term worked in our favor. In the longer term, of course, we would like all our customers to buy instrument and buy consumables with that, et cetera. So, with that backdrop, again, very pleased with how accelerator has performed. It's not just the benefit of the instrument problem, it's also the fact that there's a lot of activity from a research and trial perspective, that accelerator is getting more than its fair share.
+
+In terms of how we see this move forward in the future, we, like others, would love to see instruments come back. At this point, we haven't seen any concrete signs of it. So, I think it's going to be a bit of a slow recovery here. From the perspective of accelerator, though, we do expect that even when instruments come back, this will continue to be a double-digit grower for us just based on all of the work that we're seeing on assay development as well as in terms of trial work. So, in the future, we would love to see a place where instrument go back to their double-digit growth. But in that scenario, we also believe that accelerator could continue to grow double digit.
+
+Kyle Mikson
+Analyst, Canaccord Genuity LLC
+Okay. That's interesting, Vandana. And maybe just pushing on the instrument kind of theme, it's been flat past three quarters or so, as you predicted. Next quarter, I assume it's kind of a similar outlook probably just – and we're waiting for the restatement, but I'm sure it's going to be relatively flat. Maybe early 2025 and throughout the year next year, are you assuming any gradual improvement or like kind of inflection at some point or maybe should we assume kind of steady interim revenue levels or something like that and then maybe picking up towards 4Q?
+
+Vandana Sriram
+Chief Financial Officer, Quanterix Corp.
+Yeah. So, it's a little early to talk about 2025. For Q4, our early indicators are that it'll look a lot like – instrument revenue will look a lot like what Q3 look like. For 2025, it's a little early for us. We haven't seen any signs to [ph] feel (00:31:30) that. So, as we get into the early part of the year, we'll give more color on that.
+
+Kyle Mikson
+Analyst, Canaccord Genuity LLC
+Okay. And I parse out consumables as well because looks like that kind of missed our model but I can come back to that offline. Maybe just for LucentAD Complete, just in terms of the reimbursement next steps, Masoud, what's next from a commercial payer perspective? What can you do in the meantime with them, I guess, and from a Medicare perspective like the [ph] atorvastatin (00:31:58) look super favorable for these AD detection tests from like a payment perspective. How are you thinking about that, I guess, going forward? And then how will you scale with, I guess, next year, could you use partners? Is it mainly going to be with the sales team? Just walk through that one more time. Thanks.
+
+Masoud Toloue
+Chief Executive Officer & Director, Quanterix Corp.
+Yeah, Kyle. So I think the first point I want to make on LucentAD is that from a reimbursement perspective, if you look at single markers, there was the obviously the $17 decision that came out for a single marker. We think that ultimately that probably ends up at $90 to $130. Regardless of that decision, our goal had always been that the company was going to focus on a four- or five-marker test. And with LucentAD, we have a five-marker test that we're really focused on clinical utility studies, the ongoing clinical trials that are going, which we expect we'll complete in 2024 and really provide us with the data for an LCD and submission for an ADLT sometime in 2025. So that that's sort of the reimbursement timeframe that we're looking at. And because it's a multi-marker test, we expect something materially larger than what was decided for single marker.
+
+Kyle Mikson
+Analyst, Canaccord Genuity LLC
+Okay.
+
+Masoud Toloue
+Chief Executive Officer & Director, Quanterix Corp.
+As I was answering that, Kyle, I forgot your second question.
+
+Kyle Mikson
+Analyst, Canaccord Genuity LLC
+Yeah. It's kind of like... [indiscernible]
+
+(00:33:41)
+
+Masoud Toloue
+Chief Executive Officer & Director, Quanterix Corp.
+...partners. Yeah. [indiscernible]
+
+(00:33:43)
+
+Kyle Mikson
+Analyst, Canaccord Genuity LLC
+How to scale basically, yeah, you think because now we're at an important time with budgets and so forth. Are you going to build a team out here or are you going to use partners or something like that? So, yeah. Thanks.
+
+Masoud Toloue
+Chief Executive Officer & Director, Quanterix Corp.
+Yeah. Our strategy, Kyle, has been both. One of the key things that we continue to reiterate is that our focus is building on just to build the global infrastructure for testing. And that means that we're not going to do it just by ourselves, right. So, we continue to sign hospital partnerships.
+
+We continue to enable folks using our reagents. And we want to get this test out there, not just in the US, but globally. And we talked about some of our initiatives globally. At the same time, we're going to have a lot of capacity here in Boston. We have 24 HD-X systems. We have a superb team in the accelerator group which is our CLIA lab over here and significant capacities to ensure access to the test.
+
+Kyle Mikson
+Analyst, Canaccord Genuity LLC
+All right. That was great. And then just one final one kind of like a forward-looking question on diagnostics. What are some of the kind of like proof points that you're looking for next year, like in 2025 that's going to help you if we decide to accelerate or pull back on that investment in that business? You know, I understand it's immaterial revenue most likely for the near term, but it just – kind of like the definition of success for you in that diagnostics business in the near term could be interesting to hear.
+
+Masoud Toloue
+Chief Executive Officer & Director, Quanterix Corp.
+Yeah. So, I want to make a clear point that now that there are two therapies approved. A number of trials and excitement for additional therapies is pretty significant, pretty material. And we're seeing that with our 36% accelerator growth rate. People are coming to us for these Phase 1, 2 and 3 trials. And I haven't seen this demand in the market for these neurology trials before.
+
+We think that's robust, and they'll continue to be robust. I think the key driver for diagnostics will come down to the two therapies that are approved. And if we start to see that ramp, I expect the demand for blood-based testing to also similarly ramp. So, obviously, we're paying very close attention to that as we think that a noninvasive blood test will streamline the whole diagnostics process and obviously is more scalable and accessible in the market.
+
+In terms of resource utilization, we've talked in prior calls about our RUO business becoming cash flow breakeven between $170 million and $190 million revenue. And our plan is to achieve that and use our balance sheet for investments like diagnostics. Key items for continuing to invest, obviously, reimbursement is a critical part of that. We have high ambitions on what this reimbursement rate will be for LucentAD, as it's a much more sophisticated test than a single marker and much more accessible than PET. And then, obviously, the number and demand in the market for the current two therapies on the market. So, I would kind of view those two important proxies for our gauging investment and capital allocation towards diagnostics.
+
+Kyle Mikson
+Analyst, Canaccord Genuity LLC
+Great. Okay. That's helpful. Thanks, Masoud and Vandana.
+
+Masoud Toloue
+Chief Executive Officer & Director, Quanterix Corp.
+Thanks, Kyle.
+
+Vandana Sriram
+Chief Financial Officer, Quanterix Corp.
+Thank you.
+
+Operator
+Thank you. And next question comes from the line of Dan Brennan with TD Cowen. Thank you. Please go ahead.
+
+Kyle Boucher
+Analyst, TD Cowen
+Hey. Good afternoon. This is Kyle on for Dan. I want to go back and maybe follow up on a question that was asked earlier. So, now that you have data on p-Tau 217, multi-marker in BD-Tau, all showing good accuracy. Do you see specific use cases for each assay, or do you think the one that has the highest accuracy and lowest intermediate zone will take essentially all the potential business? Thank you.
+
+Masoud Toloue
+Chief Executive Officer & Director, Quanterix Corp.
+Yeah. Kyle, first, I think an important factor to consider is that with the Simoa platform, because it's a ultra-sensitive platform. All patients coming to see a neurologist will get a result. And that can't be said for other less-sensitive platforms. So, I think that's the first key differentiator factor when a clinician tries to make a decision between different immunoassay systems.
+
+I think the second thing comes down to this intermediate zone. When you add the multi-marker test, the five markers with this algorithm, you're giving a more definitive result, and hopefully less follow-on invasive testing. And that's not just only good for decision making, but it's also much more accessible and scalable for a patient making the decision. So that's like another really second key pillar of why you would use a Simoa platform and our multi-marker test.
+
+And then, maybe the third is that, look, I would say two years ago, p-Tau 181 was interesting. We've since launched p-Tau 217 and pretty short after we launched a five-marker test. And if you – if a customer or a clinician chooses the Simoa platform, they know that we have really exciting markers coming down the pipeline. And you can expect an innovative company delivering innovative products to a clinician and to a laboratory who is looking to make that investment.
+
+Kyle Boucher
+Analyst, TD Cowen
+Got it. And then maybe as a follow-up, I guess, in your conversations with customers, is the larger gating factor for clinical revenue therapy uptake, performance and availability of blood-based assays? Or is it really something else? Thank you.
+
+Masoud Toloue
+Chief Executive Officer & Director, Quanterix Corp.
+So it was interesting. This was item that was discussed. I think that therapy adoption really is gated by sort of this inaccessibility to PET. Obviously, there's an infusion uncertainty and eligibility, and these are all sort of key gating factors. But ultimately testing and diagnostics is an important to have that infrastructure there.
+
+And so you have this chicken and egg and you need the infrastructure to be out there so that folks can see if, hey, that will even be – is the therapy right for me, or am I even a patient that has the amyloid plaques? We think blood is the first line test for that, and that's going to help clinicians make a choice. And it's definitely a key component for scaling the therapy and getting therapy to more patients.
+
+Kyle Boucher
+Analyst, TD Cowen
+Got it. Thank you.
+
+Masoud Toloue
+Chief Executive Officer & Director, Quanterix Corp.
+Thanks, Kyle.
+
+Operator
+Thank you. And next questions come from the line of Puneet Souda with Leerink Partners. Thank you. Please go ahead.
+
+Puneet Souda
+Analyst, Leerink Partners LLC
+Yeah. Hi, Masoud. Thanks for the questions here. So, first one on the rule in, rule out test, can you elaborate a bit on where the multi-marker assay stands today versus the rest of the broader market? And do you think this is an assay where you can ultimately classify patients all the way from late stage to screening? And why is it – just help us understand why is it harder for other immunoassay platforms to be able to do this?
+
+Masoud Toloue
+Chief Executive Officer & Director, Quanterix Corp.
+Yeah. Thanks, Puneet, for the question. LucentAD Complete is a five-marker test with an algorithm. The majority or almost all of the other systems, immunoassay-based systems, diagnostic systems out there will look at a single marker at a time or maybe at most two markers. And so, this is the first immunoassay test that looks at five markers, uses an algorithm to provide a answer for Alzheimer's disease.
+
+So, I think that's a key, unique factor. And when we looked at single-marker test in the market, you have this large intermediate zone with the multi-marker test that zone has reduced significantly. And so, it makes for a much better test. Two years ago when we were developing this test, we always assumed and have planned that a multi-marker test is ultimately going to be the best test for patients when it comes to a blood-based test.
+
+Puneet Souda
+Analyst, Leerink Partners LLC
+Got it. That's helpful. And then maybe for Vandana, I mean, just given the efforts ongoing for both – I mean, the FDA study, current study is ongoing FDA approval and commercialization efforts underway. Just can you elaborate how should we think about OpEx in 2025?
+
+Vandana Sriram
+Chief Financial Officer, Quanterix Corp.
+Yeah. Thanks for the question, Puneet. When we guided the beginning of the year, we had taken into account, all of the costs that would go into getting through all of the studies as well as all of the other efforts requires to commercialize the tests. So, I would say the run rate that we've had the last couple of quarters for OpEx is representative of where we expect to be for this year.
+
+Getting into next year, we expect the study costs to be somewhat constant. We've been planning for that all along. And then on the commercial side, we have the ability to move as fast or as slow as the market develops. So, we do expect that in total, there will be additional investment next year in diagnostics on the OpEx side. But we do have the flexibility and the ability to move that very quickly or very slowly, depending on how the market develops. So, we'll watch for the leading indicators that Masoud talked about. And if at that point it makes sense to step up investment, we'll do that or vice-versa.
+
+Puneet Souda
+Analyst, Leerink Partners LLC
+Okay. Got it. And then this is a broader question, Masoud, but just wondering what you're seeing among your academic customers versus your biopharma customers in the core research-use only assays market? There've been a number of questions about the academic, just given some nervousness simply around the political environment and NIH concerns as well. So just wondered, wanted to get a view of what you're seeing from the academic customers. Thank you.
+
+Masoud Toloue
+Chief Executive Officer & Director, Quanterix Corp.
+Yeah, Puneet. So, half of our business is academic and half on the pharma side. And that was also very similar make up this quarter. Yeah, we're seeing excitement from academia around some of the new assays, and we think we have an install base that has significant underutilized capacity. And our goal is with these new assays is to have the existing systems that are out there in academia being utilized more.
+
+And so, one way to think about this is that if you look at sort of the average throughput of our installed base and you compare it to our accelerator lab, we output 5 to 8 times more samples than the average in the install base. So, obviously we want these systems to be running more, and it's not a coincidence to achieve that, we're highly focused on new menu and these systems running more frequently. So, good progress from the team. We did 16 new assays this year. We're going to have 20 by the year-end and we'll see the benefits of this pull-through more in 2025 and that's likely to have an impact specific towards academic or academic customers.
+
+Puneet Souda
+Analyst, Leerink Partners LLC
+But just clarifying that, did you see softness from the academic customers and within your instrumentation sales?
+
+Vandana Sriram
+Chief Financial Officer, Quanterix Corp.
+Yeah, I think the instrument softness was really across the board. Both academic and pharma was slow compared to the prior year on instruments.
+
+Puneet Souda
+Analyst, Leerink Partners LLC
+Got it. Okay. All right. Thanks, guys.
+
+Operator
+Thank you. And your final question comes from the line of Thomas DeBourcy with Nephron Research. Thank you. Please go ahead.
+
+Thomas DeBourcy
+Analyst, Nephron Research LLC
+Hi, guys. Just I guess the question related to some of your cost efforts that have been going around Simoa Advantage PLUS, and I guess, you're refreshing of existing assays as well as adding new assays. Has that contributed to, I guess, the improved gross margin? And just maybe related to the research use only side, does that continue as you look out the next couple of years in terms of obviously better lot, a lot consistency, but then also, maybe also improved cost in terms of manufacturing of consumables?
+
+Vandana Sriram
+Chief Financial Officer, Quanterix Corp.
+Yeah, I can take a stab at this one. So, to your first question on how we're doing in terms of transition to Advantage PLUS, as a reminder, the transition to Advantage PLUS helps us from a margin perspective, but is a process that we are taking – that is taking place with our customers in a very thoughtful manner. So, this quarter, about 20% of our consumable sales were on the new Advantage PLUS lines were eligible. So that's a good transition. Again, it's not a demand signal, but it does help us some on margins.
+
+And on that, we continue to make positive development for margins in terms of both managing the effects of the transformation, and at the same time being able to introduce new products. So all of the NPIs that Masoud talked about, all of those do cause a little bit of up and down in the margins because they're brand-new products that they're making for the first time. But as those stabilize and as it becomes normal for us to introduce NPIs every quarter, we expect that will help our margins substantially a lot as well.
+
+Thomas DeBourcy
+Analyst, Nephron Research LLC
+Great. And then just one other question. You mentioned additional biomarkers related to dementia, which obviously, highly related to Alzheimer's. If the patient doesn't have Alzheimer's, ALS, and multiple sclerosis, do you see potential diagnostic opportunities down the road from some of these biomarkers that you're working with pharma developing?
+
+Masoud Toloue
+Chief Executive Officer & Director, Quanterix Corp.
+Yeah, absolutely. One of the research highlights that we did was with Neurofilament light, and we think Neurofilament light is going to be important for remitting relapsing MS. And I think some of the studies that we highlighted that combining NfL and GFAP are going to be important for monitoring disease progression. And there's been extensive effort with our collaborators to build a research normative database for the purpose of normalizing and taking a look at someone's normal levels of NfL and GFAP.
+
+So, I think that this is just the beginning of markers. If you look at some of the big growing trials, almost all of the neuro trials have a neuro marker that's a tertiary endpoint or endpoint that's looking at efficacy. And I expect this to be a pipeline for diagnostic testing in the future.
+
+Thomas DeBourcy
+Analyst, Nephron Research LLC
+Great. Thank you very much.
+
+Masoud Toloue
+Chief Executive Officer & Director, Quanterix Corp.
+Thanks, Thomas.

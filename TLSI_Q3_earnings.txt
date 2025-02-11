@@ -1,0 +1,295 @@
+Thank you all for participating in today's call. Joining me today from TriSalus Life Sciences are Mary Szela, President and Chief Executive Officer; and Sean Murphy, Chief Financial Officer. Earlier this morning, TriSalus released financial results for the third quarter ended September 30, 2024. A copy of the press release is available on TriSalus' website.
+
+Before we begin, I would like to remind you that we will be making forward-looking statements based on our current expectations and beliefs. These statements are subject to certain risks and uncertainties, and our actual results may differ materially. Please see the risk factors in our SEC filings for additional details.
+
+And with that, I'll turn the call over to Mary.
+
+Mary T. Szela
+President, Chief Executive Officer & Director, TriSalus Life Sciences, Inc.
+Good morning, everyone, and thank you for joining us today. I'm pleased to report that TriSalus has delivered a quarter of strong growth, and that we continue to execute the key initiatives that will enable us to continue this upward trajectory. With our expanding market footprint, innovative product launches and strategic clinical advancements, we're on track to drive sustained growth of 50% annually for the foreseeable future.
+
+For Q3, TriSalus reported a total revenue of $7.3 million, reflecting a 42% growth compared to the same period in 2023. Several key factors have driven this growth: new account activations, deeper penetration within existing accounts, continued education around our permanent TriNav-specific reimbursement, and compelling clinical data supporting the use of TriNav in treating complex patients.
+
+On the commercial side, TriSalus has been steadily expanding its footprint across all high-volume markets. By the end of the year, we expect to have approximately 50 commercial personnel via a mix of sales and clinical specialists. Our goal is to establish comprehensive coverage of high procedure markets. This expansion is central to our confidence in sustaining 50% annual growth over the coming years. I'll turn the call over to Sean Murphy, our Chief Financial Officer, for a detailed review of our financial results later in the call.
+
+Our commitment to engaging the interventional radiology and hospital communities remain strong. We continue to share the growing body of clinical evidence, showcasing the value of our PEDD technology in delivering more targeted therapy to tumors, especially in complex patient cases.
+
+As we approach the year-end, I want to draw your attention to the important catalysts we're focused on: the launch of TriNav Large; clinical initiation of our PROTECT registry trial for the use of TriNav in multinodular goiter by the end of the year; and new HEOR data that includes an additional year of TriNav launch outcome, further substantiating the efficacy of TriNav in treating complex patients. This comprehensive analysis will be published in the first half of 2025, with key highlights to be discussed later in my opening remarks.
+
+TriNav 2.0 to launch in the first half of 2025, Phase 1 clinical trial data in uveal melanoma liver metastases and our initiation of partnership discussions, final completion of 13 patients enrolled in PERIO-03, with data summary and next steps determined in the second half of 2025. And lastly, significant reduction in expenses and cash burn with the goal to become EBITDA positive in 2025.
+
+So let me begin with our product launches. We're excited to announce that the launch of TriNav Large and TriGuide Catheter is underway and going well. This launch signifies our commitment to addressing the embolization challenges of complex patients and extends the TriNav product portfolio to offer interventional radiologists the full suite of pressure-enabled drug delivery solutions for all treatment approaches.
+
+The current TriNav device addresses vessel diameters up to 3.5 millimeters for segmental and subsegmental approaches. A significant number of cases are lobar procedures and require larger diameter device, which provides full access to the $375 million chemo and radioembolization market.
+
+Before launch, we conducted an extensive market evaluation over six months and received highly favorable feedback on its performance, trackability in navigating complex vascular anatomy, improved tumor response, reduced complications and resource utilization.
+
+Additionally, we are on track to launch TriNav 2.0 in the second half of 2025, our next-generation device designed to offer enhanced tracking abilities for more precise navigation and placement. This advanced version builds on the original TriNav technology, providing clinicians with improved control during procedures. With its enhanced trackability, TriNav 2.0 aims to elevate procedural accuracy and efficiency, further supporting optimized patient outcomes.
+
+In parallel, with our commercial and new product efforts, we're advancing the DELIVER clinical program. This program is designed to demonstrate enhanced efficacy and safety across a broad spectrum of complex difficult-to-treat patients through investigator-initiated studies, further underscoring the impact of our PEDD technology.
+
+A central theme of this program will be to investigate innovative approaches to highlight the impact of improved therapeutic delivery and enhance safety through normal tissue-sparing when using the TriNav system in these complex patients. We aim to explore the potential of combination therapies with transarterial bland, chemo and radioembolization delivered via the TriNav system, which we will expect will demonstrate enhanced efficacy and overcome resistant mechanisms in difficult-to-treat cancers.
+
+We define these complex patients as though involving one or more of the following. Previous embolization and therapy, multifocal, diffuse or bilobar liver lesions, this is significant tumor burden; large tumors greater than 8 centimeters in size; multiple comorbidities, including liver dysfunction; and hypovascular tumors, which means they have poor blood supply.
+
+Now, on last quarter's call, I introduced a new target patient population using TriNav to treat multinodular goiters. The PROTECT study, which stands for Pressure Enabled Retrograde Occlusive Therapy with Embolization for Control of Thyroid Disease, has been initiated by Dr. Juan Camacho and Dr. Ralph Tufano at Sarasota General Hospital (sic) [Sarasota Memorial Hospital. The goal is to enroll 100 patients across five leading academic sites to demonstrate enhanced efficacy, reduced side effects and lower cost of treatment versus surgery.
+
+Multinodular goiter is quite common, with approximately 5% of the adult population found to have nodule. Some publications report a prevalence of up to 50% in individuals over the age of 50. We estimate that this procedure expands the potential addressable market for TriNav by approximately 50,000 procedures, representing an incremental market opportunity of $400 million. In addition to focusing on the liver embolization in pancreatic markets, our market opportunity for technologies is now over $1 billion. Additionally, this new procedure utilizing TriNav is eligible for the same HCPCS reimbursement code, allowing for seamless integration into current billing practices.
+
+Today, these patients with more extensive numerous nodules are referred to surgery due to symptoms of pressure, dysphagia, choking sensation or airway obstruction. Risks of a thyroidectomy include hypothyroidism, hypoparathyroidism, recurrent laryngeal nerve injury and bleeding. Ablation is also used, but typically restricted to the treatment of single nodule. Bland embolization with TriNav has several significant benefits since it is minimally invasive, uses an injection of particles to create ischemic injury to the thyroid and nodule, and allows the patient to have minimal downtime.
+
+We also intend to open additional DELIVER studies in the first half of 2025, all aimed at elucidating the benefits of TriNav technology in other complex patient types. We are enthusiastic about the DELIVER program's potential to highlight our technology's unique benefits and provide the clinical information physicians need to confidently select them for their patients.
+
+Additionally, we look forward to providing an update to another year of data in our HEOR study looking at real world data, capturing both safety and clinical complications for TriNav as compared to conventional catheters over the 2020 to 2023 time period. This study adds an additional year of TriNav utilization from a large 300 million patient dataset covering 98% of all US payers.
+
+These updated data, which compared key characteristics in clinical complication rates of 603 PEDD patients with those of 16,210 non-PEDD patients, provides valuable insights into the benefits of PEDD technology that would otherwise have taken many years to accumulate through alternative approaches; for example, like randomized controlled clinical trials.
+
+Key findings included the following: significantly increase the amount of chemotherapeutic delivered to the tumor. TriNav reduced 30-day inpatient stays, reduced overall clinical complications, reduced rates of paracentesis, which means the reduced times – number of times the patient had fluid drain from their abdomen due to a failing liver function, and reduced overall healthcare costs due to post-procedural complications.
+
+As we continue to expand the commercial adoption of PEDD in the US, we are also engaging medical oncologists and endocrinologists to educate them on its benefits and discuss integrating its use into their embolization treatment algorithms. The medical community is interested in understanding the value of PEDD in different applications and the value of enhanced therapeutic delivery to tumors with reduced toxicity.
+
+Now, let me turn to nelitolimod. We presented Phase 1 results from the PERIO-01 pressure-enabled regional immuno-oncology clinical trial at the Society of Immunotherapy of Cancer meeting, SITC. This trial investigated the use of pressure-enabled drug delivery, or PEDD, of nelitolimod in uveal melanoma liver metastases. Nelitolimod has been shown in preclinical studies to favorably modulate myeloid cells, suggesting that PEDD administration could enhance the efficacy of immune checkpoint inhibitors.
+
+The Phase 1 study was a dose escalation trial of hepatic arterial nelitolimod in the uveal melanoma liver metastases and included three cohorts for a total of 67 patients: Cohort A, which was 13 patients, received nelitolimod as monotherapy; Cohort B, which was 34 patients, received nelitolimod plus nivo; and cohort C received nelitolimod plus nivo and ipi. The primary end points were progression-free survival and overall survival. Of the 67 patients treated, 69% had a prior systemic therapy, and a substantial number has significant tumor burden of greater than 5-centimeter lesions in 27% of the patients and 10 liver lesions in 36% of the patients.
+
+Key findings included Grade 3/4 treatment-related adverse events, which occurred in 13% of patients most frequently in Cohort C, where checkpoint inhibitor administration was involved. The recommended Phase 2 dose was 2 milligrams of nelitolimod plus nivo or ipi/nivo, and that was 23 patients.
+
+The one-year OS was 74.7% and the median OS was 20.6 months. The one-year PFS was 47.6% and the median OS was 8.7 months. Disease control rate was 65%, with similar survival outcomes in the checkpoint refractory and the checkpoint-naïve patients. OS was similar in the checkpoint refractory, which was six patients with 80%, and the checkpoint-naïve was 17 patients at 71%. The overall survival and the PFS outcomes were not dependent on HLA restriction status.
+
+Among valuable patients, the clearance of circulating tumor DNA, ctDNA, was 50%, and clinical benefit correlated with reduced tumor MDSCs and increased IL-15 and IL-18 levels. The results suggest that PEDD administrated nelitolimod, combined with checkpoint, provides promising clinical benefits and durable survival in heavily pretreated patients with uveal melanoma liver metastases, regardless of HLA status.
+
+We are highly encouraged by the results of PERIO-01, which substantiate our hypothesis that nelitolimod administered via PEDD can create a more favorable tumor microenvironment in the liver. These findings suggest that nelitolimod has the potential to amplify the therapeutic impact of immune checkpoint inhibitors, particularly for heavily pretreated patients with uveal melanoma liver metastases.
+
+Given the challenging prognosis associated with uveal melanoma liver metastasis, we are deeply committed to expanding access to this innovative therapeutic approach. To that end, we're actively exploring strategic partnerships to advance this indication further. The high unmet need in this patient population underscores our commitment to exploring partnerships that can accelerate this program and broaden its reach. We believe by collaborating with like-minded organizations, we can unlock the potential of this therapy and drive impactful clinical advancements in this challenging indication.
+
+Regarding PERIO-03, a Phase 1 clinical study that includes a novel pancreatic retrograde venous approach with PEDD, evaluates nelitolimod's ability to modulate the tumor microenvironment and promotes systemic tumor immune responses. This study involves delivery of nelitolimod via our innovative pancreatic infusion device, where it demonstrated both strong delivery performance and a favorable safety profile. This breakthrough technology is designed to deliver targeted therapeutic agents directly to the pancreas, potentially enhancing treatment precision and efficacy for pancreatic conditions.
+
+The target population was patients with locally advanced pancreas disease who have failed at least one line of standard therapy. To-date, we've completed enrollment of 13 patients and are evaluating their safety in three dose levels. There has been no severe safety events related to the PEDD devices or the procedure, and nelitolimod infusions with PEDD have been well tolerated with potentially favorable intratumoral and systemic immune signal. These findings indicate the safety of regionally delivered nelitolimod monotherapy via PEDD support further exploration using combinatorial approaches. We're enthusiastic about the potential of our nelitolimod combined with our novel Pancreatic Infusion Technology. And once the final set of data emerges mid-2025, we'll outline next steps.
+
+Based on our experience with over 90 patients treating with nelitolimod for primary and metastatic liver tumors, this drug is well tolerated in these patients and has immune and clinical effects that may support favorable clinical outcomes. In particular, the ability of nelitolimod to mediate favorable effects on MDSCs and M2 macrophages in liver metastasis may be beneficial in these patients.
+
+After exploring nelitolimod in several Phase 1 clinical trials, we have focused our efforts on partnering uveal melanoma liver metastases and determining next steps for locally advanced pancreatic cancer. Most importantly, this focused clinical approach represents a pivotal milestone in our company's evolution, positioning us to be EBITDA positive, which will drive long-term sustainability and value creation.
+
+To achieve this significant milestone of becoming EBITDA positive in 2025, our company will focus on accelerating revenue growth while remaining committed to operational discipline. We're targeting a sales of 50% growth in 2025, supported by a robust strategy that includes expanding our market penetration in chemo and radioembolization, optimizing sales team performance, and driving adoption of TriNav and TriNav Large, launching TriNav 2.0 to provide a complete solution to interventional radiologists.
+
+Additionally, we'll implement cost control measures and streamline operations to improve margins, ensuring that every dollar contributes to profitability. By aligning the efforts of our sales product and operational teams, we're confident in hitting this milestone and creating long-term value for shareholders.
+
+Before I turn the call over to Sean, I'll close by saying we're pleased with the company's performance and confident in our ability to execute our company building strategy. We remain on track against our objective to achieve over 50% top line revenue growth, advance our pipeline and strengthen our operational foundation.
+
+With that, I'll turn it over to Sean Murphy to provide an update on our financial performance in the quarter.
+
+Sean Murphy
+Chief Financial Officer, Director, TriSalus Life Sciences, Inc.
+Good morning, everyone; and thank you, Mary. As Mary mentioned at the top of the call, TriSalus achieved outstanding performance in the third quarter of 2024, driven by the continued success of the TriNav technology in the US Our revenue, solely driven by the success of the TriNav device in the US, reached $7.3 million in the third quarter. This sales achievement represents a substantial 42% increase compared to the same period in 2023.
+
+Year-to-date, revenue stands at $21.2 million, reflecting a 66% growth compared to the nine months of last year. This quarter, we added 42 net new hospital accounts and our utilization rose to 15.3 units per account, up from 13.5 units per account in the third quarter 2023.
+
+TriSalus has a track record of growth, illustrated on slide 1. Since our product launch in 2020, the company has achieved a compound annualized growth rate exceeding 50%. We project 2024 sales to grow by more than 50%, reaching $28 million to $30 million.
+
+In the third quarter of 2024, we maintained a robust gross margin of 86%, consistent with our year-to-date margin and up from 84% for the nine-month period in 2023. This margin strength is due to increased production volumes, improved batch yields and operational efficiencies. Our Westminster, Colorado facility has already produced more TriNav units in the first three quarters of 2024 than all of last year.
+
+In R&D, expenses for the third quarter and year-to-date totaled $4.2 million and $14.7 million, down 56% and 33%, respectively, compared to the same period in 2023. These reductions reflect the completion of patient enrollment in the PERIO Phase 1b trials, with further decreases anticipated throughout the remainder of the year.
+
+Our investment in sales and marketing continue to increase in support of our growth strategy. In Q3 and year-to-date, we allocated $6.1 million and $18.8 million, up 31% and 65% from the same periods in 2023. These investments focus on expanding our sales force and clinical specialists to drive high account uptake and for the recent TriNav Large launch this month.
+
+General and administrative expenses for Q3 and year-to-date totaled $4.7 million and $13.3 million, marking a decrease of 48% in Q3 and 24% in the first nine months compared to the same periods in 2023.
+
+Operating losses in Q3 and year-to-date were negative $8.7 million and negative $28.6 million, respectively, an improvement from $18.8 million in 2023 third quarter and $40.2 million in the first nine months of 2023. These reductions stem from increased sales, higher gross margin and decreased R&D expense. Non-cash-based compensation was $1.4 million in Q3 and $3.7 million year-to-date.
+
+Moving to the balance sheet. We closed the quarter with $11.3 million in cash and cash equivalents. We plan to draw $10 million from the OrbiMed debt facility early in the first quarter of 2025. Together with existing cash and other liquidity sources, this funding is expected to sustain our operations through 2025. Upon reaching certain 2025 sales milestones, we can draw an additional $15 million from the OrbiMed facility late in 2025. We anticipate being EBITDA positive for 2025 and achieving positive cash flows in the second half of 2025.
+
+For the first time, we are providing guidance for 2025. We expect sales growth of over 50% in 2025, driven by expanding TriNav market share, the TriNav Large launch and further market development supported by the DELIVER program. Operating expenses should decline by 20%, reflecting reduced clinical costs from the conclusion of the PERIO Phase 1 trials and lower G&A expenses following one-time costs associated with becoming a public company. This guidance does not account for any potential milestones or upfront payments from partnerships related to nelitolimod.
+
+And now, I'll turn the call back to Mary for closing remarks.
+
+Mary T. Szela
+President, Chief Executive Officer & Director, TriSalus Life Sciences, Inc.
+Thank you, Sean, and thank you to everyone for joining today's call. As we wrap up, I want to reiterate that we're highly encouraged by the strong momentum we've seen this quarter. The solid financial performance, key upcoming product launches and strategic milestones we've discussed today demonstrate TriSalus' ongoing commitment to delivering innovative life-changing solutions for our patients and creating long-term value for our shareholders.
+
+Looking ahead, we're on track to achieve our goal of over 50% revenue growth in 2025, underpinned by the successful rollout of TriNav Large, TriNav 2.0 and key clinical trials like the PROTECT registry. We're also excited about our progress with nelitolimod and the potential for a partnership and collaborations in oncology. As we continue to execute our growth strategy and invest in our future, we remain confident in our path to achieving EBITDA positivity in 2025, positioning us for sustained growth and success in the years ahead.
+
+Once again, thank you for your continued support. We look forward to keeping you updated on our progress and achieving new milestones together. Have a great day.
+
+Question And Answer Section
+Operator
+Thank you. [Operator Instructions] One moment, please. And our first question comes from the line of Jason Wittes with ROTH.
+
+Jason Wittes
+Analyst, ROTH Capital Partners LLC
+Hi. Thanks for taking the questions. Maybe to start, in terms of the guidance – definitely appreciate you providing 2025 guidance. In terms of what's in those assumptions, I guess, two questions related to that. One, is that primarily going to be TACE and TARE, or can we anticipate adoption into other areas to drive that revenue?
+
+And then, secondly, is there any PERIO-01 or – so PERIO-01, PERIO-02, PERIO-03 costs associated with next year in those cost assumptions?
+
+Sean Murphy
+Chief Financial Officer, Director, TriSalus Life Sciences, Inc.
+Thank you for the question. And thank you for the coverage you initiated, very appreciative of that. In terms of our guidance for next year, our sales force is primarily targeted in the TACE and TARE market. So our operating assumptions are only to capture those accounts. However, even in the current year, we are getting early usage in a few other areas that we're doing our registry in, like [indiscernible] (00:29:46). We have some thyroid cases being done. And so, it's difficult to quantify the amount of it. I would expect that it is very, very small at this level.
+
+Jason Wittes
+Analyst, ROTH Capital Partners LLC
+That's fair. And then, in terms of the costs, and I guess if I could add a question to that. In terms of advancing nelitolimod, are you going to seek a partner for all the indications at least that you're looking at right now? Or is that something you're going to take on by yourself?
+
+Sean Murphy
+Chief Financial Officer, Director, TriSalus Life Sciences, Inc.
+At this point, Jason, we won't know until we talk to partners. We've had a few inquiries on our plans, and we've been quiet on it until today when we've announced that we are going to partner uveal rather than taking it forward.
+
+Jason Wittes
+Analyst, ROTH Capital Partners LLC
+But that...
+
+Sean Murphy
+Chief Financial Officer, Director, TriSalus Life Sciences, Inc.
+So I – go ahead, sorry.
+
+Jason Wittes
+Analyst, ROTH Capital Partners LLC
+I am sorry. I just meant that's specific to uveal, the other two indications you make it out alone or is that still not to be decided?
+
+Sean Murphy
+Chief Financial Officer, Director, TriSalus Life Sciences, Inc.
+On PERIO-02 for HCC and the other indications that we were looking at, we are not going forward with that. It is to be investigator programs that we would support, but we are not doing any formal programs in PERIO-02. And then, PERIO-03, as Mary mentioned, we did increase our enrollment over our target in PERIO-03 later in this year, which we will not get the full dataset until mid next year, and then we will make a decision there.
+
+But the question you asked was, would a partner demand all indications? Given that this is a product used in the hospital, the same channels, pretty much the same users, I would expect that to be raised. But given that we haven't advanced our dataset on pancreas while we're partnering it, it may be something that's left open.
+
+Jason Wittes
+Analyst, ROTH Capital Partners LLC
+Okay. No, thanks for the color on that. Maybe I'll ask one more and then jump back in queue. And that's in terms of the pancreatic retrograde venous infusion system, is there any advancement in terms of reimbursement for that or anything we can expect in terms of milestones regarding the reimbursement or adoption?
+
+Mary T. Szela
+President, Chief Executive Officer & Director, TriSalus Life Sciences, Inc.
+Yeah. This is Mary. That's a great question. We're right in the middle of submitting for Category III code. We'll do that in February of 2025. We just worked with the Society of Interventional Radiology. They've reviewed the entire application, and they'll be leading and supporting it with the submission. Based on the time frames of these Category III codes, we expect to get approval in mid-2025. Once we have a Category III code and then we determine how to advance it, then we'll submit for a Category I code.
+
+Jason Wittes
+Analyst, ROTH Capital Partners LLC
+Great. Thanks for the detail, and very good quarter. Thank you, everybody.
+
+Sean Murphy
+Chief Financial Officer, Director, TriSalus Life Sciences, Inc.
+Thank you.
+
+Operator
+Thank you. And our next question comes from the line of Suraj Kalia Oppenheimer & Company.
+
+Suraj Kalia
+Analyst, Oppenheimer & Co., Inc.
+Mary, Sean, can you hear me all right?
+
+Sean Murphy
+Chief Financial Officer, Director, TriSalus Life Sciences, Inc.
+Yeah. We hear you fine.
+
+Suraj Kalia
+Analyst, Oppenheimer & Co., Inc.
+Thank you for taking my questions. So Mary, one question for you and one for Sean. And Sean, let me start out with you, piggybacking on Jason's question. For FY 2025, Sean, how are you all thinking of utilization? I believe you mentioned Q3 was 15.3 units per site. Just walk us through your 50% year-over-year guide, where does utilization factor into those calculus? And also, how are you all thinking about new store versus same-store for TriNav?
+
+Sean Murphy
+Chief Financial Officer, Director, TriSalus Life Sciences, Inc.
+We have detailed assumptions for our plan. And on the new accounts and for the usage – our average usage from a constant customer or a same-store basis, our plan for next year is to increase to an average for the year of 17.5, so up about two units. And the rest of our growth is new accounts. We opened over 100 new accounts this year. And a lot of that had to do with getting permanent reimbursement. In the beginning of the year, we had a very, very high first quarter. And we're forecasting 50 new accounts next year in 2025. And then, we have a significant increase due to training at large, which we have approximately $5 million in the forecast for that.
+
+Suraj Kalia
+Analyst, Oppenheimer & Co., Inc.
+Got it. That's great color. Mary, one question for you and I'll hop back in queue. Mary, multinodal goiters, right? This is my first call. And I'm curious how do you all think within the treatment paradigm? My understanding always is, especially multinodal goiters, the non-toxic ones, right, radioiodine and LT4 are usually the standard of care, but you all are comparing it to surgery. Just kind of help us walk through the thought process here and what should we think in terms of outcomes, not only versus surgery, but just in the whole treatment paradigm? Thank you for taking my questions.
+
+Mary T. Szela
+President, Chief Executive Officer & Director, TriSalus Life Sciences, Inc.
+Yeah. We are very excited about this opportunity. To be honest with you, this was brought to us by a group of physicians who have been using it and got very excited about what they saw. So, obviously, nodules on the thyroid are quite common. And the small nodules or if it's single nodules are pretty much handled today by ablation. That's not the market we're pursuing. However, we do have a physician who wants us to use ablation and our technology together to shrink the nodule. But multinodular goiter can be treated with iodine. It's not an optimal treatment. What it's typically is surgery. And if you look at all the claims data, it's primarily surgery in the US. In other parts of the world they'll use iodine, but they don't do that typically here.
+
+And the challenge with surgery is this is a pretty invasive procedure. The risk of stroke and nerve damage is reasonably high. And there's also the possibility of damaging the thyroid tissue or intervening too much in the thyroid tissue where there is long-term levothyroxine replacement. I managed SYNTHROID for AbbVie long ago, and spent a long time on what it means to get a patient in thyroid. So there's a lot of complications associated with it. And what physicians are seeing with our technology is previous embolizations, they had to go into the subclavian, which obviously had some risk of stroke. And that really frightened physicians from using just traditional catheters to do this procedure. What we can do with ours, because of the ability to retrograde fill the tumor, we go into the inferior thyroid arteries only. We don't go into the subclavian or the carotid arteries at all. And it's about a 30-minute, 25-minute procedure. You can actually see it fill it up with bland beads. And it's a 30-minute procedure and it really shrinks that substantially. In a lot of patients, this is full treatment. And the beauty of it is that they can be retreated and you don't disrupt thyroid function.
+
+And so, a lot of excitement about this. What we're going to be measuring as end points in the registry are a number of key end points. One of the things that we note right away is that patients have immediate – a lot of their discomfort, a lot of these nodules can actually cause compression on the trachea, so they feel like they are choking a little bit or they have trouble swallowing. And that's what really brings them to the physician. We see that that dissipates quite rapidly. So we're going to be measuring how quickly the nodules resolve, what is their three-month outcomes and all the toxicity outcomes associated with it. So we're very, very excited.
+
+What's really unique about thyroid, it is incredibly common, affects mainly women. They claim that literally almost 5% of women over 50 all have it. We're targeting, and I think we're being conservative, about 50,000 procedures in the US. There's also a lot of excitement to use ablation and our technology together, where could you use TriNav first, shrink the tumor and then ablate it at the end, which gives the interventional radiologists two procedures.
+
+So there's quite a level of excitement about that. So this is going to be a big area of focus for us. We already have five sites lined up. One of our key physicians literally just posted something on Twitter, and he had 10 patients after his post two weeks ago. So a pretty exciting opportunity for us.
+
+Suraj Kalia
+Analyst, Oppenheimer & Co., Inc.
+Excellent. Many thanks.
+
+Operator
+Thank you. And your next question comes from the line of William Plovanic with Canaccord Genuity.
+
+William J. Plovanic
+Analyst, Canaccord Genuity LLC
+Great. Thanks. Good morning. Thanks for taking my questions. So just to start out on 2024 guide, commentary that greater than 50%. I think consensus was sitting at $8.2 million. Just wanted to get your comfort level with that as we use for a jump-off point for 2024 or 2025?
+
+Sean Murphy
+Chief Financial Officer, Director, TriSalus Life Sciences, Inc.
+Bill, this is Sean. Yeah, that is a very good number. And for the full year, we've announced that the range is between $28 million and $30 million.
+
+William J. Plovanic
+Analyst, Canaccord Genuity LLC
+Okay. And then, just as we think about – I mean, it's difficult for companies to get their third, fourth year post commercialization to really hit seasonality. And you expected this and we saw this pretty much flat sequentially. But I was wondering if you could just give us some color as to the maybe monthly cadence as you went through July, August, September and into October, just to give us confidence in that fourth quarter rebound? And any other puts or takes that you're kind of seeing as we go into the end of the year here?
+
+Sean Murphy
+Chief Financial Officer, Director, TriSalus Life Sciences, Inc.
+Sure, Bill. Yeah, I've been in this position for three cycles now, the third one. And I'm still trying to find kind of a standard cadence during the year. It varies. I do believe the remnants of COVID made it quite different, my first year here. And it is getting back to what I would have expected. So in the third quarter, we were flat with the second quarter, but the month-to-month was quite different. In the summer months of July and August, we saw very low utilization, not a lot of cases. And we were a bit concerned about that. And then, in September, it was the biggest month we ever had. It was bigger by 10% to 15% over the previous biggest one, which I think was a year-end kind of close. And so, the pattern was a bit unusual.
+
+And the other part of looking at it year-to-year, in the third quarter of 2023, right after we went public, we added a number of salespeople. And that particular quarter was – which on our chart was a very, very high quarter. So we have a tough comp, but we did see a dramatically different utilization in July and August than we've seen in the prior years.
+
+William J. Plovanic
+Analyst, Canaccord Genuity LLC
+Okay. And then, just help us understand. I think you burned about $11 million in the third quarter.
+
+Sean Murphy
+Chief Financial Officer, Director, TriSalus Life Sciences, Inc.
+Yes.
+
+William J. Plovanic
+Analyst, Canaccord Genuity LLC
+You finished the quarter with $11 million. You talk about kind of dropping the spend and pulling another $10 million in Q1 to kind of – and you believe you'll be able to get there. I mean, is this just you expect a lot of spend decrease in the R&D sequentially? And then, even maybe on the G&A, was there a risk? Is there something else going on that you'll be able to drop the spend that much?
+
+Sean Murphy
+Chief Financial Officer, Director, TriSalus Life Sciences, Inc.
+It's mostly consultants, lawyers and accounting firms. We did so many registrations. We did so many S-1s, S-4s. We incurred a lot of costs coming out of a de-SPAC process. So in the second quarter, we saw a leveling off of our G&A administrative public company costs. In the third quarter, it went down pretty substantially. We expect that to continue to go down quarter-to-quarter as we just don't have to do the filings that we've had to in the past. We're involved in a number of banking activities that affected our G&A to a certain degree.
+
+And so, we're on a drop. But the biggest change is just finishing up our PERIO trials. They are expensive trials and where we've enrolled our last patients this particular quarter. And besides that, most of those clinical costs get transferred into doing closeout at facilities, filing various reports on the patient follow-ups and so forth which are administrative – more administrative activities internally. And so, our use of consultants, CROs dropped very, very much.
+
+And so, you were right. Our cash burn in the third quarter was a tad over $11 million. We expect the fourth quarter to be down in the range of $4 million to $4.5 million. And that cash burn will continue to drop until we're at a point, where, in the second half of next year, we will be cash flow positive.
+
+William J. Plovanic
+Analyst, Canaccord Genuity LLC
+Great. And then, my last question, just the PERIO update. It's interesting. So what should we read into these comments in terms of pancreas regarding efficacy? You've added more patients. You pushed out the readout until mid next year. I mean, what's the takeaway? We see it's safe, but we're not really clear on efficacy. I mean what's the messaging you're trying to give us here? And thanks for taking my questions.
+
+Mary T. Szela
+President, Chief Executive Officer & Director, TriSalus Life Sciences, Inc.
+Sure. So we enrolled in the fourth quarter three more patients for a total of 13. And what we're trying to do is just get longer follow-up period so we get more than 10 patients in total data. One of the other things that we're just assembling now, Bill, and I think this is really going to give us kind of the confidence in terms of how we move forward, is what was really unusual in this trial, we were able to get quite extensive tissue samples pre and post of the administration of nelitolimod. We just got all those samples now.
+
+And so, what we're doing is we're going through that data with a panel of immunologists and some oncologists to sort through that because this wasn't a randomized clinical trial. So what we really want to see is, are we modulating the tumor microenvironment in the way that we think. And the positive results that we're seeing, can we attribute them completely to nelitolimod. And that's really what we need to do. And we won't really have all that data of the last few patients and follow-up probably until March or April. So that's why we think middle of the year is the right one. We still remain very enthusiastic about it. I think what we need to do is see that correlative data and make sure that it's consistent with where we're reading the data today.
+
+Make sense?
+
+William J. Plovanic
+Analyst, Canaccord Genuity LLC
+It does. Thanks.
+
+Operator
+Thank you. And our next question comes from the line of Justin Walsh with JonesTrading.
+
+Justin Walsh
+Analyst, JonesTrading Institutional Services LLC
+Hi. Thanks for taking the question. I'm wondering if you can comment on the intersection of TriNav and TriNav Large target markets. How many physicians are likely to use one versus the other or both?
+
+Mary T. Szela
+President, Chief Executive Officer & Director, TriSalus Life Sciences, Inc.
+So that's a great question. We got a lot of clarity on that this year as we started to grow. So physicians – each physician will probably use both. How TriNav Large is used and how TriNav is used, it really just pertains to vessel size. Oftentimes, the physician doesn't really know until they get into the procedure room and they see where they want to go and they see the vessel size. They'll kind of eyeball it and determine what product to use. One of the challenges that we had this year without having TriNav Large is we have TriNav, but then they looked at the vessel size and said, hey, I can't get in with the TriNav. I need a larger vessel one, and we lost that opportunity for TriNav.
+
+So we estimate that we were not getting access to about 30% of the TACE and TARE market. So now we have a full portfolio. So every physician uses both because they have patients that have vessel sizes that range anywhere from 1.5 centimeters all the way up to 5 centimeters. So we're very excited now to have a full suite of product for the interventional radiologist.
+
+Justin Walsh
+Analyst, JonesTrading Institutional Services LLC
+Got it. Thanks. And one more question for you. I'm just curious if you can comment on the competitive landscape. If there's any other novel delivery products or catheters that you see emerging that could be competitors for TriNav or TriNav Large?
+
+Mary T. Szela
+President, Chief Executive Officer & Director, TriSalus Life Sciences, Inc.
+We don't see anyone in TriNav in the liver. I mean, one of the things that we feel very comfortable about is our new HCPCS procedural code was written specifically for our technology and how we modulate pressure and flow, which we think creates those unique favorable benefits of the technology. And then, on our pancreatic device, we don't see any other competitor that accesses the venous anatomy and also uses pressure in the way that we do. There is an arterial version for accessing the pancreas that is currently in development, and I think they have a readout this fourth quarter. But in terms of having a life technology that modulates pressure, we don't see one. One of the things that we have done is created IP around how we modulate pressure and flow. So we think we have a pretty good sense around that technology and have a nice tollbooth if anyone tries to come into our space.
+
+Justin Walsh
+Analyst, JonesTrading Institutional Services LLC
+Great. Thanks for taking the questions.
+
+Operator
+Thank you. I'll now hand the call back over to CEO, Mary Szela, for any further remarks.
+
+Mary T. Szela
+President, Chief Executive Officer & Director, TriSalus Life Sciences, Inc.
+Thank you, everyone. Really appreciate your interest and support in the company. Have a great day.

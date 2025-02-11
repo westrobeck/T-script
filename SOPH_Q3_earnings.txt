@@ -1,0 +1,274 @@
+Thank you and good morning, everyone. Welcome to the SOPHiA GENETICS third quarter 2024 earnings conference call. Joining me today to discuss our results are Dr. Jurgi Camblong, our Co-Founder and Chief Executive Officer; Ross Muken, our Company President; and George Cardoza, our Chief Financial Officer.
+
+I'd like to remind you that management will make statements during this call that are forward-looking statements within the meaning of federal securities laws. These statements involve material risks and uncertainties that could cause actual results or events to materially differ from those anticipated and you should not place undue reliance on forward-looking statements. Additional information regarding these risks, uncertainties and factors that could cause results to differ appears in the press release issued by SOPHiA GENETICS today and in the documents and reports filed by SOPHiA GENETICS from time to time with the Securities and Exchange Commission. During this call, we will present both IFRS and non-IFRS financial measures. A reconciliation of IFRS to NON-IFRS measures is included in today's earnings press release, which is available on our website.
+
+With that, I'll now turn the call over to Jurgi.
+
+Jurgi Camblong
+Co-Founder, Chief Executive Officer & Director, SOPHiA GENETICS SA
+Thanks, Kellen, and good morning, everyone. I will start today by giving a brief update on our Q3 performance, which played out largely as expected as clinical volume reaccelerated and strong cost management resulted in a significant 39% year-over-year improvement to cash burn. I will then highlight the key growth driver over the next several quarters in MSK-ACCESS powered with SOPHiA DDM, which continues to attract strong interest from customers across the globe. And last, I will conclude with an exciting update on our leadership team as we further position ourself for future growth. Ross will close by providing a more detailed update on Q3 performance and outlook for the remainder of the year.
+
+As mentioned, Q3 played out largely as expected as clinical volume reaccelerated across key geographies. We performed approximately 91,000 analyses in the quarter, representing year-over-year growth of 16% or 17% when excluding COVID related volumes. As expected, the temporary headwinds affecting France, Italy and Spain in the first half of the year began to subside and analysis volume trended toward normalized levels of growth across these key regions.
+
+Expanding growth in the core business was offset by softness in the BioPharma, which we flagged as a headwind last quarter. As anticipated, BioPharma revenue was down materially in the period. Nonetheless, I remain confident in the changes made to the BioPharma business in Q2, and leading indicators such as the healthy and growing pipeline suggest that the business is regaining momentum as we move to the end of 2024 and into next year. Based on these factors, we reaffirm our revenue guidance for 2024 and look forward to a continued re-acceleration of overall growth into 2025.
+
+The major driver of the clinical re-acceleration in Q3 has been consistent, strong new business momentum throughout the year. During the quarter, 22 of the new customers signed earlier this year entered routine usage, up from 14 customers in the prior year period. This meaningful step up was a result of a heightened focus on getting customers into routine faster and consistently signing new customers each quarter.
+
+On the new customer front, we continued the trend of signing new business at elevated levels in Q3, as 20 new customers adopted SOPHiA DDM. Recent customers went into marquee names such as the NHS Birmingham Women's Hospital in the UK, who is adopting SOPHiA DDM for hereditary cancer screening, GeneView in the US who is adopting the platform for rare and inherited disorders, and Hospital Sírio-Libanês, one of the most prestigious hospitals in the world based in Brazil who is adopting MSK-ACCESS powered with SOPHiA DDM. We will continue to be laser focused on getting these new customers into routine usage throughout the end of the year and into 2025.
+
+As we continue to onboard more and more new customers to SOPHiA DDM, I have been pleased to see the scale of our technology platform come to life. Over 2024, we have consistently improved all expense categories, while also strengthening commercial teams and customer facing operations. In Q3, we expanded gross margins yet again and achieved an adjusted gross margin of 73.1%. We also continued to reduce operating expenses and improved adjusted operating loss by over 10% year-over-year. In addition, I'm increasingly proud that we delivered an almost 40% year-over-year improvement in cash burn. Looking ahead, we reiterate the previous guidance with respect to adjusted gross margins and adjusted operating loss and remain confident in our path to profitability.
+
+In summary, we saw a steady re-acceleration of clinical volume in Q3 while also delivering substantial cost improvements. The outstanding 39% reduction in year-over-year cash burn and our continued ability to deliver strong new business momentum positions us well for future growth. As we look ahead to 2025, I would like to take a moment to highlight one of our major growth drivers for next year MSK-ACCESS powered with SOPHiA DDM.
+
+The launch of MSK-ACCESS from SOPHiA DDM last quarter has enabled hospitals and labs across the globe to launch world renowned liquid biopsy testing from within the walls of their own institution instead of having to rely on a central reference lab. In many cases, this decentralized testing results in lower costs and faster turnaround time, while also enabling institutions to retain control of their patients' data for research or other proposals.
+
+Since launch, 18 customers across the world have adopted the application. The growing global community of MSK-ACCESS users on SOPHiA DDM now spans 5 continents and 10 countries and includes world-class institutions such as University of Heidelberg in Germany, NHS Institutions in the UK, and BioReference and Tennessee Oncology in the US. It's incredible to see this community of industry leaders come together to provide best-in-class cancer testing to patients across the globe. Moreover, we are immensely proud that SOPHiA DDM is the technology platform which has made this opportunity a reality.
+
+Looking ahead, I'm excited for the 18 customers to adopt MSK-ACCESS during 2024 to implement the application and begin routine testing over the coming months. Of the 18 institution signed to date, five very recently completed implementation and will ramp up their usage in Q4 and into 2025. As these customers come online, they will provide a meaningful catalyst to growth next year.
+
+Beyond the impressive progress we have made with MSK-ACCESS, I am also thrilled by the recent launch of the application's solid tumor testing counterpart, MSK-IMPACT powered with SOPHiA DDM. This application, which was launched in October, offered yet another exciting area for growth as it is typically used in combination with MSK-ACCESS to provide patients with best-in-class treatment.
+
+As we enable more and more institutions across the globe to launch liquid biopsy and solid tumor testing, our network is also starting to initiate notable interest from BioPharma partners. BioPharma customers such as AstraZeneca are excited to leverage the SOPHiA network to improve deployment of their drugs and expand market access.
+
+Moreover, the data from these diverse patient populations as well as the predictive model algorithms we are developing on the data, offer immense value to BioPharma companies in the areas of drug development and discovery. Over the coming months, I look forward to updating you on our progress with BioPharma partners and the expanding decentralized deployment of MSK-ACCESS and MSK-IMPACT.
+
+As SOPHiA continues to grow and exciting opportunities for future growth continue to emerge, I'm happy to end today by announcing a few changes to our leadership team, which will position us well for the future. First, I would like to congratulate Ross on his well-deserved promotion to Company President. As President, Ross will oversee the company's global business operation and lead day to day efforts focused on growing and scaling the business. He will continue to manage all commercial and go-to-market functions, building on the strong progress he has already made in this critical area. He will also work closely with me on strategic matters as we continue to evolve as the leader in data driven medicine.
+
+Second, I'm happy to welcome George Cardoza to the team as SOPHiA's new Chief Financial Officer. George brings a wealth of experience, which includes deep financial expertise and a strong background of scaling and growing profitable businesses. Prior to joining SOPHiA, George was the CFO and Head of Service Delivery for Biocartis. He also spent over 12 years with NeoGenomics in roles which include Chief Financial Officer, President of BioPharma Services and Chief Operating Officer. Prior to NeoGenomics, George spent more than 14 years with Quest Diagnostics in various roles. At SOPHiA GENETICS, George will oversee all finance functions, including accounting, FP&A, tax and treasury. Welcome, George, to the SOPHiA team.
+
+George A. Cardoza
+Chief Financial Officer & Executive Vice President, SOPHiA GENETICS SA
+Thanks, Jurgi. I'm very excited to be joining up with the team. Thank you.
+
+Jurgi Camblong
+Co-Founder, Chief Executive Officer & Director, SOPHiA GENETICS SA
+Thanks, George. We're happy to have you as well. With these changes, SOPHiA is now positioned better than ever to win in our space and capitalize on the momentous opportunity ahead of us.
+
+With that, I will now turn the call over to Ross, who will provide more detail on our Q3 performance and outlook for the remainder of 2024.
+
+Ross Muken
+President, SOPHiA GENETICS SA
+Thank you, Jurgi, and good morning, everyone. As Jurgi highlighted, third quarter results came in largely as expected. Clinical volume growth continued to reaccelerate as the temporary headwinds impacting France and Italy in the second quarter began to subside. Spain remained somewhat challenged in the period and we expect this softness to persist into 2025, given ongoing reimbursement dynamics in the solid tumor market. Platform analysis volume was approximately 91,000 for the third quarter of 2024, compared to approximately 78,000 for the third quarter of 2023. Year-over-year growth in analysis volume was 16%, or 17% when excluding COVID related volumes.
+
+From an application standpoint, strength in HemOnc testing and across our rare and inherited disease portfolio led the way, with 26% and 29% year-over-year growth, respectively. North America and Asia Pacific experienced the strongest growth in the third quarter, with both regions growing at approximately 30% year-over- year. Growth in EMEA returned to the company average. However, weakness in Latin America partially offset the growth in other regions due to the churn of a large account that was acquired by another private lab earlier in 2024. While clinical volume experienced an initial stage of re-acceleration, a challenging macro environment has continued to limit BioPharma growth as budget constraints have made the signing of large contracts difficult and caused sales cycles to elongate.
+
+Additionally, we had one major high value contract again partially slipped from the third quarter to the fourth quarter. Weakness in BioPharma offset clinical performance and total revenue for the third quarter of 2024 was $15.9 million, compared to $16.3 million for the third quarter of 2023, representing a year-over-year decline of approximately 2.5%. BioPharma revenue declined over $2 million from the third quarter of 2023 to the third quarter of 2024 and was the primary driver behind the overall softness in the period. It is also worth noting that in Q3 of 2023, it was a tough comp for us overall as revenue grew 40% during that period. Moving on to an update on other key business metrics. Core genomic customers were 462 as of September 30, 2024, up from 431 in the prior year period and up sequentially by 5 customers relative to Q2 of 2024. We continued to see strong new business momentum in the quarter as we signed 20 new logos in the third quarter. We are laser focused on getting these 20 customers as well as the influx of new customers signed during the first half into routine usage as quickly as possible.
+
+Beyond new customer wins, bookings and pipeline remain strong, continuing the trend we've seen throughout 2024. Annualized revenue churn rate was less than 4% for the third quarter of 2024, which is in line with our historical averages. Net dollar retention for the third quarter, which is net of revenue churn for the year, was 109% compared to 127% in the third quarter of 2023. This decrease is primarily attributable to the challenging performance in Latin America and the relative moderation of growth in Europe, despite the select re-acceleration in the period.
+
+Gross profit for the third quarter of 2024 was $10.7 million, compared to gross profit of $11.3 million in the third quarter of 2023, representing a year-over-year decline of 5%. Gross margin was 67.2% for the third quarter of 2024, compared with 69.1% for the third quarter of 2023. Adjusted gross profit was $11.6 million, a decline of approximately 2% compared to adjusted gross profit of $11.8 million in the third quarter of 2023. Adjusted gross margin was 73.1% for the third quarter of 2024, compared to 72.5% for the third quarter of 2023.
+
+We remain proud of our ability to manage costs, scale compute and continue to expand gross margins by 60 basis points despite softer revenue performance. This is exacerbated by the aforementioned BioPharma revenue weakness, which tends to carry a higher than average gross margin. Total operating expenses for the third quarter of 2024 were $26 million, compared to $27.8 million for the third quarter of 2023. Across the functions, we continued to benefit from lower head count on year-over-year basis.
+
+R&D expenses decreased during the quarter as we increasingly focus on high ROI projects. Additionally, I remain pleased with our progress on the G&A side, where we also continue to benefit from targeted process improvement, system investment and the optimization of our public company costs. Sales and marketing expense was up a touch, primarily due to select investments oriented in accelerating penetration of several key end markets, as well as marketing initiatives to support our robust new product momentum.
+
+Operating loss for the third quarter of 2024 was $15.4 million, compared to $16.5 million in the third quarter of 2023, an improvement of 7%. Adjusted operating loss for the third quarter of 2024 was $10.6 million, compared to $11.8 million for the third quarter of 2023, an improvement of 10%. We remain pleased with our trajectory toward adjusted operating profitability. We continue to be highly disciplined with respect to head count where we have focused on optimized growth and scalability. We also continue to scrutinize all indirect expenditures, ensuring a balanced focus on hitting our growth targets and achieving the operational efficiencies desired. In the third quarter, I was particularly proud to see us maintain strong bottom line performance despite the expected soft revenue pull through, a proof point of strong operating leverage in our business and the discipline of our team.
+
+Lastly, total cash burn for the third quarter of 2024 was $9.6 million. The $9.6 million in cash burn represents an impressive improvement of 39% compared to the $15.8 million in cash burn in the prior year quarter. As Jurgi mentioned, we remain happy with our cash utilization trend and are on track with respect to our medium-term liquidity trajectory. Cash and cash equivalents were approximately $95.8 million as of September 30, 2024. I'll now turn to our 2024 outlook. Given the promising re-acceleration of clinical volume in the third quarter, SOPHiA GENETICS is reaffirming our full year revenue guidance for 2024 of $65 million to $67 million of revenue, or 4% to 7% year-over-year growth. We are also reaffirming our adjusted gross margin guidance in the range of 72% to 72.5%, as well as our adjusted operating loss guidance between $45 million and $50 million, following our continued strong cost management in the third quarter.
+
+Of note, the implied revenue range for the fourth quarter is wider than we would typically anticipate given the strong predicted nature of our clinical growth. It is meant to capture a wider range of potential outcomes in our BioPharma contract delivery, where several large deals are expected to contribute in the period. We remain diligently focused on improving our BioPharma execution. Furthermore, we will continue to guide the business conservatively on a revenue recognition basis going forward given the challenges experienced earlier in 2024.
+
+With that, I would like to turn the call back over to Jurgi for the closing remarks before we take your questions.
+
+Jurgi Camblong
+Co-Founder, Chief Executive Officer & Director, SOPHiA GENETICS SA
+Thank you, Ross. I'm proud of what the team achieved this quarter, particularly our continued ability to expand gross margins, reduce operating loss, and improve our bottom line. I also remain excited about our future. Bookings momentum is strong and end markets continue to grow. Cancer rates are increasing worldwide, better therapies are being developed each day, and data is critical for patient care as the new basis for diagnosis, therapy selection, drug development and drug deployment. Given our business sits at the center of this innovation, accelerating and enabling the adoption of each, we remain confident in our long-term growth.
+
+In closing, I want to say thank you to our SOPHiA colleagues, partners, customers and investors for joining us in our journey to transform patient care with data driven medicine. Please note, we are presenting at the Guggenheim Healthcare Conference next week in Boston. We all look forward to continuing to update you on SOPHiA's future success of democratizing data driven medicine.
+
+With that, operator, you may now open the line for questions.
+
+Question And Answer Section
+Operator
+Thank you. Ladies and gentlemen, we will now begin the question-and-answer session. [Operator Instructions] One moment please for your first question. Our first question will be coming from Dan Brennan from TD Cowen.
+
+Daniel Brennan
+Analyst, TD Cowen
+...questions here and congrats on the quarter. Maybe just zooming out a bit on MSK, the relationship. You guys cited it 10 times in the press release. It's just more prominent right now than it's been in the past, I think. So, could you just kind of zoom out and give us a sense of kind of what are you guys enabling on MSK-IMPACT and MSK-ACCESS? Maybe how is this test positioned broadly and what kind of financial impact could this have as we look out to 2025-2026? I think Jurgi, you used the word meaningful impact in your prepared remarks on 2025.
+
+Jurgi Camblong
+Co-Founder, Chief Executive Officer & Director, SOPHiA GENETICS SA
+Good morning, Dan, and thank you. So I'm going to start addressing with what we are doing in terms of the offering, and then I will let Ross to give you a sense of what we expect in terms of future growth opportunities. So, as you know, Dan, liquid biopsy testing is primarily centralized today, right? And as demonstrated, to be extremely important clinically, either for diagnosing patients when it's very hard to do that from a biopsy, such as for cases in lung cancer or prostate cancer, but as well to follow then longitudinally patients as they are being treated with a cancer drug.
+
+And so MSK-ACCESS, to start with, has been one of the applications that are being the most used for liquid biopsy testing around the world and as being as well very much used in scientific publications. And so, as a reminder, couple of years ago, we had signed an agreement with MSK to basically decentralize MSK-ACCESS as an application, and so, add this application in our platform in a bundle access mode so this means the platform comes with a test kit that then facilitates the adoption of this technology in the market.
+
+And so, taking a step back, it took us a year to industrialize the solution and we launched MSK-ACCESS early this year. And since then, we've been having great traction. Right now, actually, we have already 18 customers around the world that have signed for that, including 5 of those that already moved to routine, and this in 5 continents and 10 countries, right? So I think MSK-ACCESS itself in a decentralized version with SOPHiA DDM has a huge potential to transform care in cancer around the world.
+
+And now, to your point on the why we've been talking so much about MSK in general. Beyond MSK-ACCESS, MSK have developed another application which I would say as well is best-in-class, the CGP application called MSK-IMPACT, which is being used for solid tumor testing. And as we industrialize MSK-ACCESS for its decentralized version, we've now been launching the counterpart of MSK-ACCESS for solid tumors, so MSK-IMPACT, within our platform. And there we see already a lot of demand in the market. And we anticipate that, eventually, a lot of customers are going to actually use MSK-ACCESS and this may impact in a combined way. So, with that, I'm going to now let Ross give you a bit of color on how this should influence our growth performance in the future.
+
+Ross Muken
+President, SOPHiA GENETICS SA
+Thanks, Dan. So relative to Jurgi's comments, obviously we already see quite good interest in the product with the 18 customers. Jurgi mentioned, some of which are already starting in the third quarter and into the fourth quarter, contributing from a revenue perspective, albeit quite modestly, and we expect to contribute materially more so over the coming years. We also have 13 customers, right, currently in the implementation phase.
+
+To give you a sense, the typical application when we sign it could ramp on average to about $100,000 per application per logo. For something like liquid biopsy, where the pricing, the ASP per patient is materially above our company average and the volume tends to be greater given it is more sophisticated, larger laboratories that are adopting, you could assume that number is much higher than the $100,000. And so, that should give you a sense with where we already are in terms of potential run rate revenue contribution over the coming months.
+
+And just to give you a bit more color, we have today in the pipeline nearly 50 incremental customers. And at the recent event, which I believe you may even have been attending, Dan, or someone from your team, in New York, we had 70 customers incrementally there, right? So, the interest in these product suites are quite high given obviously the tremendous brand name of MSK and the interest of adopting this type of testing and genomic data production in laboratories all around the world. And so, I think you can see from where we are, we're quite confident that this will be a nice contributor to our growth over the coming quarters and coming years.
+
+Daniel Brennan
+Analyst, TD Cowen
+Great.
+
+Jurgi Camblong
+Co-Founder, Chief Executive Officer & Director, SOPHiA GENETICS SA
+Maybe, Dan, to end with your question, beyond the clinical market, there is a lot of interest as well of the BioPharma market, because the BioPharma companies really want decentralized testing for multiple reasons, including market access needs, but as well to be able to be exposed to data so that they can make discoveries.
+
+Daniel Brennan
+Analyst, TD Cowen
+Great. And if I can just ask one more maybe. Nice quarter. I know – I don't think you guys touched upon some of the benefits for 2025, but consensus has you guys accelerating your top line growth a little bit above 20% next year. I'm just wondering, do you think that's realistic as we sit here today given kind of where you sit with like around 5% or 6% growth in 2024? And just maybe walk us through what is some of the key factors to bridge to this big acceleration in 2025.
+
+Jurgi Camblong
+Co-Founder, Chief Executive Officer & Director, SOPHiA GENETICS SA
+Thanks, Dan. So look, indeed, I think this has been a strong quarter for multiple reasons, starting with our ability to improve cash by 39.1% on an adjusted basis, right? So this, I think, demonstrates the scalability of our operations and of our platform. And when it comes to the growth, the clinical growth has been good, as we said. The clinical volumes grew 17% year-on-year ex-COVID. So, I would say we're on a good path to re-accelerate the business.
+
+I will leave you now, Ross, so that he can give you a bit more flavor of how this should be materialized in 2025.
+
+Ross Muken
+President, SOPHiA GENETICS SA
+So obviously, Dan, it's too early for us to give you quantitative color on next year. But I would say, in general and frankly, when that happens, it will be George, our new CFO, who will do it. And so I count on him to be able to answer that in the upcoming quarters. But I would say, in general, for us, as we think about this year, obviously, as you know, we were disappointed with the performance, particularly of our BioPharma business when we came to you in the second quarter and we had to reduce our guidance for the year, right? So I think for us, the message this quarter is kind of one of stabilization and improvement.
+
+And so, as you think about the other commentary we've given you over the year with respect to pipeline, new business bookings that have already happened, the exciting traction we're getting on MSK based products that are moving into routine, I think, what we're trying to get across is we're obviously quite comfortable in a re-acceleration of growth. I think the magnitude and the specifics we will obviously cover when we see you in 2025. But I think the main takeaway for you should be that we're quite confident that we're back on a path to being [indiscernible] (00:30:02) to you more normalized performance, typical of what we had expected for this business.
+
+Daniel Brennan
+Analyst, TD Cowen
+Great. Thanks, Ross.
+
+Operator
+Our next question will be coming from Tejas Savant from Morgan Stanley.
+
+Hi, this is [ph] Jason (00:30:25) on for Tejas. Congrats on the quarter and thank you for taking our questions. So maybe just a question on pricing. You previously talked about some pricing headwinds your business is facing. How did those pricing headwinds play out during this quarter? Was it mostly EMEA or across regions? And are you seeing trends stabilize, improve or worsen? And if the trends have been improved yet, are there any indicators into when this dynamic could normalize?
+
+Jurgi Camblong
+Co-Founder, Chief Executive Officer & Director, SOPHiA GENETICS SA
+Good morning, [ph] Jason (00:30:42), and thanks for the question. So indeed, right, in our volume, which is a consumption based volume, volume of analysis and ASP are very important elements. Ross, do you want to give some color on the pricing?
+
+Ross Muken
+President, SOPHiA GENETICS SA
+Sure. So, one of the other trends we shared last quarter was obviously that we had some parts of Europe in particular where there was modest pricing pressure. We saw a bit of that continue in Spain this quarter, particularly in solid tumor, but I would say in Italy, in France, we're starting to see a stabilization. So, we think, some of that was quite temporal and, frankly, related as well to some of the changing dynamics in the sequencing market overall, both with new players entering as well as we have new platforms coming online.
+
+I would say, as we look out for us, we'll continue to take price on the base portfolio globally, so we're quite confident there. I would also say, if you think about some of the newer products, right, coming in from a mix perspective, these tend to have higher ASPs than average, right? So ultimately, that as well from a mix basis will drive up our overall ASP. So I think, again, we're managing some of the dynamics we saw in the second quarter quite well. I think we'll get back to more normalized levels again in 2025. But for us in general, price continues to be overall a positive lever I would say longer term for the business.
+
+Got it. Thank you for that color. And then, maybe just like clicking back on some product launches you've talked about in the past, I think. You previously highlighted a partnership with Microsoft and NVIDIA to launch a scalable whole genome sequencing application on DDM. So how has progress been on this application and is it still on track for launch by year end?
+
+Jurgi Camblong
+Co-Founder, Chief Executive Officer & Director, SOPHiA GENETICS SA
+Yes. So absolutely. So, indeed, in rare inherited disorders, we see a trend towards more exome sequencing, towards more genome sequencing. And actually, we believe that there will be as well adjacent versions which will be enhanced exomes and enhanced genomes, which will improve even the accuracy of these applications, and that's something we're very much focused on with both Microsoft and NVIDIA.
+
+Great. Thank you, guys, so much.
+
+Jurgi Camblong
+Co-Founder, Chief Executive Officer & Director, SOPHiA GENETICS SA
+Welcome.
+
+Operator
+Next question will be coming from Mark Massaro from BTIG.
+
+Vidyun Bais
+Analyst, BTIG LLC
+Hey, guys. This is Vidyun on for Mark. Thanks for taking the questions. So, maybe just one on the BioPharma piece, understand that you called out headwinds in funding at the time of the guidance we set last quarter. Could you maybe just speak to your confidence that these headwinds can roll off looking at 2025? It's my understanding that, that revenue was simply pushed out, not cancelled so might even be a tailwind for you looking at 2025. Thanks.
+
+Jurgi Camblong
+Co-Founder, Chief Executive Officer & Director, SOPHiA GENETICS SA
+Yes. Thank you, Vidyun, and good morning. So, first to start with, last quarter – well, last year Q3 was a strong BioPharma quarter for us, so definitively on the revenue base this quarter, we're being penalized versus the Q3 of last year. Despite that, as we said, the clinical business grew pretty nicely with 17% volume growth year-on-year. On the pharma side, as you may remember, we revised our strategy end of Q2 2024, where we have decided that we would be focusing on Dx activities, such as sponsored testing, as well as on market access related needs. So, basically, activities where having a large footprint and a network of customers outside US is really important for the pharma industry and the pharma clients. And I would say, this strategy has proven to be pretty good and our sales pipeline has been growing over the last quarters. Now said, obviously the pharma budgets are still a bit tight and so I think being very disciplined on understanding what's the value that one can bring to the pharma is extremely important.
+
+Ross Muken
+President, SOPHiA GENETICS SA
+I would just add, so if you look at the range for the full year, obviously it's wider than we would expect typically and that's because, again, the outcome of pharma in the fourth quarter, there's quite a wide range of potential revenue contribution, but it's still implied certainly from where we were in the second and third quarter continued sequential improvement. So, I would say, there, you have a proof point to sort of a re-acceleration or at least a stabilization in that part of the business.
+
+But I think to Jurgi's point, for me personally, we obviously have two new leaders that are driving those efforts that are quite strong. We feel much better around sort of our go-to-market and our positioning in both data and diagnostics. And we're seeing that, I would say, manifest itself in our pipeline. And so, we're committed to obviously pushing those through to bookings and revenue. And so obviously stay tuned for 2025. But I think fundamentally, we're in a much better position today than we were back in the second quarter and the momentum is starting to return to that business. Although, to the point I made on guidance, we're still going to remain conservative with respect to what we include in the forecast just given the experience we had this year.
+
+Vidyun Bais
+Analyst, BTIG LLC
+Okay. Understood. And you may have touched on my next question a little bit, but just regarding the step up in Q4, to get to the midpoint of your guide, I guess what product areas or seasonality tailwinds are giving you confidence there? It sounds like it's mostly just BioPharma revenue, but just wanted to confirm that.
+
+Ross Muken
+President, SOPHiA GENETICS SA
+So just a reminder on our business, it typically runs like many healthcare companies from that perspective where you tend to have more seasonal demand in the fourth quarter so. And as well for us, given the exposure we have in Europe, third quarter from a volume perspective tends to be lighter just given the summer holidays. And so, some of it is just the typical sequential improvement you normally see in the fourth quarter from a volume perspective. As we've also reminded you throughout the year, and I mentioned when I spoke to Dan before, we also have had quite good net new bookings momentum and logo momentum, so we have quite a number of accounts coming online, including some of those relative to MSK-ACCESS, which again, per account tends to be a higher dollar revenue contribution.
+
+And so between the sort of seasonal improvement and the continued, I would say stabilization in pricing in Europe, as well as the new accounts coming online, we're quite confident that clinical will continue its strong trajectory into Q4 and then next year. And then, as you well noted, the big delta on Q4 in terms of the true width of the range really comes within pharma, right? So, you can see with the material step down that we implied for this quarter that obviously our run rate for BioPharma exiting 2023 and in the beginning as we had expected in 2024 was expected to be materially higher. So, we are starting to build back to that base, which is again give you confidence in sort of the revised strategy. But certainly, there's still some variability or at least conservatism on our end relative to the recognition of some of that revenue because it's a bit different than our typical usage based, and so that is what is implied in the forecast. But obviously, you can expect there's, at least relative to what we've provided, a high degree of confidence, and certainly the low to mid portion of the range relative to what we already have recognized or expect to recognize.
+
+Vidyun Bais
+Analyst, BTIG LLC
+Great. Thanks for taking the questions.
+
+Operator
+Our next question in line will be coming from Subbu Nambi from Guggenheim.
+
+Subbu Nambi
+Analyst, Guggenheim Securities LLC (Research)
+Hey, guys. Thank you for taking my question. Jurgi, following up on BioPharma comments, how are things trending month by month? Others in the group suggest that there is no positive inflection, but the environment is improving. And finally, I feel like you should be viewed as part of the solution for pharma customers, not part of the problem. Is that messaging resonating?
+
+Jurgi Camblong
+Co-Founder, Chief Executive Officer & Director, SOPHiA GENETICS SA
+Yes, definitively. And I would say, Subbu, that this is well understood by pharma. So, this week as well, I mean, in US, and I have a meeting with one of the top 10 pharma companies in oncology, and definitively we're talking about how we can help them in their precision medicine strategy, starting with a decentralized testing, and second with access to data for market access need. So, I think that the position of SOPHiA is a position that is definitively fit for purpose of the current constraints that the BioPharma are going through. But as Ross said, this requires building a pipeline, right, and so we're being laser focused on working only with the BioPharma companies who are strong in oncology and where our portfolio applications and network would be complementary to their current needs.
+
+Subbu Nambi
+Analyst, Guggenheim Securities LLC (Research)
+Thank you for that. And Ross, one for you, you guys are making good progress with operational spending discipline and reducing burn, any initial parameters on where this can go over the next year?
+
+Ross Muken
+President, SOPHiA GENETICS SA
+Obviously, we're still very committed on our path to profitability. I think relative to the progress that we've made, it's been steady, right, and I would say probably even a bit more impressive, frankly, given we obviously had some revenue challenges this year. So, we've obviously held the OP loss guidance despite the revenue shortfall. So we've been quite nimble, right, in how we've managed the cost base. And I would say, even more so you can see some of that benefit on the cash line, which at the end of the day is probably the most important.
+
+And so, I look forward with George joining us now, he obviously has a great history in this as well, to partnering in this path to profitability and we continue to be able to show you sequential improvement and continued evidence and proof points that we will get to the other side of cash generation and move towards this self-sustainability. And so, again, for us, this is obviously a paramount focus and one that requires obviously as well a great deal of balance, right? Because obviously, when you're trying to grow at the rate we would like to grow at and you're trying to manage your OpEx effectively, there's always sort of tradeoffs. But I think for us, we continue to pull the right levers to make sure that continued progress is evident to you guys.
+
+Subbu Nambi
+Analyst, Guggenheim Securities LLC (Research)
+Thank you, guys. And can I squeeze in one more? Given the oncology market TAM is larger, is there differences in how your sales force focuses their efforts for oncology versus rare diseases? Basically, is it one sales force or have you separated them into two sub-spaces?
+
+Ross Muken
+President, SOPHiA GENETICS SA
+So, in terms of the sales force construction, we tend to have almost a POD based model in most countries where you have folks that sell the full suite of menu of applications, and then technical engineers that kind of specialize and have more of the in-depth knowledge of the kind of specifics of the product. But I would say, in general, everyone sells the full portfolio.
+
+We tend to be more of a discovery based model, right? So, we sort of well understand our customers and their needs and growth and then have their sort of, I would say, pain points drive where business goes. But to your point, considering just the general, I would say, state of things in oncology in terms of the amount of innovation and change and the dynamic products we're bringing to market like MSK-ACCESS and MSK-IMPACT and our HRD capability, obviously, sales people are smart and they also focus where they see the most opportunity.
+
+But frankly, if you look today, our pipeline is quite balanced. Obviously, pharma is far more interested on the sematic side of things than on germline or rare disease. But overall, I'm quite happy with our focus and where our R&D dollars are going. And I think our sales force is really well-suited to help the client no matter their need or pain point.
+
+Subbu Nambi
+Analyst, Guggenheim Securities LLC (Research)
+Perfect. Thank you, guys.
+
+Operator
+And next question will be coming from Conor McNamara from RBC Capital Markets.
+
+Conor McNamara
+Analyst, RBC Capital Markets LLC
+Hey, guys. Thanks for the questions. First, Ross, congrats on the new job. And George, welcome to the team. First, just on the clinical revenue side, volume growth remains healthy double digits for you guys, but a lot of investors in the space are concerned about an overall market slowdown in clinical sequencing volumes over the medium and longer term. Have you seen anything in the marketplace from a technology or reimbursement perspective that could potentially change the trajectory of clinical volume growth for you guys, either positive or negative?
+
+Jurgi Camblong
+Co-Founder, Chief Executive Officer & Director, SOPHiA GENETICS SA
+Yes. Hi, Conor. Good morning. And indeed, congratulations to both Ross and George. I'm very excited about having them in the team and having Ross with more responsibilities. So, when it comes to the clinical market, we haven't seen what you described. So, so far actually, what we're seeing is rather that our current customers or new customers are thinking about which type of instruments they will invest in, whether it's the leading traditional one or an alternative. And in terms of volume of analysis, as you pointed out, we have seen a re-acceleration. Maybe Ross, you can give a bit of color of where we see the volume coming from and where it is growing the fastest.
+
+Ross Muken
+President, SOPHiA GENETICS SA
+So, I think if you look at us from a global perspective, obviously, North America for us remains a really robust market and one in the US that's, I think, quite promising. And if I look at as well my pipeline there, as well as our bookings potential, I'm, probably for the four years I've been at this company, the most optimistic of where we are in the US market. So, I think we see quite a lot of runway there for us.
+
+Asia Pacific for us as well has been quite robust. Growth this quarter was nearly 50%. And so, obviously a lot of new areas for us to penetrate there, but quite good demand. EMEA or Europe in general improved this quarter, and we're seeing really nice growth in places like Germany, the UK, Middle East, et cetera, and so there as well, it's quite good. And then, Latin America for us at the moment is kind of an interesting dynamic. Underlying growth is, I would say, stable, but we had one customer churn earlier in the year due to an acquisition. So that's, I would say, skewed our results all year. But frankly, if I look across the portfolio and if I look again at my pipeline and my bookings, globally volume growth for us at least is expected to be quite good.
+
+I think maybe what you're hinting at is a dynamic in the market around sort of the tradeoff of pricing and volume around some of the traditional pieces. If you think about an entire workflow, we obviously comprise a smaller percentage of the total pie than, say, an instrument or a flow cell or consumable, etcetera, labor costs. And I think, for us, the most sensitive factor is volume and data production, which remains, I think, quite robust. And so that's the metric we look at the most and feel quite confident. And I would say, volume as well as part of that data production is both a mix of higher patient volumes, but also the complexity of the test, right, so moving to a CGP or liquid biopsy, MRD, etcetera, this is much deeper sequencing. And so, for us it means much more data production, which is quite positive.
+
+What happens to sort of instrument ASPs or flow cell as a percentage of the total mix? That I can't say, but I'm quite confident for us. We will continue to eat up a bigger piece of the pie over time with what we're able to do.
+
+Conor McNamara
+Analyst, RBC Capital Markets LLC
+Great. Thanks for that color. Really appreciate it. And then, on the BioPharma side, most life science tools investors are well aware of this dynamic of cautious spending by BioPharma right now. And just if you look at your push out in BioPharma revenue, how much of that push out is a function of this spending dynamic by those customers versus potential competition from other AI vendors versus maybe just a lower overall appetite from pharma in AI investments for drug discovery?
+
+Jurgi Camblong
+Co-Founder, Chief Executive Officer & Director, SOPHiA GENETICS SA
+Yeah. Thank you, Conor. So, it's definitively spending dynamics, because just taking a step back, the way pharma would work with SOPHiA is because of our network, right, which is distributed, and in particular, our network of customers outside the US where definitively we have a competitive advantage. As you know, we serve over 700 plus hospitals around the world, right, which are really tier 1 university hospitals and comprehensive cancer centers.
+
+And so, when pharma is thinking about post-approval activities or market access needs, which is, for example, more patients being tested molecularly, or whether when it comes off reimbursement, strategical considerations on the basis of real world data, there, we are very, very well positioned with our network versus other peers. So, we don't really have competition, I would say, outside the US, which is our main advantage for the BioPharma. So it's really what you described as being basically budget constrained from the BioPharma that, for example, have made activities on the pre-approval side a bit more complicated. And so, we've refocused on post-approval activities since June of this year.
+
+Conor McNamara
+Analyst, RBC Capital Markets LLC
+Great. Thanks for that color, Jurgi. Really appreciate it.
+
+Jurgi Camblong
+Co-Founder, Chief Executive Officer & Director, SOPHiA GENETICS SA
+Thank you, Conor.
+
+Operator
+There are no further questions at this time. I'd now like to turn the call over to Mr. Jurgi Camblong, our CEO and Co-Founder for final closing comments.
+
+Jurgi Camblong
+Co-Founder, Chief Executive Officer & Director, SOPHiA GENETICS SA
+Thank you very much all joining us today. Thank you as well to the teams of SOPHiA who have been working relentlessly to deliver very good numbers when it comes to our cash burn year-on-year. And well, again, welcome George and congratulations Ross. And we are all looking forward to see you next week on Monday and Tuesday at the Guggenheim Healthcare Conference in Boston. Thank you. Have a good day.

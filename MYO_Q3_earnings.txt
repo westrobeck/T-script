@@ -1,0 +1,321 @@
+Thank you, operator, and good afternoon, everyone. This is Kim Golodetz with Alliance Advisors IR. Welcome to the Myomo third quarter 2024 conference call. Earlier this afternoon, Myomo issued a news release announcing financial results for the three and nine months ended September 30, 2024. If you would like to be added to the company's email distribution list to receive future announcements, please register on the company's website at myomo.com or call Alliance Advisors IR at 310-691-7100 and speak with Danny Chertock.
+
+With me on today's call from Myomo are Paul Gudonis, Chairman and Chief Executive Officer; and Dave Henry, Chief Financial Officer. Before we begin, I'd like to caution listeners that statements made during this conference call by management, other than historical facts, are forward-looking statements.
+
+The words anticipate, believe, estimate, expect, intend, guidance, outlook, confidence, target, project and other similar expressions are typically used to identify such forward-looking statements. These forward-looking statements are not guarantees of future performance and may involve and are subject to certain risks and uncertainties and other factors that may affect Myomo's business, financial condition and operating results.
+
+These and additional risks, uncertainties and other factors are discussed in Myomo's filings with the Securities and Exchange Commission, including on Forms 10-K and 10-Q. Actual outcomes and results may differ materially from what's expressed in or implied by these forward-looking statements. Except as required by law, Myomo undertakes no obligation to revise or update any forward-looking statements to reflect events or circumstances after the date of this call.
+
+It is now my pleasure to turn the call over to Myomo's CEO, Paul Gudonis. Paul, please go ahead.
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+Thanks, Kim. Well, good afternoon everyone, and thanks for joining us today. We achieved another quarter of strong growth in the third quarter of 2024 building on our momentum since the Medicare fees for the MyoPro powered arm braces went through to effect beginning April 1. We're now able to serve the many patients in the US who are covered by standard Medicare Part B and we achieved quarterly records and important business metrics, including revenue, revenue units, pipeline adds, order rent pipeline size, insurance authorizations and orders and MyoPro shipments.
+
+But with the reclassification of the MyoPro into the brace category and the publication of the Medicare allowable earlier this year, we established three major objectives for the company. Start providing the MyoPro the eligible standard Medicare Part B beneficiaries, whom we had to turn away before, engage the many orthotics and prosthetics clinics across the country, who now would be interested in becoming a distribution channel for us. And three, begin the process of establishing contracts with payers for in-network status of our direct provider business.
+
+I'll provide a status report on these initiatives by reviewing the key data points across our revenue cycle, from patient candidates who are interested in MyoPro through to revenue units in the quarter. We added 645 medically qualified candidates to the patient pipeline, which was up 69% from the year ago quarter as our addressable market is increased to include Medicare Part B patients that did not have access to the MyoPro in the past. Our marketing efficiency also improved with the cost per pipeline add down 25% from last year to $1,618 per qualified adds.
+
+We received insurance authorizations and orders for a record 225 MyoPros in the third quarter, including medically qualified Medicare patients, which was up sequentially and also up 44% year-over-year. Revenue units based on devices delivered to patients or payments received totaled 161 MyoPros up 35% from a year ago, and the ASP or the average selling price increased to an adjusted $52,700 per unit, as Dave our CFO will explain.
+
+As a result of more MyoPro volume and a higher ASP, our product revenue is a record $9.2 million up 83% over the same period in 2023. These revenue units included 87 MyoPros delivered to Medicare Part B beneficiaries and this is in addition to the shipments to Medicare Advantage, VA, orthotics and prosthetics clinics and international customers. With the large number of additions to the patient pipeline, we exited the quarter with 1,263 candidates in the process of obtaining a physician's order and the necessary medical documentation for a MyoPro. And with the large number of new orders, our backlog stood at a record 316 units, which represents over $16 million of potential revenue.
+
+As we're developing the O&P channel in September, we attended the American Orthotics and Prosthetics National Association Assembly, which is the largest conference for Orthotics and Prosthetics or O&P clinics in the US. With clarity on Medicare Part B reimbursement, we're now able to recruit these O&P clinics to provide the MyoPro to stroke survivors, [ph] knowing that this is a (00:06:24) patient population, they already serve with ankle foot orthoses and other braces.
+
+Our team of business development managers and clinical trainers serving this O&P channel is up and running. And we had a standing room-only crowd of more than 100 clinical professionals attending our manufacturer's workshop at the conference. We train these clinicians on the MyoPro, we launched the Myomo Academy, which is an online learning platform specifically for O&P professionals. We're also conducting a number of in-person training sessions as part of the certification program for O&P clinics to become a MyoPro center of excellence. These training sessions have included many independent O&P clinic owners and CPOs, which is certified prosthetist orthotist as well as Hanger Clinics, which is the largest nationwide operator of O&P clinical facilities.
+
+We've set a goal of recruiting and training 100 clinicians by the end of this year. And I'm pleased to report, we've already surpassed that goal. These prosthetists and orthotists are now starting to evaluate patients and after they receive the necessary medical documentation. They'll begin to place orders for custom MyoPro for their patients. We've already seen an uptick in activity from the O&P channel and we expect that O&P orders will increase in 2025 as their patient pipelines are growing. However, it can take several months for patients to see their primary care [ph] or their (00:07:47) qualified physician and to obtain all the necessary clinical notes, which are required before MyoPro order can be placed.
+
+While our direct provider business with Medicare, our international operations and our progress at the O&P channel is going well, I'm frustrated with some of the Medicare Advantage plans. Rather than following Medicare's lead and covering the MyoPro for their members. We've seen mixed results from these payers so far. It's been widely reported that some Medicare Advantage payers are making it more difficult for patients and providers to get the care they deserve, which is what we are seeing as well. As a result, more authorization requests are being denied initially, forcing us to file more appeals for pre-authorizations with some plans.
+
+On the other hand, some Medicare Advantage plans that did not cover the MyoPro in the past have started to do so, which is a good thing for their members. Additionally, the good news is that we've seen some of the Medicare Advantage plans pay a more appropriate amount now that the Medicare allowable rate has been published. As for the third objective, our contracts with payers since this year's developments with Medicare, our Chief Medical Officer has been working with private payers to begin the contracting process for Myomo to become an in-network provider. While this can be a multi-year process due to the meetings required with medical directors and then the contracting staff, we recently announced we've entered into our first two contracts, one with Blue Cross, Blue Shield of Massachusetts, another with Paradigm, which is a leading workers compensation organization. Together, these two payers represent 3 million covered lives at the Blue Cross Blue Shield Plan, plus employees served by Paradigm for workplace injuries. We have other ongoing dialogues with other payers, which we believe will lead to additional contracts down the road.
+
+With the growth in the pipeline orders and channels even adding capacity to meet demand. We've gone from about 100 employees at the beginning of the year to 180 now. And we'll be moving to a larger production facility in the Boston area later this year to accommodate the expected growth in shipments this quarter and in the future. As I mentioned, our international operations base in Germany continue to perform well with a record $1.1 million of revenue in the quarter. Also our China joint venture, Jiangxi Myomo, is making progress in obtaining the necessary regulatory approvals from the NMPA, equivalent of a Chinese FDA to begin sales and production of Myomo units, in addition to undertaking a clinical trial with some key hospital partners as part of their market access plan. We don't expect much in the way revenue from China at this point, but we're getting well-positioned to capitalize on this very large opportunity.
+
+With that overview, I'll turn the call over to our CFO, Dave Henry, for a deeper dive into the quarterly financials. And I'll return with some additional comments on our business plans. Dave,
+
+David A. Henry
+Chief Financial Officer, Myomo, Inc.
+Thank you, Paul and good afternoon everyone. Let me start my remarks with a review of our third quarter financial results. Revenue for the third quarter of 2024 was a record $9.2 million. This consisted entirely of product revenue and was up 81% over the prior year quarters total revenue, which included a payment under our licensing arrangement with the joint venture company in China.
+
+Product revenue was up 83% over last year's third quarter. Product revenue growth was driven by a record 161 MyoPro revenue units, about 35% year-over-year. Our average selling price or ASP, was also a record at approximately $57,200. ASP was favorably impacted by supplemental insurance payments in the third quarter on revenue units recognized in a prior period. This is the result of the transition to recognizing revenue on delivery to Medicare patients, effective July 1, 2024. Excluding these payments ASP was $52,700 in the third quarter, still a record high.
+
+For Medicare Part B and certain commercial payers were recognizing revenue at delivery in an amount expected to be paid by both the primary and supplemental insurance payer, with the exception of Medicaid. Note that Medicare Advantage payers are in most cases now reimbursing us based on the fees published by CMS. As a result 94% of third quarter product revenue was recognized at either shipment or delivery, compared with 76% in the year ago period, 55% of product revenue in the third quarter came from Medicare Part B patients up from 47% in the second quarter, reflecting our success in reaching out to and educating these patients on the benefits of the MyoPro.
+
+Revenue from patients with Medicare Advantage Plan represented 24% of third quarter revenue, and Medicare Advantage revenue was down 26% year-over-year. A challenging reimbursement environment with Medicare Advantage Plan continued in the third quarter, which is resulting in fewer first-time authorizations and more denials, leading to more administrative law judge hearings in order to obtain an authorization for the patient.
+
+Our success rate with ALJ hearings remains constant at around 40% to 50% of cases. However, as Paul mentioned, we're seeing some good news in that certain Medicare Advantage payers that were previously not reimbursing for the MyoPro have begun providing pre-authorizations. Of the 161 revenue units in the third quarter, approximately 24% resulted from [ph] fill (00:13:26) which is our term for authorizations on orders received and converted to revenue in the same quarter, driven by revenue from Medicare Part B patients, 81% of our revenue in the third quarter came from the direct billing channel, compared to 69% in the prior year quarter.
+
+International revenue was a record $1.1 million in the third quarter, representing 12% of third quarter revenue which primarily came from Germany. In the third quarter of 2024 both pipeline additions and total pipeline reached new records. The pipeline was 1,263 patients at the end of the third quarter, an increase of 21% year-over-year. There were a record 645 additions to the pipeline in the third quarter, an increase of 69% year-over-year. Of the pipeline additions in the third quarter, 30% were Medicare Part B patients, about 15% of the total pipeline at the end of the third quarter were Medicare Part B patients. This reflects the increased velocity in moving Medicare patients through the process of obtaining a MyoPro as compared to payers that require pre-authorization.
+
+Reported backlog represents insurance authorizations and orders received but not yet converted to revenue. And in the case of Medicare Part B patients, those patients from whom we've collected medical records and deemed qualified for delivery based on our inclusion criteria. Our backlog at the end of the third quarter was a record 316 patients, up 71% from our backlog at the end of third quarter 2023 ending third quarter backlog includes 114 Medicare Part B patients that have either been qualified for the delivery with appropriate medical documentation or have received their MyoPro and claims have not been filed, but that's very small now in the overall percentage [ph] the payment is not easy (00:15:21). The Medicare portion of the backlog increased 19% sequentially. Contributing to our backlog was a record 225 authorizations and orders, an increase of 44% year-over-year.
+
+Gross margin for the third quarter of 2024 coming entirely from product sales was 75.4% compared with 68.7% for the prior year quarter, the increase was driven primarily by the higher ASP I mentioned and by higher fixed cost absorption. Excluding the licensed revenue gross margin on product sales was 68.4% in the third quarter of 2023. Operating expenses for the third quarter of 2024 were $7.9 million, an increase of 43% compared with the third quarter of 2023. This increase was driven primarily by the higher head count throughout the organization to increase capacity and to accelerate completion of certain engineering projects and new product development.
+
+In addition, advertising expense of $1 million was up 23% year-over-year as we successfully undertook efforts to increase the number of patients at the top of the funnel. Cost per pipeline add was $1,618 which was down 25% compared with the prior year quarter. Operating loss for the third quarter of 2024 was $1 million, which is half the $2 million operating loss for the same period a year ago.
+
+Net loss for the third quarter of 2024 was $1 million or $0.03 per share. This compares with a net loss of $2 million or $0.06 per share for the third quarter of 2023. Approximately $7.7 million pre-funded warrants are still outstanding from our offerings in 2023 and in January 2024. These pre-funded warrants are considered common stock equivalents under GAAP and are included in our weighted average shares outstanding. Adjusted EBITDA for the third quarter of 2024 was a negative $600,000 compared to the negative $1.7 million for the third quarter of 2023.
+
+Looking at our year-to-date financial results, revenue for the nine months ended September 30, 2024 was $20.5 million, up 41% compared with the same period a year ago and product revenue increased 61%. Year-to-date gross margin was 71.1%, compared with 69.6% in the year-ago period or 65.4% excluding license revenue. Operating expenses for the first nine months of 2024 were $20.5 million, an increase of 29% compared with the same period a year ago.
+
+Operating loss for the first nine months of 2024 was $6 million compared with an operating loss of $5.8 million for the same period a year ago. Net loss for the first nine months of 2024 was $5.9 million or $0.16 per share, compared with net loss of $5.7 million or $0.21 per share for the same period a year ago. Adjusted EBITDA was a negative $5.3 million for the first nine months of 2024, compared with a negative $4.9 million for the year-ago period.
+
+Turning now to our balance sheet and cash flows. Cash, cash equivalents and restricted cash as of September 30, 2024 were $7 million. Cash used in operating activities was $1.5 million for the third quarter of 2024 compared with $1.7 million for the third quarter of 2023. Operating cash flow in the third quarter was impacted by a payment delay from CMS in the last few weeks of the quarter due to a transition from check payments to electronic payments. Payment hold was mandated by CMS, while our bank accounts were being verified, that delay pushed roughly $600,000 of payments into the fourth quarter. As of today, we're being paid electronically by all of the billing regions, and they have caught up and paid the outstanding claims from September.
+
+Restricted cash of $375,000 consists of funds held by our bank to collateralize a letter of credit which represents the security deposit for our new headquarters building. We expect to occupy the building by the end of the year. We have an accounts receivable line of credit with Silicon Valley Bank that provides for borrowing of up to $4 million based on 80% of eligible accounts receivable, as defined in the agreement. As of today, we have not drawn on the credit line. We believe our cash and cash equivalents are sufficient to fund our operations for at least the next 12 months.
+
+Turning to our financial guidance, given our backlog, we believe we are positioned for a third consecutive quarter of record revenue. We expect revenue for the fourth quarter to be in the range of $9.5 million to $10.5 million. This represents between 100% and 121% year-over-year growth. As a result, we're raising our full year revenue guidance at $30 million to $31 million, up from our previous guidance range of $28 million to $30 million.
+
+We are also reiterating our expectation that based on this revenue guidance, operating cash flow breakeven is still achievable in the fourth quarter. We also expect to approach adjusted EBITDA breakeven in fourth quarter. However, in order to achieve these targets, we assume no supply chain disruptions, no delays in the receipts of expected payments, including a contractual reimbursement from the landlord of our new facility. And no increase in day sales outstanding.
+
+With that financial overview, I'll turn the call back to Paul.
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+Thanks, Dave. We're looking forward to a strong finish to this transformational year, as the clarity of reimbursement with Medicare coverage and payments has been a significant inflection point for Myomo. In addition to the continued growth in quarterly revenues in Q4 we're continuing to build out the O&P distribution channel. In fact, this week, we're attending a major regional O&P conference in New Jersey that's being attended by several 100 clinicians and we're scheduling more training classes. We also received a very positive comment from a Hanger Clinics executive after participating in one of our recent sessions, telling us that our manufacturers training was among the best their clinicians have ever experienced and I'm really proud of our team.
+
+So with that update and overview of our plans for the rest of 2024. We're now ready to take your questions. Operator?
+
+Question And Answer Section
+Operator
+We will now begin the question-and-answer session. [Operator Instructions] At this time, we will pause momentarily to assemble our roster.
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+Before we turn to your questions, I want to mention that we've participated in several conferences in the past 60 days, including the H.C. Wainwright, Lake Street and Maxim Conferences. And we will be attending the 15th Annual Craig-Hallum Alpha Select Conference in New York City on November 19. We're also available for virtual and in-person investor meetings. So to arrange a meeting, contact the conference organizer or call Alliance Advisors IR who can assist you to schedule one. Okay, operator, we're ready for the first question if you are.
+
+Operator
+Okay, the first question comes from Chase Knickerbocker of Craig Hallam.
+
+Chase Knickerbocker
+Analyst, Craig-Hallum Capital Group LLC
+Good afternoon. Thanks for taking the questions and congrats on the great progress here. Just first, just around ASP, what percentage of Part B patients is supplemental insurance [ph] are (00:23:18) Medicaid kicking in, to kind of pay that last 20%. And then I think, kind of just backing up, how are you thinking about ASPs? Obviously, almost 53,000 very strong, right around that max allow – 80% of your max allowable. Do you think, we still have room to go higher on kind of portfolio ASPs? Or should we think about this being pretty close to the ceiling? Thanks.
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+Yeah, the $52,700 was based on, as I mentioned, the fact that the supplemental payments were received in the third quarter of revenue units in the second quarter. Now when we recognize revenue, you are going forward but recognizing revenue in the amount that's expected to be paid. So there are some supplemental insurance plans that we believe that we've made the assessment that they're going to pay us. So if it's a Motion-G, we will go ahead and recognize $64,000 roughly of revenue at delivery.
+
+Now, in the case of Medicaid, where we don't have Medicaid coverage yet, but it's something we're working on. We will only recognize $51,000 where their secondary coverage is Medicaid. So in all – overall, I would say about 20% to 25% of our patients so far have supplemental insurance coverage. And we'll take that incremental revenue at delivery. As to whether the $52,700 represents something, could there be ASP growth in the future? I think that mix of [ph] whether (00:25:00) these patients have supplemental insurance or not will depend on that. And then once the O&P channel kicks in, I think then we might – we'll probably start to see, a lowering of the ASP as that mix changes. But that's more of a 2025 issue.
+
+Chase Knickerbocker
+Analyst, Craig-Hallum Capital Group LLC
+Makes sense and maybe just kind of going there on the O&P side. Great to hear about the progress thus far and what you kind of have planned through the rest of the year. How do you think, as far as kind of how quick those O&P providers can start generating revenue? Do you have kind of an idea yet? And then any early thoughts on next year, Paul, as far as what that channel can contribute from a standpoint of kind of your overall volume? Thanks.
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+In our experience with these O&P clinicians. They'll first go through the initial training to evaluate patients. Then maybe over the next month or two, they'll have the right patients coming into their clinic for an AFO, and they may be a MyoPro candidate.
+
+And then [ph] they'll valuate (00:26:00) if they're suitable candidate, they will send that patient to their physician to get the written order, to get all the medical documentation. Our experience with that is it's typically six to eight weeks for patients to get those appointments, come back to the documentation. And that O&P provider has got to arrange to do the measurement of that patient's arm, to send us the order. So it's a three to four-month process after getting that initial training before we will see those initial orders.
+
+And then my experience with this channel too is that they'll want to first fit that first patient. So, it might be another 30, 40 days later when they fit that patient. They want to see how the patient does, they want to make sure they got that payment, whether it's from Medicare or one of the other private payers. So we'll probably see an initial order from these providers over the first six months and then we'll see another order, another order. So we'll start to pick up after that, it's not going to be a step function, but we are bringing a lot of these O&P clinics into the fold. So I expect we'll start to see an uptick in orders, especially in the first quarter of 2025.
+
+Chase Knickerbocker
+Analyst, Craig-Hallum Capital Group LLC
+Got it, and then just kind of following up on those comments, going to the manufacturing side, you just confirm that you're still at about kind of 80 units a month as far as production capacity, what you're kind of churning out in your current facility. And then kind of, how quickly do you think you can get up and running in the new facility? And then, I guess, how quickly do you think you'll need that expanded kind of capacity from that new facility? And what do you think you can kind of get out of one shift at this new facility? Thanks.
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+Well, the good news is, our manufacturing team has worked really well to get more efficient. We are even exceeding that 80 units per month right now, here in our Boston facility downtown. And we've got a very good plan to start a parallel facility set up in the Burlington workspace. So we'll start manufacturing there, in addition to what we've got here in Boston. And then we'll finally migrate all of it by the end of the year. So I expect that – over the next six months, we ought to be able to double capacity based on all the workstations we're putting in place. And then after that, we can either add more first shift workstations or consider a second shift. So this new space that gives us plenty of flexibility to keep expanding capacity to meet the growing demand.
+
+Chase Knickerbocker
+Analyst, Craig-Hallum Capital Group LLC
+Great. Thanks, Paul. Congratulations...
+
+David A. Henry
+Chief Financial Officer, Myomo, Inc.
+Well, actually. And one other thing too, sorry. We'll also get, initially we're going to move in and we'll occupy about 27,500 square feet for office and manufacturing. And then come June, around June of 2025, we will get another 7,500 square feet of manufacturing space. So I think, we'll have plenty to meet our needs here as we go to 2025 and beyond.
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+And we've got a total of 13,500 here in Boston. So you see, we're basically tripling the space with most of that expansion for manufacturing. Operator do we have another question?
+
+Operator
+Yes, we do. Our next question is from Scott Henry of AGP. Go ahead please.
+
+Scott R. Henry
+Analyst, A.G.P. / Alliance Global Partners Corp.
+Thank you, good afternoon. Congratulations on continued strong momentum. I'll start at the top of the funnel. New candidate adds 645, obviously a very large number. Do you think you can grow it much from there or you're just trying to get a sense of what capacity is for the top of the funnel?
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+The answer is yes, and our plan is to continue growing it by advertising expenditures. We did spend more in advertising in Q3, as Dave mentioned. So, we typically cut back on some of the advertising in Q4 just because we're competing until yesterday with the election advertising. All the Medicare Advantage plans are still advertising till mid-December and you've got holiday spending there as well. So, we can serve some of our spending, but we will continue to grow that pipeline. We've also added in our own direct selling operation, more certified prosthetists, orthotists. We have a dedicated team to evaluate patients online for that initial screening. So, no Scott, yeah we plan to continue growing because again, we're in a very early stage of market penetration given the huge number of people need this MyoPro [indiscernible] (00:30:42)
+
+Scott R. Henry
+Analyst, A.G.P. / Alliance Global Partners Corp.
+Okay, fantastic. And then you're thinking about 2025, if you take your 4Q number, annualizing it, you're already at $40 million. Any thoughts as to what kind of growth we could see from 2024 to 2025? And also for Dave, should we factor in, kind of, Q1 tends to be seasonably a little weaker for a multitude of reasons. Just trying to get your thoughts on that year.
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+Yeah, I think part of what we were doing with spending the money we did on advertising was to try to mitigate, if you will, some of that quarter seasonality by getting patients into the pipeline, so that we can overcome what we typically see is, which is – as Paul mentioned in the fourth quarter, we don't spend as much on advertising, the pipeline adds are usually down in the fourth quarter. But we wanted to have, sort of the build up a pipeline to try to compensate for some of that.
+
+So it's a little bit early to tell in terms of what – if we can – we'll actually be able to do that. I think we'll have our – the metrics that we're able to generate the adds and things like that and the authorizations and orders, I think, I'll need to wait to see on that before I give any color as to whether we think, we can overcome some of that seasonality in the first quarter. And I think, in terms of the full year, I'll wait to give guidance until March on that. But I certainly sit here believe that if we exit fourth quarter on $10 million which is the midpoint of our guidance. I think, we'd be disappointed if we had less than $40 million of revenue in 2025.
+
+Scott R. Henry
+Analyst, A.G.P. / Alliance Global Partners Corp.
+Okay, thanks. I appreciate that color. Final question just on the O&P channel. I think Medicare, we thought of as kind of a degree of magnitude relative to your base business, almost kind of doubled it. How should we think about the peak impact for that O&P channel. [ph]
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+you see the (00:33:08) peak impact meaning over time. I mean, it could be a very large percentage of our total business. Because most orthotics and prosthetics products are actually delivered through the O&P channel. If you look at other manufacturers of whether it's the C-Leg or upper extremity orthoses and so on. We're very optimistic about building this channel up over time. In the meantime though, we're going to continue to invest in our own direct provider business, because we've shown that we have really over the last five years, built a really good commercial engine. That is very – getting more and more efficient all the time, in terms of the cost per pipeline add, ability to move these patients through the process to deliver high quality patient care. So it's a dual growth strategy, the O&P channel plus our direct provider business.
+
+David A. Henry
+Chief Financial Officer, Myomo, Inc.
+Paul you remind me – this question reminds me of a comment you made regarding Hanger, because I think you had a conversation that they mentioned how many AFOs ankle foot orthosis, they might deliver in a year. There's a good number of those people who get AFOs from Hanger that may be candidates for MyoPro. And I think that could be a very sizable number, that could be in the thousands per year just from Hanger.
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+That's right.
+
+Scott R. Henry
+Analyst, A.G.P. / Alliance Global Partners Corp.
+Okay, great. Appreciate the color on that. And thank you for taking the question.
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+Thank you, Scott.
+
+Operator
+The next question comes from Anthony Vendetti of Maxim Group. Go ahead please.
+
+Anthony V. Vendetti
+Analyst, Maxim Group LLC
+Sure, thank you. You have 316 units in backlog as of September 30, which is up 71% which is great. Can you talk about the value of that backlog and then when it should be recognized approximately over what time period?
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+Yeah. So as you know the 316, some of those, patients will drop out of backlog, it always happens, typically that percentage is somewhere around 15% to 20% will drop out. And so that will leave being conservative, I guess if you take 20% that maybe 250 remain. And if the value of that backlog is – of the ASP, let's say $50,000. So you're – you have a value, sort of a net value, I'll say of over $10 million.
+
+David A. Henry
+Chief Financial Officer, Myomo, Inc.
+Usually gets realized over the next three to six months.
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+Yeah sorry. And then the – typically the way our backlog will be realized about 35% to 40% is – will turn into revenue one quarter out. And then decreasing percentage from there, it depends on the number of Medicare Advantage payers that are in the backlog and how long it takes to get reimbursed from them and things like that.
+
+Anthony V. Vendetti
+Analyst, Maxim Group LLC
+Okay, no, that's helpful. And then, as you've been ramping up, how many direct sales people do you have now, and how many do you hope to have by the end of this year?
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+Well, remember, as a clinical services provider ourselves, we really don't have direct sales people, we have clinicians. So these are licensed CPOs who then evaluate interested patients. We generate that patient demand primarily through the social media, from television advertising, clinical referrals from doctors and therapists. So, they're not really sales people, they're just clinicians who are evaluating those patients. And then after we get the green light to go ahead and fit them, they will do the fitting. And then we'll just bill those patients. On the O&P channel side, we've got two business development representatives. So their job is to recruit these O&P providers, get them excited about becoming a certified center of excellence.
+
+Anthony V. Vendetti
+Analyst, Maxim Group LLC
+Okay, so you have two of those on the O&P side. How many clinical specialists?
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+Yeah. So we've got 10 plus, we just hired a couple more. So call it a dozen right now in the field across the country.
+
+Anthony V. Vendetti
+Analyst, Maxim Group LLC
+Excellent. And then obviously you have a huge opportunity here in the US. Can you talk about your international plans, whether that's something you're looking at ramping now or sometime in 2025 or is that more like a 2026 plan?
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+We continue to plan to ramp up, especially operations in Germany, because we are succeeding there, it's a good size market, reimbursement is good with the statuary health insurance companies. We've got a network of over 100 O&P providers already trained there. So, we're adding our own staff there to support these O&P providers, and we're basically doubling down there in Germany. We're looking at other markets. It's typically a two to three-year process with a new market, let's say a France, for example, Italy, you'd have to – you have to put some boots on the ground, you have to meet with the regulators. You have to meet with the insurance company medical directors, similar to what we had to do in Germany, originally, what we have to do here in the US with payers and CMS. So I think, we're going to defer that until we are in a bigger position revenue wise. We can afford to make that investment, which again pays off, but it's about two to three years of investment to get there.
+
+Anthony V. Vendetti
+Analyst, Maxim Group LLC
+Okay, so the focus, because you've been in Germany, will be to continue to build that out the US and then it sounds like maybe France and Italy would be next, but that's a two to three year process to get that built out and ready to go
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+Right. In the meantime, we're cheering on our China joint venture partners, they're starting to get the necessary NMPA approval. So hopefully they'll start generating revenue 2025 and then associated license fees back to us.
+
+Anthony V. Vendetti
+Analyst, Maxim Group LLC
+Okay. And then last question on the R&D front. Any particular developments there, any improvements or modifications to the current brace that's out there?
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+Yeah. So, we've been expanding our R&D staff and we've been working on new enhancements to MyoPro 2+. We've taken them out in at-home trials with patients and we got some good feedback to, hey, make these other changes. So I said, you know what? Rather than introducing product enhancements right now, let's push that out a bit, because I'd rather put in those additional features, it also broadens the number of people who might be qualified for MyoPro. And so you'll see some announcements to that probably Q1 of 2025.
+
+Anthony V. Vendetti
+Analyst, Maxim Group LLC
+Excellent. Thanks for all that color. I appreciate it. I'll hop back in queue.
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+Thanks Anthony.
+
+Operator
+The next question comes from Ben Haynor of Lake Street Capital Markets.
+
+Ben Haynor
+Analyst, Lake Street Capital Markets LLC
+Good afternoon, gentlemen. Thanks for taking the question. First off, congrats on getting the 100 O&P clinicians trained up. And obviously the high praise that you received there, that's definitely encouraging. Can you talk a little bit about maybe what the demand looks like for more O&P clinicians to get trained. I mean, how quickly can you train the next 100 and the next 100 beyond that. Just any thoughts there would be helpful?
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+Sure. Well one of the reasons we invested in creating the Myomo Academy as an online learning platform, so that clinicians who are interested, they sign a contract with us, they have access to that. They can start to do this learning online and we do online classes for these individuals, so they can start that evaluation process, we'll team up by sending our clinicians to go with them to evaluate patients, to do in-service presentations at various rehab hospitals. And we have a plan for a number of classes in the new year. So, as we see more and more demand, our team, as I said, is in New Jersey [ph] at the regional (00:41:51) conference this week. If there's more and more demand, we can keep growing the team that's associated with that O&P channel, because I really want to develop it.
+
+Ben Haynor
+Analyst, Lake Street Capital Markets LLC
+Makes sense. And then what goes into them ultimately becoming center of excellence, the initial training online, then kind of what's the procedure what happens after that, to get to that center of excellence sort of level?
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+Well it's important investment from them, because it takes three days for one of these CPOs to become qualified to deliver a MyoPro. So, they learn about the evaluation process, about the medical documentation that's required by Medicare or other payers. Then they learn to do, what we call a shape capture, to measure the arm and hand, because again every patient is unique and then after they place their order, we'll make sure that we assist them, in terms of the delivery of the product.
+
+So they'll have that hands-on training with the patient as well. And then there's the follow-up care. So, it's a three-day program, which means they have to be out of clinic for three days. So they understand that's the investment they have to make. But in return, they can earn that Medicare allowable for every Medicare patient that they see and put into MyoPro.
+
+Ben Haynor
+Analyst, Lake Street Capital Markets LLC
+Perfect. Yeah, that's helpful. And then lastly for me. On the Q4 guidance, does that have anything factored in from the O&P channel or is that -would that be kind of pure upside?
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+Yeah. I think the assumption is, sort of the typical rate that we see, the O&P channel is only 3% of revenue in the third quarter. So, we've talked about the O&P channel being more of a 2025 thing. So that's what our assumption is in the fourth quarter.
+
+Ben Haynor
+Analyst, Lake Street Capital Markets LLC
+Okay. Got it. Thanks for taking the questions, gentlemen. And congrats on all the progress.
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+Thank you.
+
+David A. Henry
+Chief Financial Officer, Myomo, Inc.
+Thanks, Ben.
+
+Operator
+The next question comes from Edward Woo of Ascendiant Capital. Go ahead, please.
+
+Edward Woo
+Analyst, Ascendiant Capital Markets LLC
+Yeah. Congratulations on the quarter. My question is, as you guys move into the new facility. How much more operating leverage can you get in your business?
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+I think, I mean, we will have to pay a higher rental of course. So we'll have to sort of absorb that before we – just more space and more lease dollars. So, we'll have to absorb that before we get leverage. But that shouldn't be too hard and if we're doubling the capacity, I think that, if we can get up to that, those kinds of numbers, sure we'll be generating a fairly good incremental operating income from what we're doing, particularly I think as we were looking to see that O&P channel grow, because there will be more leverage, I think from – even though the ASP will be lower, because we don't have to spend incremental advertising dollars and clinical dollars for an O&P patient. We'll be really looking to see that channel grow as well, in combination with the following, what the volume growth to really drive that leverage that we're looking for.
+
+Edward Woo
+Analyst, Ascendiant Capital Markets LLC
+As you expand your volume and capacity, is there opportunities for gross margin expansion?
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+I think, as I mentioned with the O&P channel, as that grows and becomes a bigger part of our revenue, I think we see the gross margins, where they're in the mid-70s now low to mid-70s, it might go down below 70% as the O&P channel becomes more prevalent because the ASP will be lower. But then again, I think there shouldn't be as much incremental OpEx required to serve that channel. So, I think it's possible that channel is operating margin accretive as we go forward. And so, that's sort of the operating model that we would like to see. So again, I think with the channel, you could see gross margin [ph] loosen a bit (00:46:18) with that channel, but potentially operating margin accretion.
+
+Edward Woo
+Analyst, Ascendiant Capital Markets LLC
+Right. Well, thanks for answering my questions and I wish you guys good luck. Thank you.
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+Thank you.
+
+David A. Henry
+Chief Financial Officer, Myomo, Inc.
+Thanks, Edward.
+
+Operator
+We are out of time, and therefore this concludes our question-and-answer session. I would like to turn the conference back over to Paul Gudonis, Chairman and CEO, for any closing remarks.
+
+Paul R. Gudonis
+Chairman & Chief Executive Officer, Myomo, Inc.
+Well, thank you, operator. Well, in closing, I'd like to remind you that we are in the business of patient care. There's no better proof to that than success stories. One of our recent MyoPro recipient is a 50-year-old female who suffered a stroke in 2020. She lost the ability to use her dominant right arm and hand. And she was evaluated for MyoPro back in August 2023. After receiving an insurance denial, our patient advocacy team successfully appealed this decision, and she was fit with the MyoPro this past August, and in just two months, she's become a rock star user who performs many activities of daily living, such as cooking, feeding herself, doing the laundry more, thanks to our MyoPro. By continuing to assist more individuals like her, we're going to build a growing and profitable company. So thanks again for joining our call today and have a nice evening.

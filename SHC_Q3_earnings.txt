@@ -1,0 +1,350 @@
+Good morning and thank you. Welcome to Sotera Health's third quarter 2024 earnings call. You can find today's press release and accompanying supplemental slides on the investor section of our website at soterahealth.com. This webcast is being recorded and a replay will be available in the investor section of the Sotera Health website. On the call with me today are Chairman and Chief Executive Officer, Michael Petras, and Chief Financial Officer, Jon Lyons.
+
+During the call, some of our comments may be considered forward-looking statements. The matters addressed in these statements are subject to risks and uncertainties that could cause actual results to differ materially from those projected or implied. Please refer to Sotera Health's SEC filings and the forward-looking statement slide at the beginning of the presentation for a description of these risks and uncertainties. The company assumes no obligation to update any such forward-looking statements.
+
+Please note that during the discussion today, the company will present both GAAP and non-GAAP financial measures, including adjusted EBITDA, adjusted EBITDA margin, segment income margin, adjusted net income adjusted EPS and net leverage ratio. In addition to constant currency comparisons. A reconciliation of GAAP to non-GAAP measures for all relevant periods may be found in the schedules attached to the company's press release and in the supplemental slides for this presentation.
+
+The operator will be assisting with the Q&A portion of the call today. Please limit yourself to one question and one follow-up, so that we can give everyone an opportunity to ask questions. If you have any questions after the call, please feel free to reach out to me in the Investor Relations Team.
+
+I will now turn the call over to Sotera Health Chairman and CEO Michael Petras.
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Good morning, everyone, and thank you for joining Sotera Health's third quarter 2024 earnings call. This morning, we reported year-over-year, top and bottom-line growth with volume and mix improvement in all three of our businesses versus the third quarter of 2023.
+
+Compared to the third quarter 2023, total company revenues increased 8.5% or 8.9% on a constant currency basis, while adjusted EBITDA increased 9%. We delivered adjusted EPS of $0.17 for the quarter, which is $0.01 increase from the same period last year.
+
+Sterigenics, our largest reporting segment, delivered 4.3% top-line growth for the third quarter of 2024, which included slight volume and mix growth over the third quarter of 2023. During the quarter, the team completed one facility expansion project for which the customer product validation phase is underway. We also continue to make good progress on our North American EO facility enhancements to ensure we meet the stringent and complex NESHAP regulations by the required deadline.
+
+Nordion, our other reporting segment within the sterilization services business, delivered a 28% year-over-year revenue increase, which was driven by the timing of the reactor harvest schedules. The Nordion team fulfilled some shipments in the quarter that were planned for the fourth quarter in support of our customer's requests, which resulted in more revenue in the quarter than originally anticipated. I'm also excited to announce that Nordion has reached an important milestone for one of its cobalt development projects. Recently, the first insertion of cobalt was successfully installed into a Darlington reactor in Canada, and we expect the first Cobalt-60 harvest to occur in 2028. This project is a great example of how we are Safeguarding Global Health by ensuring a steady supply of Cobalt-60 for our customers into the future.
+
+Nelson Labs, our lab testing and advisory services business, grew its top-line 7% and bottom line 9% versus the third quarter 2023. We were pleased to see higher core lab testing volumes as well as improve margins in the business both sequentially and year-over-year. In our previous calls, we have mentioned the recent performance of our lower margin expert advisory services, the strength of which has been tied to one-time projects. This volume is beginning to normalize, and we expect it will continue to do so as we lap the acceleration that began in the second half of 2023.
+
+With the majority of the year behind us, we are reaffirming our full-year 2024 outlook ranges for revenue and adjusted EBITDA. As a reminder, our 2024 outlook calls for both revenue and adjusted EBITDA growth in the range of 4% to 6%. Jon will go through our 2024 outlook in more detail shortly. But first, I'd like to highlight an example of how our employees across the globe play a critical role in Safeguarding Global Health.
+
+We take our role in healthcare seriously and our mission is at the heart of our work every day. Continuous glucose monitors are undergoing complex, technical innovation, including batteries and cybersecurity, which create new regulatory compliance challenges. Our teams at Nelson Labs and Sterigenics are providing integrated solutions for global manufacturers through a safety and regulatory [ph] needs (00:05:59), so that patients can have better control and more confidently manage their diabetes.
+
+Now, Jon will walk us through the financials.
+
+Jonathan M. Lyons
+Chief Financial Officer & Senior Vice President, Sotera Health Co.
+Thank you, Michael. I will begin by covering the third quarter 2024 highlights on a consolidated basis and then provide some details on each of the business segments along with updates on capital deployment and leverage. I will then finish up with some additional details on our 2024 outlook.
+
+On a consolidated total company basis, third quarter revenues increased by 8.5%, as compared to the same period last year, to $285 million. This equates to an 8.9% increase on a constant currency basis as foreign exchange was a headwind in the quarter. Adjusted EBITDA increased by 9%, compared to the third quarter of 2023, to $146 million. Adjusted EBITDA margins finished at 51.3%, which was an increase of 23 basis points versus the third quarter of 2023. This increase in margins was driven by improved volume and mix at Nordion and Nelson Labs, as well as favorable pricing across all three businesses.
+
+Our reported interest expense for the third quarter 2024 was $42 million, similar to the same period last year. Net income for Q3 2024 was $17 million or $0.06 per deluded share, compared to a net loss of $14 million or $0.05 per diluted share in Q3 2023. Adjusted EPS was $0.17, an increase of $0.01 from the third quarter of 2023.
+
+Now, let's take a closer look at our segment performance. Sterigenics delivered 4.3% revenue growth to $176 million as compared to the third quarter of last year. Revenue growth drivers included favorable pricing of 4.4%, as well as a 50-basis-point increase from volume and mix. This increase was partially offset by unfavorable changes in foreign currency exchange rates of 60 basis points. Compared to the prior year quarter, segment income for Q3 2024 increased 3% to $96 million. Segment income margins declined by approximately 70 basis points to 54.7% versus the prior year quarter, which was driven by higher employee compensation costs.
+
+Nordion third quarter revenue increased by 28% to $51 million compared to Q3 of 2023 due to the timing of Cobalt-60 harvest schedules. Nordion's revenue increase was driven by a volume and mix benefit of 23.2% and favorable pricing of 5.7%, partially offset by an unfavorable impact from changes in foreign currency exchange rates of 90 basis points. As Michael mentioned, we outperformed our expectations for Nordion with the shift of a couple of shipments from Q4 into Q3 to support our customers. Nordion segment income increased 31.9% to approximately $32 million, and its segment income margin increased approximately 190 basis points to 61.8% compared to the same period last year. Segment income and segment income margin changes versus third quarter 2023 were driven by favorable volume and mix, as well as favorable pricing.
+
+For Nelson Labs, third quarter 2024 revenue increased 7% to approximately $59 million compared to the third quarter of 2023. Nelson Labs revenue increase for the quarter was driven by favorable changes in volume and mix of 3.7%, as well as a pricing benefit of 3.1%. Nelson Labs third quarter 2024 segment income increased by 9% to $19 million, while segment income margins improved by 56 basis points to 31.8% versus third quarter 2023. These improvements were driven by favorable volume and mix as core lab testing improved as well as pricing benefits. Nelson Labs also saw some benefit from labor productivity in the quarter, partially offset by increases in employee compensation costs. On a sequential basis, Nelson margins increased more than 275 basis points.
+
+I will now turn to the balance sheet, cash generation and capital deployment. The company continues to be in a very strong liquidity position with over $700 million of available liquidity at the end of the third quarter, which included $307 million of unrestricted cash and $400 million of available capacity on a revolving line of credit. Our capital expenditures for the third quarter 2024 totaled $36 million. As Michael mentioned earlier, Sterigenics completed one of its capacity expansions during the quarter. Free cash flow was positive in the quarter and we continue to expect to generate positive free cash flow for the full year. Our net leverage ratio improved during the quarter, finishing at 3.6 times and within our 2 to 4 times long-term range.
+
+Now, I would like to turn to our 2024 outlook. As Michael mentioned, we are reaffirming our outlook for net revenue and adjusted EBITDA growth in the range of 4% to 6%. We expect full-year total company adjusted EBITDA margins to approach 50%.
+
+In Sterigenics, we continue to expect slight volume and mix improvement with Q4 similar to Q3 of this year. For Nordion, we continue to expect slightly more than 60% of full-year revenue to occur in the second half of the year. For Nelson Labs, we anticipate Q4 revenue will decline mid-single-digits versus the prior year quarter, with a decline of expert advisory services revenue. We expect Nelson Labs full-year margins to approach 30%. Interest expense is expected to finish at the lower half of the $165 million to $175 million range. Our effective tax rate on our adjusted net income is expected to be within the 31.5% to 34.5% range. We expect the fully diluted share count to land at the upper end of the range of 283 million to 285 million shares on a weighted average basis. We now expect capital expenditures to fall in the range of $175 million and $185 million. Timing is the primary driver for the decrease in capital expenditures for 2024, driven by Nordion's cobalt development projects and some spending delays for our growth projects related to vendor performance. Given these shifts, we now expect our peak CapEx to be in 2025 and then to decrease in 2026 and again in 2027. Our guidance assumes foreign exchange rates at the end of the third quarter remain constant for the remainder of the year.
+
+I'll now turn the call back over to Michael.
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Thank you, John. As you may have seen in our release this morning, Sotera Health will be hosting its first ever Investor Day in New York City on November 20. During the event, members of the company's management team will present business, strategic and financial reviews, including growth plans and updates and our corporate responsibility journey. We're looking forward to this event and hope you'll see to join us in person or via the webcast and details on the event are included in the press release we issued this morning as well as on our Investor Relations website.
+
+At this point operator, we'd like to open it up for questions. Please.
+
+Question And Answer Section
+Operator
+We will now begin the question-and-answer session. [Operator Instructions] At this time, we will pause momentarily to assemble the roster. And our first question will come from Sean Dodge of RBC Capital. Please go ahead.
+
+Sean Dodge
+Analyst, RBC Capital Markets LLC
+Yeah, thanks. Good morning. Maybe just starting with revenue. Michael, you reaffirmed the full-year guidance, but then that implies a pretty wide range for Q4. I guess, seasonally, historically, Sterigenics and Nelson have both tended to have strong fourth quarters. Any reason that won't be the case? Again, I know you mentioned the dynamic with the expert advisory in Nelson. And then any more direction you can give us on Nordion that can be lumpy. But relative to the third quarter, if my math is right, should we expect Nordion to be up a little sequentially despite the Q3 pull forward you both mentioned? Is that fair?
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Yeah. So, Sean, thanks and good morning. Yes, you should expect Nordion to be up over the third quarter. It'll be down significantly from last year. As we've told you all year in total, about 60% of the revenue will be in the second half of the year. So, you can kind of figure it out from there. We'll see – we talked about Nelson being down mid-single digits here in the fourth quarter, really driven by expert advisory services. The core lab testing market, we're pleased to see that progress continue. And then on the Sterigenics side, we've had slight volume and mix growth in the quarter. We will see that continue as the rest of the year plays out. So that should help give you a little bit more feel for how the year plays.
+
+Sean Dodge
+Analyst, RBC Capital Markets LLC
+Okay, great. And then, as we get a little bit further past the release of the final NESHAP rules, have you seen any subsequent shifts in the end market happening there? Any conversations around more insource or looking to outsource or any changes in in just the makeup of the outsource market? Are there any of those guys falling behind that? There could be market share opportunities over the, call it, medium, long-term?
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Yeah, we continue to feel confident where we are on the NESHAP regs. Although they're very challenging, the team has continued to work against it. It's not an easy task. We think it's going to be a challenge for the industry overall. We're very optimistic of where we sit relative to the marketplace. We haven't seen definitive answers from customers yet or other competitors on exactly how they're proceeding on this. But we do anticipate maybe a challenge; and net, net, we view this as a positive for Sterigenics.
+
+Sean Dodge
+Analyst, RBC Capital Markets LLC
+Okay. Great. Thanks for taking the questions.
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Great. Thanks, Sean.
+
+Operator
+The next question comes from Patrick Donnelly of Citi. Please go ahead.
+
+Patrick Bernard Donnelly
+Analyst, Citigroup Global Markets, Inc.
+Hey, guys. Thanks for taking the questions. Maybe the first one on, I guess, a bit more Sterigenics. Just in terms of the volume recovery, I know that's kind of been a big focus point as the year has progressed. Where are we on that front and what are you guys seeing on the volume side, visibility into 4Q and beyond would be helpful just in terms of what you're hearing from customers and how confident you are in the trajectory here.
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+We saw volume and mix growth in Sterigenics in the quarter. We'll see slight improvements similar to what you saw in the third quarter and the fourth quarter. We are seeing things stabilize. We're not hearing as much inventory deceleration, if you will, or reductions. Overall, we're optimistic that volume to continue to improve as time moves forward.
+
+Patrick Bernard Donnelly
+Analyst, Citigroup Global Markets, Inc.
+Okay. Understood. And then, Michael, I guess, now, I know you guys aren't talking 2025 just yet, but I guess when you think about the moving pieces that we have at the moment, kind of looking where we are here, again, the volume is picking up a little bit. Is there any reason we would be kind of outside net LRP? I think the LRP is high single. [indiscernible] (00:17:59) Analyst Day in a couple of weeks. But any reason why we'd be off that algo of kind of mid to high-single volume a little bit 3.5, 4 or 5 price. When you think about next year, just maybe high level, the moving pieces and any offsets we should be thinking about would be helpful. Thank you, guys.
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Yeah. Thanks, Patrick. I don't want to get into specifics on 2025 or a long-range guide. We will do that at the Investor Day. We'll give you some feel on the longer-range guide and outlook, around CapEx, free cash flow, the business segments and one of the parts I'm really excited about is the opportunity for many of you to hear from our division presidents and talk about their businesses, which is a new opportunity for all of you. So, we're looking forward to that. But the fundamentals of this business and the ability to deliver price, continue to invest for organic growth, those all still remain intact. We'll continue to see volume and mix improvement as the time progresses. So, overall, we're very optimistic about where we're looking going forward here.
+
+Patrick Bernard Donnelly
+Analyst, Citigroup Global Markets, Inc.
+Okay. So, I'll stay tuned for that. Thanks.
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Okay. Thank you.
+
+Operator
+The next question comes from Luke Sergott of Barclays. Please go ahead.
+
+Salem Salem
+Analyst, Barclays Capital, Inc.
+This is Salem on for Luke. Good morning, guys.
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Good morning.
+
+Salem Salem
+Analyst, Barclays Capital, Inc.
+Just piggybacking off of Patrick's question, I guess just want a few more specifics on Sterigenics, right. It came in slightly lighter than maybe some expected, despite some positive data points in bioprocessing this quarter, albeit it's a smaller part of your business. Devices seem to be largely over the hump. Could you just talk about visibility a little more there on destocking, especially with hospital systems maybe? What conversations are looking like there? And, from your point of view, where are we seeing the most stabilization and where do you still see some room to run on destocking?
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Yeah. Okay. Good morning. And one of the first comment you made was bioprocessing. Yes, it's a smaller portion of our business. We did see sequential growth quarter-over-quarter, down significantly still year-over-year. We're seeing several categories starting to move the right direction with volumes and with procedure activity. But as we've mentioned to you in the past, it's not always a direct line, strong correlation between procedure, volume and volume for Sterigenics or Nelson. But we're optimistic we'll continue to see volumes improve as time goes on. Yes, we would like to see a little bit more in the quarter from Sterigenics. But, overall, it's consistent with what we communicated here that we would see slight volume and mix improvements in the quarter over the prior year and we did.
+
+Salem Salem
+Analyst, Barclays Capital, Inc.
+Got it. That's helpful. Thank you for that. And then just a small check up on litigation, just on the Georgia cases, any updates on progress or timelines on either personnel injury or the property cases? We're still on track to see the initial set of cases, see a ruling in early 2025 on Phase 1 and then any updates on the number of cases in California?
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Yes. So, I kind of start at the back and come forward. On California, I think the number is still 18 claimants; that has not changed. And in Georgia, yes, the Phase 1 hearings will start to progress. And we do expect, based on what the judge has told us, by early 2025 or late January 2025 is when we'd expect to hear something on the Phase 1 general causation work. Remember, there's two phases in Georgia. Phase 1 is general causation. And then after that, any cases [indiscernible] (00:21:42) specific causation and we expect Phase 1 to hear something by the end of January from the Judge.
+
+Salem Salem
+Analyst, Barclays Capital, Inc.
+Awesome. Super helpful. Appreciate it, Michael.
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Thank you.
+
+Operator
+The next question comes from Brett Fishbin of KeyBanc. Please go ahead.
+
+Brett Fishbin
+Analyst, KeyBanc Capital Markets, Inc.
+Hey, guys. Thank you so much for taking the questions. Just on Nelson Labs, the segment margin took another nice step forward in the right direction and is now really healthily in that low 30s range that you guys have talked about. So, just curious, like as the mix continues to shift back toward the core testing and away from some of the larger project-based work, how do you think about the long-term margin opportunity in that area of the business?
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Yeah, good morning, Brett. We're really pleased what Joe and the team are doing there. We've been very consistent, our performance around quality and service. We continue to improve in both those areas, although working off a very strong baseline. We're happy with the performance in the quarter. Core mix volume continues to – testing volume continues to get better. We're hopeful that the margins will continue to perform in the area that you're seeing and now going into the future.
+
+So, overall, expert advisory services just lapping some big numbers for that business. But Eric and the team are doing a really nice job in bringing incremental opportunities as well. So, overall, we're happy to see the progress being made there. And as we told you what [indiscernible] (00:23:13) and the team are doing a really nice job on that. So, I'd say, overall – and the best part is the customer SAT scores continue to perform really well. I mean, customers value what that business does and the critical role we play there.
+
+Brett Fishbin
+Analyst, KeyBanc Capital Markets, Inc.
+All right. Thank you. And then just one follow-up. We have the Investor Day coming up in just a couple of weeks. You mentioned the opportunity for some of the segment presidents to address the investment community. But just curious if you could provide maybe a little bit more of a teaser on what some of the main objectives of that event will be? And then without specifics, how you're thinking about providing some updated long-term financial objectives. Thank you so much.
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Yeah, great, Brett. A couple of goals for that Investor Day. One, I really want to make – not in particular order, I want to make sure that you folks get to meet the leaders that run this business beyond Jon, Jason and I. So, it's been several years since we went public. And I want to make sure you get an opportunity to see the strength of our team. So, that's one of the key goals.
+
+Two is to make sure that you understand the critical role we play in healthcare and just also give education around the business. For example, some of you said, hey, we'd like to understand the Nelson piece a little bit better. So, Joe will walk you through some of the basics of how that business operates and some of the key value that we bring to our customers.
+
+And then obviously, we're going to give you a longer-range view on how we see CapEx playing out, revenue guide, as well as free cash flow. Things like that I think are going to be really important, and just strategically how we think about M&A and what's in scope, what's out of scope. I think it'll be a really great opportunity for you to hear from the broader team, a complete discussion around the company. So, those are two things you should expect to hear on November 20.
+
+Operator, are we there? Do we...
+
+Operator
+The next question comes from Casey Woodring of JPMorgan. Please go ahead.
+
+Casey Woodring
+Analyst, JPMorgan Securities LLC
+Great. Thanks for taking my questions. Maybe to start, just can you break out Nelson's performance in the quarter between routine testing, validation testing and advisory services? I think, last quarter, you talked about seeing nice growth on the validation side and maybe slower growth on the routine side. And then sort of just how do we think about the moving parts of the business there into 4Q. You noted advisory services will decline but just curious by how much, and how you expect routine and validation testing to trend in 4Q, respectively.
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Yeah. Thanks, Casey. So, as we talked about, validation has been strong the last couple of quarters. Again, we saw that in the third quarter. Routine, we're starting to see progress in the right direction there, which also helps drive with some of the sterilization volumes over time. So overall, we're positive on the outlook there as well. That doesn't mean there won't be some choppiness around the validation opportunities. But, overall, we're pretty optimistic on how the core testing volumes are going. And expert advisory services, as I mentioned a couple minutes ago, there's some big numbers to overlap. But the team is doing a really nice job and continue to bring value to our customers in that area.
+
+Casey Woodring
+Analyst, JPMorgan Securities LLC
+Okay. Got it. And then I just want to ask one – this quarter, there's been a lot of talk across the industry around choppiness related to pharma R&D spending and biotech funding over the course of the last several months in particular. Just curious if you see any risk to the near-term from some of these pipeline reprioritizations or cautious spending from those customers, particularly in Nelson, but just across the business, just wondering if how you're thinking about that dynamic, if at all.
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Yeah. Casey, that continues to be pharma testing, in particular, as well as the sterilization continues to be a growth area for us. We've seen growth in those buckets and we expect that to continue. There is some choppiness around that. But, overall, our business is performing pretty well. What our team does, particularly I call out the team in Leuven, Belgium, and the work that they do in pharma testing continue to do very well. And, yes, some of those projects are more longer in nature because of the validation type. But overall, we like the long-term prospects of the pharma area for both sterilization and testing, and where we're seeing synergies from that value prop as well and across [indiscernible] (00:27:29) basis.
+
+Casey Woodring
+Analyst, JPMorgan Securities LLC
+Great. Thanks. If I can just squeeze one last follow-up in. Just curious if you could parse out the driver of the CapEx cut for the year. How much of that is related to facility enhancement versus the cobalt program and anything else. And then, if you could give any kind of color on how you expect that to trend in 2025, that step up that you kind of mentioned [ph] and prepared (00:27:52). Thank you.
+
+Jonathan M. Lyons
+Chief Financial Officer & Senior Vice President, Sotera Health Co.
+Thanks for the question, Casey. Yeah, a couple of things. One, the biggest driver – single biggest driver is really the timing of our cobalt development programs. We're well on pace. I think we shared that we had our first insertion of cobalt into Darlington, and we expect the first harvest in 2028. So, we're excited about that. That program continues to progress well, just in timing, relative to some of payments there. The Westinghouse program is still in good shape, but probably a little bit delayed in that regard.
+
+And then just the other things around some of our growth projects, some timing of underperformance is just normal things when you're running big CapEx projects. As we look forward, as I mentioned, we do see the peak CapEx for us in 2025 now and probably the best [indiscernible] (00:28:40) But the best way to frame it would probably just take a look at our original guide for this year, and it should be somewhere in the ballpark of that.
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+And, Casey, I just one other point to add to Jon, I think you mentioned facility enhancements. That's not really the big driver of the CapEx being a little softer for year end here. It's more the growth projects in the Cobalt that Jon referenced.
+
+Casey Woodring
+Analyst, JPMorgan Securities LLC
+Okay. Got it. Thank you.
+
+Operator
+The next question comes from Jason Bednar of Piper Sandler. Please go ahead.
+
+Jason Bednar
+Analyst, Piper Sandler & Co.
+Hey, good morning, everyone. Question from us on Sterigenics. Definitely good to see another quarter of volume growth in that segment. Just wondering if you can elaborate maybe a bit more on the pricing trend. I don't want to make too big of a deal about it, but it did take another 50 basis points step back, I believe, quarter-over-quarter. Can you talk about what's happening there? Why is that pricing power lessening even while your own variable costs around labor are rising? Or maybe alternatively, do you see the higher labor costs that you're experiencing been giving you more ammunition to collect more pricing upside as contracts with your partners reset here going forward?
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Jason, we said in the business overall, we did 3.5% to 5% price across the company. We'd be on the lower end of that range this year. Sterigenics is squarely been in the middle of that around 4%, 4.5%, and that's about where it came in for the quarter on a yearly basis about there. We're not concerned about our overall value prop and our ability to get price in this business so not concerned about the price performance at Sterigenics relative to the overall business.
+
+Jason Bednar
+Analyst, Piper Sandler & Co.
+Okay. Fair enough, Michael. I guess on that, on the second part of that question, do you – just the costs that you're experiencing on the labor side, does that give you more ammunition on going after price increases with your partners as you go forward?
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Yeah. If we're concerned about the overall cost structure, we have the ability to push price in the marketplace. But we had to always make sure we don't run our value prop with our customers. When you look, overall, what's going on with the compensation levels, we have a little bit of reset on AIP incentive comp from last year. We have some open head jobs that we filled in as well as some overall wage increase, merit increases. But, overall, we're not concerned about the cost structure on that business.
+
+Jason Bednar
+Analyst, Piper Sandler & Co.
+Okay. It's perfect. That's helpful. Then...
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+And our ability to maintain margins, by the way, is a bigger point. I think you're getting that. I should be clear on that.
+
+Jason Bednar
+Analyst, Piper Sandler & Co.
+Yeah, absolutely.
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Yeah.
+
+Jason Bednar
+Analyst, Piper Sandler & Co.
+Yeah, absolutely. Okay. And then on Nelson, maybe just one follow-up on the expert advisory services point. Really appreciate the color on fourth quarter. Is that kind of the exit velocity for this business, this segment out of fourth quarter into 2025, how we should be thinking about that segment or is this the low point or do things maybe step a little bit lower against tougher comps? Just trying to understand as we set targets for next year.
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Yeah, Jason, [indiscernible] (00:31:40) what you said. I kind of was mixing the total Nelson business in expert advisory. I'd say where you see the business trending towards is probably a good indication of what we expect going forward here. And volumes continue to improve on the core testing side. Expert advisory services probably settling back a little bit, which should give you favorable mix in the business overall, if that helps.
+
+Jason Bednar
+Analyst, Piper Sandler & Co.
+Yes, definitely. Thank you.
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Okay.
+
+Operator
+The next question comes from Dave Windley of Jefferies. Please go ahead.
+
+David Windley
+Analyst, Jefferies LLC
+Hi. Good morning. Appreciate you taking my questions. I wondered, Michael, if you could comment on a couple of kind of volume related Sterigenics points. The first one would be, I think you've talked in the past about being aligned with a MedTech customer that has struggled with its own market share. I'm wondering if that situation has improved at all. And then the second area would be in kind of the bioproduction life sciences area. I think Casey asked the biotech funding question as regards to maybe Nelson, how is the life sciences bioproduction market as it relates to Sterigenics? Thanks.
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Yes, great. Thanks, Dave, and good morning. On your first question on the one customer, yeah, we're seeing improvement signs from that customer and they're working through some of their challenges over the last several quarters. So, that's a net positive for us. And then the second one on bioprocessing, as I mentioned in my comments earlier, in answer to Casey, I want to make sure I get your question as well. We did see sequential improvement in bioprocessing. We are seeing uplift opportunities for both Steri and Nelson. We are seeing significantly down double-digit year-over-year though still within the quarter for Sterigenics. But we think that market will continue to be an opportunity for us, although we aren't a huge player in there. We do see opportunities for that as the numbers improve over time in the [ph] volume (00:33:40).
+
+David Windley
+Analyst, Jefferies LLC
+Okay. Thank you. And then if I could follow up on your cobalt capacity, you mentioned Darlington. Would you be – admitting that it's a 2028 harvest and so, it's still quite a ways out. But how much does that increase capacity? And maybe, if you would, talk about kind of the totality of programs and how much capacity they would add over time.
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Yeah. So, we've got supply base right now. We buy cobalt from Canada, China, Argentina, Russia. We get it all around the world. As we look at our multi-year strategic plan, we will bring on new capacity to help displace some as well as give us incremental. We're looking to keep pace with the overall market demand over time, David. We're not looking to build on a huge amount of incremental, but it's a shifting of some of that capacity as we see reactors come online and offline over the next 10 years or so, but we're very optimistic about Darlington.
+
+OPG is one of our best partners out of Canada. And this is a program we've been working with them on for the last several years, and we're proud of where that's progressing with the great work that they're doing alongside our team and a big milestone, getting that cobalt. As I call it, putting the loaf of bread in the oven and being able to bring it out in 2028 if Cobalt-60 is a big deal. So, really proud of where that's going. And you saw the Nordion team had a good quarter here and we're expecting a solid year from them in total.
+
+David Windley
+Analyst, Jefferies LLC
+Yeah. Congrats on that. Heck of a long baking period. Appreciate the answers. Thanks.
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Yeah. By the way, I'm not so sure the team is doing all the hard work. Would appreciate the bread analogy, but for me, it's in layman's terms. I'm not an engineer by background, but that's basically [indiscernible] (00:35:34). Yeah.
+
+David Windley
+Analyst, Jefferies LLC
+Thank you.
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Okay. Thanks, David.
+
+Operator
+The next question comes from Michael Polark of Wolfe Research. Please go ahead.
+
+Michael K. Polark
+Analyst, Wolfe Research LLC
+Good morning. Thank you. I have to follow up on expert advisory services and then a question on the EO upgrade program. On Expert Advisory Services. Michael, can you remind us how big is this business as a portion of Nelson in percent terms or just dollar terms? That's part one. And then part two is in terms of what was really good over the last year or so, was it – can you frame that, the what behind the bump? Was it device customers, pharma customers? Was it a specific therapeutic category? I'm just trying to better understand the step down and kind of...
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Yeah.
+
+Michael K. Polark
+Analyst, Wolfe Research LLC
+Yeah. Thank you.
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+So, I'll have Jon respond to your question on the overall sizing of it. But let me just tell you, first, [ph] RCA (00:36:29) and what the expert advisory teams doing, they help customers with submissions, the FDA, they help get new product launches, get files pulled together and submissions. And when there's problems, they get involved. So, as we've mentioned on this call, we're experiencing in our business and our customers are experiencing a lot more increased scrutiny from the regulators and FDA visits and audits, and that is where RCA shines. I mean, they were dragged in to help on problems. They've had some med device customers have issues, but I'd also say they're very significant pharma customers that have had FDA challenges, and they've called us in to help them be a third party to get through that that cycle. So, that's where we've seen the uplift in that activity. More so than the new filings, Michael, it's more around some of the problems that they've had around compliance issues that they've dragged us in for. As far as the sizing piece, Jon, you want to just give a rough sense on that.
+
+Jonathan M. Lyons
+Chief Financial Officer & Senior Vice President, Sotera Health Co.
+Yeah, Mike, it's roughly, you know, call it low double-digits, percent of the total pie of Nelson.
+
+Michael K. Polark
+Analyst, Wolfe Research LLC
+Appreciate all that. Follow up on EO. Can you update us on just how much left do you have? How close to the finish line are you in terms of the US modernization? And then part two is on NESHAP. Is this set in stone like or is there still a negotiation or discussion being had on some of the particulars? And do you think a presidential – yeah, like a different administration might impact time to compliance here, any flavor for that? Thank you.
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Yeah. Okay. So, we're pretty far along on the NESHAP requirements, [indiscernible] (00:38:04) significant amount of spend next year as we've said all along. But we're planning about $150 million or so in total. It's probably going to be another $15 million to $20 million, on top of that would be our gas based. We talked to you in the past that we said it was an immaterial amount, that's roughly what we're seeing on this. So, you could kind of plug in what you'll see. I think, this year, we're going to get 30-some million dollars, low 30s. We'll probably have comparable numbers next year in that area, although I don't know exactly how it forces out. I know Mike and the team have taken through that program in detail. So we'll see that carry out into 2025, most of that spend will be behind us in 2025.
+
+As far as NESHAP the rules are set, I think, there's some discussions still between industry and the EPA is around clarification of exactly how do we achieve that. You know, hey, you put this measurement is it an absolute number. Is that an average? Is it an average over 3 hours, 3 days or 3 weeks or 3 months? I think there's some clarifications around that. And the teams are working through the associations, but I don't see us seeing a big change in the absolute rules themselves. It might be some finer tweaks around clarification of the rules that have been set. And I don't see – listen, people, a lot of people said, hey, you know, if there was a different administration, you know, the industry would be gone through this. I think it's been a challenging dynamic for the industry in total, regardless of the administration that's in there. I just think there's been a ton of misinformation. These sterilization facilities, particularly ours, operators, safe levels. Okay. And we firmly believe this. We're going to continue to push this in the litigation and make sure people understand these facilities operate in a safe and compliant manner and this low level of [indiscernible] (00:39:46) we're very confident these emissions are not causing cancer. And I just think that there's still a lack of education around this that we're going to continue to push and make sure people are informed around.
+
+Michael K. Polark
+Analyst, Wolfe Research LLC
+Thank you, Michael.
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Okay. One other thing, Mike, just to note, I'll repeat it, we've got ethylene oxide information out there on our website. We'll continue to use the frequently asked questions that will be in there on our ethylene oxide section of our website. So, if there's any updates on these kind of things that are material, we'll make sure we post in there during the quarter as well. All right, operator, any other questions?
+
+Operator
+This concludes our question-and-answer session. I would like to turn the conference back over to Michael Petras for any closing remarks.
+
+Michael B. Petras Jr.
+Chairman & Chief Executive Officer, Sotera Health Co.
+Great. Well, thank you, everybody, for taking the time. We're proud of what the team is doing here, a good, solid quarter along the expectations that we previously communicated here. And we look forward to seeing you in November 20 in New York City and give you the opportunity to meet some of our team and hear new great things to try to help those in Safeguarding Global Health. So, thanks and have a great day. Bye-bye.
+
+Operator
+The conference has now concluded. Thank you for attending today's presentation and you may now disconnect.
+
+ 

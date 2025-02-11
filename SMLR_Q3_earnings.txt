@@ -1,0 +1,93 @@
+Good afternoon, everyone. Thank you for joining us for our third quarter 2024 results call. Once again, we achieved strong income from operations and used most of our cash and cash [ph] equivalents (00:08:28) to buy bitcoin. As of November 5, 2024, we hold 1,058 bitcoins.
+
+And now, I will turn the call over to Eric Semler, our Chairman, who will provide you with a update on our bitcoin strategy. Eric?
+
+H. Eric Semler
+Chairman, Semler Scientific, Inc.
+Thank you, Doug, and thank you to all our shareholders for listening in today. With our third quarter results, we are very pleased to announce the excellent progress we are making with our strategy of accumulating bitcoin using both our strong operating cash flow and our ATM program. We have added meaningfully to our bitcoin per share. As an operating business, we're able to use cash flows as well as proceeds from equity issuances to acquire bitcoin, which serves as our primary treasury reserve asset.
+
+We view our $71 million of bitcoin purchases to date as highly accretive to our equity. Since announcing our bitcoin treasury reserve strategy in May, we have even greater confidence today in the investment upside of bitcoin and the unique opportunity we have to use our balance sheet to drive outsized returns in our stock. We intend to continue to use our operating cash and ATM to buy more bitcoin. We will act prudently and use our ATM when we believe it is accretive to do so.
+
+Furthermore, we are exploring a wide range of additional financing options to raise more cash to acquire more bitcoin. All financing options will be thoroughly evaluated and pursued methodically and responsibly.
+
+Now, I'm pleased to introduce our COO, Jennifer Oliva Herrington, to provide an overview and update of our core medical products and services business. Jen?
+
+Jennifer Oliva Herrington
+Chief Operating Officer, Semler Scientific, Inc.
+Thank you, Eric. Today, I'll be presenting an overview of our market developments and opportunities. Renae Cormier, our CFO, will be providing information about third quarter 2024 financial results.
+
+Semler's a pioneer in developing and marketing technology products and services to healthcare providers to combat chronic diseases. In conjunction with our bitcoin treasury strategy, we will continue to focus on our core medical products and services business.
+
+Our core product, QuantaFlo, is a non-invasive point-of-care device that aids clinicians in the early diagnosis of peripheral arterial disease or PAD. With a fast-paced model, we generate recurring revenue from a large underpenetrated market. Semler's mission is to improve healthcare outcomes by supporting early detection of cardiovascular diseases, a major global burden to the healthcare system. Cardiovascular disease ranks as a top concern in healthcare expenditures and global mortality, underscoring the imperative for early identification of cardiac conditions. We are committed to expanding our product offerings and advancing research to stay at the forefront of medical innovation. Our long-term vision includes extending our reach to encompass additional cardiovascular applications, reflecting our dedication to continuous expansion.
+
+As we continue to innovate, we announced earlier this year that we are seeking a new 510(k) clearance for an extension to our QuantaFlo product. We hope that we will obtain the 510(k) clearance for this extension in the first half of 2025.
+
+In the meantime, we continue to promote QuantaFlo as a valuable tool as an aid in the diagnosis of PAD and work to establish it as the standard of care. Our strategy includes expanding our customer base by adding new medical centers, growing within value-based care providers, and growing new markets that will benefit from PAD testing.
+
+I will now turn the call over to Renae to discuss our financial highlights. Renae?
+
+Renae Cormier
+Chief Financial Officer, Semler Scientific, Inc.
+Thank you, Jen. I will cover our third quarter financial results and then speak more about our bitcoin holdings and use of ATM under our effective S-3 registration statement. Following our remarks and as time permits, we will answer questions that have been submitted via email.
+
+Total revenues in Q3 2024 were $13.5 million, which was down about 17% compared to the third quarter of 2023. We expect revenues in the fourth quarter to follow a similar cadence we saw in 2023. In the third quarter of 2024, our two largest customers, including their related affiliates, comprised 44% and 29% of quarterly revenues, respectively.
+
+Operating expenses in Q3 2024, which includes cost of revenue, were $8.4 million, a decrease of 16% year-over-year. Income from operations was $5.1 million compared to $6.3 million in the prior year. For the remainder of the year, we're focused on tight expense control as we continue to implement our bitcoin treasury strategy.
+
+Other income net was $1.3 million and included a gain of $1.1 million from the change in fair value of our bitcoin holdings. We have elected to early adopt ASU 2023-08, which is the new standard issued by the FASB for accounting for and disclosure of crypto assets.
+
+ASU 2023-08 required bitcoin assets to be measured at fair value, with gains and losses from changes in the fair value to be recognized in net income in each reporting period. While this may introduce volatility into our reported net income, it will not impact our cash flow from operations, which we intend to invest in additional bitcoin purchases.
+
+Net income was $5.6 million or $0.80 per basic share and $0.72 per fully diluted share compared to net income of $5.5 million or $0.82 per basic share and $0.71 per fully diluted share in Q3 2023.
+
+Cash, cash equivalents and restricted cash at September 30, 2024 was $6.7 million. Outside of working capital needs, we intend to use our liquid assets, including operating cash generation to acquire more bitcoin.
+
+In August, our shelf registration statement on Form S-3 became effective, under which we may from time to time offer, issue, and sell debt securities, common stock, and our warrants with a total value of up to $150 million.
+
+At the same time, we filed a $50 million at-the-market or ATM offering prospectus covering the offering, issuance, and sale of common stock. We intend to utilize the ATM when market conditions are favorable and we'll use the proceeds primarily for general corporate purposes, including the acquisition of bitcoin.
+
+During the third quarter of 2024, we sold approximately 87,000 shares under the ATM for an aggregate net proceeds less sales commission of approximately $2.5 million. We utilized these proceeds as well as cash from operations to purchase additional bitcoin.
+
+During the third quarter of 2024, we purchased 142 bitcoins for an aggregate cost of $8.4 million. Subsequent to quarter end, we purchased an additional 40 bitcoins for an aggregate cost of $2.6 million and now hold a total of 1,058 bitcoin.
+
+Now, we'll begin our Q&A.
+
+Question And Answer Section
+Renae Cormier
+Chief Financial Officer, Semler Scientific, Inc.
+We received some questions ahead of release that we tried to address in the prepared remarks. We do have some time for additional questions. The first one is does the company have an imminent pathway to becoming registered for the trading of options of its shares, which could be accretive for shareholders?
+
+So, the process of listing options comes at the request of a broker dealer to an exchange. The exchange will look at several different criteria that the stock must satisfy in order for options to be traded. We believe that the only criteria we do not meet is the public float of $7 million freely tradable shares given our high insider ownership. We can continue to increase our shares outstanding as we execute on our ATM, and believe we can eventually satisfy all requirements in order for the exchange to list options for our stock.
+
+Our next question is for Eric. Can you give an update on your capital market strategy? Does the company have any plans to issue bonds or convertible debt to acquire more bitcoin per share?
+
+H. Eric Semler
+Chairman, Semler Scientific, Inc.
+Thanks, Renae. As we mentioned earlier, we plan to continue purchasing bitcoin with cash generated from operations and from our ATM program. And we are also exploring additional financing options to raise more cash to acquire more bitcoin. And we fully understand the wisdom and benefits of sourcing cash from straight debt and convertible bonds as long as they are executed on reasonable terms. Renae?
+
+Renae Cormier
+Chief Financial Officer, Semler Scientific, Inc.
+Thanks, Eric. I can take the next question. So, what's driving the underlying trends in the business and what do you expect for the remainder of the year?
+
+We continue to see demand for software licenses relating to our QuantaFlo product. We do see continued testing and we're expanding our customer base beyond managed care, reaching clinics and value-based care providers as the clinical importance of testing is still recognized. Our priority for the rest of the year is to maximize operating income.
+
+Beyond maintaining sufficient working capital to support, innovate, and grow our operations, we plan to allocate the remainder of our operating cash generation into additional bitcoin purchases.
+
+So, this final question, Eric, you can take, is Semler going to release bitcoin yield metric?
+
+H. Eric Semler
+Chairman, Semler Scientific, Inc.
+Thanks, Renae. We believe that BTC yield is an excellent KPI for tracking the performance of our strategy to acquire bitcoin in an accretive way for our stakeholders. Bitcoin yield represents the percentage change period to period, the ratio between the company's bitcoin holdings and its assumed diluted shares outstanding.
+
+We closely monitor our bitcoin yield internally and we were very pleased with our high teens positive bitcoin yield in the third quarter. This was driven by a 16% increase in our total bitcoin holdings while at the same time our assumed diluted shares outstanding remained flat. Assumed diluted shares outstanding are based on the assumed exercise of all outstanding stock option awards, not taking into account any vesting conditions or exercise price. This is a relatively straightforward calculation that can be done based on our public disclosures.
+
+As we get more experience with this KPI bitcoin yield, we will consider including it in our press releases in the future. Renae?
+
+Renae Cormier
+Chief Financial Officer, Semler Scientific, Inc.
+Thank you, Eric, and thank you, everyone, for your questions. As we wrap up this conference call, we want to emphasize our ongoing commitment to our medical software licensing business and continued execution of our bitcoin treasury strategy. We appreciate your participation in today's discussion and thank you for your ongoing support. Operator?
+
+Operator
+Ladies and gentlemen, with that, we'll be concluding today's conference call and presentation. We do thank you for joining. You may now disconnect your lines.
+
+ 

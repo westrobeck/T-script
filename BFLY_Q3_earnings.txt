@@ -1,0 +1,336 @@
+Good morning and thank you for joining us. Earlier today, Butterfly released financial results for the third quarter ended September 30, 2024 and provided a business update. The release and earnings presentation, which include a reconciliation of management's use of non-GAAP financial measures compared to the most applicable GAAP measures are currently available on the Investors section of the company's website at ir.butterflynetwork.com.
+
+I, Heather Getz, Chief Financial and Operations Officer of Butterfly, alongside Joseph DeVivo, Butterfly's Chairman and Chief Executive Officer, will host this afternoon's call.
+
+During today's call, we will be making certain forward-looking statements. These statements may include among other things, expectations with respect to financial results, future performance, development and commercialization of products and services, potential regulatory approvals, and the size and potential growth of current or future markets for our products and services. These forward-looking statements are based on current information, assumptions and expectations that are subject to change and involve a number of known and unknown risks, uncertainties and other factors that may cause actual results to differ materially from those contained in the forward-looking statements. These and other risks are described in our filings made with the Securities and Exchange Commission. You are cautioned not to place undue reliance on these forward-looking statements, and the company disclaims any obligation to update such statements.
+
+As a reminder, this call is being webcast live and recorded. And we will be referencing a slide presentation in conjunction with our remarks. There may be a short delay between the live audio and the presentation being shown. On the same page, you will also be able to access the webcast live and as a replay once the call has been completed.
+
+I would now like to turn the call over to Joe. Joe?
+
+Joseph M. DeVivo
+Chairman, President & Chief Executive Officer, Butterfly Network, Inc.
+Thank you, Heather. So good morning everyone and thanks for joining us. As you recall, on March 18th of this year the Butterfly management team held an Investor Day. At the event, we introduced four key strategic pillars for Butterfly and these were; one, accelerating growth in our core focus business; two, investing in R&D to maintain our tech leadership, especially in semiconductor innovation; three, expanding our market into established non focus markets like hospital carts and into new care settings like home; and four, executing efficiently to drive double digit growth, reach cash flow break even by 2027 and hit $500 million in revenue within five years. So with our third quarter results in hand, I'm pleased to say that we are executing in all phases. At various points throughout today's call, I'll refer back to these growth pillars and the progress that we've made against them.
+
+First, let's review this quarter's strong performance. We told you in pillar one that accelerating growth in our core business was a priority and we're doing just that. Butterfly's team exceeded our operating plan this quarter and we delivered top line revenue growth of 33% year-over-year. This is our fifth consecutive quarter where we met or exceeded our expectations.
+
+We achieved this while simultaneously reducing our cash use to our lowest level in history, delivering reduced OpEx while investing in the key growth pillars outlined above. What's more satisfying is that every sales channel hit their objectives and the quarter was not an anomaly. There was no one time big deal. Each channel delivered through execution. It was a beautiful revenue quarter which was manifested through a collection of great products being consumed by happy customers and great people working together to meet our customers needs.
+
+And this is just the beginning. We are also moving ahead with the fuel behind our health system approach. Our message is resonating. Every doctor and nurse wants their own Butterfly. Care should be delivered where the patient is. Digital is winning over analog.
+
+So, I'd like to focus on a few notable highlights in our enterprise and med-ed expansion areas. Our partnership with the University of Rochester Medical Center, URMC, continues to flourish. Dr. Rotondo, CEO of URMC's Faculty Group, spoke at our Investor Day, emphasizing his belief that providing every doctor with imaging access would enhance patient care, boost physician satisfaction and drive financial gains.
+
+His vision is now becoming a reality. A paper by Dr. David Waldman, URMC's Chief Medical IT Development Officer, highlights these accomplishments. The success of their system wide deployment of Butterfly improving patient care, clinical operations and financial outcomes. This paper has guided other institutions now towards similar focus deployments and I expect more health systems to follow URMC's lead in 2025.
+
+In September, Dr. Stephen Erickson from Jefferson Healthcare gave an award winning presentation at the American Academy of Family Physicians FXM (sic) [FMX] (00:06:23) Conference. He concluded that not only does Butterfly make him a better doctor with greater ability to care for his patients, but the Butterfly device pays for itself quickly. As an individual family medicine doctor, he collected about $15,000 in reimbursement in just one year, already making back the more than 2x all in cost of our probe and software. And there's more supporting evidence to come.
+
+An important abstract from a major academic institution will reveal findings on a significant reduction in length of stay for in facility management of congestive heart failure patients when using Butterfly. I look forward to bringing that to you soon.
+
+I'd also like to briefly comment on our progress in medical education. On October 8th, Kansas City University's medical school announced its new POCUS curriculum using our ScanLab AI training app. Traditionally, ultrasound education requires dedicated instructors besides students to guide probe placement, making one to one instruction difficult, costly and often not practical. Our ScanLab app is a game changer. It provides the necessary personal guidance through AI including probe placement walkthroughs, reference images and real time anatomic labels so students can learn independently. We offer it for free to all Butterfly subscribers. Two universities in California are already performing trials to study its effectiveness and now KCU has rolled out this curriculum using ScanLab as primary instruction for their first year students. It's really cool.
+
+So moving on to international the team overseas continues to deliver. In this quarter, we opened new markets in Indonesia, Netherlands, Belgium and we successfully launched iQ3 in Europe. Our well attended event at the Gherkin in London was simply electric. It was followed by several conferences in the UK and Austria where boos were oversubscribed for our training and scanning events. We have a global medical community who heard about i3Q months before launch and wanted to see it all for themselves. We look forward to our global distribution partners continuing to launch iQ3 through the end of the year and into 2025. We will benefit internationally from a higher ASP and now [ph] to (00:08:59) probes in distribution. This should continue revenue growth in 2025.
+
+The vet team also saw strong growth with a 50% year-over-year revenue increase in the sector. We continue to advance the cattle opportunity that I've introduced on past calls and are now disseminating research showing that Butterfly and POCUS is a worthy approach for monitoring bovine respiratory disease and can help cattle industry address its costly disease management crisis. Initial findings were presented by Kansas State University and the Beef Cattle Institute at several national meetings in the third quarter and the final results are being submitted to peer reviewed journals which will be the basis of our go to market plan.
+
+Lastly, the Butterfly Garden AI marketplace also continues to grow. Not only did we sign two more partners in Q3, bringing our garden portfolio to 17 companies. But just this week, HeartFocus by Desky became our second partner to launch an educational tool commercially. The training application provides AI powered guidance to learn 10 standard cardiac views and is available in Apple's App Store now for purchase. Desky intends to launch a clinical version of this AI tool for Butterfly devices in 2025.
+
+Before I turn it over to Heather, I'd like to publicly welcome Steve Cashman, who joined Butterfly as Chief Business Officer in September, which is great timing as we continue to accelerate growth. With a successful career in technology and healthcare, Steve is a dynamic executive and strategic thinker. We first worked together at Intouch Health when I was CEO and he led the commercial business. Together, we achieved significant growth before selling to Teladoc Health. Then he became CEO of Caption Health, where I served on his board during its successful sale to GE. At evaluation, that's the envy of AI ultrasound developers. I look forward to having him lead our strategic and commercial efforts and will gradually involve him in conference calls with Heather and me as appropriate.
+
+So now I'd like to turn it over to Heather. Heather?
+
+Heather C. Getz
+Chief Financial & Operations Officer, Butterfly Network, Inc.
+Thank you. As Joe noted, we saw continued strength in the third quarter of 2024 with revenue of $20.6 million, the highest third quarter result in the company's history. This represents a 33% increase versus the prior year period, 23% of growth in volume and 10% from higher prices. All channels were positively impacted by continued penetration of the iQ3.
+
+Looking at the US and International channels. During the third quarter, US revenue was $13.1 million, which was 27% higher than the prior year. These results were driven by higher average selling price and strong demand. Total International revenue increased 36% over the prior year period to $5.2 million, driven by higher probe volume with geographic expansion partially offset by a lower mix of software revenue and sales through the e-commerce channel.
+
+Breaking our revenue down between product and software and other services. Product revenue was $13.5 million, an increase of 55% versus Q3 2023. This increase was driven by higher average selling price and volume across all channels. Approximately 50% of our total volume was iQ3 and over 80% domestically. Software and other services revenue was $7 million in the third quarter, up 5% versus the prior year period. Software and other services mix was 34% of revenue, decreasing by approximately 9 percentage points versus Q3 2023. This decrease can be attributed to product revenue growth outpacing software revenue with the launch of our iQ3 earlier this year as well as our geographic expansion internationally.
+
+Our total annual recurring revenue or ARR, which is reported as part of software and other services, grew slightly when compared to the prior year period. This was led by an increase in our enterprise software subscription ARR that grew 19% and increased to 46% of our total ARR. This increase in enterprise software revenue was offset by declines in our individual subscriptions. Total enterprise software ARR has now outpaced individual ARR.
+
+Turning now to gross profit. Gross profit was $12.2 million in Q3 2024, a 30% increase as compared to $9.4 million in the prior year period. Gross margin percentage was down slightly to 59.5%. As projected, while gross margin percentage was positively impacted by higher average selling prices, these benefits were offset by a lower proportion of higher margin software and other services revenues. The higher cost of iQ3, including extended warranty costs, as well as the normal cost of starting up a new production line.
+
+Moving to EBITDA and capital resources. For the third quarter of 2024, adjusted EBITDA loss was $8.4 million compared with a loss of $12.5 million for the same period in 2023. The 33% improvement in adjusted EBITDA loss was driven by higher revenue, cost reductions and efficiencies which led to lower payroll, consulting and other outside services.
+
+Cash and cash equivalents, including restricted cash as of September 30, 2024 was $97.8 million. During the quarter we used $8.3 million in cash, bringing our total trailing 12 month use of cash to $56 million and our normalized run rate to about $40 million.
+
+As previously discussed, we have taken significant costs out of the business to reduce our cash consumption while continuing to invest in the business. While the heavy lifting on this front is behind us, we continue to look for ways to be more and more efficient. This will be something we will remain focused on into the future.
+
+Moving to guidance. In the first nine months of the year, we have delivered against our priorities set out on our Investor day back in March. We launched iQ3 in the US and internationally, launched ScanLab and iQ+ Bladder, reached 17 Butterfly Garden partners and signed the term sheets for the third and fourth Powered by Butterfly partners. We are on track to sign our first pilot to enter home services. And internationally, we received EU MDR for our advanced features of iQ+ and iQ3 while adding additional geographic footprint. We have invested in our commercial teams and will continue to expand our sales footprint both domestically and internationally, all while reducing our cash use and conservatively extending our cash runway into 2027.
+
+As we look to the fourth quarter of 2024, our organization is humming and we have delivered against our goals. As such, we are raising our 2024 guide to a range of $79 million to $81 million or about 20% growth, and also improving our adjusted EBITDA guide for the full year to a loss of $40 million to $42 million dollars versus a 2023 loss of $67.5 million. Specifically looking at Q4, we expect to see revenue growth of around 25% bringing us to approximately $20 million to $22 million in revenue. For Q4 adjusted EBITDA, we expect a loss of approximately $10 million to $12 million dollars.
+
+Looking into 2025 now, we believe that we will see at least 15% to 20% top line growth and be able to close on non dilutive capital through Powered by Butterfly. This capital will allow us to accelerate the top line through further investments in our initiatives and provide a bridge to cash flow breakeven While Joe will provide some additional color later on the call, we will keep you posted separately as we make progress on this front.
+
+To summarize, we had excellent results for the first nine months of 2024. We look forward to a strong finish to 2024 and continued growth in 2025. We have been delivering against our plan and will continue to do so with a strong base of technological and organizational assets and a team positioned to capitalize on this attractive market opportunity both over the near and long term.
+
+With that, I will turn the call back to Joe. Joe?
+
+Joseph M. DeVivo
+Chairman, President & Chief Executive Officer, Butterfly Network, Inc.
+Thank you, Heather. I am very pleased we're able to deliver an increase in guidance on the top and bottom line again. Butterfly is executing on its vision to reimagine imaging digitally and delivering disruptive technology every day and expect to continue to take market share from our competitors. As each day goes by, the world realizes our firm belief that Butterfly is the future.
+
+Now let's look more into that future as outlined during Investor Day. So as I mentioned at the top of the call, we laid out our growth initiatives for the next five years during the March event. We showed our priorities, an overview of our roadmap, and a plan to get to 35% CAGR over the next five years.
+
+As we're delivering our numbers in our core business today, we're about to start layering in new revenue on top of that performance. Pillar number two is continuing to invest in R&D, particularly semiconductor innovation to drive our technology beyond a handheld probe for POCUS. You've all heard me speak about our digital journey and how we've strived to and succeeded at achieving image parity with piezo based crystal devices.
+
+At Investor Day, we showed you the performance characteristics of our second and third generation chips, demonstrating that iQ3 proved Moore's Law true again by doubling the processing power of our prior chip. We affirmed that our investment in cutting edge semiconductor development would continue and we previewed our intended performance characteristics of our fourth generation P5 chip as well as our fifth generation Apollo chip. You all now have witnessed firsthand how the markets accepted our third generation iQ3.
+
+Like in 2003 when image quality of digital cameras met the capabilities of film, the market quickly replaced film with digital. That is happening now for traditional handheld ultrasound. Well, two weeks ago my team and I saw the first images produced by our fourth generation semiconductor P5. We were all blown away with this next revolution. P5 dramatically increases mechanical pressure and for the first time in history achieves harmonics in digital imaging. This is the holy grail for digital imaging. Until now no one thought it was possible.
+
+Where iQ3 builds equivalents to handhelds, P5 clears the path for Butterfly to enter the ultrasound cart business in the future. In fact, we are developing our own cart, the Butterfly iQ Station. In early January, I intend to share some P5 images with you and discuss our vision for taking market share with the in hospital IQ Station in the future. P5 will not only help replace many of our competitors card offerings, it will be added into our current handheld probe to deliver the most powerful handheld image in the world.
+
+Since we're talking about the power of our CMUT chip versus piezo crystals, let me take a moment to update you on RoHS or actually what I've learned, it's actually pronounced [ph] Ross (00:21:50). In early September, I met with EU officials who administer the RoHS exemption revisions. I communicated with them that Butterfly is the first commercial ultrasound product in history to meet the intended RoHS environmental standards without exemption. We discussed the regulations, its implementation and a process where, in Butterfly's view, the Commission would no longer need to grant exemptions to lead piezo crystal ultrasound handhelds.
+
+Our green technology was highly welcomed by the Commission officials who noted that the information we brought to them was very important for innovation and the EU's green vision overall. According to European Commission President, Ursula von der Leyen, the EU wants to become a global leader in circular economy and reducing harmful substances and products is a vital part of that. We're delighted that our technology can lead the way towards such important ambitions.
+
+Last week, Butterfly formally refiled with the European Commission for the exemptions to be revoked by incorporating their supportive feedback into a dossier to make our case. From the timeline they gave us, we should know their decision by this time next year and if positive, see enforcement plans begin a year following that. For those who want to learn more, you can find a link on the slide here where you can read the applications made by Big Ultrasound and the Reasons why after 17 years of grace from the European Commission, they continue to fail to meet standards. It's in their own words.
+
+I'd like to bring something to light. I've learned that in the ultrasound industry, companies can legally label themselves RoHS compliant even if it's under an exemption. This means the ultrasound industry in effect are telling consumers that their products meet standards when they in truth don't. They only achieve compliance to RoHS due to an exemption. The ultrasound probe they're selling still has lead. Imagine buying food labeled organic that's not really organic. But they can say it's organic because the government lets them. It's completely legal, but in my view it's misleading to call yourself RoHS compliant and really a deceptive marketing practice beneath the caliber of the great companies who are lowering themselves by doing it.
+
+Consumers need to know when they're buying a lead based product and indirectly contributing to lead mining and lead disposal in their environment. I plan to educate clinicians of this practice and call on these companies to cease labeling their devices RoHS compliant until they actually meet the environmental test of the RoHS standards.
+
+So now moving to pillar three at the Investor Day, we introduce you to Butterfly HomeCare. Butterfly HomeCare is a service business that's powered by all our technology and strives to support caregivers helping patients outside the hospital deal with aging and living a better life with chronic conditions. Having a sophisticated imaging capability convenient to where the patient is, Butterfly strives to use advanced hardware, education and AI to make diagnostic imaging easy, cost effective and available to everyone. Butterfly HomeCare will be a substantial service business which over the next five years as our technology evolves, will be powered even further by wearable ultrasound as we have always envisioned.
+
+After introducing this concept in March, I'm pleased to update you that Butterfly HomeCare will be starting in 4Q24, its first pilot for our virtual chronic care management services with a major at risk Medicare advantage provider in the US. The goal will be to reduce readmissions of the congestive heart failure patient population through frequent AI powered imaging. If successful, it'll be our first foray into a services business model where Butterfly participates in the service revenue on a PMPM basis. Based on the applicable at home patient populations, this new revenue stream has the potential to rival Butterfly's current revenues in the future. Next quarter I intend to update you on the pilot, the strategy in more detail, and its meaning for 2025.
+
+My last update involves the next step for our Powered by Butterfly initiative, which enables us to license, sell, and develop our powerful semiconductor technology to non-competitive companies and new industries. When I joined Butterfly in April of last year, I asked this question: Is our Ultrasound-on-Chip a POCUS-only technology? Or did we solve a universal problem making it foundational? Well, the answer is now clear. It's foundational.
+
+We've learned so much over the past year and have been amazed by the demand to develop cutting edge, non-competitive applications all built on our foundational Ultrasound-on-Chip platform. The market opportunity outside of Butterfly's use of the chip may actually be far greater than Butterfly's opportunity alone. So we've begun to explore different vehicles to commercialize and monetize the value of the chip.
+
+So, I'm announcing today that Butterfly is forming a wholly owned subsidiary called Octiv, spelled O-C-T-I-V. Octiv will be run by two of our best executives, Butterfly Co-Founder, Nevada Sanchez, and Darius Shahida, our current Chief Strategy Officer. There will be unique opportunities in healthcare that are not on the Butterfly road map, as well as new sectors such as consumer electronics, nautical, military, security, aeronautics and other industries using ultrasound in their products and processes today.
+
+To fully capitalize on the opportunity, Darius and Nevada will be building a team which will remain 100% focused on the opportunity. Octiv will have exclusive license to all butterfly IP, and will have the freedom to modify and develop new technology. To help with this endeavor, Butterfly has decided to sell a minority stake in that business. Bringing in new investors will increase access to capital, increase focus, while rewarding Butterfly shareholders for some of the over $300 million in investment they made in the development of Ultrasound-on-Chip since inception.
+
+With the discussions I've had personally with investors to date, I'm confident in our ability to successfully raise the capital through Octiv. When successful, I believe it can bridge Butterfly to cash flow independence. As we will still be an owner of Octiv, we will continue to layer the growing revenue stream on top of the other revenue opportunities previously mentioned.
+
+So that brings us back to pillar number four, executing to return the company to double-digit growth, get to cash flow breakeven by, or perhaps before 2027 and achieving $500 million in top line revenue in five years. I hope it goes without saying after today's call, that we are well-positioned to deliver on those goals.
+
+I'm very proud of our team. We are very bullish on our near-term opportunity, and excited about the progress being made towards our long-term plans. Butterfly is proving to be the disruptor in digital imaging that you all thought and hoped it would be. We are rewriting the rules, and will be the clear winner in this space.
+
+So with that, operator, please open it up for questions.
+
+Question And Answer Section
+Operator
+We will now begin the question and answer session. [Operator Instructions] And our first question comes from Suraj Kalia from Oppenheimer. Your line is now open.
+
+Suraj Kalia
+Analyst, Oppenheimer & Co., Inc.
+Good morning, Joe, Heather, congrats on the nice quarter.
+
+Joseph M. DeVivo
+Chairman, President & Chief Executive Officer, Butterfly Network, Inc.
+Thank you, Suraj.
+
+Heather C. Getz
+Chief Financial & Operations Officer, Butterfly Network, Inc.
+Thank, Suraj.
+
+Suraj Kalia
+Analyst, Oppenheimer & Co., Inc.
+Joe, can you hear me all right?
+
+Joseph M. DeVivo
+Chairman, President & Chief Executive Officer, Butterfly Network, Inc.
+Yeah, just fine. Thanks.
+
+Suraj Kalia
+Analyst, Oppenheimer & Co., Inc.
+Perfect. So let me a bunch of questions. Heather, let me start out with you, 23% units, 10% price overall, how did that split up US versus OUS?
+
+Heather C. Getz
+Chief Financial & Operations Officer, Butterfly Network, Inc.
+Yeah. So, for the quarter, it was pretty much half and half. So we did see some price internationally, but most of that increase on price was coming domestically, but they both contributed.
+
+Suraj Kalia
+Analyst, Oppenheimer & Co., Inc.
+Got it. And how would you characterize Heather, the penetration of iQ3 versus the previous gen in the quarter.
+
+Heather C. Getz
+Chief Financial & Operations Officer, Butterfly Network, Inc.
+So, the total iQ3 mix for the quarter was just over 50%. Domestically, it was over 80%. So we saw continued penetration in the domestic channel and then with the launch of iQ3 internationally in September, we saw some pickup, but it still was not to the extent that we've reached domestically, as you would expect.
+
+Suraj Kalia
+Analyst, Oppenheimer & Co., Inc.
+Got it. Fair enough. And Joe, your commentary about Harmonics in P5 that caught my attention. I mean it's pretty intriguing. And I guess I'm more so curious, as I understand it, Joe, for harmonics, you will need multiple frequencies to [ph] incinate (00:32:54) the region of interest. Maybe you can talk about the potential for heat generation and the lifespan of the device how do you balance introducing Harmonic and the ultrasound in the chip?
+
+Joseph M. DeVivo
+Chairman, President & Chief Executive Officer, Butterfly Network, Inc.
+So the key to getting harmonics and I'm not a complete expert, I'll do my best to answer this, and then I'll get our experts if you need further information. But the key to harmonics is increasing the mechanical pressure. And historically, the ability to get that increased pressure is not something that is inherent in a processing chip.
+
+But given the MEMS and given the ability to increase the voltage through the MEMS, it significantly increases mechanical pressure. And when you increase mechanical pressure then it allows for this harmonic effect. And the harmonic effect allows for a more specific and a different frequency wavelength, which allows a much higher quality image to come back to the processor.
+
+So that is something that in early days of semiconductors people said, "Oh, they can't do that. They're never going to get to the image quality. They don't have the right pressure in the right mechanical index. And a lot of what happens with digital is the ability to actually process the image two. There's a lot of digital processing that goes on after the image is brought in to continue to enhance it.
+
+And so – and that's allowed it to even be that much more specific and that stronger. But now entering harmonics, it enters in a place where I think no one thought we can get to and then to get image quality at levels that would rival the piezoelectric crystals.
+
+Now the heat artifact is a function of the friction more through the piezoelectric crystals than our semiconductor chips. Our semiconductor chips do not produce the same kind of heat and don't have the same heat signature and the same heat artifact. They do there is a certain level of warmth as you push energy through. But as the processors become more and more powerful and more and more efficient, we don't get that type of proportionate artifact.
+
+Like with piezoelectric, it's analog. If you want to have a greater image, you have to just throw more power. It's – and you're throwing it through a dumb crystal and there's friction. And so the higher-end carts deal with heat by literally having a radiator. They circulate fluid through the pro in order to carry the heat away because regardless of how expensive these devices are, there's no way to get through the physics of electricity through crystal.
+
+But as you're increasing your processor strength and you're increasing your compute power and you're improving your voltage on your MEMS technology, in itself is – does not have the same type of one-to-one relationship with electricity through the device and the heat artifact. So that allows us as processes get more and more powerful the ability to transmit a much higher quality index.
+
+So we've been working on this, and this has been probably one of the things that as we are thinking about the growth of our market and we're building the focus market with other companies. We are creating opportunities to democratize care by having our devices in practice and ambulances, in clinics, and rural sites in third-world countries.
+
+But there's $10 billion to $13 billion market in hospital. And as more and more doctors actually have their own individual probes, they are going to want to have a workstation – and that workstation can allow them to do more of their in facility work.
+
+And so we have a vision on how we are going to craft that whole strategy. And I don't think the processing power, and I don't think our semiconductors are limited. I think it's a continuous innovation cycle that we have a decade head start on.
+
+Suraj Kalia
+Analyst, Oppenheimer & Co., Inc.
+Got it. And Joe, Heather, I'll let either of you handle the last question, and I'll hop back in queue after this. Your Q4 numbers or the implied guide is roughly sequentially flat. Joe, Heather, maybe you all can help us reconcile your commentary about a strong finish. Is there conservatism built in are there other mitigating factors we should be aware of? Any additional color would be greatly appreciated. Once again, congrats on a great quarter.
+
+Joseph M. DeVivo
+Chairman, President & Chief Executive Officer, Butterfly Network, Inc.
+You want to go Heather, you want me to do it?
+
+Heather C. Getz
+Chief Financial & Operations Officer, Butterfly Network, Inc.
+Either one.
+
+Joseph M. DeVivo
+Chairman, President & Chief Executive Officer, Butterfly Network, Inc.
+Yeah. Yeah. So, I mean it's a – it's – we're basically calling for a 20%, 25% growth quarter. So – we don't look at things that are sequential. We look at year-over-year because our quarters are different, and each quarter paces differently. Different things happen in different quarters. that affect our business.
+
+And so we think everything that we have, we don't – we do think that we do build in a little bit of conservatism as I think anyone would as you're putting numbers out there. But I don't think a 25% growth rate is anything to sneeze at. And there's a lot more to come in 2025.
+
+Heather C. Getz
+Chief Financial & Operations Officer, Butterfly Network, Inc.
+Yes. And I would echo that, as usual, we do build in some conservatism. We had a very strong third quarter with the 33% growth. And we do expect – we do typically have a strong fourth quarter with the holiday season, but we do feel that the 25% growth is a definite strong finish to the year.
+
+Suraj Kalia
+Analyst, Oppenheimer & Co., Inc.
+Thank you.
+
+Operator
+The next question comes from Josh Jennings from TD Cowen. Josh, your line is now open.
+
+Joshua Jennings
+Analyst, TD Cowen
+Hi. Good morning. Thanks and echo Suraj's congratulations. It's great to see the momentum and all the progress. I was hoping to just ask to get more details on the US iQ3 launch. It was in a very strong quarter. Can you just help us think about the different channels? It seems like you've generated growth in all the US channels.
+
+And then also just where the pipeline sits. It seems like it's feeling nicely according to your high-level commentary on 2025.
+
+Joseph M. DeVivo
+Chairman, President & Chief Executive Officer, Butterfly Network, Inc.
+Sure. So I think what's exciting about all the channel is delivering. So we have an e-com channel where people can buy online. We have an inside sales channel that deals with out of hospital, ambulance companies, clinics, et cetera. And then we have a direct sales force that goes and builds the pipeline around working with hospitals and which is a much higher level of sales, but also something that has a longer time to close.
+
+And I think the underlying thought around why things are going so well is: a, just like I said, we have great people, and they're executing at all levels. They believe in the mission. And we have a product that basically all our customers want. And so when you have – when you're going a bit viral and when things are going well and people want to buy your product, they buy it wherever it's convenient for them.
+
+And we make – they don't have to bump into a sales rep to buy the product. They can go online. They have an easy online steer where they can purchase the product, they can choose what it is they want. They can choose the accessories they want and they go forward. And if they have any questions, they have an inside sales team to speak to.
+
+So we really kind of have a bit of a surround sound capability to meet our customers' needs. And I think the general theme is there are many customers who want to buy our product and all of our channels are working. I'd rather have a lot of little orders all day long, then sit there and it's cricket and then boom, you get one big order and then it's crickets again.
+
+Now trust me, I love big orders and our direct sales team with hospitals are building a big pipeline, especially given this new URMC data. Everyone's sitting there saying, "Oh my gosh, they went system-wide. They went to 64 departments across the health system. Everyone has a probe, their mind is blown instead of just the ultrasound fanatics getting their own probe, now they're realizing that this is a new standard of care.
+
+And so our direct team is now working with all the focus directors around the United States to start identifying how we can build out mirroring system-wide program to URMC. But the general theme, Josh, is product is doing great. They love it. We've met their needs. It's digital. It can do all the use cases – there's no sacrifice in image quality that was a perception in the past and our road map in the future is pretty exciting.
+
+Joshua Jennings
+Analyst, TD Cowen
+Excellent. I wanted to also just follow up on the European Union's RoHs update. And just it sounds like you had a productive discussion with some of the representatives of the European Commission. Maybe help us understand any more color you can share on those discussions and – and just what are the next steps you guys are going to submit reactivation request?
+
+And what happens from here? And are there any big milestones that we should be keeping a look out for.
+
+Joseph M. DeVivo
+Chairman, President & Chief Executive Officer, Butterfly Network, Inc.
+Well, thanks for that. So first, we were pleased they met with us in the first place. I mean these standards go across all electronics and consumer and industrial, health care and other markets. So the fact we even met with us, we were excited. And truthfully, they've been giving exemptions and there was – they – let's just say that when people schedule meetings with them, they're usually complaining about how the standard can't be hit and why they need an exemption.
+
+And I think they were delighted to pretty much have the first meeting in health care where we were asking not only do we not need an exemption, we don't think it's right for others to have it going forward because of the equivalent. And that was – I don't think a meeting they expected. I think they're a bit fatigued with the exemption process.
+
+I think they feel they've given the ultrasound industry 17 years. And if you read the public documents on why they explain they can't do it, it's basically they don't have, in my view, the appropriate respect for the standard. They're not investing in new technology, and they're taking them for granted.
+
+And so I think it was a bit of a breath of fresh air for them. But of course, there's a process, we can have a meeting, but there's a process that they hold. They're not biased. They want to do the right thing for the consumer and companies. And the process is going to allow for that. So basically, there are steps. We just submitted our dossier. It will be a couple of months for public comment and then like 10 months for them to do their due diligence with advisers and then they'll make a decision and allow that to exist for a couple of months.
+
+And then once that decision is made and after that couple of months, so that's now what, 14 months. So around this time or the end of next year, ultimately, they'll have made a decision. And they're supposed to reapproved or exempt because the exemption expires in June or July of 2025, but they'll allow it to go until this decision is made.
+
+They won't go and reapprove an exemption until now they've reviewed this. But then once they made a decision, they'll give the industry 12 to 18 months to adjust and then it will be enforced. But they were very receptive. They believe that they want their environment to be improved. They want this standard to be upheld.
+
+And I think their patience with industries in certain industries is being tested. And when they see a company like ourselves that have innovated that are completely digital that have now the ability to meet these needs without having to affect the environment. I think they want companies like Butterfly to succeed, which is the essence of the standard.
+
+Joshua Jennings
+Analyst, TD Cowen
+Appreciate all those details. I mean, just lastly, very intriguing update on P5, but I wanted to just ask if you could share some more details on the iQ Station. I mean, should we be thinking about this as the iQ3 and next-generation probes kind of attached to a workstation? Or is there going to – is it going to be more complex until the buildout of your current unit? .
+
+Joseph M. DeVivo
+Chairman, President & Chief Executive Officer, Butterfly Network, Inc.
+Yes, Josh, thank you. So we are certainly going to unveil over time the capabilities of the workstation. The IQ station itself is a method to amplify point-of-care ultrasound and to allow for greater in facility imaging, but with a new workflow and a new way of providing this. And so the closer we get, this is – the P5 chip is a 2026 chip.
+
+It is – we're hoping to get that in the beginning – and so we would hope that the hardware associated with P5 is following in that timeframe. So we are unveiling that we've had this major breakthrough in harmonics and that we now see that this is a huge opportunity for our upside growth. And over time, we will give greater and greater transparency, and we'll show you how this thing works.
+
+But it completely reimagines the workflow of imaging. It puts at center stage, the ability for clinicians to – with their patients to the appropriate diagnosis. And we think this is tremendously liberating for ultrasonographers where ultrasonographers are not going to have to be subject to a particular room and have patients come in book with them. They're going to be able to be mobile and to be able to be even more productive and accessible. So it's a complete reimagining of in-facility imaging.
+
+Joshua Jennings
+Analyst, TD Cowen
+Outstanding. Thanks again.
+
+Joseph M. DeVivo
+Chairman, President & Chief Executive Officer, Butterfly Network, Inc.
+Thank you, Josh.
+
+Operator
+[Operator Instructions] Our next question comes from Ben Haynor from Lakestreet Capital Markets. Ben, Your line is now open.
+
+Ben Haynor
+Analyst, Lake Street Capital Markets LLC
+Good morning, guys. Thanks for taking the questions. First off, I just wanted to dig in a little bit on the home care pilot. I think you mentioned a month structure there. Is it going to be your people doing all the scans? And is it going to be kind of only the folks that are considered at risk for heart failure? Or is it going to be kind of all the members within whether it's an MSA or counties or however that's being structured?
+
+Joseph M. DeVivo
+Chairman, President & Chief Executive Officer, Butterfly Network, Inc.
+That's a great question. So what we are doing, first of all, is we are going to be educating their teams on how to provide care using our technology and our software. This is a way of amplifying and accelerating the adoption of ultrasound using our AI tools and using a lot of our different products.
+
+And so – we are bundling all of our capabilities in the ability of allowing them to build this capability. But it also has to do with the read of the images and the kind of telehealth virtual care wraparound. So what we'll do is as we get through the pilot, we will walk through the product of services that we are providing but it is a very virtual care telehealth, but it wraps around some other things that we are doing for them to make it really easy for the caregivers who are at the bedside to have the information to take care of the patient.
+
+Today, a patient, for example, in a skilled nursing facility who needs an image goes into an ambulance and that ambulance brings them to the hospital. And then they go into an ultrasound suite in order to have an image taken. It's a massively – it's a huge amount of friction, a huge amount of cost and they only do this probably when it's too late.
+
+But the ability to have bedside diagnostics on a frequent basis, where it's easy, where they can get the decision, where they can then course correct that patient we believe, has the opportunity to reduce massive amounts of cost in the health care system. And this is going to be a big catalyst for those who are being penalized and have other types of costs due to readmissions – we think this is going to be potentially significantly liberating for the health care environment and via an entirely new revenue stream for Butterfly.
+
+Ben Haynor
+Analyst, Lake Street Capital Markets LLC
+Okay. That's helpful. And then you mentioned the folks that are getting finalized. I know a couple a few years ago, it's like 75% or 80%. Is it still running that high? Do you know?
+
+Joseph M. DeVivo
+Chairman, President & Chief Executive Officer, Butterfly Network, Inc.
+The last number I had heard where health systems were – like 82% of US health systems had some level of penalty due to such readmissions because – and I think the payers are getting kind of tired of it because there was basically payment for someone coming into a nursing home, getting sick, going into the hospital, getting better going to the nursing home, getting – coming back to the hospital and the payers are just paying for that revolving door.
+
+And they're all focused on solving this problem. They don't want the revolving door. This is – they don't want that to occur. And many companies are trying to help the health care system in order to deal with that revolving door. We have a solution. That solution was just validated at a major medical center, and that paper had just been accepted and will be presented and I look forward to after its publication, sharing with you that data.
+
+But the tenants of that paper kind of build the foundation of how this care can be delivered using advanced AI tools and allowing a less ultrasound skilled person on a very frequent basis to be able to extract this data and then have it read by a professional and then make the appropriate decisions that are going to improve care. So in order to build a new market, instead of just creating a product and sitting back and waiting for people to adopt and except, et cetera, sometimes you have to create this catalyst this impetus to say, look, we're just going to do it ourselves.
+
+We're going to take what we do better than anyone else in the world. And we're going to train people how to do it, and we're going to be right there for them as they then build this competency. And this is the beginning of ultrasound getting into nursing and getting into all different walks of health care life using advanced AI tools that Butterfly has. So we're very excited.
+
+And then now as our Garden partners become more and more commercial. Those Garden applications, just to answer your other question, will allow us to not only help congestive heart failure patients, but patients who have falls, patients who have bladder infections, patients who have other conditions that deal with the same type of revolving door through the hospital. And ultimately, it's going to allow people to live better lives in the final days of their care.
+
+Ben Haynor
+Analyst, Lake Street Capital Markets LLC
+Okay. Very helpful there. And then I guess just lastly for me, with Octiv. How would you envision the economics working there? Say, for example, I want to use you guys' technology to modify the rheology achieve varieties to build something like a universal nacho cheese foam. Or anything, we could do coffee we could do...
+
+[indiscernible] (00:54:18-00:54:27)
+
+Joseph M. DeVivo
+Chairman, President & Chief Executive Officer, Butterfly Network, Inc.
+We'll pretty much – the way it works is that nacho cheese company would come in and say, look, we want to deliver this kind of frequency. We want to be able to deliver in this manner this energy, this array, this they'll give us a spec. And what's beautiful about the semiconductor is it's basically programming it in order to deliver – it's almost like putting a TV show on a TV screen.
+
+All the pixels can be programmed. And as you modify the pixels, you have these different images. So whereas with the analog ultrasound, it's literally you got to put a cathode tube in. It's you have to cut the crystal to a certain wavelength and then you put it in and you can monitor the energy in and out of that wavelength, but you can't monitor the wavelength, you can monitor the breadth, you can't move, et cetera. So someone would just come to us and say, "Look, we want this frequency, we want this depth, we want this array, et cetera, et cetera, et cetera.
+
+And then Nevada simply through software would then program the device to do it. And if we – then we can get into a lab within a week or two and then show them that we can deliver that energy. And we've done this multiple times now. And then when they see that, they say, "Oh, okay, great. You can do it.
+
+And then we get into a discussion on software licensing on what development they would need in order to do it. Hopefully, they can do it all on their own if they can't need us, then we have – and depending upon the market and exclusivity, there could be a license fee. And then, of course, there is a transfer of the individual chips when they purchase it for their products.
+
+And so – this is not a onetime job shop. It is at for each one of these new customers. Each one of these new opportunities provides a product life loan revenue stream for Active in the future. And we think Active could be huge. It's a fungible semiconductor that could be programmed. It's almost like we have GPUs, NVDIA, where we have UPU with ultrasound and these can be used for all different types of applications that are out there.
+
+Ben Haynor
+Analyst, Lake Street Capital Markets LLC
+Okay. Great. Well, I'll get those provisional patents filed and take the rest of the questions offline. Take care.
+
+Joseph M. DeVivo
+Chairman, President & Chief Executive Officer, Butterfly Network, Inc.
+Awesome. Thank you.
+
+Operator
+[Operator Instructions] And that was our last question in the queue. So I'll hand back over to Joe DeVivo for any final remarks.
+
+Joseph M. DeVivo
+Chairman, President & Chief Executive Officer, Butterfly Network, Inc.
+I just want to thank you all for your attention. Butterfly is continuing its progress. The momentum is real. The team is awesome. The opportunities understood and our customers are responding in great ways. The Investor Day that we talked about was the roadmap. And if you haven't seen the Investor Day presentation, I'd encourage you to do so because that's what we are guiding to and we are executing to.
+
+So I appreciate all the attention, and we'll look forward to more updates in the future. So thank you.

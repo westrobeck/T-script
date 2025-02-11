@@ -1,0 +1,342 @@
+Thank you, all, for participating in today's electroCore earnings call. My name is Dan Goldberger. I am the Chief Executive Officer of electroCore and I'm also a member of the board of directors. Joining me today is Joshua Lev, our Chief Financial Officer. Josh was promoted to the CFO position effective October 4, 2024. He's been with us for almost five years and brings a track record of professional integrity and success.
+
+Earlier today, electroCore published results for the third quarter ended September 30, 2024. A copy of the press release is available on the company's website.
+
+Before we begin, I would like to remind you that management will make statements during the call that include forward-looking statements within the meaning of the federal securities laws, which are made pursuant to the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995.
+
+Any statements contained in this call that are not statements of historical facts should be deemed to be forward-looking statements. All forward-looking statements, including without limitation any guidance, outlook, or future financial expectations or operational activities and performance, are based upon the company's current estimates and various assumptions.
+
+These statements involve material risks and uncertainties that could cause actual results or events to materially differ from those anticipated or implied by these forward-looking statements. Accordingly, you should not place undue reliance on these statements. For a list of the risks and uncertainties associated with the company's business, please see the company's filings with the Securities and Exchange Commission.
+
+electroCore disclaims any intention or obligation except as required by law to update or revise any financial projections or forward-looking statements, whether because of new information, future events, or otherwise. This conference call contains time-sensitive information that is accurate only as of the live broadcast today, November 13, 2024.
+
+For those of you who may be new to our company, electroCore was founded in 2005 to commercialize the use of our proprietary, non-invasive vagus nerve stimulation for medical and general wellness applications. The vagus nerve is the longest cranial nerve in the body, bringing information from the visceral organs to the brain. Stimulating the vagus nerve affects many important autonomic functions in the brain and in the body, including neurotransmitter levels, inflammation levels, and metabolism.
+
+Surgically implanted vagus nerve stimulators have been available from other companies for more than 40 years for chronic conditions like epilepsy and depression. So a large and growing database confirms the safety and efficacy of the technique.
+
+Building on that science, electroCore pioneered non-invasive vagus nerve stimulation, and our products are now available by prescription for certain headache conditions and without a prescription for general wellness and human performance. Our pipeline of potential future indications and products continues to grow as clinicians, researchers, and wellness advocates conduct investigator-initiated trials to advance the benefits of non-invasive vagus nerve stimulation.
+
+We have demonstrated rapid growth for several years now. In fact, this is our eighth consecutive record revenue quarter. Revenue was $6.6 million for the three months ended September 30, 2024, a 45% increase over the prior year. Our five-year compound annual growth rate is 62%. Our gross margins remain steady at 84%, and we narrowed our net loss by 38% compared to the same period in 2023.
+
+We continue to make progress towards positive cash flow from operations and GAAP profitability as revenue increases, gross margins hold steady, and we maintain discipline around operating expenses. Joshua will discuss the financials in more detail later in the call.
+
+We launched our US prescription headache business in 2017, selling primarily to specialty pharmacies. Since then, our prescription headache business has grown worldwide, including sales that are covered by national health systems, such as the VA hospital systems in the United States and the National Health Service in the United Kingdom. Cash pay sales through prescriber professional channels and through certain managed care systems in the United States.
+
+We currently have about 30 million covered lives in the United States, and we look forward to creating more access in the future. Cash-paid patients can often use their HSA FSA accounts if they do not currently have insurance benefits.
+
+We launched two new non-prescription general wellness product lines last year, Truvaga is a direct-to-consumer health and wellness brand, and TAC-STIM is our brand for human performance for active-duty military personnel. The VA hospital system continues to be our largest customer. You'll recall that our gammaCore prescription therapy is free to patients covered by Veterans Administration benefits, representing about 9 million covered lives across approximately 1,300 healthcare facilities.
+
+Sales in the VA channel grew 75% to $4.8 million in the third quarter of 2024, from $2.7 million during the third quarter of 2023. 166 VA facilities have purchased prescription gammaCore products through September 30, 2024, as compared to 141 through September 30 of 2023.
+
+The VA Hospital Administration Headache Centers of Excellence estimates approximately 600,000 patients are being treated for headache in the VA hospital system, including approximately 24,000 cluster headache patients.
+
+We've dispensed gammaCore devices to approximately 6,700 veterans since 2022, representing a little bit more than 1% of the total addressable headache market within the VA hospital system.
+
+Truvaga sales continue to show strong revenue growth. Truvaga is currently positioned as a direct-to-consumer general wellness product for stress, relaxation, quality of sleep, and mental acuity. For the third quarter of 2024, Truvaga net sales were approximately $657,000, a 147% increase from $266,000 during the third quarter of 2023.
+
+Our revenue return on advertising spend was approximately 2.53 in the third quarter. In other words, we're spending $1 to generate $2.53 of revenue. Truvaga return rates remain steady at approximately 11% of shipments. Since launching Truvaga, we have sold more than 8,000 handsets and customers have conducted approximately 189,000 sessions using the mobile app. We believe that the Truvaga business will continue scaling nicely if we can maintain or improve these metrics.
+
+Most of our Truvaga revenue is generated through our e-commerce platform, www.truvaga.com. Following the successful launch of Truvaga Plus, we began exploring additional channels to reach consumers, including influencers, affiliates, and resellers. Last week, we went live on the Perks at Work platform, which claims 30 million users globally across 90,000 companies, representing 70% of the Fortune 1000. And just yesterday, Men's Health published that Truvaga Plus was chosen as one of their 2025 Tech Awards. We plan to launch Truvaga Plus on Amazon early next year.
+
+TAC-STIM revenues increased somewhat over the second quarter but still lagged last year. TAC-STIM for human performance is being sold to select Air Force and Army Special Forces units for accelerated training, sustained attention, reduced fatigue, and improved mood, as defined by the Air Force Research Laboratory, or AFRL. No prescription is required, and more information is available at www.tac-stim.com.
+
+For the third quarter ended September 30, 2024, we recorded $194,000 of TAC-STIM sales, as compared to $601,000 during the same period last year. We have a growing sales funnel for TAC-STIM, and we continue to believe that revenue from this product line is likely to be variable as active-duty units purchase in bulk for pilot deployment. On October 1, 2024, subsequent to the end of the quarter, we filled a $550,000 Air Force purchase order. So, fourth quarter sales are off to a fast start.
+
+Our US prescription gammaCore Channel, including gCDirect and gConcierge, recorded revenue of $441,000 during the third quarter of 2024, flat from $439,000 in the third quarter of 2023. There were 2,390 cumulative revenue-generating cash pay prescribers as of September 30, 2024, up from 1,662 on September 30, of 2023.
+
+We expect at least some of these customers will migrate to the Truvaga brand as awareness grows, and we continue modeling flat revenue from this category for the time being. 32 new Truvaga Plus partners were onboarded in the third quarter, including 14 gConcierge customers that added the Truvaga line product line to their accounts.
+
+Last year, we announced a distribution agreement with Joerns Healthcare, LLC that gives us access to a certain managed care health system. Our field sales team is responsible for building awareness among doctors and nurses within that managed care system. Approximately 25 prescribers [ph] have written (00:11:38) for gammaCore in this channel, and we look forward to growing revenue next year.
+
+Revenue from channels outside the United States, or OUS, increased by 4% to $485,000 in the third quarter of 2024, as compared to $465,000 for the third quarter of 2023. Most of our OUS revenue continues to be generated in the United Kingdom by prescription gammaCore sales funded by the National Health Service, or NHS.
+
+Now, I'm going to turn to our scientific progress. In September 2024, the Air Force Research Labs presented results supporting the ability of electroCore's TAC-STIM nVNS to accelerate pilot training.
+
+The presentation titled, accelerate sensorimotor learning in a flight training simulation using transcutaneous vagus nerve stimulation, was presented at the 2024 Medical Health System Research Symposium in Orlando, Florida, and was based on a study conducted at AFRL's facilities at Wright-Patterson Air Force Base near Dayton, Ohio. The study was funded by the Department of the Air Force through AFRL and suggested that the learning rate was higher in the active nVNS group over a [ph] sham (00:12:59).
+
+In August 2024, AFRL published a paper entitled, transcutaneous cervical vagus nerve stimulation enhances second-language vocabulary acquisition while simultaneously mitigating fatigue and promoting focus, in the journal Scientific Reports.
+
+The paper is based on a study that was conducted at the Defense Language Institute in Monterey, California, and was supported by the DARPA Targeted Neuroplasticity Training program. The paper showed a significant positive effect of nVNS on language recall. The paper goes on to document that the recall advantage that emerged during training was sustained after the completion of treatment.
+
+We continue to work with the FDA on a pathway for a post-traumatic stress disorder label, but that timeline remains uncertain. We'll provide updates about our pipeline and other opportunities as they become available.
+
+Before I turn the call over to Joshua Lev, our new CFO, I want to extend a heartfelt thank you to Brian Posner. As most of you know, Brian decided to retire from his position as our CFO in early October 2024. On behalf of the board, employees, shareholders, and myself, I want to thank Brian for his years of dedicated service. Brian played an instrumental role in establishing a solid foundation for growth. Brian, I miss you.
+
+Now, I'd like to turn the call over to Josh for a review of our financials.
+
+Joshua S. Lev
+Chief Financial Officer, electroCore, Inc.
+Thank you, Dan. Net sales for the three months ended September 30, 2024, were $6.6 million, an increase of 45% as compared to $4.5 million during the three months ended September 30, 2023. The increase of $2 million is due to an increase in net sales across our prescription gammaCore medical devices sold in the United States and abroad, and revenue from the sales of our non-prescription general wellness Truvaga brand.
+
+Gross profit increased by $1.6 million for the three months ended September 30, 2024, compared to the three months ended September 30, 2023. Gross margin was stable at 84% for the three months ended September 30, 2024, as compared to 85% for the three months ended September 30, 2023.
+
+Total operating expenses in the third quarter of 2024 were approximately $8.1 million, as compared to $8 million in the third quarter of 2023. Research and development expense in the third quarter of 2024 was $521,000, as compared to $1.2 million in the third quarter of 2023. This decrease was primarily due to a significant reduction in investments associated with our Truvaga Plus product. We expect R&D expense to remain steady for the foreseeable future.
+
+Selling, general, and administrative expenses of $7.6 million for the three months ended September 30, 2024, increased by $895,000, or 13%, as compared to $6.7 million for the comparable period in 2023. This increase was primarily due to our greater variable selling and marketing costs, consistent with our increase in sales and recognition of lease expense associated with the expansion of our facility in Rockaway, New Jersey.
+
+General and administrative expenses increased 1% year-over-year. We expect fixed G&A expenses to remain relatively flat, and sales and marketing expenses to scale with revenue in the near term. Therefore, we anticipate progress towards positive adjusted EBITDA and GAAP profitability.
+
+GAAP net loss for the third quarter of 2024 was $2.5 million, or $0.31 per share, as compared to the $4 million net loss, or $0.68 per share, for the third quarter of 2023. This significant improvement was primarily due to the increase in net sales to $6.6 million for the third quarter of 2024 and our ability to drop incremental revenue to the bottom line. Adjusted EBITDA net loss in the third quarter of 2024 was $2.1 million, as compared to adjusted EBITDA net loss of $3 million in the third quarter of 2023. These improved results are also primarily due to the increase in the third quarter 2024 net sales.
+
+A reconciliation of GAAP net loss to non-GAAP adjusted EBITDA net loss has been provided in the financial statement tables included in today's press release. Cash, cash equivalents, marketable securities, and restricted cash at September 30, 2024, totaled approximately $13.2 million, as compared to approximately $10.6 million as of December 31, 2023. Net cash used in operating activities for the nine months ended September 30, 2024, was $5.7 million, a 51% reduction from the $11.5 million through nine months ended September 30, 2023.
+
+And now, I'll turn the call back to Dan.
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+Thank you, Joshua. I'm very proud of how the team has grown revenue and the leverage we're seeing in the business. Our operating metrics continue to exceed our own internal expectations, and I'm very enthusiastic about the company's long-term prospects across all brands and channels.
+
+Demand for our prescription gammaCore therapy in the VA channel continues to grow based on clinical performance and our increased presence in the field. Our FSS contract has been extended to December 14, 2024, and we continue working with our VA contract specialists to secure a new follow-on contract. Our prescription gammaCore sales organization is represented by about 80 1,099 reps in the field, managed by our small team of territory business managers and supported by our customer experience team. This hybrid structure has proven to be very scalable as we deploy prescription gammaCore around the country.
+
+The Truvaga Plus launch has been favorably received by the market. The brand continues to show tons of potential as a direct-to-consumer general wellness offering. We're selling Truvaga products through our e-commerce site, www.truvaga.com, and we continue exploring expansion of the Truvaga proposition through new product offerings and new channels to increase the lifetime value for each customer.
+
+Pipeline of interest from different branches of our active-duty military continues to develop for our TAC-STIM products. Although Q2 2024 sales of TAC-STIM were impacted by the timing of the launch of our new handset, sales in Q3 2024 picked up and we expect to show increased revenue in Q4 2024.
+
+TAC-STIM revenue will continue to be hard to predict in the short term as active-duty units evaluate and purchase in bulk for pilot deployment. Longer term, we believe that there may be civilian crossover as first responders, elite athletes, transportation workers, traders, and e-gamers become aware of the human performance benefits published so far.
+
+During the third quarter of 2024, our sales and marketing expense increased by approximately $866,000 over the third quarter of 2023, while sales grew by $2 million. Most of the top-line revenue growth of $2 million dropped to the bottom line as our net loss declined during the same period by $1.5 million, signaling increasing leverage in the P&L.
+
+Further out, we're working towards establishing additional indications for prescription gammaCore to treat post-traumatic stress disorder, opioid use disorder, and other clinical opportunities.
+
+We had $13.2 million of cash and equivalents at September 30, 2024, and we will maintain discipline around fixed operating expenses. We expect that commissions and media spend will continue to scale with revenues, and we model approximately 30% of related sales on a blended basis. Therefore, we expect that our cash used in operations and adjusted EBITDA loss will continue to decline sequentially as revenue increases.
+
+In summary, I believe the business is demonstrating operating leverage, and we will have a variety of strategic levers to pull to continue growing the business. I remain confident that we can generate positive cash flow from operations early next year with the financial resources on our balance sheet at September 30, 2024.
+
+At this time, I'll return the call over to the operator. Operator, please open the line for questions.
+
+Question And Answer Section
+Operator
+Thank you. We will now be conducting the question-and-answer session. [Operator Instructions] Thank you. And our first question is from the line of Jeffrey Cohen with Ladenburg Thalmann. Please proceed with your questions.
+
+Jeffrey S. Cohen
+Analyst, Ladenburg Thalmann & Co., Inc.
+Hi, Dan and Josh. Thanks for taking our questions.
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+Hi, Jeff.
+
+Joshua S. Lev
+Chief Financial Officer, electroCore, Inc.
+Hi, Jeff.
+
+Jeffrey S. Cohen
+Analyst, Ladenburg Thalmann & Co., Inc.
+First, let's get back on the Men's Health Tech Awards 2025 for Truvaga Plus. Any commentary there, and perhaps talk about how that may or may not spillover and expand into the [ph] Truvaga 350 line? I know the link is specifically on Plus (00:23:46). And then also perhaps talk about M&A or other wellness products that are out there, or talk about your M&A? Thanks.
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+Wow. That's a big question, Jeff. The Men's Health caught us by surprise, so we're thrilled to see it. And it creates a whole new opportunity for us. We're negotiating with them now for an advertising package, and they have a huge circulation. So it's a tremendous awareness opportunity for our Truvaga brand.
+
+We haven't been reporting on it, but the Truvaga Plus that we launched in April has been outselling the Truvaga 350. Even though it's at a higher price point, the Truvaga Plus, as you know, is mobile-app-enabled, and in the future is going to give us an opportunity to enter into the much larger digital health opportunities. So the sky's really the limit. We're just really getting started in that whole category.
+
+You asked about M&A. We don't – we're focused on vagus nerve stimulation. As you think about the bigger picture of digital health and wellness category, you could imagine a lot of different places for us to add to the product line or to perhaps co-market with somebody. But for the foreseeable future, we are absolutely focused on vagus nerve stimulation, and there's nothing really that we can talk about at this time.
+
+Jeffrey S. Cohen
+Analyst, Ladenburg Thalmann & Co., Inc.
+Got it. Just to clarify, the Air Force contract that you spoke about closing after the quarter would be for TAC-STIM?
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+Yes, yes. That was for the TAC-STIM BLACK that we commercialized in July of this year.
+
+Jeffrey S. Cohen
+Analyst, Ladenburg Thalmann & Co., Inc.
+Okay. And then lastly for us, congrats on talking about Amazon for next year. Could you tell us, will that be domestic only, or do you expect that to roll out to other territories?
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+Yeah, Truvaga is a US-only product for the time being. We've been looking at what kind of investment would be required to be certified to ship into the EU or into Asian countries, for example. And we're focusing on getting to cash positive and profitability, so I will probably procrastinate on that international investment until we cross over to being cash positive.
+
+Jeffrey S. Cohen
+Analyst, Ladenburg Thalmann & Co., Inc.
+Okay. Got it. That does it for us. Thanks for taking the questions.
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+Thank you, Jeff.
+
+Operator
+Our next question is from the line of Swayampakula with H.C. Wainwright. Please proceed with your questions.
+
+Swayampakula Ramakanth
+Analyst, H.C. Wainwright & Co. LLC
+Thank you. Good afternoon, Dan...
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+Yeah.
+
+Swayampakula Ramakanth
+Analyst, H.C. Wainwright & Co. LLC
+...and welcome. Josh, into the new role. I've known you for a long time.
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+How are you, RK? Thank you for the questions. Yep. Thank you, RK.
+
+Swayampakula Ramakanth
+Analyst, H.C. Wainwright & Co. LLC
+So jumping into the VA revenue to start off, it was good to see the year-over-year growth. And you're saying, you're still scratching the surface. And you have been in this market for quite a long time. And what is it – I'm not complaining about the growth. I'm just trying to figure out how – are there ways or methods to grow that growth from, like, say, only 1% to at least, like, 3% to 5%, which can still make a huge difference for you folks, I would think? And what could potentially be those methods?
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+Great question, RK. Really, our growth in the channels started to move as we came out of the pandemic. And we were able to get our territory business managers and our 1,099 sales reps back into the facilities. And so, if you just look back, you can see how it accelerated as the pandemic faded and access – traditional access to hospital facilities and clinics opened up.
+
+So for the foreseeable future, it's scale. Because the vast majority of our field sales force is straight commission, we can aggressively add feet on the street and get penetration within our existing customers. And especially having additional 1,099 assets gives us the opportunity to open up the new hospitals that are not yet customers. So, it's not glamorous, but it's old-fashioned, finding the right people, getting them trained up, and getting them deployed and successful.
+
+Beyond that, as you know, we're working towards a PTSD label. All of the pivotal trial data in PTSD came out of the VA hospital system. It's an adjacent call point in behavioral health in the VA hospitals. And so as we move through 2025 into 2026, the total addressable market within the VA grows substantially as well. So lots of reasons to believe that we can maintain or even accelerate the penetration and the associated revenue growth rate.
+
+Swayampakula Ramakanth
+Analyst, H.C. Wainwright & Co. LLC
+Thank you. And then talking about the revenue growth rate. So, there is – one is volume, the other is price. So in terms of the FSS contracts that you were talking about, which are due to end soon, and I would think that with the benefit that they've been getting, you'll get to extend those contracts.
+
+So while you start negotiating the next set of contracts, can price be a play in there, or that is normally set by them and you don't have much of a flexibility in price growth?
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+Yeah. So the price is a contract element. About a-third of our VA business now is going through a distribution partner level, and the price through the distributor to the hospitals is actually higher than if they purchase directly from us. Our FSS contract has been extended now, I think, three times. While we've been going through these extensions, we've moved into a higher revenue category. That's – we're a victim of our own success. And so the contract has had to go through additional review cycles.
+
+We are candidly, we're holding the price constant. We've been advised that we have an opportunity to increase the price, but we don't see any reason to do that. So we expect that ultimately the revised contract will be at the same price that we have today.
+
+Swayampakula Ramakanth
+Analyst, H.C. Wainwright & Co. LLC
+Okay. And then I know you said the name, but I'm going to refer to this as Kaiser Permanente.
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+Yeah, I'm not allowed to use that name, but thank you.
+
+Swayampakula Ramakanth
+Analyst, H.C. Wainwright & Co. LLC
+Well, I didn't write it down, so that's on me.
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+Thanks.
+
+Swayampakula Ramakanth
+Analyst, H.C. Wainwright & Co. LLC
+You said there are 25 prescribers have started writing script on the device. So in general, because Kaiser Permanente is not just in California, they're in D.C. They're in other areas as well. My question to you is, when you say 25 prescribers, are they from a specific region? And as the product gets used more, we should expect that to spread through the entire network of Kaiser Permanente?
+
+And also, when you say 25 prescribers, are these the folks that have been kind of given sample vouchers to check it out, or are they the folks that really wanted to write this after conversation with, I guess, through your distributor, so that through the distributor?
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+Yeah.
+
+Swayampakula Ramakanth
+Analyst, H.C. Wainwright & Co. LLC
+Sorry for the long question.
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+Well, yeah, excellent question. So as I understand it, the managed care system is organized around Southern California, Northern California, the Pacific Northwest, so Washington, Oregon are a region. I'm not sure where Hawaii fits, but Kaiser has a good footprint in Hawaii.
+
+Colorado is a separate region. And Georgia, I'm not sure what they're doing with Geisinger, which they acquired, and how that's organized just yet.
+
+Swayampakula Ramakanth
+Analyst, H.C. Wainwright & Co. LLC
+Okay.
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+gammaCore is on formulary in the Southern California and in the Northern California regions explicitly.
+
+Swayampakula Ramakanth
+Analyst, H.C. Wainwright & Co. LLC
+Okay.
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+That's where most of our prescribers are in California at this point. We do have, I believe, three prescribers out of the Washington, Oregon region, and so there's still a lot of work to be done. Kaiser forbids samples...
+
+Swayampakula Ramakanth
+Analyst, H.C. Wainwright & Co. LLC
+Okay.
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+...so when we talk about prescribers, those are revenue prescriptions. [ph]
+
+Swayampakula Ramakanth
+Analyst, H.C. Wainwright & Co. LLC
+Those are the others (00:35:03). Okay. That's very good. Very good to hear that. And then you probably answered this question. I apologize. In terms of the $550,000 order that you received from the military after the close of the quarter, is this for the Version 2 product, or is this for the initial version? And also, how should we think about – is there a mix between the old product and the new product? And beyond the $550,000, should we expect any additional revenue for the fourth quarter?
+
+I'm just trying to get an idea of, is this going to be basically lumpy, and you and I can never figure out this until it happens? Or will it ever get to – into a cadence at some point?
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+So specifically around the $500,000, it was actually specifically $548,000 for...
+
+Swayampakula Ramakanth
+Analyst, H.C. Wainwright & Co. LLC
+Okay, sorry.
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+...what we call TAC-STIM BLACK. At least, it's booked – shipped and booked as October 1, because that's the beginning of the financial year for the Air Force, and that was their request...
+
+Swayampakula Ramakanth
+Analyst, H.C. Wainwright & Co. LLC
+Okay.
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+... as much as we would have liked to have pulled it into the third quarter. We have had additional revenue from the TAC-STIM product line in the current quarter, but much smaller amounts.
+
+I've been coached not to use the word lumpy, so now I use the word variable.
+
+Swayampakula Ramakanth
+Analyst, H.C. Wainwright & Co. LLC
+Okay.
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+For 2025, we have a lot of interest, but it feels like for 2025 it's going to be again back end loaded in sort of the second half, the third and fourth quarters of 2025. But there are various activities as we roll into 2026 where we are optimistic that we will be getting on to a more of a predictable master contract that different units can order against and will have a little bit more visibility. But I don't see that happening until the 2026-2027 revenue cycle.
+
+Swayampakula Ramakanth
+Analyst, H.C. Wainwright & Co. LLC
+Okay. Okay. Good. And then, sorry for so many questions, but on Truvaga Plus, so how – obviously it looks like the product is being adopted really well in the market. Are there any additional levers that you can use to grow this higher and also at a steady pace? Or is this just going to be dependent on various advertisements/social media, or other modes of spreading the message on the wellness side of the therapy?
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+So, great question. We think we understand our own e-commerce platform and the levers around search and social media spend. As you've seen with social media, getting some creative content to go viral is much more art, and so there's always that possibility that one of our influencers will hit a nerve if you let me use that concept and go viral and drive accelerated revenue and better metrics.
+
+The affiliate sales and getting on to the Perks at Work platform, for example, is a whole new channel for us. Getting on to Amazon next year is a whole new channel. Now it's a more expensive channel, and so while the gross margin stays healthy, the contribution margin – Amazon takes their vig...
+
+Swayampakula Ramakanth
+Analyst, H.C. Wainwright & Co. LLC
+Yeah.
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+... and so we have to keep an eye on revenue growth versus contribution margin from different channels. I think we're a long way from being able to hire a celebrity spokesperson and take out a Super Bowl ad, but there's a lot in between what the big companies do and what we can do with guerrilla marketing tactics and see if we can get some of that creative content to go big.
+
+Swayampakula Ramakanth
+Analyst, H.C. Wainwright & Co. LLC
+Okay. One last question, and that's for Josh. At what point, Josh, do you think both you and Dan will be comfortable to start talking about guidance and the ability to talk through the top line? From time to time we have heard about expense lines and some commentary on expense lines, but I'm just trying to find out at what point we can just start expecting top line guidance as well?
+
+Joshua S. Lev
+Chief Financial Officer, electroCore, Inc.
+Yeah, it's a great question. It's something that we considered doing in the past. At the moment, it's not necessarily something that's on the docket for the future, but that being said, we're getting into a new year, and we're going to re-evaluate sort of everything when we do that. So I would say it's something that we'll discuss internally, and you'll either see it or you won't.
+
+Swayampakula Ramakanth
+Analyst, H.C. Wainwright & Co. LLC
+All right. Thank you very much, gentlemen. Thanks for taking all my questions.
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+Thanks, RK.
+
+Operator
+Thank you. [Operator Instructions] Our next question today is from the line of Thomas McGovern with Maxim Group. Please proceed with your questions. Mr. McGovern, your line is live for questions. Perhaps you're muted. Gentlemen, it appears we've lost Mr. McGovern's line. Thank you. [Operator Instructions]
+
+Mr. Goldberger, there are no additional questions at this time. I'll turn the floor to you for any further comments.
+
+Daniel S. Goldberger
+Chief Executive Officer & Director, electroCore, Inc.
+All right. Thank you, operator. I appreciate everybody joining the call today. As I mentioned, I'm very proud with continued improvement in all of our operating metrics, revenue growth increasing, cash consumption decreasing. Our employees are working tirelessly to deliver these products and therapies. Patients, customers, we really appreciate everybody's support.
+
+We're getting into the holiday season, so I also want to wish everybody the very best for Thanksgiving and the holidays after that. Thanks, everybody.
+

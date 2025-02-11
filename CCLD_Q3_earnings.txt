@@ -1,0 +1,281 @@
+Thank you, [ph] Alejandra (00:03:42). And good morning, everyone. Thank you for joining us today for CareCloud's third quarter 2024 earnings call. I'm pleased to start with two key updates. First, we have fully paid down over $10 million credit line demonstrating our commitment to strong financial management and a solid balance sheet. Second, we are on track to resume monthly dividend payments on our Series A and Series B preferred shares starting in March 2025, demonstrating our confidence in CareCloud's profitability and our commitment to generating strong free cash flow to deliver value to our shareholders.
+
+In terms of our Q3 financials, we generated $6.8 million in adjusted EBITDA, a 111% increase over last year, and achieved $10.3 million in year-to-date free cash flow, a 328% improvement over 2023. Revenue for Q3 was $28.5 million, slightly down from $29.3 million in Q3 2023 due to fluctuations in non-recurring revenue from our medSR division. With these accomplishment in 2024, we have met our key financial goals, setting a strong foundation for 2025.
+
+This quarter, we remained laser-focused on advancing CareCloud cirrusAI, our flagship solution that streamlines administrative tasks and clinical documentation, enabling providers to prioritize patient care.
+
+CirrusAI's integrated technology reduces non-clinical workload, allowing doctor to spend more time with patients and see more of them per day. We have enhanced cirrusAI Notes to generate fully structured patient charts that integrate directly into the EHR, capturing natural patient-provider conversations to improve documentation quality and reduce administrative burdens.
+
+Now, the solution also provides diagnostic and procedural support, automating documentation while suggesting relevant diagnoses and procedures. Adaptable to various healthcare settings and supporting multiple languages, CareCloud's cirrusAI is a powerful tool for boosting clinical efficiency and enhancing patient outcomes. A key differentiator of CareCloud cirrusAI is its seamless integration within our EHR systems, enabling users to work within a single platform without the need to toggle between different systems or manually input data.
+
+This deep integration streamlines workflows and enhances user efficiency. Additionally, cirrusAI can function as an overlay, making it compatible with various healthcare environments and systems with other vendors, allowing for flexible implementation across diverse settings.
+
+Through CareCloud cirrusAI, we are enhancing our entire product suite, including EHR, practice management and billing systems with advanced AI functionalities. Recently, we launched an AI module that summarizes clinical documentation, helping providers review patient histories quickly and thoroughly.
+
+We also introduced a claim note summarization feature that streamlines workflows for RCM staff, significantly reducing the time spent on lengthy claim details. Our logs show, these two features save approximately 70% of users' time compared to conventional methods. These tools are now enabled for over 100 of our providers.
+
+Our billing teams benefit from AI-powered denial management tools that significantly enhance accuracy and efficiency by identifying denied claims and automating resubmissions. The system not only flags denied claims, but also provides specific reasons for each denial, guiding users on targeted areas to review. It recommends solutions such as verifying the user specific modifiers, and where applicable, automatically resubmits the claim.
+
+For example, if a claim is denied to missing documentation, the AI retrieves and upload the necessary files to the appropriate portal. This advanced automation minimizes manual effort, accelerates resolution times and ensures greater accuracy in denial management.
+
+Similarly, our AI-generated appeals are saving over 75% of manual appeal generation time. Our AI solutions use a hybrid pricing model based on value we deliver. For features that improve efficiency and accuracy, directly boosting client revenue, we do not charge separately as many of our fees are contingency-based, aligning our success with our clients. For standalone products like CareCloud cirrusAI Notes, we apply specific charges. While revenue from this product is still modest, it shows promising growth potential for the future.
+
+Our unique ability to connect clinical and financial data sets us apart in the industry. Over the past two decades, we have built a robust data asset that integrates comprehensive insurance claims data with rich clinical information, enabling us to deliver highly accurate AI-driven solutions that support better decision making for providers and offer life sciences partners valuable insights into diverse patient populations. This reflects our commitment to using technology for better health outcomes, accessibility and sustainable value.
+
+These are just a few examples of our AI products and the value they bring to CareCloud. We have many more AI-driven solutions in active development with several already in various stages of rollout.
+
+Looking ahead, our main goal for next year is to generate enough free cash flow to cover dividends while continuing to grow profitably. We believe our success should be measured by our ability to operate profitably and remain cash flow positive. With our end-to-end solutions, skilled global workforce, and strong record of innovation, including generative AI, we are well-positioned for sustainable growth, delivering value to our clients and shareholders as we advance CareCloud's mission into 2025 and beyond.
+
+I will now turn the call over to our President, Steve Snyder. Steve?
+
+Stephen Andrew Snyder
+President, CareCloud, Inc.
+Good morning, everyone. And thank you for joining us today on CareCloud's third quarter 2024 earnings call. Today, I'll be covering three key topics, including our successful focus on free cash flow during 2024, the outcomes and significance of our recent Series A preferred shareholder proposal, and finally, the path that lies ahead for growth.
+
+Let's turn first to free cash flow. In line with the objectives we discussed during the last quarterly earnings call, expense reduction and the generation of free cash flow remain our primary goals for 2024. Our strategy remains clear.
+
+By enhancing efficiency and maintaining financial discipline, we are positioning Care Cloud for long-term value creation and enabling us to resume dividends on our share as a preferred stock on March 15th, 2025, a truly exciting milestone. As we discussed in our last earnings call, we are achieving these increased efficiencies in three primary ways, which are each having a direct positive impact on our generation of free cash flow. First, we have been using our proprietary technology, including our AI, which has empowered us to reduce costs while accomplishing day-to-day tasks in a more systematic, efficient, and reliable manner.
+
+Second, we have continued to reduce our reliance on third-party contractors, leveraging our lower-cost in-house team of subject matter experts instead. This approach increases our operational control and reduces the risk that comes with relying upon third parties to handle critical business functions. And third, we continue to embrace the core strength of our global business model, leveraging our most effective and cost-efficient resource for each discrete process, thereby enabling us to both increase our overall bandwidth while simultaneously reducing the associated costs.
+
+During 2024, we have made meaningful progress increasing our free cash flow and expanding our margins. This progress has enabled us to fully pay off the $10 million balance on our credit facility and further strengthen our balance sheet while building cash reserves. Through the end of Q3, we generated a remarkable $10.3 million in free cash flow, representing growth of almost 330% compared to the same period in 2023. This level of free cash flow generation represents an all-time high for our company. Our refreshed expense structure will enable us to continue to produce cash and further expand margins as we scale. This gives us great confidence that we are in a solid position to resume dividend payments, accomplishing a key objective for 2024.
+
+Now let's turn to the recent Series A preferred shareholder proposal. This proposal was designed to provide protection to Series A preferred shareholders, equalize the dividend rate and incorporate more flexibility with an exchange feature. Our special proxy vote was held on September 11, 2024, and I'm pleased to report that 89% of the shares that were affirmatively voted on the proposal cast their votes in favor of the changes.
+
+The proposal was passed with extremely strong support, which reflects the widespread investor confidence in the soundness of these changes. These approved changes are pivotal for a few reasons. First, they protect Series A Shareholders in a change of control event, giving them the right to have their shares liquidated at $25 per share in the event of a change of control.
+
+This avoids the possibility that a future acquirer could purchase CareCloud and nevertheless leave shares of Series A preferred stock outstanding. In essence, this change creates parity between the rights of Series A and Series B shareholders in the event of a change of control. Second, these changes equalize the dividend treatment between Series A and Series B shareholders at 8.75%, this change translates to an annual reduction of approximately $2.5 million in our annual dividend obligation, thereby strengthening our cash flow and freeing up capital for reinvestment. Third, the new exchange feature is a strategic win for the company and for all classes of shareholders. Under the exchange feature, the company may, at an appropriate point in time, exchange shares of Series A preferred stock for Common stock at the $25 redemption price for each share of preferred stock. This exchange feature empowers the company and by extension, all of our shareholders to avoid traditional offering expenses and discounts associated with the secondary issuance of Common stock, which oftentimes average 30% or more of the capital raised.
+
+Turning to growth and the path ahead, as we previously emphasized, refreshing our operational cost structure and substantially growing our free cash flow have been and continue to be our core focus in 2024. However, as we progress through 2025, our focus will expand to include strengthening our recurring revenue base and ultimately pivoting to annualized net growth. As we do this, we will pursue a disciplined approach and ensure that new growth opportunities allow us to grow our free cash flow.
+
+This growth will come from a variety of sources. First, we'll continue to heavily lean into AI in 2025 as a transformational part of our larger growth strategy. In particular, CareCloud's cirrusAI makes our integrated solutions from the EHR to the practice management system and related tools far more attractive and powerful.
+
+And it provides a significant differentiator in the market, giving us a clear competitive advantage in our space. Second, we see significant opportunity around the ramp up of our new in-house remote patient monitoring solution, which leverages our core technology strength to generate high margin revenue. This focus on RPM is part of our larger wallet share expansion initiative and includes upsells to other CareCloud solutions, including our full RCM and CCM solutions.
+
+Third, we'll focus on strategic partnerships and reseller relationships with revenue cycle management companies and other complementary vendors. Finally, we will explore further expanding our force offering in which we provide our customers with specialized human capital and related AI-powered tools to support their operations. To sum it up, we are achieving strong progress on the financial and operational goals outlined at the beginning of this year.
+
+From free cash flow improvements to shareholder protections and strategic growth initiatives, we are firmly positioned for a transformative 2025. With that said, let me introduce you to our new Chief Operating Officer, Crystal Williams. Crystal?
+
+Crystal Williams
+Chief Operating Officer, CareCloud, Inc.
+Thank you, Steve. And good morning, everyone. As Chief Operating Officer, my primary focus is on maximizing client satisfaction. Our objective is clear. We do not want to lose a single client due to performance issues or dissatisfaction. While our metrics are already best in class, we know that maintaining our competitive edge requires continuous improvement. In today's fast-evolving landscape, achieving this goal is impossible without leveraging advanced technology.
+
+And AI is central to our approach. As Hadi mentioned, we have developed and deployed a range of AI-powered tools to support these objectives. I'm focused on ensuring that our AI-driven solutions, such as denial management and appeal generation, are effectively implemented and fully utilized to maximize their impact.
+
+These AI tools are critical for enhancing performance across the board. For example, our AI-driven quality monitoring system in the contact center allows us to perform QA on customer and patient support calls. This technology provides detailed scoring and sentiment analysis for every interaction, enabling us to take proactive measures and deliver a more personalized and responsive support experience, achieving results much faster and more effectively than would be possible manually.
+
+With AI at the core of our operations, we're committed to driving unmatched efficiency and setting a new standard for client satisfaction. Now we'll turn the call over to our CFO, Norm Roth. Norm?
+
+Norman Roth
+Interim Chief Financial Officer & Corporate Controller, CareCloud, Inc.
+Thanks, Crystal, and thanks to everyone for joining our call today. As you just have heard, we had a great quarter and are proceeding nicely with accomplishing the goals we laid out for ourselves this year. In particular, we are now generating record levels of free cash flow and will resume paying dividends on our preferred shares on March 15, 2025. Further, we have fully paid off our Silicon Valley Bank line of credit with internally generated profits and cash flows. We generated $10.3 million of free cash flow during the last nine months and used $10 million to repay our line of credit.
+
+Since we are not relying on our line of credit and we do not plan on using the line in the near future, we have negotiated with SVB to reduce the total capacity on the line to $10 million, thereby lowering our costs and alleviating the need to spend management time satisfying bank covenants while still providing us with some rainy day money. The key to growing our free cash flow has been reducing expenses and growing our GAAP net income. Third quarter 2024 GAAP net income was $3.1 million as compared to a net loss of $2.7 million in the same period last year. GAAP net loss was $0.04 per share based on a net loss attributable to common shareholders, which takes into account the preferred stock dividends earned whether or not they were declared or paid during the quarter.
+
+This is our second consecutive quarter returning to positive GAAP net income and our largest quarterly net income since Q4 2021. Revenue for the third quarter 2024 was $28.5 million, compared to $29.3 million for the third quarter of 2023. Recurring technology enabled business solution revenues during third quarter 2024 were $24.2 million, essentially flat with third quarter 2023 and up approximately $200,000 from second quarter 2024, while non-recurring professional services revenues for medSR declined from $5 million to $4.3 million.
+
+Adjusted EBITDA for the third quarter 2024 was $6.8 million or 24% of revenue compared to $3.2 million in the same period last year. This was an increase of 111% year-over-year and was the highest quarterly adjusted EBITDA we've reported in two years. On a year-to-date basis, the story is similar. With our emphasis on improving profitability, revenue for the first nine months of 2024 was $82.6 million, compared to $88.6 million in the first nine months of 2023. But our GAAP operating income was $5.7 million compared to an operating loss of $3.5 million in the same period last year and our GAAP net income was $4.6 million compared to a GAAP net loss of $5 million in the first nine months of 2023.
+
+Adjusted net income was $6.6 million or $0.41 per share calculated using the end of period common shares outstanding. Year-to-date, adjusted EBITDA was $16.9 million, and increased of 50% or $5.6 million from $11.3 million in the same period last year.
+
+During the nine months ended September 30, 2024, we generated $15.4 million of cash from operations and $10.3 million of free cash flow. The free cash flow amount of $10.3 million increased by 328%, compared to $2.4 million in the same period last year. As of September 30, 2024, the company had approximately $2.8 million of cash. Net working capital was $732,000. Now that we've repaid our bank debt, free cash flow during the fourth quarter will allow us to increase our cash balance and build some cushion in our net working capital.
+
+I am pleased to update our forward-looking guidance for the full year. We are updating our adjusted EBITDA guidance to $23 million to $25 million for full year 2024, which is an increase from the guidance we originally provided at the start of this year, reflecting our emphasis on improving profitability and cash flow throughout the year. We are reaffirming analyst expectations for our revenue guidance of $109 million to $111 million. Revenue guidance is based on our expectations of revenues from existing clients.
+
+Our financial position has improved tremendously during the first nine months of 2024. We are happy to have returned to profitability, fully repaid our bank debt, will resume our dividends in March and look forward to reporting strong results for the full year in a few months. Our team has really worked well together to achieve this turnaround.
+
+With that, I'll now turn the call over to Mahmud for his closing remarks. Mahmud?
+
+Mahmud Ul Haq
+Founder & Executive Chairman, CareCloud, Inc.
+Thank you, Norm. Third quarter accomplishments, including substantial improvement in profitability, the full repayment of our credit line in setting us up to resume dividends by March 25, demonstrates the strength of our strategy and resilience of our team. I want to extend a heartfelt thank you to our employees, shareholders, investors, and clients for their continued trust and support.
+
+As we look to the future, we remain committed to sustainable growth, continuous innovation, and setting new standards in healthcare technology. Thank you for being part of this journey with us. Operator, please open the floor for questions.
+
+Question And Answer Section
+Operator
+Thank you. We will now be conducting a question-and-answer session. [Operator Instructions] The first question we have is from Jeff Cohen of Ladenburg Thalmann. Please go ahead.
+
+Destiny A. Hance
+Analyst, Ladenburg Thalmann & Co., Inc.
+Good morning. This is Destiny on for Jeff. Thank you for taking our questions. In your prepared remarks, I heard you mention life science partnerships, and I'm not sure that I had heard that before in any of the other conference calls. So I'm wondering if you can give any more color or insight on what types of companies and whatever else you're able to give us at the moment.
+
+A. Hadi Chaudhry
+Chief Executive Officer & Director, CareCloud, Inc.
+Hi. Good morning, Destiny, and thank you for the question. So we did a recent press release with our partnership, an initial partnership as an example with [indiscernible] (00:28:00). And so it's a medicine adherence. We look at any patient specific, the existing medications, the different demographic information and the previous symptoms. And based on that, we recommend and suggest to those companies the different through [ph] dockery (00:28:21) and they push a specific ad to that specific provider that these could be the different medicines that can be provided. Then at the same time, the method gets pushed to the cell phone of the patient if there are any applicable, as an example, any coupons available for those specific medicines, and then also confirmation when it's ready to be picked up and when the medicine will get picked up. But that's just one of those relationships that we have entered into.
+
+But the whole idea behind this is, if you look at our entire, the data asset of 20-plus years, whether it's clinical, whether it's medicine-related, whether it's financial-related, a lot of this information can be used and can be very effectively used with the help of these life sciences partners, whether it's through giving them the specific guidance in terms of the different medicines available or for them to do their risk assessment and the research on their side. So even though right now the revenue is not being separately identified other than the top-line item, but we anticipate, we expect that this will continue to start contributing towards our revenue goals for the next year.
+
+Destiny A. Hance
+Analyst, Ladenburg Thalmann & Co., Inc.
+Okay. So this is your current partnership is putting different kind of medicines in front of patients through an ad, if I understood correctly. Now you also said it could be used for life science companies to kind of de-risk that nature or things of that nature. Are you also able to or interested in kind of helping these companies determine what patient groups are best for trials? Or are you going to stay a little further down the whole clinical and regulatory areas of these companies?
+
+A. Hadi Chaudhry
+Chief Executive Officer & Director, CareCloud, Inc.
+And Destiny this is going to be any and all of these possibilities. Our team is working with all variety of at the moment the different possible opportunities and we will keep everyone up to date as we move forward. But I think that the real value from where this whole thing is coming from whether it's for AI or whether it's for the life science, supporting the life sciences company is that we are trying to monetize, we're trying to use the value of the data that we have for the last 20 plus years. It started with financials and then there is an extensive, the data for, from the clinical perspective, whole different demographic and almost every single state of the US. It's a large dataset that can be utilized and help these companies.
+
+Operator
+The next question we have is from Allen Klee of Maxim Group. Please go ahead.
+
+Allen Klee
+Analyst, Maxim Group LLC
+Good morning. You've spoken in the past that your strategy of rolling out your AI services would start giving, letting your clients trial them and then move to charging. Where are you on that today?
+
+And what are you thinking about the early indications? Thanks.
+
+A. Hadi Chaudhry
+Chief Executive Officer & Director, CareCloud, Inc.
+Hey, good morning, Allen. No, you're very right. And we still continue to, let me step back there. So for us the way we think that we're positioned ourselves little differently with our competitors, there is a front end and there is a back end. So we simultaneously have started to work on both fronts.
+
+So if we talk about it from the front end, which is adopted over initial, the application was cirrusAI Notes, which have been significantly enhanced. And we basically merged the two applications together, which is the cirrusAI Guide that we initially launched and then the cirrusAI Notes. So best of the both worlds when this enhanced version is launched.
+
+Now this one application can listen to the practice provider conversation and not only converts that into a soap notes instead, now it converts that into a structured chart and at the same time, suggest and recommend whether it's a diagnosis of procedure based on the current and the prior history. So, yes, this product we initially launched as a 30-day trial, which we extended to 60 days trial. And we have started to convert those providers into a paying client. So revenue generating client. At the same time, some of these additional features we were able to launch during this quarter, which is chart summary.
+
+Think about it, if you go and look at the one of the patient chart, there could be 50 different prior visits over the last three years. So you expect the doctor will be, the doctor expect to go through each one of those to understand, okay, this is I need to remember all of this before I take an action or decide about the next course of action for the patient. Now, with the help of the AI, everything gets summarized over the last 10, 15 different visits and it helps the doctor on one side not to miss any critical information and also saving them significant time.
+
+So all of this together for some of those, we have added it as part of the regular flow because there is no point of charging separately because it's going to bring on -- bring in the overall value. The for charging, yes, we started to charge. There is a revenue as I mentioned is a modest revenue.
+
+The overall client base were using front end, the front AI features has gone over roughly 1,000 plus -- I'm sorry, 100 plus users, but not all of them are paying. They are subset of those which are paying and other subset which is still in trial. And the other subset which will not be paying.
+
+Allen Klee
+Analyst, Maxim Group LLC
+Great. Thank you. And moving on to medSR, I think you mentioned it was around $4.3 million of revenue during the quarter. I know it's kind of hard to forecast this, the nature of the business, but is there anything from what you're hearing from your pipeline and stuff that gives you a sense that this might be bottoming or has a potential for growth in the future?
+
+A. Hadi Chaudhry
+Chief Executive Officer & Director, CareCloud, Inc.
+Okay, now great, let me just take this opportunity to zoom out and just to remind everyone that how did we get to this point in terms of the overall revenue and from the medSR standpoint? So when we acquired medSR in second quarter of 2021, it was doing about $32 million in professional services revenue. And we bought medSR at about 30% to 35% multiples of revenue. So great price in terms of buying this company.
+
+The narrative behind us was, one is the revenue and the second, how we can leverage these relationships and try to upsell into the hospital space. About 60%, 55% to 60% was Epic related professional services revenue and balance was from different consulting services from other EHRs with smaller portion of the market. And if you think about it, this Epic challenge, which is if you think you can call it like 800 pound gorilla in the hospital space is over 55% to 60% on the basis of the hospital beds are roughly in that number, the market share.
+
+Post-acquisition, they became increasingly paranoid that we may be trying to compete with them and begin erecting roadblocks for us and then really prohibiting us altogether from supporting the client. So we cannot from that point onward service any of the Epic clients. We respect their decision.
+
+It's their business decision what did they. In retrospect for us, our mistake was, we took, it took too long for us to respond and we did not cut to realign our expenses because there was still some light of hopes that we may be able to convince them on the point that we are not competing with them or there were some activation probability, but none of them really got materialized. So if you think about that, take the Epic down that hit us about somewhere between $18 million to $20 million.
+
+So if you think about our top revenue from $137 million, $138 million, you take out that $20 million just because of the direct Epic impact coming from medSR. And then there were a number of others. If you take that the similar Epic, the other some of the large clients that we lost, part of that challenge or issue was again the Epic related that we cannot service those clients at all.
+
+And I apologize for the long answer to your question, but I just, I was just trying to put the things in perspective. I think this and if you look at it, it will continue to be a challenge for us in terms of exactly predicting how much revenue each quarter we will be driving. Only one point I can tell you, we are entering into we hope to enter in 2025 almost with the same booked and backlog business as what we entered into the last year. But there's is not, that does not mean that it will, we will hit the same number in the next year and we will keep everyone up to date as we get close to the end of the year and get the guidance for the next year. [Operator Instructions]
+
+Operator
+We have a follow-up question from Allen Klee of Maxim Group. Please go ahead.
+
+Allen Klee
+Analyst, Maxim Group LLC
+Yeah, hi. I have a couple more questions. I got cut off. In the past, you've provided that you've identified $26 million of potential expense cuts, of which $20 million you hope to make happen in 2024 and the rest in 2026. I'm not sure if I saw that on this call, but do you still feel comfortable with that or is there any reason why it might be more or less?
+
+Stephen Andrew Snyder
+President, CareCloud, Inc.
+Good morning, Allen. Great question. We still feel very comfortable with that $26 million number and overall cost rationalization is still the right number to be thinking about. And that really that number, of course, relates to all the expenses that we've been able to cut since the beginning of this exercise through the end of the year. So we have another month and a half, two months still to go.
+
+And we believe that we will hit that $26 million number by the end of this year. And of course, you won't see all the positive impact in our financials for this year. But you will see you will see that entirety of that impact as we progress into next year.
+
+Allen Klee
+Analyst, Maxim Group LLC
+Is there a way to think of how much we see this year of the $26 million?
+
+Stephen Andrew Snyder
+President, CareCloud, Inc.
+Yes. And I think if you think about probably the $20 million number is probably the right number to think about, so that there's still some additional benefit we'll see in the upcoming year. And again, if we kind of step back for a moment, how did we get here? How do we accomplish those cuts?
+
+We really accomplish those cuts through -- those expense reductions through three main avenues. One was one has been utilizing our proprietary technology, our AI in order to perform the same tasks that we are performing before on a manual basis with the use of technology. Kind of a second key component of those overall reductions relates to taking work that was being handled by outside third parties and bringing that work in-house.
+
+And then not only has the benefit of reducing the expenses, but also has the benefit of giving us more control from an end to end perspective with regard to that overall responsibility and discharging those responsibilities. And a third key basis or way that we were able to accomplish this really comes through kind of recognizing the fact that we have this powerful global business model and then fully utilizing that global business model to further reduce costs. And but the overall number is right that you say, which is $26 million.
+
+Allen Klee
+Analyst, Maxim Group LLC
+Thank you. That's helpful. You guys commented on remote patient monitoring as an opportunity. Could you give some color on where kind of how it performed this quarter and where how you think about the outlook or pipeline for this in the future?
+
+Stephen Andrew Snyder
+President, CareCloud, Inc.
+Sure, we'd be happy to, for sure. And from an RPM perspective, one of the things to think about, Allen, is we've actually launched our own RPM solution in-house. We were partnering before with a third party who was helping us with RPM.
+
+So we've launched our own in-house solution. And we're really excited by that because of the margin. The margins will be significantly different.
+
+And we think we'll be far more capable of being able to meet our clients' needs and to deliver the results that they'd like to be able to deliver through RPM. So if you think about the overall number, maybe Hadi or Norm can jump in in terms of the four year number for this year. From RPM, CCM perspective, the digital health.
+
+Norman Roth
+Interim Chief Financial Officer & Corporate Controller, CareCloud, Inc.
+So just, if we want to break it up between Chronic Care Management and RPM. So, for the nine months in 2024, we did 2.2 million of Chronic Care Management and then 544,000 in Remote Patient Monitoring. So it's about [ph] 2.7 million to 2.8 million (00:43:22).
+
+Stephen Andrew Snyder
+President, CareCloud, Inc.
+And Allen, if you think about it again, as we've been saying since the very beginning of the year, certainly during 2024, our North Star has been generating free cash flow. That's the reason, of course, we're able to fully satisfy the Silicon Valley Bank obligation and have that be zero today as we as we stand there in the fourth quarter. That's the reason why we feel very confident to be able to say that we're going to be resuming dividends in the first quarter of next year, because we believe from an expense perspective, we have an expense model that that that that lays the foundation for continued growth as we go into this next year.
+
+So whether it be RPM or CCM or force or leveraging AI across our entire platform, we're excited about that.
+
+Allen Klee
+Analyst, Maxim Group LLC
+Thank you. Just a follow-up. You've mentioned that you brought the RPM solution in-house. I assume you mean RPM and CCM. Does -- when did that happen?
+
+Stephen Andrew Snyder
+President, CareCloud, Inc.
+So it's actually just RPM at this point in time, because RPM really gives us the ability to utilize our core technology strength. Coupled with the support that's provided together with that core technology strength and to leverage that core technology strength to the benefit of our clients. And that we just launched that within the last 30 days.
+
+So we're we have we have a team that we've built in house. We're managing that out of our Miami office. And we expect great things ahead in the year ahead.
+
+Allen Klee
+Analyst, Maxim Group LLC
+Thank you. My last two questions are a little bit related to models. And if you want to take it offline, that's fine.
+
+But what they were was how to think about is capitalized software an area where going forward that might be at a lower run rate? And then just wanted to understand what you paying off of your line and reducing it to 10 million. What does that imply?
+
+But you have to pay like a I don't know what the word is, maintenance fee just for having even if you don't draw what would be the. The expense related to that. Thank you.
+
+A. Hadi Chaudhry
+Chief Executive Officer & Director, CareCloud, Inc.
+Allen, I think we can find a specific answer right now, but we can get into the more details offline over a call, if that's if that makes sense.
+
+Allen Klee
+Analyst, Maxim Group LLC
+Okay, great. Well, thank you so much. And congrats on everything you've accomplished. I was told by people that when companies stop paying their dividends, like they almost never resume them on the preferred. So you guys really stand out on everything that you accomplished. Very, very impressive discipline. So congrats.
+
+Stephen Andrew Snyder
+President, CareCloud, Inc.
+Allen, we really appreciate that and we really appreciate the support, your support and supportive of all of our analysts who continue to recommend CareCloud. And we've heard the same thing. I don't know whether it's necessarily true, but at the at the point in time when we stopped the dividends, we were told by bankers there's a 1% chance that you'll ever resume dividends.
+
+And they kind of wrote us off. So much like that, much like our IPO, which that which was given about a 0% chance of being successful. We're excited to be able to defy the odds and really thankful for all the support.
+
+And to your point, Allen, if you think more broadly, just for a moment about the dividends and maybe that kind of brings into maybe clearer focus the preferred the preferred the Series A preferred changes. Maybe if we kind of think about that, if you don't mind, I'll just take a minute and we'll kind of walk through those changes. Obviously, you're very familiar with them, Allen, but I'm not sure that our investors or broadly have the same familiarity with those.
+
+So maybe we'll just kind of walk through those changes. What were the changes? And why do the changes matter?
+
+Why do they benefit or how they benefit the shareholders? Those three changes were, first of all, changing the change of control provision. So what that really means is that we provided protection for the Series A shareholders, giving them the right to have their shares liquidated at $25 per share in the event of a change of control.
+
+So the benefits, certainly to the Series A shareholders are pretty clear. It really ensures that the A's can't be left outstanding against their will for change of control. It gives them essentially the same protection that has been afforded to the Series B shareholders.
+
+It puts them on an equal playing field with the B's. That's the first change. The second change was really equalizing the dividends and equalizing the dividends at 8.75% going forward, 8.75%. And if we kind of just think about that, that essentially equates to about a $2.5 million savings for the company, which from a Series A and Series B perspective, that, well, to put it in perspective, that's about the amount of the overall dividends for the Series B. And more broadly, if to put it in perspective, what it enables us to do and has enabled us to do is to more quickly be able to resume dividends because the overall dividend burden has been somewhat reduced. And if you're a common shareholder, as a common shareholder, and again, almost 40% of the shares of Common are owned by insiders, so you can feel very comfortable as a common shareholder that we're acting in full alignment with your best interests. But as a common shareholder, it preserves additional capital to reinvest in the business.
+
+And finally, the third thing is there's an exchange feature that the shareholders approve. And all these changes in terms of the affirmative vote were approved by almost 90% of those who voted. So I think there's a really clear understanding amongst the shareholders that these changes are overwhelmingly favorable to the company.
+
+But the exchange feature really enables the company at the appropriate point in time to exchange shares of Series A preferred stock for common stock at the $25 redemption price. And if you think about the overall preferred shares, just from an A perspective, the real number probably to think about is it's probably a $27.50 type share because there are accrued dividends that are associated with that share. So again, the benefits with regard to the exchange are across all the shareholders.
+
+It's like having children, you don't like to pick your favorite and for us, we really tried to keep that in mind when we were fashioning the proposed changes. So why does that matter? Why is that beneficial to shareholders?
+
+Well, for all shareholders and for the company, the cost if we were to move ahead or to raise capital and do a secondary offering, for instance, in order to be able to redeem the shares, the cost of capital together with the discounts associated with it would generally be about 30%. And if you think about the $115 million roughly in preferred A that's outstanding, that would be $35 million. So by having that exchange feature in place, we have the ability just in terms of the preferred A to save all shareholders about $35 million.
+
+That would be our estimate. And again, I think one thing to keep in mind with regard to the exchange, with regard to all these changes is the significant ownership, inside ownership interest that there is in terms of the common. So again, we want to thank everyone.
+
+We want to thank all the preferred, series A preferred shareholders for taking the time to understand the changes and also for their overwhelming support for those changes. Allen, I know that was a little bit kind of beyond what you had asked about, but do you have any other questions?
+
+Allen Klee
+Analyst, Maxim Group LLC
+I mean, I don't have a public opinion on the preferreds. I cover your common stock. I have a personal opinion it's one of the most compelling investments of anything in the market right now. You may want to -- I don't know if you're interested just walk through to investors like what they get from a potential return if they invest in them. I guess I don't know if that's the focus of this call, but.
+
+Stephen Andrew Snyder
+President, CareCloud, Inc.
+No, no, I appreciate the comments, whether it be the A or the B or the common 100% agree the thesis for investing in any of them we think is a pretty compelling thesis. So we appreciate your comments for sure. So.
+
+Allen Klee
+Analyst, Maxim Group LLC
+Thank you.
+
+Stephen Andrew Snyder
+President, CareCloud, Inc.
+Well, very good. Maybe over to Norm.
+
+Norman Roth
+Interim Chief Financial Officer & Corporate Controller, CareCloud, Inc.
+Okay. I think that will conclude our call today. So thank you, everyone, for attending and have a great day.
+
+Stephen Andrew Snyder
+President, CareCloud, Inc.
+Thanks, everyone.

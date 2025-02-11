@@ -1,0 +1,332 @@
+Thank you, operator. And welcome to Inari's conference call to discuss our third quarter 2024 financial performance. Joining me on today's call are Drew Hykes, President and Chief Executive Officer; and Kevin Strange, Chief Financial Officer.
+
+This call includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Statements made on this call that do not relate to matters of historical fact should be considered forward-looking statements, including statements related to Inari's estimated full year 2024 revenue, operating loss or profitability expectations, and the expected operating performance and potential strategic benefits of LimFlow.
+
+These statements are based on Inari's current expectations, forecasts and assumptions, which are subject to inherent uncertainties, risks and assumptions that are difficult to predict. Actual outcomes and results could differ materially from any results, performance, or achievements expressed or implied by the forward-looking statements due to several factors. Please review Inari's most recent filings with the SEC, particularly the risk factors described in our latest Form 10-K for additional information.
+
+Any forward-looking statements provided during this call, including projections for future performance, are based on management's expectations as of today. Inari undertakes no obligation to update these statements, except as required by applicable law.
+
+On today's call, we will refer to both GAAP and non-GAAP financial measures in announcing our Q3 2024 results. Please refer to today's press release for a reconciliation of the non-GAAP measures discussed on this call and referred to in the release. The press releases and slides accompanying this call are available on our website at inarimedical.com.
+
+A recording of today's call will be available on our website by 5 PM Pacific Time today.
+
+And with that, I'll turn the call over to Drew Hykes, President and Chief Executive Officer.
+
+Andrew J. Hykes
+President, Chief Executive Officer & Director, Inari Medical, Inc.
+Thank you all for joining our call today.
+
+In Q3, we continue to drive strong adoption of our therapies, resulting in record revenue of $153.4 million and 21% year-over-year growth. Based on our year-to-date progress, we're pleased to raise our full year revenue guidance and reaffirm our expectations to reach sustained operating profitability in the first half of 2025.
+
+Before proceeding, I'd like to formally welcome Kevin Strange, our new CFO, to today's call. With over 15 years of experience, including over four years here at Inari, Kevin brings tremendous expertise, judgment and leadership to our C-suite. He has also shown a steadfast commitment to our mission and patients.
+
+Additionally, I'd like to thank Mitch Hill for his contributions. As a reminder, Mitch will remain with Inari through early January as we continue the transition.
+
+Turning back to our quarter results. We drove strong performance across the entire Inari portfolio, including at our market leading PE and DVT therapies and in our Emerging Therapies portfolio. We also delivered robust growth in our International business. As we advance into the fourth quarter, we are as excited as ever about our leading position in large and underserved vascular markets. This is especially true as we await the presentation of PEERLESS data at the TCT Symposium tomorrow. We believe this presentation marks the beginning of a golden era of randomized controlled data focused on thrombectomy for patients suffering from VTE.
+
+In Q3, our global VTE revenue was $145.3 million, up 19.7% versus the prior year, underpinned by our commercial expansion and market development efforts. During the quarter, we saw stable underlying market and share dynamics. The market for US VTE procedures remained significantly underpenetrated; and as the market leader, we continue to expect to drive robust growth and adoption of mechanical thrombectomy for years to come.
+
+Our VTE focused sales force, the largest in the industry, continues to mature as we hire reps and split territories at a measured pace. The team is making progress in helping their hospital customers build VTE Excellence programs, to help ensure that each patient diagnosed with the DVT or PE is given consideration for interventional therapy. We are excited that a substantial opportunity remains ahead, and we look forward to continuing to drive higher adoption and penetration across our account base.
+
+Turning to our clinical work. We are proud to usher in the golden era of randomized controlled trial data in VTE through the presentation of our PEERLESS data tomorrow. As a reminder, PEERLESS is the first of our three major RCTs to complete enrollment. PEERLESS was designed to evaluate patient outcomes using FlowTriever as compared to catheter directed thrombolysis. As a reminder of the patient population addressed by this study, we believe the annual incidence of intermediate high-risk PE is approximately 280,000 patients, all of whom are eligible for mechanical thrombectomy with FlowTriever. Of these patients, today, we believe only 15% to 20% or about 50,000 patients annually receive any type of catheter-based intervention. We estimate that of those 50,000, about one-third or 15,000 patients are still being treated with catheter directed thrombolytics. Based on our ASPs, we therefore see roughly a $150 million opportunity to convert the remaining catheter directed thrombolytic procedures to mechanical thrombectomy with FlowTriever. Of course, this is alongside the opportunity to continue to convert the 80% of patients still being treated by conservative medical management with anticoagulation alone.
+
+Should tomorrow's data be positive, over time we would expect many more patients to receive mechanical thrombectomy treatment with our FlowTriever device due to its unique large-bore aspiration technology and blood return capability.
+
+Data from the trial will be presented at TCT by Dr. Wissam Jaber, Professor of Medicine at Emory University School of Medicine, during the Late-Breaking Clinical Trial Session at 11:44 AM Eastern Time tomorrow. I look forward to talking with many of you on site, and hope many of you will also join us for our PEERLESS discussion happening at 2 PM Eastern Time tomorrow, following the Late-Breaking Clinical Trial session.
+
+Beyond PEERLESS, we're making progress on enrollment in our two other currently active RCTs, both of which compare our products to conservative medical management. PEERLESS II comparing FlowTriever to anticoagulation alone in PE, and DEFIANCE comparing ClotTriever to anticoagulation alone in DVT. We believe our investment in these studies will further advance the field, change guidelines, extend our leadership position, and ultimately change the standard of care in VTE away from conservative medical management to frontline treatment with FlowTriever and ClotTriever.
+
+Turning to our global Emerging Therapies business. In Q3, we delivered over $8 million in Emerging Therapies revenue, up 64% versus the prior year. We expect Emerging Therapies to deliver a strong finish to the year, with several Q4 catalysts already in place and still others coming soon. Years of purposeful investment in this segment has led to the addition of four distinct patient populations outside of VTE, together comprising a $4 billion TAM in the US alone
+
+In our chronic venous disease portfolio, we continue to advance the adoption of VenaCore, following our full market release earlier this year. As a reminder, physicians are using VenaCore as both a tool to treat CVD, and in certain cases to augment treatment in DVT. The addressable market in CVD includes an annual incidence of approximately 100,000 patients, representing a $1 billion US TAM and a substantial prevalence pool of over 1 million patients.
+
+CLTI also remains an exciting opportunity for us. LimFlow offers new hope for the 55,000 patients per year suffering from no-option CLTI, translating into a $1.5 billion US TAM.
+
+I am pleased to report that our US launch is progressing well. As we formally anniversary the addition of LimFlow to Inari, we're making great progress. As of the end of Q3, we have received VAC approvals in over 50 of the approximately 200 high-volume limb salvage centers of excellence that comprise our early launch target. We look forward to supporting initial procedures and growth over time across these and more centers.
+
+In addition, we've been hard at work to iterate on the first generation LimFlow system, as is the Inari way. Early in the quarter, we received PMA approval from the FDA for our next-gen stent delivery system, and I'm happy to share that we are now in limited market release. We look forward to beginning the broad commercialization of this key component in 2025.
+
+Continuing with our work on LimFlow, I'm pleased to highlight that the NTAP proposed earlier this year for LimFlow procedures performed in the inpatient setting went into effect as planned at the beginning of October. Thanks to the NTAP, reimbursement for inpatient procedures has now increased by as much as $16,250. Regarding outpatient procedures, as noted on our last call, in Q3, CMS proposed to increase hospital outpatient reimbursement for the LimFlow procedure from $27,500 to $35,000, a meaningful increase. This enhanced reimbursement is relevant to the roughly 20% of LimFlow cases currently performed in a hospital outpatient setting. We expect to see the final ruling from CMS for outpatient reimbursement in the next two months.
+
+In acute limb ischemia, I'm pleased to share that we recently received 510(k) clearance for our next gen Artix System and have commenced a limited market release. This product serves a $600 million US TAM, characterized by tremendous unmet needs and a lack of purpose-built tools. Artix will not only address patients who would have been treated surgically, but we believe this second-generation device improves upon other repurposed endovascular platforms. We plan to commence a full market release later in Q4.
+
+Our final Emerging Therapies market addresses the treatment of AV fistula clots using our InThrill device. Based on physician feedback, we're working on a second-generation InThrill platform, and we look forward to bringing it to market next year.
+
+As evidenced by the great progress made year-to-date, we're confident our Emerging Therapies business can one day account for at least 20% of Inari revenue.
+
+Finally, I would like to discuss another record quarter in our International business. Revenue of $11.5 million was up 76.4% versus the prior year. Strength was primarily driven by adoption of our solutions in Europe. In LatAm, we recently received regulatory approval for FlowTriever in Brazil and are in the early stages of our launch in that market.
+
+We're also making continued progress on our expansion efforts into both China and Japan. In China, we've been hard at work for two years to gain regulatory clearance for ClotTriever and FlowTriever. Of late, in conjunction with the National Medical Products Administration, we ran a 25-patient study for ClotTriever in China. We're excited that we've recently completed that study and have submitted the data to the NMPA. We're now finalizing our go-to-market strategy, and we'll have more to share about that by year-end.
+
+Turning to Japan, we're pleased to announce we've obtained PMDA regulatory approval for our ClotTriever device, and are seeking reimbursement approval later in Q4. Looking ahead, our next step in Japan will be in the form of a post-market study of approximately 100 patients, supported by our recently established distribution agreement in Japan.
+
+In conclusion, we're excited about the progress we're making internationally, and expect total International sales to one day account for at least 20% of Inari revenue. Before turning things over to Kevin, I'd like to highlight, as we always do, a patient story that demonstrates the impact of our technology and highlights the kind of patient that makes the PEERLESS study so relevant.
+
+A 58-year-old woman in Louisiana was admitted to her local hospital, where she was determined to have an intermediate risk pulmonary embolism with large clot burden. Her physicians were familiar only with the EKOS thrombolytic procedure. Despite 11 hours of a lytic infusion in the ICU, her improvement was only marginal. Given that she had completed the recommended treatment, she was discharged home with the hope that she would recover on oral anticoagulation. Unfortunately, that same evening she was taken to a different hospital with persistent symptoms of trouble breathing and passing out. Her CT scan showed no change in her clot from before. This hospital, with the assistance of Inari Medical, had developed a comprehensive PE thrombectomy program and had several physicians well versed in using the FlowTriever system. In a short 45-minute procedure, the patient had all of the acute and chronic thrombus removed from her lungs. The FlowSaver device was successfully used to safely return 600 CCs of the patient's own blood back to her. She was discharged home the following day and has since recovered completely.
+
+This case highlights the limitations of catheter directed thrombolytic therapy, primarily incomplete thrombus resolution and ICU length of stay. The case also points to the need to educate more physicians about the benefits of FlowTriever, which include immediate symptom relief, rapid heart recovery, and short length of stay. These benefits are directly attributable to the FlowTriever system's unique mechanism of action, which offers both best-in-class thrombectomy and the safety of blood return. Our PEERLESS study will directly address the thousands of patients like this one.
+
+With that, I will now turn the call over to Kevin.
+
+Kevin T. Strange
+Chief Financial Officer, Inari Medical, Inc.
+Thanks, Drew.
+
+Turning to our third quarter 2024 results. Inari's revenue for the third quarter of 2024 was a $153.4 million, up 21.4% over the same period of the prior year. This represents sequential growth of over $7.6 million. Global VTE revenue in the third quarter was a $145.3 million, up 19.7% over the same period of the prior year. Global Emerging Therapies revenue in the third quarter was $8 million, up 64% over the same period of the prior year. International revenue of $11.5 million was up 76.4% compared to the prior year.
+
+Our best-in-class gross margin was 87.1% for the third quarter of 2024, compared to 88.5% in the prior year period. The year-over-year change was due to product mix, the ramp-up costs associated with new products, and increasing internationalization of the business. Sequential gross margins improved by 80 basis points over Q2 2024.
+
+Operating expenses were $147.1 million in the third quarter of 2024, compared with a $109.8 million for the same period in the prior year.
+
+R&D expense was $29.4 million in the third quarter of 2024, compared with $21.5 million for the same period of 2023. The increase in R&D expenses was primarily due to a one-time non-cash impairment charge associated with previously capitalized software development costs, increases in personnel- related expenses, clinical and regulatory expenses.. We anticipate R&D expense as a percentage of revenue to decrease sequentially in the final quarter of 2024 to a level similar to that of Q2.
+
+SG&A expense was a $108.3 million in the third quarter of 2024, compared with $85.6 million for the same period of the prior year. The increase in SG&A expense was primarily due to increases in personnel-related expenses as a result of increased head count and increased commissions, share based compensation, legal, marketing, and other admin expenses. As anticipated, SG&A as a percent of revenue moderated closer to the level we saw in Q1. We anticipate SG&A expense as a percentage of revenue will further decrease in the final quarter of 2024.
+
+In the third quarter of 2024, the change in our fair value adjustment of our contingent consideration liability was $6.6 million as our LimFlow business continues its exciting progress. Amortization expense related to the acquired intangible asset was $2.5 million, and acquisition-related expenses were $0.3 million. In the third quarter of 2023, we had acquisition-related expenses of $2.7 million. Inari reported a GAAP operating loss of $13.6 million in the third quarter of 2024, compared with a GAAP operating income of $2.1 million for the same period in the prior year. On a non-GAAP basis, which excludes acquisition-related expenses, acquired intangible asset amortization, changes in the fair value of our contingent consideration, and impairment of capitalized software and related costs, the third quarter operating loss was $0.4 million. The non-GAAP adjustment included $2.7 million related to acquisition-related expenses in the third quarter of 2023.
+
+Net loss was $18.4 million for the third quarter of 2024, compared to a net income of $3.2 million for the same period of the prior year. The basic and fully diluted net loss per share for the third quarter of 2024 was $0.31 on a weighted average, basic and diluted share count of 58.4 million. This compares with a basic and fully diluted net income per share of $0.06 and $0.05 on a weighted average basic and diluted share count of 57.4 million and 58.6 million, respectively, in the same period of the prior year.
+
+As we execute against our goals of driving strong growth and leverage within the business, we are also maintaining a thoughtful approach to managing our balance sheet. In the third quarter of 2024, our cash flows provided by operating activities were $1.9 million. We look forward to driving improvement in this area going forward.
+
+At the end of the third quarter, we held a healthy balance of cash and investments totaling $111.6 million. We remain confident in our ability to self-fund our business and strategic objectives with our current cash and access to liquidity. We anticipate our cash balance will remain above $100 million for the duration of the year.
+
+Turning to our 2024 outlook. We are raising our full year 2024 revenue guidance to $601.5 to $604.5 million, an increase of $3.5 million at the midpoint of our prior guidance range, reflecting growth of 22% to 22.5% over 2023. Our guidance reflects contributions from all three of our growth pillars; VTE, Emerging Therapies, and International.
+
+Lastly, I would like to comment on Inari's progress towards profitability. We are continuing to invest in our strategic objectives to drive growth, while remaining fully committed to achieving sustained operating profitability. Looking ahead, we will continue to strengthen our profitability profile and feel very confident in delivering on our commitment to sustained GAAP operating profitability in the first half of 2025. We also anticipate roughly breakeven GAAP operating income in Q4 of this year.
+
+With that, I'll turn the call back to the moderator for questions. For the Q&A segment, we will be joined by Dr. Tom Tu, Inari's Chief Medical Officer.
+
+Question And Answer Section
+Operator
+We will now begin the question-and-answer-session. [Operator Instructions] Again, we ask that you please limit yourself to one question and one follow-up on today's call. At this time, we will take our first question, which will come from Kallum Titchmarsh with Morgan Stanley. Please go ahead.
+
+Kallum Titchmarsh
+Analyst, Morgan Stanley & Co. International Plc
+Yeah. Thanks for taking the question, guys. Just wanted to get your views on core VTE market health as we push into 2025. Right now, I think the street modeling US VTE revenue growth in the low to mid-teens, which kind of lags that 18% to 22% you've called out previously. So, I would just appreciate any sense of how you're thinking about the core market next year and the moving parts we should keep in mind as we refine our models. Thanks.
+
+Andrew J. Hykes
+President, Chief Executive Officer & Director, Inari Medical, Inc.
+Yeah. Thanks for the question, Kallum. I can get started on that. And Kevin and Tom may want to join in as well. But I think you heard in the prepared remarks, our view in Q3 was that the market was stable with what we've seen earlier in the year, stable underlying market dynamics, stable share dynamics as well. Our VTE business globally grew 20% in the quarter, a little faster than that. OUS was slower than that here in the US. But suffice it to say, we see a long runway for continued robust growth within VTE, and we're going to keep investing in the areas that are going to drive that growth; in purpose-built technology, in high-quality data, including RCT data starting tomorrow morning with PEERLESS. With continuing to invest in our commercial footprint and our market development efforts under VTE Excellence, all of that gives us confidence that there's a long runway here, given how early that we are in inflecting this market away from conservative medical management to mechanical thrombectomy with FlowTriever and ClotTriever front line.
+
+Kallum Titchmarsh
+Analyst, Morgan Stanley & Co. International Plc
+Great. And then just on LimFlow, obviously you mentioned you got the NTAP in play now. So, what kind of uptick in procedure demand are you anticipating here? Or just any color of what you've seen so far in October would be really helpful because I think Emerging Therapies maybe missed our estimates slightly in Q3. So, just appreciate any kind of sense of the growth algorithm for this part of the business as we exit the year and push into 2025. Thanks a lot.
+
+Andrew J. Hykes
+President, Chief Executive Officer & Director, Inari Medical, Inc.
+Yeah. Thanks, Kallum. I can get start on that one as well. So, LimFlow was an important part of the growth we saw in Emerging Therapies in Q3. It grew 60-some-percent year-on-year. We did see some roughly flat sequential growth in Emerging Therapies. But LimFlow within Emerging Therapies did grow sequentially Q2 to Q3. We're coming up on a year anniversary with LimFlow, and we are very pleased with the early commercial ramp. We had always viewed 2023 -2024 rather as a foundation building year with LimFlow. And I think that's largely the work we've accomplished. We've strengthened the supply chain, we've gotten the team aligned and organized. We, of course have gotten NTAP and [ph] NUTEC (00:32:55) both in place for enhanced reimbursement.
+
+NTAP, as you mentioned, went online October 1, and that will further enhance what was already a pretty attractive economic value proposition. So, we're seeing nice growth with LimFlow month after month, quarter after quarter, and we anticipate that growth certainly to continue next year with the foundation that we've established here in 2024. And we're going to leverage that foundation to really have a strong, really first commercial year in 2025 with LimFlow. And clearly, the NTAP is going to provide a nice tailwind for those efforts.
+
+Operator
+And our next question will come from Marie Thibault with BTIG. Please go ahead.
+
+Marie Thibault
+Analyst, BTIG LLC
+Good evening. Thanks for taking the questions. And congrats on a nice quarter. Wanted to ask here a little bit about what's assumed in your Q4 implied guidance this year. Certainly, [indiscernible] (00:33:56) 2025 growth drivers. But want to understand, could PEERLESS have an impact or any of these kind of new LMR devices built in? What's kind of assumed in the Q4 guide?
+
+Kevin T. Strange
+Chief Financial Officer, Inari Medical, Inc.
+Yeah. Thanks, Marie. This is Kevin. I can jump in on that one. Look, I think overall, we feel good about the performance of the business in Q3 growing 21.4% and the overall strength of the business here heading into the midyear growing 22% year-to-date. We feel like the ways that we [indiscernible] (00:34:33) here throughout the year, a $15 million at the midpoint, really drives where we want to be towards the end of the year. And that's really reflective of the confidence that we have in the business overall. There are obviously some moving pieces here that we've got heading into the end of the year, with Artix just coming online now. We've got PEERLESS, that's going to be rolling out here shortly, and we've got LimFlow, of course, that's going to be coming online with the NTAPs. But overall, I think the confidence here is reflected in the $3.5 million raise at the midpoint, and we feel good about the guidance raise here at 22% for the year.
+
+Marie Thibault
+Analyst, BTIG LLC
+Sure. Absolutely. That's really helpful, Kevin. Maybe my follow-up here on sort of the international market development, you have China and Japan coming online, hopefully. Certainly, it sounds like you've been doing well in several other countries. Can you talk to us a little bit about some of the catalysts we should watch for internationally in 2025? Thanks so much for taking the question.
+
+Andrew J. Hykes
+President, Chief Executive Officer & Director, Inari Medical, Inc.
+Yeah. Thanks for that, Marie. I think as you look out in 2025 with International, I think first and foremost, we're anticipating continued robust growth out of Western Europe. That region has been leading the way internationally. I would anticipate they will continue to do so in 2025. We've got a nice footprint established in Europe. We've got enhanced reimbursement established in a number of European markets; Germany, France; and I think all of that is going to continue to drive robust growth out of Europe in 2025.
+
+Alongside that, I think in 2025, we're going to see more meaningful contributions from growth from the other international markets. And there's maybe 12 or 15 other markets across Asia Pacific and Latin America where we've got regulatory clearance, we've got a commercial presence established, and we're now in a position to drive more meaningful growth. So, I think you're going to see those markets contribute alongside the European markets.
+
+And then finally, as you've heard us talk about, we've been hard at work to get onto the market in both China and Japan. We're very close in both of those. You heard some of the recent progress in China. We have completed 25-patient study in market which we've submitted to the NMPA. In Japan, we do have regulatory clearance now for ClotTriever, and are finalizing reimbursement in Japan. So, we've made some nice progress. And I think looking ahead to 2025, I think both China and Japan will help contribute. We're going to have to ramp in those markets, just like you've seen us undertake in other markets. But I think clearly getting into those large Asian markets and beginning to do the work we need to do will be another part of the growth in International next year.
+
+Operator
+And our next question will come from David Rescott with Baird. Please go ahead.
+
+David K. Rescott
+Analyst, Robert W. Baird & Co., Inc.
+Great. Thanks for taking the questions. And congrats on the quarter here. I wanted to ask a little bit about maybe just your high level thoughts on the way you're thinking about PEERLESS. I know we'll get some better details on that pretty soon, but just wanted to think should the results there bear out to be positive in the way that you're expecting? What level of investment do you think you could put behind this to either sustain the growth you have, maybe try to pull some [indiscernible] (00:38:02) growth? How should we just start to think about that? And again, appreciate we'll have more details once the results are out.
+
+Andrew J. Hykes
+President, Chief Executive Officer & Director, Inari Medical, Inc.
+Yeah. Thanks for the question, David. As you can tell, we're very excited to bring the PEERLESS data to light. This is the first RCT in the pulmonary embolism space in about 10 years. So, I think we're also excited to really raise the bar in terms of meaningful endpoints that patients and physicians and hospitals care about. As far as resourcing this, we anticipate a lot of marketing activity, not just intense around the time of the announcement, but also sustained because I think, as you heard in the prepared remarks, there's still a lot of unmet need. We think a third of patients in the US who get intervention for PE are getting CDT, and I think that is a large opportunity to improve patient care and also drive revenue.
+
+David K. Rescott
+Analyst, Robert W. Baird & Co., Inc.
+Okay, thanks. And maybe on LimFlow, I heard some of the comments already there. I'm curious from the accounts that you're in, maybe if you could give us a sense for, I guess, one, relative to the goals you made earlier this year around the number of contribution, maybe where you stand today? And then for those accounts that you are already in, any color on what those accounts look like as it relates to monthly procedures, the reorder rates? Anything there would be helpful. Thank you.
+
+Andrew J. Hykes
+President, Chief Executive Officer & Director, Inari Medical, Inc.
+Sure, David. I can try and answer those. So, you heard in the prepared remarks that we've now gained access to over 50 initial accounts, and that is part of that initial group of 200 high-volume limb salvage centers of excellence. So, we're making nice progress here out of the gate and in 2024. We're probably a little ahead even of where we had expected to be at this point in terms of account opening. So, we feel pretty good about the commercial ramp to-date. We've got work to do from a market development standpoint. That is work we knew we were going to have to undertake, and that's work we're actively chipping away at as we speak. These are patients that are not being cared for, in most cases by interventionalists. These are patients that are being cared for in wound care and podiatry, and in some cases even out in the community with GPs. So, we've got work to do to help identify those patients and get them in front of a physician that can really assess whether or not LimFlow is a new option for those patients.
+
+So, that's work that we knew we would be focused on. And sure enough, that is exactly where our team is spending time, understanding what that work looks like, what we need to do, what barriers we need to knock down. But suffice it to say, we like the progress we made to-date. Tons more work ahead of us, but so far so good in what we've seen today from a commercial standpoint.
+
+Operator
+And our next question will come from Chris Pasquale with Nephron Research. Please go ahead.
+
+Chris Pasquale
+Analyst, Nephron Research LLC
+Thanks. A couple of questions on Artix. It's exciting to see that product back in the market. Just curious how you're going to position it in that segment relative to its strengths versus competitors' systems? And is there a particular subset of patients for whom that product is going to be a much better option than what's already available?
+
+Andrew J. Hykes
+President, Chief Executive Officer & Director, Inari Medical, Inc.
+Yeah. Thanks, Chris. I can maybe talk about some of the commercial aspects of it, and then maybe Tom can chime in on the clinical parts of your question. So, we are a week or two into the LMR. We got 510(k) clearance, maybe it's just a week ago now. So, still pretty early, but so far so good. We've got some really good feedback from the initial set of cases. As you recall, this has been almost a two-year journey to get back into the market with Artix, this next-gen platform of Artix. So, we're really excited to be back in the market. We were very intentional, deliberate about the refinements we made to the platform, and are hopeful that the second-gen platform will help address what is a pretty significant unmet need for these patients. Over half of them are still being treated with open surgical approaches, and we believe that a purpose-built tool like Artix is going to be a better option for the patients that are currently being treated with other endovascular platforms. So, still early, we need to get through the LMR as we always do, but so far so good, and it's exciting to be back in the market with Artix. Maybe with that, Tom can clean up on some of the clinical parts of your question.
+
+Thomas Tu
+Chief Medical Officer, Inari Medical, Inc.
+Yeah, Chris. So, you asked about how we might position the strengths of Artix in the market. If you recall, the acute limb ischemia market is a mature market. These patients get treated. Unfortunately, the treatments that exist currently have significant limitations, either because of open surgery or a need for multiple interventions, the use of lytics. And frankly, the aspiration thrombectomy system that is used in a lot of procedures is inadequate for removing clot and results in just [indiscernible] (00:43:24). We believe in Artix. We have a tool kit that's the all-in-one solution, that you have the best-in-class mechanical thrombectomy, best-in-class aspiration, and the results that we've seen, as you alluded to early on, but still fantastical results that just haven't been able to be achieved with the technology to-date. So, we can't wait to get more experience. And then once we get through the early phases then it really sits broadly across our customer base.
+
+Chris Pasquale
+Analyst, Nephron Research LLC
+Thanks. It's really helpful. And then just on the core VTE business, curious, any differences in trends you're seeing between the two segments there, DVT versus PE? Our sense has been the PE is continuing to grow a bit faster. Just curious if you're seeing the same.
+
+Andrew J. Hykes
+President, Chief Executive Officer & Director, Inari Medical, Inc.
+Yeah. I think that's right, Chris. You heard in the prepared remarks, pretty stable trends we saw as we move through Q3. I think that's true within PE. I think that's true within DVT. And I think our view is exactly what you shared. I think at the margin, the PE segment of the market has been growing faster on a marginal basis than DVT, and I think that was a pretty consistent trend that we saw unfold in Q3.
+
+Chris Pasquale
+Analyst, Nephron Research LLC
+Thanks.
+
+Operator
+And our next question will come from Stephanie Piazzola with Bank of America. Please go ahead.
+
+Stephanie Piazzola
+Analyst, BofA Securities, Inc.
+Hi. Thanks for taking the question. I just wanted to follow up on PEERLESS. You called out the $150 million opportunity that the data could help open up. Maybe if you can elaborate a little bit more on how quickly this revenue opportunity could come through, or how quickly you expect doctors to change practice from that data if it's positive?
+
+Andrew J. Hykes
+President, Chief Executive Officer & Director, Inari Medical, Inc.
+Great. Thanks for the question, Stephanie. And like we said, we're very excited to bring this data to life tomorrow at the TCT meeting. Mind you, even with the highly successful trial, I think it takes time for physicians to really read and comprehend the results, and then put those conclusions into practice. So, I suspect what we'll see is the continued erosion of CDT market share, and probably relegating that therapy to very niche uses. But I think the bulk of that transition is going to be a 2025 progress.
+
+Stephanie Piazzola
+Analyst, BofA Securities, Inc.
+Thank you. And maybe just to follow up, I just wanted to clarify on the US versus OUS performance in VTE. We estimate that the US VTE market grew in the mid-teens consistent with prior quarters. Is that a fair assumption? And is it still fair to assume that most of the OUS revenue is from VTE versus Emerging Therapies? Thank you.
+
+Andrew J. Hykes
+President, Chief Executive Officer & Director, Inari Medical, Inc.
+Yeah. Thanks for that, Stephanie. So, the overall growth globally for VTE in Q3 was 20%, a little bit faster than that, OUS a little bit slower than that here in the US. We don't break out specifically the US versus OUS, but that at least gives you some context around the two. And again, relatively stable trends in Q3 compared to what we've seen historically.
+
+And then finally, last part of your question. Yes, the vast majority of our revenue OUS is indeed from VTE. That will likely change over time as we work to bring some of our emerging therapies to the international markets. But today, at least the vast majority of OUS is directly attributable to VTE.
+
+Operator
+And our next question will come from Larry Biegelsen with Wells Fargo. Please go ahead.
+
+Lei Huang
+Analyst, Wells Fargo Securities LLC
+Hi. It's Lei, calling in for Larry. Thanks for taking the question. Nice quarter. My first question, Drew, at our healthcare conference last month, when you were asked about 2025, you talked about aspiring to be a 20% grower, and you're confident that will continue to be the company's target going forward. So, the question here is, are you confident that you can grow 20% in 2025? Current consensus is closer to 18% growth. And I have a follow-up.
+
+Andrew J. Hykes
+President, Chief Executive Officer & Director, Inari Medical, Inc.
+Yeah. Thanks, Lei. So, looking ahead to 2025, we are very excited about the runway that we see for continued robust growth across all three parts of the business. Within VTE, of course, we're going to be able to continue to leverage PEERLESS. As you heard Tom describe, we've got new products coming in VTE next year, continued traction work with VTE Excellence. Emerging Therapies will be a big year for us next year with Artix and full market release. With the first full year of LimFlow commercially. We've got a next-gen product coming in, InThrill. Continued traction with CVD. You heard me describe earlier the catalyst in international across Europe and LatAm and Asia Pacific and some of the new markets coming online as well. So, over the next 60 days, we will take all that into account. We'll have a chance to look at Artix in the first 60 days and PEERLESS in the first 60 days. All of that will inform our guidance that we'll roll out early next year.
+
+But to be clear, what remains unchanged is our commitment to continued premium, robust growth. That will remain our top priority in 2025. Alongside that, a second clear priority is going to be the work we're going to continue to do in path to profitability. And you heard Kevin describe some of the recent progress here even this year and our confidence looking ahead for that progress to continue.
+
+Last thing I'd point to relative to guidance next year is that philosophically, we will continue our historical approach; and we put a number out from a guidance perspective. We want to be highly confident in delivering on that number, and I think that's another part of our guidance that won't change looking ahead to next year.
+
+Lei Huang
+Analyst, Wells Fargo Securities LLC
+That's helpful. Thank you. And just for my follow up on China and Japan. [ph] If I look (00:49:49) your comments were related to ClotTriever. Is there an update on FlowTriever in those markets, and any additional color you can provide on the post-market study in Japan and the distribution agreement? Thank you for the questions again.
+
+Andrew J. Hykes
+President, Chief Executive Officer & Director, Inari Medical, Inc.
+Sure. Thanks, Lei. So, we've been working the last couple of years to gain regulatory and reimbursement approval in both China and Japan for both FlowTriever and ClotTriever. In both of those markets, for different reasons, ClotTriever had led the charge and is a step ahead of where we are at with FlowTriever. So, as we enter those markets initially, we'll be doing so with ClotTriever initially, and then following, that commercial effort will follow with FlowTriever to get regulatory reimbursement and commercial traction with the second product.
+
+The 25-patient study that I described, to be clear, was in China. That was a study that we conducted with ClotTriever in market in China with acute endpoints. We submitted that dataset to the NMPA, and that data will be part of their final regulatory assessment for China approval
+
+In Japan, as you heard us describe in the prepared remarks, we do have PMDA regulatory approval. We anticipate finalizing reimbursement approval here in Q4, and that will set the stage for us to do our initial work in Japan, which should be in the context of a 100-patient post-market study, which is a requirement from a regulatory perspective. So, that'll be the initial commercial effort within the context of that 100-patient post-market study.
+
+And maybe last thing I'd add, just to answer the question on the distribution agreement. We did enter into a third-party distribution agreement in Japan for a partner to help us commercialize ClotTriever as it comes to market here. So, that's another new update that we've provided in the prepared remarks. Thanks, Lei.
+
+Operator
+And our next question will come from Bill Plovanic with Canaccord Genuity. Please go ahead.
+
+Hey, it's [ph] Jeffrey (00:52:14) on the line for Bill. Thanks for taking the question. So, it sounds like LimFlow is progressing really well in terms of both the reimbursement and back approvals. As we adjust our models tonight, what should we expect in terms of 2025?
+
+Andrew J. Hykes
+President, Chief Executive Officer & Director, Inari Medical, Inc.
+So, you heard us describe 2024 as a foundation building year for LimFlow. That's really going to set the stage for us to drive meaningful growth out of LimFlow in 2025. And that is going to be building off the foundation of supply chain work that we've done this year, the NTAP, the team being aligned, [ph] NUTEC (00:52:52) APC coming online, all those things contributing to the growth.
+
+Within Emerging Therapies in 2025, clearly LimFlow is going to be an important part of the growth story with Emerging Therapies. I think Artix moving into FMR will be another key driver for us within Emerging Therapies. And then of course, later in the year we'll have a next-gen platform launching with InThrill. And along the way, as a backdrop, we'll continue to do the work with VenaCore and RevCore in chronic venous disease. So, lots of nice catalysts shaping up in Emerging Therapies next year. And I think the top of that list is going to be the growth we're anticipating out of LimFlow.
+
+Thank you.
+
+Operator
+And our next question will come from Michael Sarcone with Jefferies. Please go ahead.
+
+Michael Sarcone
+Analyst, Jefferies LLC
+Good afternoon, and thanks for taking my question. I guess just a follow-up on PEERLESS. Assuming tomorrow we see – or it shows what you're expecting it to show good outcomes, do you expect Inari will benefit entirely from that study, or is there potential for a class effect that could just lift mechanical thrombectomy more broadly?
+
+Thomas Tu
+Chief Medical Officer, Inari Medical, Inc.
+Thanks for the question, Mike. I don't think there's going to be a class effects attributable to PEERLESS, because I think FlowTriever is in a class of its own. Remember, the PEERLESS study randomizes FlowTriever to catheter directed thrombolysis. And when we're talking about the FlowTriever procedure, there's only one device that has the kind of efficacy for thrombectomy, as well as the safety of blood return, that is the FlowTriever System. So, I think that the results, if positive, are going to be directly assigned to the FlowTriever treatment arm. And frankly, if other companies want to try to gain benefit, they should do their own studies.
+
+Michael Sarcone
+Analyst, Jefferies LLC
+Got it. Thanks, Tom. And then just one last quick one. Can you just comment on any trends in pricing in the core US VTE market?
+
+Andrew J. Hykes
+President, Chief Executive Officer & Director, Inari Medical, Inc.
+So, Michael, I think the trends in pricing again were stable in the year. We've described in the past that pricing is a modest tailwind for us. We take price or attempt to take price as contracts come up for renewal. That was certainly the case in Q3. And then the second tailwind that we derived from a pricing standpoint is the continued conversion of accounts onto our VTE PPP pricing program, which mathematically ends up creating a bit of a tailwind. So, those are the dynamics we saw in Q3. And again, very consistent with what we have described in the past.
+
+Operator
+Our next question will come from Richard Newitter with Truist Securities. Please go ahead.
+
+Hi, good evening. This is [ph] Robbie (00:56:01), on for Rich. Thanks for taking the question. So, just two. One, I guess, on the next-gen [indiscernible] (00:56:07) talk a little bit about what the actual improvement is that makes you able to win share in that space?
+
+Andrew J. Hykes
+President, Chief Executive Officer & Director, Inari Medical, Inc.
+You're a little garbled there, but I think you're asking about the next-gen Artix system and what attributes of it gives us confidence we're going to be able to take share. Did we get the question right?
+
+Yeah. That's right. That's right. [indiscernible]
+
+Andrew J. Hykes
+President, Chief Executive Officer & Director, Inari Medical, Inc.
+(00:56:26) Tom can take that one.
+
+Thomas Tu
+Chief Medical Officer, Inari Medical, Inc.
+Yeah. Thanks for the question. We are really excited to bring Artix back to market, as you heard in the comments already. If we rewind back a year-and-a half to the first generation Artix, what we recognized was that there was a great need for mechanical thrombectomy for the acute limb ischemia market, and that obviates some of the shortcomings of both surgery, lytics and other approaches. The Artix gen 1 system was very safe, but we realized we could improve with some of the ease of use with how the components work together as well as to improve the thrombectomy results. And we believe with this new generation of Artix, which has a protection scheme to reduce distal embolization, has upgraded funnel as well as a mechanical thrombectomy platform that we're going to really realize the promise of what this technology can bring.
+
+Thanks. And then I guess my next question is on the P&L. We're all trying to kind of calibrate our models to 2025. Is there anything you'd want to point out in terms of this pathway to sustained operating profitability? It looks like R&D is taking a pretty big step down this year, but the Street hasn't stepping back up next year. Just hoping you can give us some color on the puts and takes there. Should we be thinking about where the profit drivers are coming from for next year? Thanks.
+
+Kevin T. Strange
+Chief Financial Officer, Inari Medical, Inc.
+Yeah. Thanks for the question. This is Kevin again. So, overall, look, I think we feel good about the progress that we're making on the operating income line. In Q3, you saw a $9 million sequential improvement on a GAAP basis from Q2. Excluding the one-time impairment charge that we talked about, it would have been closer to $13 million sequential improvement. We saw nice improvement on the SG&A line and general stability on the R&D line.
+
+As we talked about on the last call, SG&A, we expect it to step down to a more normalized level like Q1 and it did this quarter in Q3. So, really pleased with that. And R&D, excluding the one-time charge, was roughly in line with Q2. So, looking ahead, as we discussed in the script, we do see SG&A continue to step down in Q4 relative to Q3, and we expect general stability, if not a bit of improvement on the R&D line as well.
+
+Overall, that lands us in an area that's roughly breakeven from an operating margin perspective in Q4, which we're very pleased with, and we think we're well on our way to driving incremental operating leverage into the first half of 2025. And as you heard again in the script, we remain fully committed to driving to sustained GAAP operating profitability in the first half of 2025.
+
+Operator
+We have time for about 1 to 2 more questions on today's call. Our next question here will come from Mathew Blackman with Stifel. Please go ahead.
+
+Mathew Blackman
+Analyst, Stifel, Nicolaus & Co., Inc.
+Oh, great. Can you hear me, okay?
+
+Andrew J. Hykes
+President, Chief Executive Officer & Director, Inari Medical, Inc.
+Yeah.
+
+Mathew Blackman
+Analyst, Stifel, Nicolaus & Co., Inc.
+Okay. Thanks for taking the questions. I've got two. And, Drew, on PEERLESS, I think the quote from the prepared remarks is that if we get "a positive readout", we'll see CDT conversion. So, I guess that begs the question of what you think constitutes a positive readout if you're willing to share. And then one follow-up.
+
+Andrew J. Hykes
+President, Chief Executive Officer & Director, Inari Medical, Inc.
+Sure. Thanks for that, Matt. So, this study was purposely designed with meaningful clinical endpoint as the win-loss ratio composition. That's exactly what physicians have been asking for. We have moved past the era where surrogate endpoint we're going to inform clinical decision-making. As a result, if you look at the five components of the win-loss ratio, each of them are important for clinical decision-making. Each of them reflect important outcomes for patients. That's the design of the study, and that's what you're going to see presented tomorrow in the Late-Breaker tomorrow morning. The opportunity for us, if it is positive, is meaningful. As you heard Tom described, 280,000 patients, we believe 15,000 of those are still today being treated with catheter directed thrombolytics. That's exactly the readout that PEERLESS is going to shine a light on. So, we're very excited to get the data out tomorrow morning. This has been a three-year journey to get to this point. So, excited to be on the eve of that readout tomorrow morning.
+
+Mathew Blackman
+Analyst, Stifel, Nicolaus & Co., Inc.
+Understood. Thank you. And then just on VTE Excellence, where are you in terms of accounts across the three phases of the program? And just remind us what the trigger points would be to move from one phase to the next, and how long that transition often takes, and whether that transition period is moving faster recently, or just any color on an update on the VTE Excellence program.
+
+Andrew J. Hykes
+President, Chief Executive Officer & Director, Inari Medical, Inc.
+Sure, Matt. I can put a little more color on that. So, recall that our view is all 1,700 of our accounts are in some phase of a journey towards emerging as a VTE Center of Excellence. The vast majority of our accounts are in the earliest phase of our program, what we call ENGAGE. In that phase, the work is focused on spreading awareness, on establishing a solid foundation, on ensuring that the interventionalists are getting solid outcomes in our first set of cases. We did some work in the first phase to ensure that the coding and billing is being done correctly, and that the hospital is receiving credit for the work that they're doing from a reimbursement standpoint. All that characterizes the kind of work we do and engage. And till the day, the vast majority of our accounts are still in that phase. The penetration into the TAM in that phase is in the low single digits. Just getting started and laying the foundation.
+
+From there, we have accounts graduating to the second phase, what we call EMPOWER. And in this phase, we're really focused not only on broadening awareness amongst the interventionalists, but also amongst all of the non-interventionalist stakeholders that help care for these patients. So, the emergency room physician, the hospitalist, the pulmonologist, the hematologist, all of the other caregivers. We spend a lot of time in EMPOWER, engaging and raising awareness among that group of caregivers. We also spend time focused on the administrators in the EMPOWER phase to ensure that they appreciate not only the clinical benefits of FlowTriever and ClotTriever, but also the economic value proposition that goes along with their therapies. And as a result, they're supportive of the program building effort and investing into the program building effort. We've got a couple hundred accounts in that EMPOWER phase and the TAM penetration, and that phase is in the double-digit range.
+
+And then the final phase, from there is a group of accounts that have graduated on to what we call EXCEL. And these are accounts that are beginning to perform as true VTE Centers of Excellence. They've got well-defined care pathways and algorithms. Many of them have a dedicated VTE coordinator in place. Many of them are taking advantage of artificial intelligence-based diagnostic programs to ensure that patients are flagged. All of those are hallmarks of our most advanced group of accounts who've got several dozen accounts in that phase. And the TAM penetration in that group is north of 20%. We've got several that are north of 50%. So, it gives us some confidence we're moving in the right direction. Every account moves along that journey at its own pace. There's really no – there's a lot of variability in the pace at which they move along that journey. But the important thing is we're making progress. And as we make progress, we're driving deeper and deeper penetration and impacting more and more patients.

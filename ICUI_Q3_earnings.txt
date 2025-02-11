@@ -1,0 +1,396 @@
+Thank you. Good afternoon, everyone. Thank you for joining us to discuss ICU Medical's financial results for the third quarter of 2024. On the call today representing ICU Medical is Vivek Jain, Chief Executive Officer and Chairman; and Brian Bonnell, Chief Financial Officer. We wanted to let everyone know that we have a presentation accompanying today's prepared remarks. To view the presentation, please go to our investor page and click on the Events Calendar and it will be under the third quarter 2024 events.
+
+Before we start our prepared remarks, I want to touch upon any forward-looking statements made during the call, including beliefs and expectations about the company's future results. Please be aware they are based on the best available information to management and assumptions that are reasonable. Such statements are not intended to be a representation of future results and are subject to risk and uncertainties. Future results may differ materially from management's current expectations. We refer all of you to the company's SEC filings for more detailed information on the risk and uncertainties that could have a direct bearing on our operating results and financial position.
+
+Please note that during today's call, we will also discuss non-GAAP financial measures, including results on an adjusted basis. We believe these financial measures can facilitate a more complete analysis in greater transparency into ICU Medical's ongoing results of operations, particularly when comparing underlying results from period-to-period. We've also included a reconciliation of these non-GAAP measures in today's release and provided as much detail as possible on any addendums that are added back.
+
+And with that, it is my pleasure to turn the call over to Vivek.
+
+Vivek Jain
+Chairman & Chief Executive Officer, ICU Medical, Inc.
+Thanks, John, and good afternoon, everyone. I'll quickly walk through our summary Q3 revenue and earnings performance, as we believe the results are straightforward and then provide a few highlights on the various earnings and quality improvement efforts. Brian will take it from there for more specifics on the quarter and the balance of the year. Then I'll come back with a discussion on the strategic joint venture we just announced today with Otsuka and the overall situation around IV solutions and the implications for our customers and ICU Medical with this transaction.
+
+Revenue for Q3 was $580 million for total company growth of 7% on a constant currency basis, or 6% on a reported basis. Adjusted EBITDA was $95 million and EPS was $1.59. Gross margins were a little higher than expected due to capture of supply chain efficiencies, FX and sales mix. We again had a good quarter of free cash flow generation which enabled us to reduce some of the AR factoring line as previously discussed and our cash balance increased to approximately $313 million.
+
+The broader demand and utilization environment in Q3 was healthy across all geographies and has felt that way this year-to-date. And since we're almost halfway through Q4, we've not really seen any major changes in the environment. The capital environment was status quo, and the investments that customers need to make are getting made. And finally, we had a quarter with the net impact of foreign exchange in our favor.
+
+Getting into our business units more specifically, consumables grew 9% on both a constant currency and reported basis. The largest lines in the segment in order, Infusion Consumables, Vascular Access and Oncology all grew high single-digits or better. We continue to advance the points made on previous calls around focusing on clinical outcomes, new market creation and improving in geographies where we had a low share and now have direct operations. And we're focused on progressing the innovation roadmap as we've mentioned previously.
+
+For the balance of 2024, nothing else is new here and we would expect the full year results likely to finish above our original mid-single-digit targets with the legacy ICU consumables lines being at record levels.
+
+Our IV Systems business unit grew 10% constant currency and 7% on a reported basis. We had more balance across the product lines here as compared to Q2. Sequentially off the very strong Q2 for ambulatory hardware devices, those levels decreased and the install calendar for LVPs were stronger than Q2 and therefore we saw sequential growth in the LVP line.
+
+Some key highlights here include continued new contract signings for our Plum Duo infusion system, and we're pleased with what we're seeing so far. We continue to advance our 510(k) submissions for our Plum Solo and LifeShield safety software. We have received FDA feedback on those submissions and we're working to clear up the open questions.
+
+After these products are cleared, the combination of the dual channel Plum Duo and the single channel Plum Solo will provide customers flexibility across all clinical care areas and our energy will shift towards the refreshed syringe platform of Medfusion with the goal of filing that 510(k) submission over the next several quarters and having it connect to our LifeShield safety software as well.
+
+Our ambition is to have the most modern fleet of infusion devices that can anchor the portfolio for many years to come. Simplistically, we want customers to have the right tools for the right job, all connected with a common user interface and software solution that minimizes training, improves onboarding, enables our interoperability and drives standardization. For the balance of 2024, nothing else is new here. We would expect results in line with our original targets.
+
+Just wrapping up the business segments, our Vital Care segment was flat year-over-year on a constant currency and reported basis. Obviously, since the day of first day of Q4, there's been a lot happening in the IV Solutions marketplace, and we'll discuss that when we explain the choice to enter this new joint venture.
+
+From an operations and quality standpoint, the cut over of our US and Canada order to cash systems was executed in Q3 and many thanks to the numerous folks who went above and beyond to make this as smooth as possible. Now that this work is under our belts, we're focused on optimizing our North American physical logistics, and then we'll begin these activities internationally.
+
+We continue to work on the previously announced factory consolidations, with essentially most projects completed by the end – intended to be completed by the end of 2025. The vast majority of our real estate contracts have now been exited or repriced, and savings in this area will come into the P&L over 2025 and beyond. While these may seem like mundane topics, all three items I just mentioned are economically meaningful and contribute to improving our profitability level.
+
+From a quality perspective, we believe we've launched the majority of field corrective actions as we needed to stabilize the acquired LSM products. There will be a few more here, but we're optimistic that they will be smaller, both in terms of absolute number and scope.
+
+In Q3, we also had a very detailed FDA follow-up inspection relating to the acquired warning letter at our Minneapolis site. That inspection was completed with no observations and is an important part of our quality improvement journey and we're awaiting our end of inspection report.
+
+That's really the quick update on Q3. And with that, I'll turn it over to Brian and then I'll come back to talk a bit more about IV Solutions and our newly announced joint venture.
+
+Brian M. Bonnell
+Chief Financial Officer & Treasurer, ICU Medical, Inc.
+Thanks, Vivek, and good afternoon, everyone. Since Vivek covered the Q3 revenue for each of the businesses, I'll focus my remarks on recapping the Q3 performance for the remainder of the P&L, as well as the Q3 balance sheet and cash flow and along the way provide commentary on any implications to our expectations for the full year.
+
+As you can see from the GAAP to non-GAAP reconciliation in the press release, adjusted gross margin for the second quarter was 37%, which was slightly better than our expectations. Similar to the first half of the year, we experienced favorable product mix with a higher proportion of disposables revenue relative to hardware during the quarter, compared to our plan, along with the benefits from supply chain synergies as we make progress towards capturing the balance of $50 million of synergies over the next few years.
+
+In the third quarter, we also experienced a more favorable foreign currency environment compared to the first half of the year, whereby the US dollar weakened relative to the currencies in our key selling geographies, and at the same time strengthened versus the Mexican peso, which is our primary manufacturing foreign currency.
+
+For Q4, we expect gross margins to be in the 36% to 37% range, reflecting the additional benefits from continued capture of synergies, offset by the impacts of two items. The first of which is the expected higher revenue mix of IV Solutions, which has a lower gross margin profile; and the second being the recent reversal of the favorable foreign currency environment we experienced in Q3 as the US dollar has now strengthened relative to our selling foreign currencies.
+
+Adjusted SG&A expense was $120 million in Q3 and adjusted R&D was $20 million. Total adjusted operating expenses were $140 million and represented 24.2% of revenue. Both the total dollar amount of spend and spend as a percentage of revenue were exactly the same as Q2.
+
+On a year-over-year basis, total operating expenses were up 11%, reflecting a combination of increased selling expenses from higher revenues and higher incentive compensation. Restructuring, integration and strategic transaction expenses were $17 million in the third quarter and related primarily to IT system integration and manufacturing network consolidation.
+
+Adjusted diluted earnings per share for the quarter was $1.59, compared to $1.57 last year. The current quarter results reflect net interest expense of $25 million.
+
+The third quarter adjusted effective tax rate was 20% and includes a discrete benefit related to US federal return to provision adjustments, which contributed approximately $0.10 per share. For comparison purposes, the prior year tax rate reflected discrete benefits, which contributed approximately $0.25 per share.
+
+Diluted shares outstanding for the quarter were 24.6 million. And finally, adjusted EBITDA for Q3 increased by 6% to $95 million, compared to $90 million last year.
+
+Now moving on to cash flow and the balance sheet. For the quarter, free cash flow was $16 million, which includes the impact of a $26 million outflow related to lower utilization of our accounts receivable purchase program. It was another solid free cash flow quarter when taking into consideration the impact from lower usage of the receivable program.
+
+We mentioned during the Q2 call that we expected to reduce our usage of the program during the second half of this year, as our liquidity position continues to improve. As of the end of the quarter, we had $27 million outstanding under the program and we expect this balance to further reduce by year end.
+
+During the quarter, we invested $8 million of cash spend for quality system and product related remediation activities, $17 million on restructuring and integration, and $20 million on CapEx for general maintenance and capacity expansion at our facilities, as well as placement of revenue generating infusion pumps with customers outside the US.
+
+And just to wrap up on the balance sheet, we finished the quarter with $1.6 billion of debt and $313 million of cash.
+
+As we think about cash flows over the near-term, there are a couple of items worth mentioning. First, as discussed on the last call, we believe the current cash balance is adequate to support the day-to-day liquidity needs of the business. And we would anticipate any further increases to the cash balance to be used for either early pay down of term loan principal or reducing usage of the accounts receivable factoring program.
+
+And second, year-to-date free cash flow is $109 million, which is already ahead of our original full year guidance. For the fourth quarter, we don't expect the same pace of cash generation, as the fourth quarter typically has higher cash outflows for capital expenditures and tax payments, plus there is the potential reduction in the utilization of our receivable factoring program given our improved liquidity positions.
+
+During the second quarter earnings call, we provided updated full year adjusted EBITDA and EPS guidance. Based on our Q3 results as well as the latest outlook for Q4, we are narrowing and raising the midpoint of our previously provided adjusted EBITDA guidance range of $345 million to $365 million to a range of $355 million to $365 million.
+
+For adjusted EPS, we are raising our previously provided guidance range of $4.95 per share to $5.35 per share to $5.40 per share to $5.70 per share, reflecting the improved outlook for adjusted EBITDA plus the previously mentioned $0.10 tax benefit recognized in the third quarter.
+
+The guidance assumes higher demand for IV Solutions,. a commercial environment consistent with the third quarter, including no material impact from the deferral or cancellation of procedures and today's foreign currency rates. And for modeling purposes, you can assume Q4 net interest expense of $24.5 million, a Q4 adjusted tax rate of 24% and Q4 diluted shares outstanding of 24.6 million.
+
+To wrap up, we're happy with our performance for the first three quarters of the year, including improvement in our gross margin rate, better-than-planned free cash flow generation and an improving balance sheet. We remain focused on the foundational work that will drive earnings improvement in 2025 and beyond.
+
+And now I'll hand the call back over to Vivek, who will provide more specific – more specifics on today's announced IV Solutions joint venture.
+
+Vivek Jain
+Chairman & Chief Executive Officer, ICU Medical, Inc.
+Okay. Thanks, Brian. I'll spend the balance of the time on what's happening with our IV Solutions business and our excitement about the joint venture we're announcing. Why Otsuka is the best partner in the world for us? How this will be a great outcome for customers and the broader North American market? Our strategic thinking on why this structure and some economic implications for ICU Medical.
+
+Obviously, the US IV Solutions market has been impacted by the events in North Carolina and we empathize with the people and customers impacted by the crisis. We had and still have unabsorbed capacity in our Austin location and have been ramping up to first ensure our long-term committed customers are well served and to be able to help new systems that are willing to make longer term commitments, as we learned a few lessons in our experience through Hurricane Maria.
+
+Frankly, we've seen the best of customers and human nature in these moments, and we've also seen some of the characteristics that led to the market concentration that the country has faced.
+
+On these earnings calls for years, we've talked about the intrinsic value of IV Solutions being out of line with its economic price. Maybe a simple analogy it's the $0.10 screw that keeps the wheels on the bus. We spent years pitching geographic diversification. We went as far as asking the GPOs if they wanted to buy into our business over the years. And we've read the same articles in these times of crisis arguing that the government should mandate diversification when it practically has very few tools to do so and the market has chosen not to.
+
+Yes, there are certain customers who get it and are willing to do the work to diversify, but our conclusion, which predates the current crisis, is that there has to be better choice in the market as defined by product breadth, supply reliability, innovation, geographic diversity, the ability to invest, and then maybe the market itself will work and balance the risk better across suppliers.
+
+That's why we're so excited to announce the creation of a manufacturing and innovation joint venture with Otsuka Pharmaceutical Factory around IV Solutions. They are the single best partner on the planet for us, and I'll go through the reasons why that's the case on the attached slides that follow the revenue schedule in our investor presentation.
+
+And just to preempt the question, this is not some hastily arranged shotgun relationship. I'd first met with this company over a decade ago on other product categories. We were in some conversations in 2019 pre-COVID, and we've spent the better part of this year exploring this opportunity with hundreds of hours of technical reviews, site visits across continents, and building a relationship and shared vision about something that could last for over the next decade.
+
+First off, just a few facts about Otsuka on slide 5 and 6, they are a Japanese global healthcare company that's been in business for over 100 years and are an active participant in branded pharma in the US market.
+
+The stats on the right hand side of the slide are self-evident, but they have a big pharma like balance sheet and capitalization, which is different than all the current public companies suppliers of IV Solutions, including ourselves. Their IV Solutions portfolio is part of their original business and they're the largest supplier in Asia, and we believe they have the best innovation of any global supplier.
+
+That innovation is everything from packaging, being the world's only producer of a four chamber TPN bag to very cool admixture and reconstitution formats to all materials being PVC free across the entire portfolio to core biopharma competency around formulations and stability to fit with the other skills.
+
+Slide 6 shows some of this track record of innovation. Slide 7 outlines the core reasons we were attracted to them, if not obvious already. Our main reasons were scale and redundancy, innovation, the cultural mindset, financial strength, and the experience in US partnerships.
+
+Key highlights of the transaction are at the bottom of the slide, which is an upfront payment to ICU Medical, a milestone after – a milestone payment potentially after two years and a put call option for either party starting in 2030, shared governance, et cetera.
+
+From an ICU perspective versus our other lines of business, it's been hard for us to drive meaningful innovation in the IV Solutions category, and our business generally sat alone as a domestic-only enterprise in Austin, Texas.
+
+Slide 8 shows Otsuka's global manufacturing footprint and Austin will join the 16 owned Otsuka sites with a long-term goal of FDA approval at a number of these locations to create more redundancy.
+
+Just one comment on slide 9. In a long-term partnership, culture and alignment matters, they operate with a long-term mindset backed by financial strength and experience. They operate in geographies faced with natural disaster risk daily and the commitment to new production technology combined with risk mitigation is ingrained in their culture. And I've seen firsthand how they've hardened their sites in Japan.
+
+From a customer perspective, we want to bring more innovation along with clear supply redundancy to allow the market to fix the concentration problem. We love this structure outlined on slide 10, the key items slide, because it creates something that will be seamless to customers.
+
+On the front end, it will feel exactly the same to customers with us providing everything as we currently do sales, logistics, billing, et cetera, but with additional resources on the manufacturing side.
+
+We've also stated on these calls for years that IV Solution should be priced relative to its own individual intrinsic value. If the market continues to combine this category with other infusion items, we can stay in this structure or if the market separates these items in the next GPO cycle or the one after that, we have a put cost structure that allows us to make those decisions after a minimum of five years.
+
+To conclude this discussion, we are really honored that Otsuka chose to work with us and look forward to many years of a fruitful partnership.
+
+Now there will be implications for ICU Medical. It was a tough call to make, but it was important for Otsuka to be able to consolidate the revenues of the joint venture. So as a result, ICU will deconsolidate IV Solutions financial results and recognize only our proportional share in the net earnings of the JV.
+
+While it's painful to give up so much revenue, we do believe with the upfront payment the transaction will be EPS breakeven to ICU. Simply stated, the interest expense savings from debt paydown from the upfront $200 million payment equals the current EBIT contribution of the business.
+
+We have to work through the financial reconciliations between now and closing, but net-net, our gross margin will change between 300 basis points to 400 basis points initially after close and could reach 500 basis points as the JV stands up its own services but that will take some time. We would have to subtract around $25 million in annual EBITDA from our roll up next year. And we believe the JV will be able to sustain its own CapEx and we can make other choices with that capital.
+
+In the bigger picture of ICU, on the last few calls, we've talked about revenue stabilization and the ability to grow our differentiated product lines as demonstrated in Q3. While it's nice to have that revenue growth now, it's not lost on us that we're still under earning as a company relative to the industry, as evidenced by the fact we had higher earnings with less revenues historically. This JV does not solve that issue on an absolute basis, even if some of the margin ratios change.
+
+We continue to be extremely focused on all the actions to improve profit in the medium-term, which are about revenue growth, mix and pricing, operational efficiencies from my introductory comments and eventually waiting for the macro items and currency and interest rates to improve.
+
+Where this JV does impact us is how long we can bear interest expense to make sure we're maximizing the value of any of our other assets.
+
+Net debt at the end of Q3 was about $1.3 billion, as Brian referenced, between our mandatory principal payments of around $75 million-ish in 2025, plus $200 million in paydown of the term loans from this situation, it would put us approximately around $1 billion of net debt by the end of 2025.
+
+If earnings can continue to improve alongside an improving interest rate environment and lower leverage ratio spread, perhaps we can think about other ways to return capital to shareholders over time. Again, all of this has to happen, but it's certainly not out of the range of potential outcomes.
+
+To be direct on our goals for the next year or two, we want our consumables and systems business to be reliable growers with an industry acceptable profit margin with the tightest and most optimized manufacturing network, and each with a multi-year innovation portfolio. And we ultimately want to transfer value from debt to equity, which Brian noted, we are finally better prepared to move on.
+
+There is no confusion within the company in the pursuit of these goals, and we don't have any frivolous activities here. We produce essential items that require significant clinical training called manufacturing barriers and in general items that customers do not want to switch unless they must. The market needs ICU Medical to be an innovative, reliable supplier, and our company is stronger from all the events over the last few years and the good news of today.
+
+Thank you to all our team members and customers as we improve each day. With that, I'll open it up to questions.
+
+Question And Answer Section
+Operator
+Thank you. [Operator Instructions] We'll pause for just a moment to allow questions to queue. We'll go first to Brett Fishbin with KeyBanc.
+
+Brett Fishbin
+Analyst, KeyBanc Capital Markets, Inc.
+Hey, guys. Thank you so much for taking the questions. Vivek, you definitely gave a lot of detail around why this was the best partner in terms of entering this type of JV arrangement. I was just curious if you could give a little bit more around the strategic thought process of going in this direction with the JV, whether you guys considered a sale and then why you think sticking around in the solutions business for the foreseeable future is the best decision for the company?
+
+Vivek Jain
+Chairman & Chief Executive Officer, ICU Medical, Inc.
+Sure. Hi, Brett. I don't think we ever had any considerations about a sale. It's a core product for our customers that's deeply linked with the other things that we do. I think where we struggled was what I tried to outline in the script is trying to be the best innovator we can be on pumps and software, trying to be the best innovator around consumables and category creation. It was hard for us to do all of it, and our portfolio was a little narrower here than some of the other players. We were looking for a way to stay in the market still absolutely deliver these items to our customer, but make sure we could bring the innovation that could be more relevant to them and diversify the market a little bit. And for us, like the choices in the other category came down to who had market leadership around the world and in the other geographies and who had the most innovation.
+
+Brett Fishbin
+Analyst, KeyBanc Capital Markets, Inc.
+All right. Appreciate that color. And then just one question on the ERP, you touched on it briefly. I believe that you've now completed the US and North America portion of it and sounds like it was relatively successful. Just curious if there was any disruption intraquarter from that at all? And what kind of incremental benefits you might be seeing as we progress into the fourth quarter?
+
+Vivek Jain
+Chairman & Chief Executive Officer, ICU Medical, Inc.
+I mean, there was certainly disruption to the team members lives during the quarter [indiscernible] (00:26:41) ourselves included. It's a lot of work, a lot of people's sacrifice. I mean, during, I would say the month of August, yeah, there was a little bit of bumpiness. We had the month of September to clean up some of those items, but it only gets cleaned up because people gave a lot.
+
+Brett Fishbin
+Analyst, KeyBanc Capital Markets, Inc.
+Okay.
+
+Brian M. Bonnell
+Chief Financial Officer & Treasurer, ICU Medical, Inc.
+Hey Brett, to your point, I would say that although there was some volatility during the quarter, the quarter itself really wasn't impacted at all when you look at it kind of in total. So, from my standpoint as CFO, that's the definition of success.
+
+Brett Fishbin
+Analyst, KeyBanc Capital Markets, Inc.
+All right. Thanks again. I'll jump back in queue. Appreciate it, guys.
+
+Operator
+We'll go next to Eric Fleming with Raymond James. [indiscernible]
+
+Eric Fleming
+Analyst, Raymond James & Associates, Inc.
+(00:27:32) on for Jayson tonight. A couple of quick questions, on LVP on Duo, have you been able to hold the pricing levels that you were talking about earlier this year?
+
+Vivek Jain
+Chairman & Chief Executive Officer, ICU Medical, Inc.
+I don't know that we've publicly articulated the pricing levels, but I would say we recognize that you don't have many chances to have new technology reset in the market. We believe in the technology and we want customers who believe in that and we're focused on holding that level. We have not made any changes to where we thought we would start marketing that product.
+
+Eric Fleming
+Analyst, Raymond James & Associates, Inc.
+And how's the market share looking with everyone now back in the market?
+
+Vivek Jain
+Chairman & Chief Executive Officer, ICU Medical, Inc.
+I mean, again, I think everybody, it's obviously – it's a very hot topic given all the competitors comments on it. I think we feel good about the cards we're holding. We feel good about it from a competitive standpoint with Duo in the market and the amount of conversations. And again, we were very transparent on the power of incumbency, et cetera on the previous calls, it's all relative to the size of our business, which frankly isn't that big in the US. And we feel very good if Solo comes and the ability to access our own install base where our equipment is finally aging out and needing a little bit of refresh. So, I think we feel good on both of those fronts. And then the CADD product is obviously separate conversation but continues to be the best asset that came with the acquisition.
+
+Eric Fleming
+Analyst, Raymond James & Associates, Inc.
+Sorry. And one other follow-up, not a follow-up, another question on the Mexican peso. With the recent election results, what's the outlook in terms of any potential tariffs, any impact on the benefit you're getting on the peso right now?
+
+Vivek Jain
+Chairman & Chief Executive Officer, ICU Medical, Inc.
+I mean, I think obviously it's unclear. Last time around, it was not particularly meaningful. I would say we are a bit player of the amount of stuff coming from Mexico, not only in the healthcare industry but automotive, consumer or whatever and we'll all be treated the same. We'll all be treated the same way. Right now, we're not sitting around and spending a lot of time planning on that scenario.
+
+Eric Fleming
+Analyst, Raymond James & Associates, Inc.
+Okay. And then just – sorry, one last one. You mentioned the FDA has inspected that Smiths facility with the warning letter and you're just awaiting the final report, is that correct?
+
+Vivek Jain
+Chairman & Chief Executive Officer, ICU Medical, Inc.
+At the – we said at the site it – at the site that where the warning letter was issued, we did have a very thorough follow-up inspection. We had no observation. That's one of the components to getting a full, clean bill of health. It's the hardest and most strenuous one. And so, that box got checked. At the end of that you're issued an end of inspection report. You can receive that any number of months after the inspection, and we don't have that in yet.
+
+Eric Fleming
+Analyst, Raymond James & Associates, Inc.
+Okay. Appreciate it. Thanks, guys. [Operator Instructions]
+
+Operator
+. We'll go next to Larry Solow with CJS Securities.
+
+Lawrence Solow
+Analyst, CJS Securities, Inc.
+Hi guys. I guess just going back to the strategy of the deal, I guess you kind of get the best of both worlds in that you can still control the solutions piece and enable it to sell it with the systems and the consumables while you'll also have another partner helping, I guess take 50% of that investment. And also you're adding I assume, some complementary products that they're bringing as well as the manufacturing redundancy, right. So to me, it seems like a almost a win-win if I'm looking at that correctly.
+
+Vivek Jain
+Chairman & Chief Executive Officer, ICU Medical, Inc.
+I mean, we thought about it a lot. I appreciate the comments, Larry. We thought about it a lot. It's obviously a, joking aside, it's a very fluid time in the market. We tried to come up with a structure that protected us in the near term, sort of in the medium term, and maybe hedged a little bit of the risk we have today, but kept – certainly kept us in the business for the long-term, if we can do what we think we can do together. So, we are – we really think we found a win-win on the structure. And it's – we had searched for this for a long time. It's not easy to do. It took a long time.
+
+Lawrence Solow
+Analyst, CJS Securities, Inc.
+And the valuation – right, and the valuation, looks like it's 16 times EBITDA. I guess that, there must be [indiscernible] (00:31:53) and you as well think that this number is certainly a depressed number for the last couple years. I'm sure there's some low hanging fruit just on pricing and things. But then is the ability to add their products into your distribution network, I guess brings that up a lot more potentially. But I guess the question I have is there's a decent amount of assets right, on your balance sheet tied to solutions though, I guess will come off in the deconsolidation, any way to frame that?
+
+Brian M. Bonnell
+Chief Financial Officer & Treasurer, ICU Medical, Inc.
+Yeah, Larry, hey, it's Brian. Your question around multiples, which we don't really pay attention to, I think it's probably closer to 13 times or something like that rather than the 16 times you mentioned. But we think it's representative of the value of the business, of course and the value that can be created, as of – with our partners. Yeah. And then of course, I guess just from an accounting standpoint, we will deconsolidate the financial results as well as kind of the assets and liabilities on the balance sheet, so.
+
+Vivek Jain
+Chairman & Chief Executive Officer, ICU Medical, Inc.
+I think the decision-making structure was one part of it, Larry. The other decision making was fundamentally about, is it better for customers? Is it better for the marketplaces and checks the boxes that help undo the concentration around by bringing innovation and more choice? And we looked in the mirror and said every one of those, we felt like this will be better for the marketplace, better for our customer. We couldn't get there on our own.
+
+Lawrence Solow
+Analyst, CJS Securities, Inc.
+Got you. Great. And if I could just squeeze one more question just on the gross margin, independent of the lift you expect from the deconsolidation. But just on the core of the entire business ex the solutions piece. You've captured it sounds like some supply chain efficiencies or expedited those the last couple of quarters. Are those kind of just a little bit faster than you assumed you get them but nothing really to perhaps that the outlook for next year doesn't really change that much. You've just got a little bit better this year faster. I guess question one. And then you still expect consolidation to drive like a 200-basis point improvement in gross margin plus or minus? I say 2026 when you get the full year benefit. Thanks.
+
+Brian M. Bonnell
+Chief Financial Officer & Treasurer, ICU Medical, Inc.
+Yeah. Larry, so on the two questions, one, as it relates to the favorability we saw in Q3, yes, we're getting those synergies a little bit sooner than expected. We've talked about $50 million is kind of what we expect as part of Phase 2 in total. Most of that's going to show up in the gross margin line. But we still think that the timeline for capturing everything is by the end of next year. So, which...
+
+Lawrence Solow
+Analyst, CJS Securities, Inc.
+Got it.
+
+Brian M. Bonnell
+Chief Financial Officer & Treasurer, ICU Medical, Inc.
+...which happen to be a little bit ahead of schedule. So, I don't think it really changes the opportunity.
+
+Vivek Jain
+Chairman & Chief Executive Officer, ICU Medical, Inc.
+I just want to rephrase. I'm sorry. I felt like the projects will be only done by the end of next year, right? It might take...
+
+Brian M. Bonnell
+Chief Financial Officer & Treasurer, ICU Medical, Inc.
+That's right.
+
+Vivek Jain
+Chairman & Chief Executive Officer, ICU Medical, Inc.
+...a little bit longer for the projects to be done. I think, Larry, I would focus on the gross margin percentage. We've been very clear, Brian, in every script. We had a target of $40 million that we wanted to get to and that $50 million was part of filling the gap. So it's all relative to where we were against that target.
+
+Brian M. Bonnell
+Chief Financial Officer & Treasurer, ICU Medical, Inc.
+Yeah.
+
+Lawrence Solow
+Analyst, CJS Securities, Inc.
+Yeah.
+
+Brian M. Bonnell
+Chief Financial Officer & Treasurer, ICU Medical, Inc.
+Vivek did reference as it relates to the joint venture and margin impact there, the remaining 1 to 2 percentage point change would probably be coming later on than 2026, when the joint venture would potentially be stand a little more on its own as it relates to certain commercial type of activities.
+
+Lawrence Solow
+Analyst, CJS Securities, Inc.
+Right. Got you. But you're just going to get to $40 million -well if just do the math just with the deconsolidation alone from where we are today, pretty close, right?
+
+Vivek Jain
+Chairman & Chief Executive Officer, ICU Medical, Inc.
+Yes.
+
+Lawrence Solow
+Analyst, CJS Securities, Inc.
+Got you. Okay, great. I appreciate all the color. Thanks.
+
+Operator
+We'll move next to Kristen Stewart with C.L. King.
+
+Kristen Stewart
+Analyst, C.L. King & Associates, Inc.
+Hi. Thanks for taking the question. I was wondering if you could just share a little bit more details on what you're seeing today with IV Solutions and your ability to ramp up manufacturing, how much you're able to ramp up to really take advantage of [ph] this location (00:36:14) from your competitor.
+
+Vivek Jain
+Chairman & Chief Executive Officer, ICU Medical, Inc.
+I mean, we feel – Kristen, it's Vivek. Thanks for the question. We feel like we're not interested in really playing the short-term game. We got burned on that in Maria and our price at the end of that was going to have to restructure our business back then and we don't want to do that again.
+
+And so for us, the business we're interested in is if truly people want to diversify and take a long-term view on they're either Duo or Solo, whatever may be supply. I don't think we're running around trying to be opportunistic and part of this decision on this partnership was saying we thought by bringing these set of skills and redundancy and innovation together, we could wind up with higher market share than we have today over time.
+
+It wasn't about exploiting what's going on right now, and it's a very awkward time for customers because we certainly believe the – so just like after Maria the situation, got rectified. People will come back and there will be adequate supply in the market. I think no one has – we certainly don't want to speak for anybody, but no one has the illusion that that share, that capacity is not going to come back online absolutely. So for us this is much more about the long-term.
+
+Kristen Stewart
+Analyst, C.L. King & Associates, Inc.
+Okay. Thanks very much.
+
+Operator
+And we'll move next to Mike Matson with Needham & Company.
+
+Mike Matson
+Analyst, Needham & Co. LLC
+Yeah. Thanks for taking my questions. I joined the call a little late. I apologize if you've gone through this, but just on this deal, it's going be a JV. So all the – is there any revenue benefit to ICU once the deal is completely set up or is all that revenue going to be flowing through the JV?
+
+Brian M. Bonnell
+Chief Financial Officer & Treasurer, ICU Medical, Inc.
+So Mike, just I guess kind of how does – how did the activities of the joint venture show up in our P&L, we will de-consolidate the results. So on the P&L, all we will show is the – our portion in the net earnings of the joint venture. So we will benefit economically from any incremental revenues if they generate incremental profits, but it doesn't – it won't show up on our revenue line.
+
+Mike Matson
+Analyst, Needham & Co. LLC
+Okay. Got it. And then just your sales team would be selling the IV Solutions or I mean, would those people move over to be part of the JV then or I guess, how would the – yeah.
+
+Vivek Jain
+Chairman & Chief Executive Officer, ICU Medical, Inc.
+Hey, Mike, it's Vivek. Commercially, everything to the customer remains exactly the same. You ordered via ICU, shipped via ICU, we run the warehouse, et cetera, we bill. Now, those may be services that are provided on behalf of the JV, but the whole experience is seamless to the customer and the integrated value that's delivered, meaning the co-mingling of the value prop of some of these products plus other infusion items continues because it's all held together commercially.
+
+The revenue benefit is really one of – there is two different parts to that question. One part is revenue benefits, if we believe on our own, we had a better chance of the first two pillars of our company that we describe in the call, the infusion consumables, the infusion pumps growing at a superior growth rate to solutions over time, it could be revenue growth accretive. That may not be the case in the short-term given what's going on. But the idea is the experience for the customer will feel exactly the same as it does today.
+
+Mike Matson
+Analyst, Needham & Co. LLC
+Yeah. Okay. Yeah, that makes a lot of sense then. So you're kind of potentially removing a slower growth business and maintaining the benefits of bringing all the – bringing that along with everything else to the table for customers.
+
+Vivek Jain
+Chairman & Chief Executive Officer, ICU Medical, Inc.
+I mean, just to be super blunt about it, over the – if we learned, yes, there's some shortage today, but if we learned what happened last time, we learned what happened to the people who supplied things during COVID, the market has a habit of vaccines, ventilators, testing, whatever you want. The market has a chance of reverting to the mean, rather even if there's a – even if there is some uplift in recognition of the value of this market. The only way to make it a faster growth business for us was more innovation, and we needed a partner to help us do that.
+
+Mike Matson
+Analyst, Needham & Co. LLC
+Okay. Got it. And then just want to ask one on the pump market and the competitive dynamics there. So, I guess I don't cover Becton, but just looking through their comments, it sounds like they kind of – they're saying at least that they're delivering on what they thought they could do in terms of re-entering that market. So, what are you seeing and how – to what degree have you been able to pick off share from them or other players?
+
+Vivek Jain
+Chairman & Chief Executive Officer, ICU Medical, Inc.
+Yeah. It's an active market because a lot of people are forced to make a decision right now. I think, again, we've grown up in this business and our comments in the last couple of calls are it's a huge advantage to incumbency, to all players. But again, relative to our LVP size, which wasn't that big, there's enough choices out there to have us certainly get a meaningful return on our R&D investments into the Plum Duo and Plum Solo programs. And there's more conversations going on than there ever have been. We certainly think a huge majority of people generally stay with the incumbent, but the amount of market that needs to change is plenty for us to grow it.
+
+Mike Matson
+Analyst, Needham & Co. LLC
+Yeah. Okay. Yeah, that makes sense. Thank you.
+
+Operator
+We will go next to Michael Toomey with Jefferies.
+
+Michael Toomey
+Analyst, Jefferies LLC
+Hey, guys. Thanks for taking my question. Most have been answered already, but just on the Otsuka JV, what would the free cash flow accretion look like for that deal? How much funding move that needle on a CapEx perspective? I know you said it's neutral on adjusted EPS, but just on the CapEx and free cash flow.
+
+Brian M. Bonnell
+Chief Financial Officer & Treasurer, ICU Medical, Inc.
+I would say, Mike, in terms of free cash flow, it's marginally positive, neutral to marginally positive for us.
+
+Vivek Jain
+Chairman & Chief Executive Officer, ICU Medical, Inc.
+I mean, we haven't had – hey, Mike, welcome to the call, by the way. It's not like we had tons of excess cash lying around last year or two. There are some spots we want to invest in. I wouldn't argue on some of the production assets and the other areas. I wouldn't assume like it changes the overall cash flow picture that much. It may just get reinvested in some other areas that are – we can make more of a difference.
+
+Michael Toomey
+Analyst, Jefferies LLC
+Okay. Got it. Thank you.
+
+Operator
+We'll return now to Brett Fishbin with KeyBanc.
+
+Brett Fishbin
+Analyst, KeyBanc Capital Markets, Inc.
+Hey, thanks for taking the follow up. Just wanted to clarify one point. So, yeah, totally appreciate the comments around like short-term versus long-term in full agreement. Just wanted to see, you did mention that there was some incremental capacity, if there was some additional revenue or EBITDA that you're expecting to realize from that increased demand in the fourth quarter and what's included in the guidance?
+
+Vivek Jain
+Chairman & Chief Executive Officer, ICU Medical, Inc.
+I mean, we just haven't thought about it that much, Brett, we're going as fast as we can go and we're doing that on the belief that there will be enough volume that's sustainable there. We're really not sitting around looking at it on a short-term basis.
+
+Brett Fishbin
+Analyst, KeyBanc Capital Markets, Inc.
+All right. Fair enough. And last question for me, just can you explain any more you can about the put-call option that's embedded in the JV agreement and what the mechanics look like at a high level? Thank you.
+
+Vivek Jain
+Chairman & Chief Executive Officer, ICU Medical, Inc.
+It will all be public in our filings over the next couple of days or weeks, whenever they go in, essentially it's an option that goes out a decade that can exercise that option until the fifth year and that option is based on a multiple of revenue. So if the market grows and expands in value, we participate in that and we receive that multiple of revenues times our ownership percentage. And so it's an incentive to keep growing the business to make it as large and relevant to customers as possible and vice-versa.
+
+If companies only wound up supplying and call it wet items, if customers only want to buy fluids or solutions individually, a call option exists if there's no need to have some of these items together. But no one really knows today how the market's going to develop. And I think it's best of all worlds as we can figure it out as it comes and to the customer it just needs to be seamless.
+
+Operator
+With no other questions holding, I'll now turn the conference back to our presenters for any additional or closing comments.
+
+Vivek Jain
+Chairman & Chief Executive Officer, ICU Medical, Inc.
+Thanks everyone for your interest in ICU Medical. Sorry, the call was so late, we were obviously busy trying to get stuff done. I think this is certainly the latest release of the quarter and we've done it and we will make sure it happens faster in the future. Have a good fall and talk to you soon. Thanks very much.

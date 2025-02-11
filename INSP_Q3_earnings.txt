@@ -1,0 +1,544 @@
+Thank you, Dilem, and thank you all for participating in today's call. Joining me are Tim Herbert, Chairman and Chief Executive Officer; and Rick Buchholz, Chief Financial Officer. Earlier today, we released financial results for the three and nine months ended September 30, 2024. A copy of the press release is available on our website.
+
+On this call, management will make forward-looking statements within the meaning of the federal securities laws. All forward-looking statements, including, without limitation, those relating to our operations, financial results and financial condition, investments in our business, full year 2024 financial and operational outlook, and changes in market access, are based upon our current estimates and various assumptions.
+
+These statements involve material risks and uncertainties that could cause actual results or events to materially differ. Accordingly, you should not place undue reliance on these statements. Please see our filings with the Securities and Exchange Commission, including our Form 10-Q which we filed with the SEC earlier this afternoon, for a description of these risks and uncertainties.
+
+Inspire disclaims any intention or obligation, except as required by law, to update or revise any financial projections or forward-looking statements, whether because of new information, future events, or otherwise. This conference call contains time-sensitive information and speaks only as of the live broadcast today, November 4, 2024.
+
+With that, it is my pleasure to turn the call over to Tim Herbert. Tim?
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Thank you, Ezgi, and thanks, everyone, for joining our business update call for the third quarter of 2024. Let's start with what is most important, and that is the delivery of safe and effective therapy to our patients. And as of this call, we have surpassed 85,000 patients who have received Inspire therapy. To ensure ongoing improvements in our system-level performance, we must continually monitor patient outcomes and invest in technology and programs to further advance Inspire therapy, including the annual publication of our Patient Experience Report, which is available on our website.
+
+Today, I would like to announce a recent peer-reviewed publication in the Journal of Clinical Sleep Medicine that reviewed the real world experience with Inspire since the original FDA approval in 2014. The investigators, led by Dr. Colin Huntley at the Thomas Jefferson University, reviewed data from over 20,000 patients showing a continued improvement in patient safety, as documented by reviewing individual site experience, as well as FDA and company databases. In fact, within the first year after implant, explant rates have been shown to be less than 0.7%, and revision rates reported as 1.5%, which are both significant improvements from the originally reported STAR trial.
+
+These new data set the bar on what is expected from hypoglossal nerve stimulation in the treatment of obstructive sleep apnea. This strong data translates into our business performance, and we are proud to report a successful third quarter.
+
+In the third quarter, we generated revenue of $203.2 million, representing a 33% increase compared to the third quarter of 2023. Third quarter US revenue totaled $195.8 million, also a 33% increase over the same period last year. This revenue growth reflects greater therapy adoption, primarily as a result of increased market penetration in existing centers, as well as expansion into 66 new implanting centers in the United States and 13 new US sales territories.
+
+We now have 1,371 active US centers and 323 US sales territories. Utilization by account increased year-over-year and is consistent with the second quarter of 2024. Outside of the US, revenue increased 27% over the same period last year to $7.4 million. We saw strength in Germany, Switzerland, the Netherlands and Belgium, and we began reimbursed procedures in France. We are increasing our 2024 revenue guidance to $793 million to $798 million, which represents 27% to 28% growth over 2023 revenue of $625 million. This updated guidance reflects some revenue headwinds as a result of the hurricanes and related IV solution shortage impacts in the fourth quarter.
+
+Net income for the third quarter was $18.5 million, compared to a net loss of $8.5 million in the prior year period, representing net income of $0.60 per share, compared to a net loss of $0.29 per share in the third quarter of 2023. Given the strong performance we have seen year-to-date, we are raising the full year earnings per share guidance to $1.20 to $1.40.
+
+Highlighting a few key team accomplishments, in September, we attended the American Academy of Otolaryngology and the International Sleep Surgical Society (sic) [International Surgical Sleep Society] conferences in Miami. Inspire had a fantastic conference, including symposia led by exceptional faculty, highlighting 10 years since FDA approval and how the Inspire care pathway leads to excellent outcomes in both academic and private practice settings. The investigators highlighted that Inspire is a proven therapy with significant and consistent outcomes demonstrated in over 300 publications and over 85,000 patients treated, resulting in coverage policies from Medicare and virtually all private plans.
+
+The presentations highlighted Inspire's commitment, with an established national team of trusted Inspire professionals focused on patient outcomes and our easy-to-use SleepSync system. During these meetings, the investigators also presented data on the PREDICTOR study. As a reminder, the initial focus of the PREDICTOR study is to identify patients who may qualify for Inspire therapy without requiring a drug-induced sleep endoscopy procedure.
+
+The data presented focused on patients with a BMI lower than 32, which are those without significant lateral wall collapse that is a key component of complete concentric collapse. We will continue to discuss this data with physicians and payers to streamline the patient journey to receive Inspire therapy. On the market access front, we are pleased with the final 2025 national Medicare all-patient payment rates for CPT code 64582, which calls for a slight increase to both the hospital outpatient rate to $30,474 and the ambulatory surgical center rate to $25,832.
+
+The final physician fee schedule for 2025 is consistent with the 2024 Medicare physician fee at $816. With respect to our market development activities, we continued to advance our medical education programs. And year-to-date, we have hosted over 250 advanced practice providers and Inspire training programs, with another 70 registered for training before year-end. The primary focus of this initiative is to improve capacity in both sleep and ENT clinics to meet the strong patient demand we continue to see for Inspire therapy.
+
+Further, we continue to increase our presence at primary care and cardiology conferences to drive increased awareness of Inspire therapy. Our direct-to-consumer program remains strong and provides a pathway for patients to connect with the proper healthcare providers. In the third quarter, we continued to see operating leverage in our DTC expenses as we found ways to be more targeted and efficient in our digital advertising, which we believe has contributed to a significant increase in digital patient engagement at a lower cost.
+
+Going forward, we will continue to evaluate our DTC program with the goal of enhancing patient awareness regarding Inspire therapy. We continue to advance initiatives to improve the patient experience, and one example is that we now have over 250 centers using digital scheduling to book patient appointments. With digital scheduling, the patient's ability to schedule an appointment on their first attempt is increased, greatly improving the patient's journey to receive Inspire therapy.
+
+Switching to product development. We have begun the soft launch of our new SleepSync programming system designed to increase the efficiency of Inspire patient management with greater accessibility and a comprehensive view of therapy history. Early feedback is promising and we expect full US availability this year, enhancing capacity for patient follow-ups and improving experiences for patients and providers.
+
+As you know, in August, we received FDA approval for the Inspire V neurostimulation system. We are focused on operational readiness and building sufficient inventory, and we remain on track for a soft launch in late 2024 and a full launch in 2025. Inspire V incorporates respiratory sensing capabilities into the neurostimulator, eliminating the need to implant the pressure sensing lead. We believe this will provide benefits to the patient with one fewer component, to the physician with reduced surgical time and to the company with reduced production complexity and cost.
+
+We continue to validate the coding scenarios with payers and Medicare contractors to help ensure we are prepared for the full launch in 2025. We expect to provide more color on our coding strategy in early 2025 once we finalize discussions with the payers. With the final OPPS rules released last week, we have set the pricing for Inspire V system to be consistent with the current Inspire IV system.
+
+In summary, we remain focused on the patient to continue the growth and adoption of Inspire therapy. We will execute our growth strategy of driving higher quality patient flow and increasing the capacity of our provider partners to effectively treat and manage more patients. Our key strategies include adding advanced practice providers, training and adding new implanters, increasing center independents and driving the adoption of SleepSync and our digital tools, all of which are embedded strategies in our commercial teams objective to increase provider capacity. Looking ahead, we remain excited about our future and are confident that we have the appropriate strategy in place to drive long term stakeholder value.
+
+With that, I'd like to turn the call over to Rick for his review of our financials.
+
+Richard John Buchholz
+Chief Financial Officer, Inspire Medical Systems, Inc.
+Thank you, Tim, and good afternoon, everyone. Total revenue for the quarter was $203.2 million, a 33% increase from the $153.3 million generated in the third quarter of 2023. US revenue in the quarter was $195.8 million, an increase of 33% from the $147.5 million in the prior year period. Revenue outside the US was $7.4 million, which was a 27% increase year-over-year. Gross margin in the quarter was 84.1%, consistent with the prior year period.
+
+Total operating expenses for the quarter were $156.5 million, an increase of 10%, as compared to $142.4 million in the third quarter of 2023. This planned increase was primarily due to the expansion of our sales organization and increased general corporate costs, partially offset by a $3.1 million decrease in R&D expenses and a $2.2 million decrease in DTC expenses year-over-year.
+
+Interest and dividend income totaled $5.9 million in the quarter, compared to $5.5 million in the prior year period. This higher income was primarily driven by higher cash and investment balances compared to a year ago. Operating income for the quarter totaled $14.3 million, compared to an operating loss of $13.5 million in the prior year period.
+
+Net income for the quarter was $18.5 million, compared to a net loss of $8.5 million in the prior year period, representing net income per share of $0.60, compared to a net loss per share of $0.29 in the third quarter of 2023. The weighted average number of diluted shares outstanding in the quarter was 30.6 million.
+
+Excluding the impact of any share repurchases that we may complete over the remainder of 2024, we expect the full year diluted shares outstanding to be approximately 30.6 million to 30.7 million. We are excited to announce we generated $52 million in operating cash flow during the third quarter, bringing the year-to-date total to $61 million and increasing our total cash and investment balances to $524 million at September 30. This strong cash position allows us to remain focused on executing our growth strategies.
+
+Moving on to 2024 guidance. We now expect full year revenue to be in the range of $793 million to $798 million, representing an increase of 27% to 28%, compared to full year 2023 revenue and we continue to expect full year gross margin to be in the range of 83% to 85%. We also continue to expect to activate 52 to 56 new US centers and establish 12 to 14 new US sales territories during the remaining quarter of 2024.
+
+Given the strong momentum in our business and our improving operating leverage, we now expect diluted net income for the full year 2024 will be between $1.20 and $1.40 per share. In conclusion, our strong performance and business momentum provide us with confidence in our outlook for the remainder of 2024.
+
+With that, our prepared remarks are concluded. Dilem, you may now open the line for questions.
+
+Question And Answer Section
+Operator
+Thank you, sir. [Operator Instructions] And I show the first question comes from the line of Robbie Marcus from JPMorgan. Please go ahead.
+
+Robbie Marcus
+Analyst, JPMorgan Securities LLC
+Oh, great. Congrats on a nice quarter and thank you for taking the questions. Two from me, top-line and bottom-line question. Maybe I'll start with the bottom-line. Once again, fantastic upside on profitability, very nice EPS margin upside versus consensus and the guide.
+
+Maybe just speak to the sustainability and trajectory of those margins. I see what's implied in the guide for fourth quarter, but just thinking further out, it seems like you've been able to leverage your DTC spending better. You were down year-over-year. How do you think about the trajectory forward, the need for investment in 2025 behind the new launch? And I guess really can we see this continue upwards as sales grow?
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Yeah. Hi, Robbie. We want to continue, as we said, when we became profitable, that we want to see consistency and getting leverage throughout our organization, not just with DTC, but also with our R&D, as well as the performance of our sales team through increased utilization. So we want to continue moving forward. Lot to unpeel in there, but we have shown some efficiencies with our DTC, as you highlight there, to be able to continue to create awareness and bring patients to – into the system. You have to be able to do that in a more efficient and cost appropriate manner. But yes, we continue to move forward in a profitable state.
+
+Richard John Buchholz
+Chief Financial Officer, Inspire Medical Systems, Inc.
+Hey, Robbie, this is Rick. I'll add on to that. One item to call out is the R&D expense. It did – it was reduced to about 13% of our Q3 revenue. Historically, that's been closer to the higher teens. And so one of the phenomenons there is that we did have some prelaunch inventory, $1.7 million, that was expensed in the third quarter of 2023. We did not have that in this quarter.
+
+And so we do expect R&D to be in the mid to high-teens on a going forward basis. We also had some development costs, shift from development really into more of the regulatory process. We did not have some of those R&D costs in the third quarter. But we still expect that we'll have continued profitability on a year-over-year basis.
+
+Robbie Marcus
+Analyst, JPMorgan Securities LLC
+Great. Appreciate that. And maybe just for my follow-up on the top-line. Tim, I think it was on the last quarter call, or maybe it was at an investor conference earlier this quarter, you talked about improving sequential utilization third quarter over second quarter, or fourth quarter over third quarter. Now that we have the results, what are you seeing in terms of utilization? How do you feel about third quarter and what do you think or what's implied in the guide in fourth quarter? Thanks a lot.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Yeah. I think we had a great Q3. I do – the utilization from Q2 to Q3 is consistent between the two and we do have a step up from the prior year period. It is our aspiration to be able to continue to grow utilization and that will remain our focus going forward. I think maybe we saw a little seasonality in Q3 and maybe a late impact regionally at the end of the quarter. But I think overall, we're happy with the performance in Q3 and utilization is flat to Q2.
+
+Robbie Marcus
+Analyst, JPMorgan Securities LLC
+Appreciate it. Thanks a lot.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Thanks, Robbie.
+
+Operator
+Thank you. And I show our next question comes from the line of Danielle Antalffy from UBS. Please go ahead.
+
+Danielle Antalffy
+Analyst, UBS Equities
+Hey, good afternoon, guys. Thanks so much for taking the question. Congrats on the strong quarter here. Just to follow-up on Robbie's question around the guidance and specifically the comment, I think, Tim, that you made around reflecting some potential impact from the IV fluid shortage and the hurricanes. Any way to quantify that? Or maybe the way to ask the question is, how would we be thinking about utilization? Were we not seeing some impacts there? And then just a follow-up after that.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Sure. Well, we think it's difficult to quantify at this time. We anticipate the combination of the hurricanes, as well as the saline shortages will represent some revenue headwind in the fourth quarter, mostly due to the evacuations and center closures. The IV solution is more of a national phenomena and is required in all of our procedures, including the DISE.
+
+But we're tracking that closely and we have staff affected in the area due to the hurricanes. We're making sure that we take care of them and we know that the centers, the hospital and the regions are working really hard to overcome the challenges of the hurricane, as well as regionally focus. We certainly are working hard to make sure we can do whatever we can to help in those areas. But we do expect some impact, at least regionally. But we're working as hard as we can to overcome that. But again, it's very difficult to quantify at this time.
+
+Danielle Antalffy
+Analyst, UBS Equities
+Got it. Okay. That's helpful. And then the follow-up I had is on what you guys are seeing at the sort of start of the funnel, thinking about like from the sleep physician perspective, sleep doc perspective with we got approval for the app measuring obstructive sleep apnea and our checks indicate like doctors expect what are already pretty long waitlist to continue to grow. Anything you can say about what you're seeing there and sort of how to think about that as a potential tailwind in 2025. Thanks so much, guys.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Thanks, Danielle. That's a great question. I think the key is we have to look at all of the avenues that people are becoming aware of the quality of their sleep, be it from sensors in their bed, being it to the Apple Watches, being added to the various technologies that are available. We also have other diagnostic techniques that can help sleep physicians diagnose more patients. And we know that GLP-1s will increase awareness of the quality of sleep as well.
+
+So we believe all of these will add to an increased awareness of sleep quality and identify many patients who do have sleep disordered breathing and specifically obstructive sleep apnea. So we do think it's going to be a tailwind going forward and it's our job to continue our DTC and our awareness programs and to improve our ability to connect these patients with the healthcare providers. And as you mentioned, their demand is going to be continuing to grow. So we need to find efficiencies and helping our patients through the overall process.
+
+Danielle Antalffy
+Analyst, UBS Equities
+Thank you.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Thanks, Danielle.
+
+Operator
+Thank you. And our next question comes from the line of Travis Steed from Bank of America Securities. Please go ahead.
+
+Travis Steed
+Analyst, BofA Securities, Inc.
+Hey, congrats on a good quarter. Wanted to ask about the coding strategies for Inspire V. If you could kind of elaborate on what some of the potential outcomes could be around that and the decision to not take a price increase on Inspire V.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Well, we have really one action that we're working with the payers and we want to make sure that the Medicare or the MACs, as well as the payer are fully aware of this and we can communicate with them. And then we also will be working with our physicians. But we think the OPPS rules are consistent and they show just a slight increase.
+
+And with that, we thought it was appropriate to maintain a system-level pricing when we introduced Inspire V versus Inspire IV. And remember, we don't have the pressure testing lead anymore with the Inspire V system. So we will be adjusting the price of the neurostimulator, but the system-level pricing will be consistent and we'll lay all this coding out once we get the direct feedback from the MACs, which we are already making good progress on and believe will be ready to go when we launch.
+
+Travis Steed
+Analyst, BofA Securities, Inc.
+Great. And then a follow-up on 2025. I think before you had said you were fine with the consensus at 2025. Is that still the case and just how you're thinking about some of the puts and takes around competition baking an Inspire V launch, GLP-1s? Is there any other puts and takes to think about on 2025 at this point?
+
+Richard John Buchholz
+Chief Financial Officer, Inspire Medical Systems, Inc.
+Yeah, sure. Hey, Travis, it's Rick. Still a little early to comment on 2025, because we're right in the middle of our planning. But as we've mentioned before, we continue to think that the current consensus, if you will, for 2025 is not unreasonable. We'll provide some more color soon as we get to our Q4 earnings call. But some of the moving parts that really give us confidence for 2025 include our ongoing footprint expansion of more centers and more sales territories, our targeted DTC investments.
+
+We've not talked about France much, but we expect some contribution outside the US from France. And also, obviously, the launch of Inspire V and we continue to – finally, we get updated indication with our payers on the expanded indications for BMI and AHI in more payer coverages. Those are some tailwinds, I guess, for 2025.
+
+Travis Steed
+Analyst, BofA Securities, Inc.
+Great. Thanks a lot.
+
+Operator
+Thank you. And our next question comes from the line of Adam Maeder from Piper Sandler. Please go ahead.
+
+Adam C. Maeder
+Analyst, Piper Sandler & Co.
+Hi, Tim and Rick. Congrats on the quarter and the impressive leverage, and thanks for taking the questions. Maybe just picking up on that thread on 2025. Rick, you just kind of outlined the tailwinds for next year. But as you think about maybe some of the potential headwinds that could face the business in 2025, whether it's potential impact from device competition or GLP-1s and tirzepatide, we just love for you to kind of provide some early thoughts there in terms of how you see that potentially impacting the business. And then I have a follow-up. Thanks.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Sure. I think that Inspire is well established in our market with our centers and physicians and we need to continue to watch to see if there's going to be any new products released in our technology, products released in 2025. And I'm sure there will be some experimenting with that technology, bit of a take with our growth and utilization and tailwinds that Rick described a minute ago.
+
+We're not too worried about that. We'll continue to grow the adoption of Inspire therapy. As far as GLP-1s, again, we'll wait and track the progress with those pharmaceuticals and when they will be available with an indication for obstructive sleep apnea. We're waiting for the FDA to weigh in on that. But again, as we talked about, those products treat a different mechanism of action, and we think that GLP-1s will be complementary to Inspire therapy.
+
+But we do believe it's going to help people lose weight, it's going to help them relax their lateral walls, which is going to be able to present them with tongue base collapse and suitable for Inspire therapy. So again, I think a release of a GLP-1 will be a tailwind for us, but we do look forward to a positive 2025 coming forward.
+
+Adam C. Maeder
+Analyst, Piper Sandler & Co.
+That's helpful, Tim. Thank you for that. And for the follow-up, maybe if we could just double-click on the gen 5 rollout and hoping for some additional granularity there. It sounds like progressing to a soft launch. What exactly does that look like? How are you coming along on the manufacturing and inventory side? Should we expect kind of an early 2025 full launch? And then just on the margin side, pricing sounds like is at parity to gen 4, but will this still be gross margin accretive? Thanks again.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+No, thank you, Adam. I think the key is exactly that, is having the manufacturing lines up and running. And with the success that we've had over the years, we need to make sure that we have the proper amount of inventory on the shelf prior to launch and production line is active and we're making sure that we're preparing for that. And when we have the proper inventory, we will go ahead and launch.
+
+Several elements that also happen as part of the readiness is we will need new contracts with all centers, because it is a new model released. We will be training our internal team, as well as training all physicians on the use of the new Inspire V device. So all positives and we are preparing across the board for it. And as you mentioned, while the price is remaining consistent with the Inspire IV in that we do not require to produce the sensing lead anymore, it will reduce our COGS and we believe that we'll see a slight increase in gross margin over time.
+
+Adam C. Maeder
+Analyst, Piper Sandler & Co.
+Thank you.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Thank you.
+
+Operator
+Thank you. And our next question comes from the line of David Rescott from Baird. Please go ahead.
+
+David K. Rescott
+Analyst, Robert W. Baird & Co., Inc.
+Great. Thanks for taking the questions, and congrats on the quarter here. First one from us, the margin in the quarter is obviously pretty outstanding. I did want to ask more so on the DTC, the advertising side. It looks like that's been pretty flat, if not down slightly year-over-year.
+
+When you think about the level of investment that you have in DTC so far this year, I mean, is that something that you think can probably remain pretty flat into the out years? Does it continue to maybe go down on a year-over-year basis or is there some point in the future where maybe you have to search to reaccelerate that just to support the level of growth that's out there?
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Yeah. Hi, Dave. We're going to continue to invest in our growth. There's no question about that. And that comes in many forms. Certainly with R&D, because we're already talking about launching Inspire V, certainly with the continued scaling of our field organization, but also making sure that we measure the effectiveness of our DTC. And while we mentioned over the time that you were able to build the efficiencies and still get strong response and building the awareness of Inspire, we'll continue to monitor our DTC spend.
+
+And while it's been pretty consistent of late with gaining efficiencies and bringing the attention and still bringing the patients requesting appointments with healthcare providers, we'll continue to monitor that and we're not committing long term that we'll continue to decrease that. We may increase it to even grow adoption further. So again, really focused on investing in growth. Anything to comment on that?
+
+Richard John Buchholz
+Chief Financial Officer, Inspire Medical Systems, Inc.
+Yeah. I've mentioned from the dollar perspective, we've mentioned in 2024 that it will be – the overall spend for the year will be relatively flat over 2023, where we spend $100 million in DTC. But we are also making medical education investments, and those are higher in 2024. We're increasing our investments in training programs for the sleep fellows and ENTs. And so we – that along with being more targeted and efficient in our digital advertising focus, it's allowed us to decrease the spend but still have kind of wider DTC initiatives.
+
+David K. Rescott
+Analyst, Robert W. Baird & Co., Inc.
+All right. Thanks. Maybe on international, you called out France for next year. I know in Q4, you had – you have a little bit of a benefit, I guess, on a year-over-year basis in the fourth quarter for this year. So maybe can you help us think about how you're thinking about the implications for international in the fourth quarter this year? And then any other color I think that you could provide just around some of these additional markets that are contributing maybe the size of what France could be, but just help us think about that broader growth into 2025 as well. Thank you.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Sure. I think the two big markets that are going to have a positive impact going forward are going to be France and the UK. And I think that both of them are just up and comers right now. Obviously, we just spoke last quarter about the country-wide reimbursement in France and our ability now to really start to open up the centers and start to take advantage of that and help patients in France receive therapy.
+
+So we're going to help them build their business over the next several years. And I think we're also seeing increased performance out of the United Kingdom. And that being said, we still have another year to go in the DACH region with Germany, Austria, Switzerland, and, again, Belgium and Netherlands continue to perform quite well, and we will make some progress over in the Asian markets as well. So I think we'll see consistent growth in international markets as we've seen in the past.
+
+David K. Rescott
+Analyst, Robert W. Baird & Co., Inc.
+Thank you.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Thank you.
+
+Operator
+And I show our next question comes from the line of Michael Sarcone from Jefferies. Please go ahead.
+
+Michael Sarcone
+Analyst, Jefferies LLC
+Great. Thanks for taking the question. Just a follow-up, actually, on Adam's question about the Inspire V rollout. Tim, you mentioned a few things that have to be done, including renegotiating some of those contracts. Do you think you can just talk about whether or not that's a heavy lift or does that vary by type of account or customer?
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+I think with our decision to leave system-level pricing consistent with the existing pricing of the contract, it minimizes that burden. It really is a logistics process to go through with centers just to make sure that we have the new product added on to the – pricing this in the addendum. So we don't believe that's going to be too much of a heavy lift to complete those contracts.
+
+Michael Sarcone
+Analyst, Jefferies LLC
+Great. Thank you. And then just we saw PREDICTOR data a few weeks ago, I was just curious if you had any update on how your conversations with payers are resonating now that we have that data?
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Payers are receptive. They want to understand better ways to help patients through the process. And if they don't require to have a drug-induced sleep endoscopy, that can save the payer a little bit of investment in that patient's diagnostic without reducing the quality of care. And that's what's most important.
+
+And as you saw at the meeting, there is the introduction of an algorithm for patients who have a BMI less than 32, and for patients with less than 28 – a BMI less than 28, they really don't have a lot of lateral wall collapse. So the proposal or the algorithm is that they can proceed directly to implant. And those between a BMI of 20 and 32, they want to have one more method, and that was measuring neck circumference was the idea presented, and any neck circumference less than 18 inches could proceed to therapy.
+
+So we need to collect a little bit more information on that. But it's a pretty strong algorithm that we can look at and have discussions with payers, as well as physicians to be able to adopt that process. So it's a very good to be to present that data that physicians are working on a peer reviewed publication and there is two other abstracts at the meeting talking about lateral wall collapse as well. So we're going to combine a lot more of this information to get everything put together as we take the next step forwards with this.
+
+Michael Sarcone
+Analyst, Jefferies LLC
+Okay. Thanks, Tim.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Thank you.
+
+Operator
+Thank you. And our next question comes from the line of Richard Newitter from Truist Securities. Please go ahead.
+
+Richard Newitter
+Analyst, Truist Securities, Inc.
+Hey, guys. Thanks for taking the questions. Congrats on a good quarter here, especially the profit. I wanted to start, first question, just on the Inspire V coding strategy, if you can get a little more specific, our understanding was that the most logical route or strategy is to go back to using the cranial nerve stimulation code, is that correct? And then if it were, can you just talk to what your confidence level is that whether it's that pathway or some other pathway that you can keep the physician economics neutral to where they stand now given the faster procedure time on a per unit of time basis?
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Yeah. And, Rich, we're making sure that we have this worked through with the MACs and the payers first before we really kind of lay this out. We want to make sure that they have a fair shake at all the information to be able to come back and weigh in.
+
+The advantage that we have going forward as you highlight, the Inspire V procedure is shorter, in that we do not need to implant the pressure sensing lead anymore, but that also improves the ability to do inter-operative testing, that saves a little bit of time as well. So yes, when we get down it, it's going to be a measure of physician reimbursement on a per minute basis. But what we look at, Rich, is if we can reduce the OR time such that physicians can do more procedures in a single surgical day, that's a significant benefit because they can bring a significantly more revenue, whatever code they use to be able to take care of a more patient.
+
+So however you look at, it's still going to be a net positive for the physicians and that it builds efficiencies and allows them to take care of more patients. And as we've talked about, we know the limiting factor that we have today is we simply do not have enough capacity with ENTs to take care of all the patients that we have. So being able to reduce OR time allows for more procedures in a day. And the relative value of these codes is such that it's still going to be a net benefit for the physicians either way.
+
+Richard Newitter
+Analyst, Truist Securities, Inc.
+Okay. Thanks for that. And then just going back to the 2025, you don't view consensus as unreasonable, or consensus looks reasonable on our view, I'll rephrase that. I guess, because there's an international component to consensus, I'm just trying to think on US utilization, you've talked in the past about the goal being to consistently grow utilization in the US year-over-year. I guess when you say consensus doesn't look unreasonable, the consensus does project modest, but still growth in US utilization year-over-year, low-single-digits. I guess, does that count as part of your comment that consensus looks reasonable? Thank you.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Thank you, Rich. Yes, we do want to continue to grow utilization. We do know same store sales is an important aspect to the growth of Inspire. And we also know that centers that have the highest utilization also have the highest patient outcomes. Well, that's natural because there are more experience, and every healthcare provider associates associated with that center has more experience.
+
+So as we look for utilization into the future, we want to continually grow same-store sales and that will continue to be a focus going forward, and that is incorporated when we make our comments that the consensus next year is not unreasonable, and we do take into account the international business as well.
+
+Richard Newitter
+Analyst, Truist Securities, Inc.
+Okay. Thanks, Tim.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Thanks, Rich.
+
+Operator
+Thank you. And our next question comes from the line of Larry Biegelsen from Wells Fargo. Please go ahead.
+
+Larry Biegelsen
+Analyst, Wells Fargo Securities LLC
+Good afternoon. Thanks for taking the question. Tim, I'll make this pretty quick, two quick ones. One is when you do the soft launch, what are you going to tell surgeons? How are you going to tell surgeons to bill for Inspire V, if you're not going to disclose the coding until next year? And second, is there any concern at this point of patient warehousing for Inspire V ahead of the full launch? Thanks.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Thanks, Larry. How are you? The physicians will have specific instructions with their payers for their soft launch Inspire V procedures. So they will be brought under the tent to make sure that they're able to work with the payers to get the proper sequencing all set up.
+
+Number two, we believe people will become aware of Inspire V. We don't believe there will be a significant delay in patients wanting therapy. Especially in 2024, we know that with the high deductible insurance plan, patients are really going to be pushing hard to get the therapy in the year. But we'll continue to monitor that as we get into 2025 and prepare for the full launch.
+
+Larry Biegelsen
+Analyst, Wells Fargo Securities LLC
+All right. Thanks for taking the question.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Thanks, Larry.
+
+Operator
+Thank you. And I show our next question comes from the line of Shagun Singh from RBC. Please go ahead.
+
+Shagun Singh
+Analyst, RBC Capital Markets LLC
+Oh, great. Thank you so much. I guess just two clarification topics on Q4 and 2025. If you look at sequential growth from Q3 to Q4, it implies about mid-teens. And looking at the past five years, you've pretty consistently delivered sequential growth in the high 20s. It comes to somewhere around $20 million in that differential. And I'm just wondering, what have you contemplated in your guidance for this hurricane IV saline shortage? And then is there any US inventory dynamic at play ahead of the Inspire V launch, or is it conservatism? Anything you can share there?
+
+And then on 2025, again, just a follow-up, why do you think consensus is reasonable at about 20% year-over-year growth versus 27% to 28% that you're looking to do this year? And there are a lot of guidance next year as we think about Inspire V predictor replacement cycle, et cetera. So why is that reasonable at all and why can't you do better? Thank you for taking the questions.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Very good. Let's start with Q4 and start with the hurricane. Again, we are still kind of assessing the regional impact of the hurricanes. Again, we have our own team members who are displaced and working to make sure that they're all taken care of and the centers are back up and running, and potential patients are able to get back to their homes and get back in and try and recover, including scheduling a lot of the cases.
+
+But also remember, in the fourth quarter, that's when we run up against our capacity, because as you mentioned, with the step up from Q3, we run at a higher utilization, and there is a high demand in there. So it's – we don't have a lot of capacity to make up. So that's why we're closely monitoring the regional performance there. But we're doing everything we can to certainly help those patients as we go forward.
+
+When we look at 2025, yes, we have a lot of tailwinds helping us along. But again, we think that it's very early and we're still just starting our annual operating plan process. But when we kind of look at our progress to date, that's where we kind of looked at those consensus numbers and we determine, yeah, those are not unreasonable, but we really look forward to finishing our annual planning and coming forward with a strong plan for 2025.
+
+Shagun Singh
+Analyst, RBC Capital Markets LLC
+Thank you.
+
+Operator
+Thank you. And I show our next question comes from the line of Kallum Titchmarsh from Morgan Stanley. Please go ahead.
+
+Kallum Titchmarsh
+Analyst, Morgan Stanley & Co. International Plc
+Yeah, thanks a lot for taking the questions, guys. I'll ask two upfront. Firstly, just wanted to understand your priorities with a strong cash pile. Last quarter, you obviously announced the buyback, but any other intentions you want to flag there as we head into 2025 and beyond? And then secondly, just looking for any update on the metrics you're thinking of providing us to help assess performance from 2025 and beyond in absence of those [ph] in terms of (00:48:19) numbers. Thanks a lot.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Absolutely. Yeah, we're very proud of the strong cash balance that we have, the team's working very hard. And as we mentioned, we're getting leverage across the organization to be profitable and start to move forward. With that, we did reserve for stock buyback and we said we were going to be opportunistic. With that at this point, we have not triggered that buyback as you know, as we've been tracking that very closely, but we remain opportunistic and the plan is still in place.
+
+As far as the other use of cash, I think we always look for opportunities where we can grow the adoption of Inspire therapy. And in the past, we've made minority investments in technologies that can help us with patient flow, and we'll continue to keep our antennas up and on what technologies can really help us grow awareness and adoption of Inspire and continue to report back on that. As far as metrics?
+
+Richard John Buchholz
+Chief Financial Officer, Inspire Medical Systems, Inc.
+Yeah. Regarding 2025 metrics, we're still working through that, but we will guide to revenue and gross margin and earnings per share in 2025. Historically, as you know, we've always been transparent, and so we want to continue that. So, we will continue to disclose our US sales territories. We won't guide to that number, but we will disclose it.
+
+And we were also discussing the fact that we will disclose possibly number of field clinical representatives just to provide some additional insight into our business and how we continue to commercialize. But again, as we've grown and we're a larger company, we believe that profitability is more relevant guidance metric in tracking our financial performance over time.
+
+Kallum Titchmarsh
+Analyst, Morgan Stanley & Co. International Plc
+Thanks a lot.
+
+Operator
+Thank you. And I show our next question comes from the line of Jon Block from Stifel. Please go ahead.
+
+Jonathan D. Block
+Analyst, Stifel, Nicolaus & Co., Inc.
+Great. Thanks, guys. Two quick ones. Tim, I'm just curious if you were seeing any early outreach or inquiries from ENTs that are now looking to get trained due to the pending elimination of the sensing lead, simplifying the procedure, having them be a little bit more comfortable, obviously that could help the number of ENTs per center and free up capacity. That's the first quick one, I'll pause.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+We talked about that that we believe that that will have a positive impact when physicians no longer need to place that sensing lead between the intercostal muscle that's kind of the one unnatural part of the procedure. We do believe that that will have a positive impact.
+
+But, Jon, at this point, we are not marketing Inspire V. The only time we talk about Inspire V is here on these calls to give you all some awareness of our plans going forward. But we're being very careful about talking about Inspire V outside of this. So, I think that would be a phenomena that you'll see in 2025 when it will be able to open the door. And I think the key to it is what you hint at is, the best way for us to increase capacity is to train additional surgeons at existing sites. And I think that really helps and that will be our focus going into next year and look forward to talking about that more in the future.
+
+Jonathan D. Block
+Analyst, Stifel, Nicolaus & Co., Inc.
+That's helpful. Maybe just a follow-up there. I'd actually always been surprised when we reach out. The docs are very in tune with Inspire V and, quite honestly, Tim, most know about it. So, I get your point of you're not marketing it, but they do seem to be pretty knowledgeable about Inspire V in that it's approved. Like, what are you telling these docs in terms of when they're going to get trained or when they can start doing the procedure? That's sort of the follow-up to that last one.
+
+And just quickly, Rick, the EPS was huge. The OpEx, if I've got it right, was down about $4 million to $5 million sequentially. Back in the conference call, you expected it to be up $8 million to $9 million, I think, sequentially. So just what played out throughout 3Q on the OpEx side that led it to come in considerably below what your view had been? Thanks.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Quickly on the Inspire V, we do get questions when several individuals were on this call, we're down at the American Academy of Otolaryngology meeting and the International Sleep Surgical Society (sic) [International Surgical Sleep Society], and the Inspire V is not a large topic. We don't have it as part of our booth.
+
+Obviously, Jon, you talk to a lot of academic physicians and they have knowledge into the research ongoing, and they're part of the evaluation. So there is a lot of talk amongst the academic physicians certainly about Inspire V. But as far as our own [ph] discuss, again (00:53:21) we keep it relatively quiet. And so, no, we haven't disclosed when they will be trained or when we will be launching it, just as we discuss here.
+
+Richard John Buchholz
+Chief Financial Officer, Inspire Medical Systems, Inc.
+Yeah. Hey, Jon, it's Rick. Regarding the OpEx, we did have a reduction, as I mentioned, on our R&D line item, because of Inspire V shifting from developmental to more operational readiness. Again, DTC was down. We also – some of our stock-based compensation just based on timing of in the past on hires and so on, that also had an impact on the sequential OpEx number. But again, we expect we're going to continue to invest in our business across all facets, R&D and our sales organization.
+
+Jonathan D. Block
+Analyst, Stifel, Nicolaus & Co., Inc.
+Thanks, guys.
+
+Operator
+Thank you. And I show our next question comes from the line of Anthony Petrone from Mizuho Americas. Please go ahead.
+
+Anthony Petrone
+Analyst, Mizuho Securities USA LLC
+Thanks. Maybe one on the funnel, Tim. Just when we think about GLP-1s, that 32-plus BMI category potentially providing a halo effect to hypoglossal nerve stimulation. Are you seeing that already in numbers? And when we think ahead to 2025 potentially having a GLP-1 on label for sleep apnea, how do you think that plays out from a funnel perspective? And then I have one quick follow-up for Rick. Thanks.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Thanks. And we watched the Maple Leafs in town last night. So sorry we had to send them home with that loss, but the – I think that's a great question. With the 32, if you kind of look back with the lateral wall collapse, as well as the early reimbursement policies from payers, the majority of our patients really have a BMI less than 32. So if you look at the number of patients in there, it's really going to be advantageous if we can find a better avenue to be able to move them straight to therapy or be able to assess also with [indiscernible] (00:55:37).
+
+It's really going to be a unique opportunity for those patients who really don't see a benefit of having a drug-induced sleep endoscopy, because they don't really have a likelihood of having lateral wall collapse or complete concentric collapse. So really, the BMI less than 32 is really just a natural breakpoint. And now we're going to continue to keep investigating higher than 32 up to a 35. But at that point, you really start to get a greater propensity for that lateral wall collapse.
+
+As far as the GLP-1s, I think it's a matter of timing on when they get approval and if they get approval with the indication for obstructive sleep apnea, and then what will be their time to be able to launch that product and have a positive impact. So, there is still so much we don't know about that regulatory process or what their launch timing will be or how they will pursue reimbursement. But we are confident that the launch of the GLP-1s and the continued use of those drugs to be able to treat obesity is going to help patients with obstructive sleep apnea lose weight and come into the funnel for Inspire. So we'll continue to track that, but we do believe that will be a positive tailwind well into the future.
+
+Anthony Petrone
+Analyst, Mizuho Securities USA LLC
+That's helpful. One for Rick, just on R&D, it stepped down quite a bit. Maybe just a recap of what studies are in there today, is complete concentric collapse still in there? And will there be additional studies launched in 2025? Thanks.
+
+Richard John Buchholz
+Chief Financial Officer, Inspire Medical Systems, Inc.
+Yeah, we're continuing to make investments in the R&D line item. There was – we had expensed about $5 million of pre-launch inventory in 2023. And so, that did not occur in 2024, because we got approval and we're getting closer to launch. So, R&D was running a little hotter last year because of the pre-launch inventory.
+
+But we're still making investments as we have in the past. But we're also continuing to make investments in our SleepSync digital platform, in our digital health area. And also with the PREDICTOR study, we had clinical study expenses there and with our recently approved SleepSync program. So we're continuing to make R&D investments, and that's why we're indicating that it's going to be closer to mid higher-teens on a go-forward basis.
+
+Anthony Petrone
+Analyst, Mizuho Securities USA LLC
+Thank you.
+
+Operator
+Thank you. And I show our next question comes from the line from Brett Fishbin from KeyBanc Capital Markets. Please go ahead.
+
+Brett Fishbin
+Analyst, KeyBanc Capital Markets, Inc.
+Hey, Tim and Rick, thank you so much for fitting me in. Just wanted to ask a follow-up on the hurricane and IV shortage topic. It sounded like you're still working on quantifying the impact on revenue for 4Q. So, just curious if you think that that item is generally de-risked in the implied guidance, or if you're still seeing an impact and level of uncertainty even into the month of November.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Yeah. We believe that the recovery effort is well underway, and we try to build that in, but we do think that is de-risked. So I think we see that a little bit of the impact late in Q3 obviously in September when we get the evacuations, and it's really a regionally focused area. And then, in the fourth quarter, of course, we get a second hurricane and then the IV shortage.
+
+But I think that we're able to kind of address it. Our challenge is going to be just making sure that we have the capacity in the fourth quarter to be able to take care of the patients once they get back into their homes and get back into the healthcare and get rescheduled for their Inspire procedure. So really, for the most part, we're just focused on a local effort.
+
+Brett Fishbin
+Analyst, KeyBanc Capital Markets, Inc.
+All right. Thank you for that color. And then just for my follow-up, was wondering if you could comment a bit on how the new centers that you added in the first half of this year have ramped around utilization compared to the typical progressing curve that you've seen in the past. Thank you.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+I think that we always train centers lately with the expectation to be productive when they start. And we want them to make sure they have a number of patients identified. So when we do start them up, they already have patients in the pipeline. And we are straight up with centers saying there's just – there's no advantage to yourself, to the patients, to anybody for you to come on with the intention of not being a productive account.
+
+And there's too many accounts that really are pursuing Inspire as part of their offerings. And so we make sure that we screen the sites out. So, the intent is that they will move up the utilization ladder quickly. Now, again, it takes time for them to do so, and whether they start earlier in the year or late in the year makes a difference, because the way we categorize our classes is of fiscal year. So even if the center starts in December, they're part of that class of 2024. But again, we train them with the intent to be able to have a system, to be able to have strong patient flow.
+
+Brett Fishbin
+Analyst, KeyBanc Capital Markets, Inc.
+Thank you.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Thank you.
+
+Operator
+And I show our next question comes from the line of Chris Pasquale from Nephron Research. Please go ahead.
+
+Chris Pasquale
+Analyst, Nephron Research LLC
+Yeah, thanks for fitting me in. I'll just ask one, Tim. I wanted to follow up on the Inspire V rollout. I imagine customer demand is going to be high once you make that broadly available. You need to retrain the reps and the physicians. How do you execute that transition without taking people out of the field and disrupting procedure volumes? Is it going to be spread out enough across the account base and that's not an issue, or should we be actually expecting some disruption during the first quarter of the full launch?
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+I think it's a little bit of a relative. I think that we can do a lot of the training on logistics management online. But when we get into the surgical training, specific aspects of it, as you know, Chris, it's really pretty straightforward in that we just simply don't implant the pressure sensing lead. And that the other avenues that we need to train is how do you do interoperative testing. And then the next training is with a lot of the field clinical reps, when we get into the activation.
+
+But again, it's still a device replacement going from Inspire IV to Inspire V. So it's a relatively really straightforward training that I don't know if we're going to really need to take all of our people out of the field to be able to do that training. We should be able to do that on site.
+
+Chris Pasquale
+Analyst, Nephron Research LLC
+Okay, thanks.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Thanks, Chris.
+
+Operator
+Thank you. And I show our next question comes from the line of Michael Polark from Wolfe Research. Go ahead.
+
+Michael K. Polark
+Analyst, Wolfe Research LLC
+Hey, good afternoon. Thank you. Just one for me, I want to confirm on the center additions in the quarter, 66 added. I see the center network up 55 sequentially. So can you confirm there were 11 deactivations, and just if that's...
+
+Ezgi Yagci
+Vice President-Investor Relations, Inspire Medical Systems, Inc.
+Yeah, that's accurate.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Yeah. [indiscernible] (01:02:55). Mike, go ahead. Yeah.
+
+Michael K. Polark
+Analyst, Wolfe Research LLC
+Okay. Okay, can you just remind us what the criteria are to deactivate some of these centers? Thank you.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Sure. I think the number one reason is the surgeon moves to a different facility, and they don't have the ability to offer Inspire at the therapy. That's primary. Number two, if it's a site that's been inactive, we want to be careful of sending patients to sites where they don't have an opportunity to receive Inspire therapy. So, what we do is we take them off the website, we discontinue them.
+
+A lot of sites we do reactivate. And what happens is they may identify new surgeons that can take care of the patient. And we take them all the way through the training process all over again before we reactivate them. But we make sure that if a center is not able to [ph] take care to (01:03:45) patients that we certainly want to discontinue them.
+
+Michael K. Polark
+Analyst, Wolfe Research LLC
+Thank you.
+
+Operator
+Thank you. And I show our next question comes from the line of Mike Kratky from Leerink Partners. Please go ahead.
+
+Mike Kratky
+Analyst, Leerink Partners LLC
+Hi, everyone. Thanks for fitting us in. So, following the PREDICTOR data, can you just help us understand to what extent you expect to be able to navigate away from certain patients needing a DISE procedure in 2025? Is that a noticeable tailwind next year? And what are some of the remaining gating factors to be able to see a meaningful impact on your procedure volumes from that?
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Hi, Mike. Yeah, I think it is. I think what we want to do is we already have payers that have not specifically – I'm sorry, we have payers who have already changed their policy to not specifically require a DISE. And that – because that's consistent with our FDA indication that they identify patients that do not have a lateral wall or complete concentric collapse, but they don't specify how that is determined.
+
+And with the algorithm that we talked about and that you saw down in Miami, that that was we are able to be able to have physicians start to submit patient into those payers to show that this is an acceptable method to be able to identify which patients are good candidates for Inspire therapy.
+
+So I do think it's going to have an impact. So we're already working with some physicians to work with their payers and submit patients using the algorithm to be able to determine if they qualify for Inspire and not requiring them to have a sleep endoscopy. And we'll continue to track that and continue to report back.
+
+Mike Kratky
+Analyst, Leerink Partners LLC
+Awesome. Thanks very much.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Thank you.
+
+Operator
+Thank you. And I show our last question in the queue comes from Suraj Kalia from Oppenheimer and Co. Please go ahead.
+
+Suraj Kalia
+Analyst, Oppenheimer & Co., Inc.
+Tim, Rick, thank you for squeezing me in. In the interest of time, I'll just ask one question. So, Tim, just trying to understand US dynamics, right, if we normalize Q3 2023, the $10 million [ph] that could move (01:05:58) to Q4 2023, we normalize all that, utilization for the last four, five quarters has been relatively flattish.
+
+Can you help us reconcile your statement about capacity issues for this Q4? I guess what I'm trying to understand is if utilization is, let's say, 5.7 implants per site per quarter, so you have 65 working days, and somewhere I'm not understanding your comment about the capacity issue. Even if it's hurricanes, it moves around. But maybe if you can expand on your capacity comments, that would be greatly appreciated. Thank you for taking my questions.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+Absolutely. Thanks, Suraj. Yeah, you asked one question, I thought you were asking four parts, but I think that utilization continues to be our focus, and as you highlight, you spent time with that as well. And I think that as we get into the fourth quarter, we know that there's always a high demand for patients with the high utilization to be able to increase capacity to be able to take care of those patients.
+
+And so it's up to our field team to work directly with the surgeons to really make sure that we maximize as much of our time as possible to take care of the high demand that we know we see in the fourth quarter, and take care of patients as best as we can. But again, our goal continues to remain that we want to grow adoption and grow same-store sales, because we think that that's going to be an important factor with the specifics of the US market. So thanks very much.
+
+Timothy P. Herbert
+Founder, President, Chief Executive Officer & Chair, Inspire Medical Systems, Inc.
+For everybody, I want to thank you for joining the call today. As always, I'm grateful to the growing team of dedicated Inspire employees for their enthusiasm, hard work, and continued motivation to achieve successful and consistent patient outcomes. The team's commitment to patients remains unmatched and is the most important element to our success.
+
+I wish to thank all of our employees, as well as the healthcare provider teams, for their continued efforts as we remain focused on further expanding our business in the US, Europe, and in Asia. And for all of you on the call, we appreciate your continued interest and support of Inspire, and we look forward to providing you with further updates in the months ahead. Thank you very much.
+

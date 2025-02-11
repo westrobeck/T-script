@@ -1,0 +1,282 @@
+Good morning, everyone. Thanks for joining another session at the 43rd JPMorgan Healthcare Conference. I'm Brian Cheng. I'm a senior biotech analyst here at the firm. I'm joined by my associate Sean Kim and Mariam Waggeh, who are also in the audience today.
+
+On stage, we have Immunome. I'll now pass the mic to their CEO, Clay Siegall, for a short presentation followed by a live audience Q&A.
+
+Clay, the stage is yours.
+
+Clay B. Siegall
+Chairman, President & Chief Executive Officer, Immunome, Inc.
+Thanks, Brian. I'm delighted to be presenting here at the JPMorgan conference and telling you about the targeted therapeutics for oncology that Immunome is working on.
+
+Before I get started, I'd like to mention that I will be making forward-looking statements. Feel free to look at our disclosures.
+
+So the goal for Immunome is to establish the premier or a premier targeted oncology company. We anticipate a lot of catalysts in 2025 and we have been building in 2024, which I'll share with you, a lot of foundation, we believe, for long-term success and building a great company.
+
+We have a Phase 3 product called varegacestat. We're releasing the name for the first time. It used to be called AL102. It's a once-a-day gamma secretase inhibitor. I'll show you some information and data on that. Our Phase 3 top line data is expected in the second half of this year, and we are well positioned on CMC in every aspect to go forward and launch this product. I'm also going to be outlining at this presentation IM-1021, it's ROR1 ADC. Phase 1 is planned to start shortly. We are cleared by FDA for the IND we filed.
+
+We're going to briefly mention IM-3050. It's a fibroblast-activating protein or FAP radiotherapy. The IND is planned for later in the first quarter. And then we're going to detail three novel ADCs against solid tumor targets that are in IND-enabling studies. And we'll actually show a little bit of data on three more ADCs. And so six ADCs we'll be detailing, too, in addition to the ROR1 ADCs.
+
+The management team is very experienced, especially with ADCs, but with all targeted therapies, and have done small molecules and large molecules. We have cash runway expected into 2026.
+
+And really, when you look at the vision, it's really to develop differentiated ADCs and focus on novel targets. We're not going to be the 28th HER2 or the 24th TROP-2. We have a plethora, over 50 novel antibody targets that we're working on, developing, and we've been targeted almost half of them as ADCs. And the data is really fantastic.
+
+Our ADC technology is fantastic as well. And we'll detail some of that.
+
+Our clinical development is very efficient and focused, with a lot of experience. And the company is well positioned with our playbook to do some level of partnering and some level of keeping our own product. So it'll be a nice mix.
+
+As I said, the management team is very experienced. I have a full set of fantastic leaders I really enjoy working with. And you could look at our slides at a later time. But for time, I'm going to move forward.
+
+We've done quite a lot of business development in the 15 months that Immunome 2.0 has existed, if you will. In those deals, we've been very cost effective, bringing forward outstanding agents or technology in a way that we can then add value to it.
+
+Now, our pipeline, as I mentioned, is led off by a Phase 3 product. It's a small molecule. But please note we are an ADC-based and focused company. Most of what we're doing is with ADCs. It was an opportunistic move to bring in this molecule and it's exciting. We're delighted with it. But we have or most of our pipeline is ADCs.
+
+So let's start off by talking about varegacestat, which is our new name. So it can address substantial unmet need in desmoid tumors. Desmoid is a type of sarcoma. There's somewhere about 6,000 to 7,000 or so desmoid patients that are actively managed in the US, and they're treated by docs, managed every year and that's the prevalence. There's another about 1,600, 1,700 patients added to the incidence each year. And the full prevalence in the United States is over 30,000 patients, but only about 5,000 to 7,000 of them are managed each year. The other ones really just – they're surveilling the disease. But it is a debilitating, painful disease. And it's not a disease like pancreatic cancer that patients die quickly. But it is not a fun disease. It's difficult. I hope none of you get this.
+
+Until 2023, there was no approved therapy. And then nirogacestat was approved, and that was a really big thing for docs treating this disease. And so it's very exciting that there is now a gamma secretase approved. We're very excited with ours. We think it's going to be the industry leader and I'll tell you why.
+
+But first, I'll tell you that the GSIs, they blocked the NOTCH pathway. And the reason they work is because it's a driver of desmoid tumor. So it's a really good targeted therapy. Varegacestat is once-daily grouping of pills, which is really good. And we're in a Phase 3 study called RINGSIDE.
+
+Now, OGSIVEO, as I said, was approved in November 2023. Sales for that product are increasing nicely. It's a twice-a-day oral product. Ours is a once-a-day.
+
+So the reason why we're developing this product is that we looked at all the data and to us, it looked very exciting. And it reminded me a little bit of when I was running Seagen and I looked at Cascadian. Cascadian was a company around 30 years, who was Biomira and then Oncothyreon and then Cascadian. Three names, no drug. But they had one good piece of chemistry that was tucatinib, which became TUKYSA, launched in over 70 countries and helps women with breast cancer very much. And it was a small molecule pill.
+
+So an ADC company, Seagen, was doing a pill and chemistry. And when you think about the company, when you're an ADC company, you build a chemistry group and you build a biology group. So you really know how to look at both because you need to.
+
+So we saw this program and we were very excited with it because the ORR was substantially better in Phase 2 – not Phase 3, in Phase 2 versus the Phase 3 data for nirogacestat or OGSIVEO. And it's 20, 25 points better when you look at it, whether it's evaluable or intent-to-treat populations.
+
+Importantly, when you look at the tumor volume of patients that are treated and have a response, there's a much deeper tumor regression of 88% versus 59% for nirogacestat. And when you look at T2 imaging, which is really measuring cellularity, it's a much, much better response.
+
+So by all the measurable criterias that doctors look at to consider prescribing new drugs, it is an exciting drug. So we have – the Phase 3 is fully enrolled where it's an event-driven study. We track the events, we have to. But it's a blinded study, so we don't know the answers here.
+
+Clearly, it's an active drug. It looked well, very good in Phase 1 and Phase 2. The interest will be how active, what the real Phase 3 data are, and then we'll report that in the second half of this year. So we're very excited with this program.
+
+I briefly talk about the safety, and I would say based on a comparison of Phase 3 for varegacestat was Phase 3 with nirogacestat. It's not fair to compare Phase 2 and Phase 3. But what I will say here is nothing stands out that makes it look very different. I would say it's very similar and consistent with a gamma secretase inhibitor drug.
+
+And RINGSIDE 3 is, as I said, it's once-daily and we're in Phase 3 and we have – the study is very well designed. We're excited with the study. There's also an open label extension and you can look at these slides on our website for more information on it.
+
+But it's a great – we really like this drug. We've talked to all the docs. They seem to like it very well. Enrollment was brisk, and we finished enrolling Phase 3 ahead of time. So we're really pleased with this. So stay tuned to the second half of 2025.
+
+Now I'd like to tell you about IM-1021. This is our ROR1 ADC. So ROR1 is a interesting molecule because it not only expressed in liquid tumors, but it's also expressed in solid tumors. A lot of antigens are either liquid or solid. So this one's a little bit unique in that regard. And it doesn't have very much normal tissue expression. So we really like this target for its therapeutic window potential.
+
+Now ROR1 was made into an ADC by a private company called VelosBio, and I'm very aware of that company. When I was running Seagen, I was very interested to maybe acquire that company because I thought it makes sense for Seagen acquire it. And Merck came in and paid $2.75 billion, which was a lot more than I thought I was going to pay for it. But good for Merck.
+
+And they put it into – and what Velos had shown was activity and I think it was 27 or so patients, largely B-cell lymphoma, largely mantle cell lymphoma, which I thought would be really good for Seagen to develop. But Merck took it. They put it into many studies in solid tumors, combining with KEYTRUDA. The data didn't hit what they wanted to do and they have announced that they're not developing in solid tumors.
+
+Their data in liquid tumors was interesting, but that's what Velos had shown. Merck combined it with our R-CHP, dropping the Oncovin from R-CHOP. And they showed that in – and treating them together. It was 15 out of 15 CRs in patients. And so they're looking at going forward with that, but discontinued for solid tumors.
+
+Now when we look at our data, the short story is our antibody was selected based on having high internalization. And we're using an ADC system that's very different that has a DAR, drug antibody ratio of 8. So it's got a lot of drug on it and it has a very rapid internalization.
+
+And what's key there is that the internalization for the antibody, which I know very well, that was at VelosBio, that was acquired as a one-off antibody from Oncternal. And that antibody was not selected for internalization. Ours is.
+
+So if you want to treat liquid tumors that have a lot of antigen, that's okay with something that doesn't internalize well and they had data there. But when you look at solid tumors, the thing is the expression level is much lower in solid tumors and liquid tumors. So what you need is a rapidly internalizing antibody. And ADCs can work in low antigen density, but you need rapid internalization and a high DAR.
+
+So that's what we have in our molecule, a high DAR and rapid internalization. And we have shown that it is very effective in different model systems of liquid tumors. And I think in liquid tumors, this is going to work tremendously well. We already know that the original ROR1, which is not approved yet and it's going to be a launch, it's multiyear study, is a interesting molecule in liquid tumors. I think what we have is better in liquid tumors.
+
+And then when we look at solid tumors, we see that it works tremendously well in solid tumors and much better than what VelosBio and now Merck has.
+
+Now, our payload is called HC74. It's a TOPO1 inhibitor and it allows for a higher DAR than antimitotic payload. So we think we can get to a higher DAR, which is really important for the solid tumors. And when you look at different ADCs out in the world, I've studied this for decades, the two best mechanisms are antimitotic and TOPO1 for now. I'm sure in the future, there'll be others.
+
+I believe that our mechanism of action and our potency are excellent. I'll explain a little bit about what makes our drug linker unit unique and differentiated.
+
+Now for IM-1021, our ROR1 ADC, there's a significant opportunity in solid tumors. And what you could see over on the right side, to cut to the chase, is that in PDX models or tumor models of triple-negative breast cancer or non-small cell lung cancer, we can get substantial antitumor activity. And this is much better than what you would see with the Velos now Merck product. So we think we have a much better chance to have great data in solid tumors. And we're certainly developing it in the clinic in both liquid and solid tumors.
+
+We submitted our IND to FDA in November. We got it cleared in December, which is always good. I've submitted a lot of INDs over the years. And when you get them cleared within a month, that's a good sign. And so we're really excited to start treating patients.
+
+I don't know exactly when first patient will be in. It takes a little time to get the contracts done once you're cleared by FDA. But I'm going to guess probably something in mid-February or so. So you should hear from us when we start first patient in, and we'll announce that. But we're excited to go both in solid tumors and liquid tumors.
+
+Now, I want to tell you and switch to a little bit about our ADC discovery strategy and what we're really building for the future and the underpinning of the company.
+
+So our team is really experienced. We've made a lot of different ADC drugs. But what we do is a great job at really positioning and evaluating and interrogating different antibodies. So we understand the tumor biology. We look at every target and try to figure out what these targets do, what do they normally do? What's the biology of it? We use a differentiated ADC system.
+
+Now, there are – when I made the vc-MMAE at Seagen, that was logs better than previous ADCs and opened up the field in the world of ADCs, and a lot of companies do it now. What we have and we've made is – and then since then, there have been TOPO, so inhibitors.
+
+So we started with antimitotics at Seagen and then TOPO inhibitors. And you know DXd, which is in HER2 and others, and it really helps the patients. We have a TOP1 inhibitor that we think is the step-up from the DXd. And I'll show you a couple reasons why.
+
+So in 2024, we screened over 1,000 different targets. And we have our own proprietary methods and we have hard work and comes in both. We picked out over 40 targets that we really liked out of those targets and then we have evaluated so far as many as we can, as fast as we can over 15. And we've made quite a lot of ADCs that look really, really good.
+
+I'm going to share with you three that are now in development. They're being scaled up for manufacturing to go into clinic. And our goal is to put one after another novel exciting ADC into clinical trials.
+
+I'm going to show you six ADCs and behind that, there's another six that we've looked at that are exciting. And so, I think you'll be seeing a lot of ADCs from us, which gives us a lot of good opportunity for partnering as well, because we have a lot of ADCs and it's unclear we could develop all of them as fast as we want. We could certainly could develop all, but with the speed, it might be good to have partners here and there.
+
+And if you look at what I did at Seagen, the playbook was doing some good partnering and some keeping up drugs. I think that's going to be Immunome's playbook is doing a mixture of that. I think that's healthy.
+
+Now taking a step back, today, 55% of all ADCs in development are to the same 10 targets. This is crazy to me. It just doesn't make sense. The vast majority of these are not going to get approved.
+
+Some of these drugs are fantastic. When you look at Padcev, which I made or ENHERTU, to try to beat that is possible, but it's going to take hundreds and hundreds of patients and years of studies and hundreds of millions of dollars. Small biotech, I don't think should be doing that. It's just not appropriate. And what we're focused on is novel targets that can be complementary and not just the 28 HER2 ADC.
+
+So looking over at the right side here, HC74 is our system and it's a TOPO1 inhibitor. And one of the things we did with it is say with DXd, there's some resistance to – multi-drug resistance. So we have a exatecan derivative, which is what DXd is with the backbone. But we have one that's not sensitive to resistant pathways. So that's an advantage.
+
+We also have one that increase permeability, and that helps in bystander activity. We also know that ours clears faster. Now when an ADC falls off the drug in the bloodstream, which happens – you don't want a lot of it, but it happens – you want the drug to clear fast. So we have rapid clearance, which could help in safety. And our potency is higher than DXd.
+
+And all those factors make us – I think we are the next best ADC system and we have custom linkers here, which I'm not going to define. And I think that our drug linker system is – I don't know a better one. There might be a better one, so I don't want to claim it's the best one out there, but I'm not aware of one that actually functions better than what we have here.
+
+Now, let's go through some of our candidates. I'm going to explain some of our novel ADCs, but I'm going to give you numbers on them. I mean, I'm not going to give you targets on them at the present time. And the reason is, there are a lot of global companies that like to find out about targets and make copies. And 20 years ago, I would give you a list of all my targets and – because the global companies weren't doing great science. They are doing exceptional science now and they are doing rapid science. And out of respect to the global players, we're going to talk about number one through six here.
+
+We will come out with the targets as we get closer to the clinic. I think this is the prudent thing to do. And we also file a lot of IP. So the way to protect yourself in 2025 and beyond with ADC in ADC land is to not disclose your novel target too early and to file a picket fence of intellectual property. And we're doing that and we're excited with it.
+
+So the first ADC targets, all the major solid tumors, and this is great. Big market opportunities. And we do a lot of work with different types of targets. This one is a non-obvious target and that people pass through. It has moderate levels of cell surface expression. But it recycles its target and has an intracellular reservoir for the antibody that can make payload delivery really work. So it's been overlooked by other folks.
+
+We've done a lot of tumor biology and shown that this can work, and we made ADCs to this and I'll show you some data. And the data is exceptional using our ADC toolbox.
+
+And so we used doses between 2.5 milligrams and 5 milligrams per kilogram. These are very realistic doses for humans. We're not trying to – sometimes you look at an ADC and someone does an ADC in a mouse and you use a dose you can't do in humans. That's not really helpful. These are real doses that can be used in humans.
+
+And then we've done non-human primate toxicology study and found that we can treat at 40 milligrams per kilogram in a non-human primate. So we have a big therapeutic window with the solid tumor ADC. So this one's in development.
+
+Here's another one that we have against now solid tumors. And this one is one that nobody that we are aware of has ever worked with. It's not shared by anybody else in the ADC land, and it spans both neuroendocrine tumors and carcinomas with really unmet medical needs.
+
+And we know a lot about this tumor biology. As I've said over and over, we know it accelerates proliferation and migration of cancer cells. And we know that it's an endocytic receptor and that could really lead to favorable internalization dynamics.
+
+And so, IM-1340 is something we're really excited about. Very limited normal tissue expression. And here are some data with IM-1340, once again, exceptional data and in non-human primates 40 milligrams per kilogram we could do and well tolerated.
+
+This is a very exciting package, ADC package. And I have developed many ADCs over the years. I may have put more ADCs into the marketplace than anyone else. I really like these packages, and I'm very picky and careful on what we choose.
+
+This one is number three. Now this one is, once again, different. And I'm showing you different. We've selected different ones to show you. This is one that's a known target and that had an ADC that showed activity, but it was discontinued for a lot of reasons and there were limitations.
+
+So we've looked at this and we fixed the limitations. We've engineered the antibody to improve the PK, because the PK of the one that went into the clinic that had some activity was bad. And we engineered antibodies who had better tumor biodistribution. We've optimized the drug linker unit and the data is – you could see on the right in solid tumors, that's pretty spectacular. Flat line on the bottom.
+
+So just by changing and looking at the issues of the antibody, so what you could see with these examples are some of the examples were novel first-in-class. We identified other examples, just were different plays. This one was a known one that we fixed and engineered the antibody. So really exciting ways of coming up with new antibodies and that's really been one of our specialties.
+
+This slide, and I know it's going to go by too fast, so I apologize. These are three different other antibodies that make great ADCs. And I wanted to show you this just because of the breadth and depth of our pipeline that we're working on. We have a lot of very exciting ADCs for solid tumors.
+
+So I want to switch and talk briefly about our RLT, radioligand therapy. Now FAP, fibroblast-activating protein is one of my favorite receptors I've ever looked at. It's on 75% of all solid tumors. If anybody can make a FAP drug, it might be one of the biggest drugs around, but no one's been able to. It's not on the tumor cell; it's on the stroma. It's on all the cells around the tumor.
+
+I've tried to make an ADC to it, it doesn't work. It doesn't internalize. You're in the stroma. So right here – and it's ligand. And so by delivering a ligand with radiation, it clears quickly and lowers safety. When you have an antibody with radiation, it's a difficult molecule. An antibody ADC, the right molecule. But with a ligand like Pluvicto, it's a ligand and that's a good product. So we really like FAP, and FAP is expressed prominently everywhere.
+
+So we took the structure that other people have used with radioligands and we did what I always do. We rip apart the structure and the scientific team at Immunome ripped apart the structure and we made it. This is what we do with ADC technology. We tear apart the structure and figure out how to make it better. It's what we do with antibodies. We do it and we work hard, and it's not like there's a trick to it.
+
+It's a lot of experience. It's a lot of insight into what's going on and hard work. And we do have some proprietary assays and algorithms, but it's a lot of hard work. So we work at this.
+
+People have been talking about FAP for a while. It's such a great target. There's more than 15 FAP ligands. Nobody talks about it. Nobody screen different FAP. Like I say, what – [indiscernible] (00:35:02) a company work. I say, which FAP are you working on? They said FAP. Like what? Like that's not even an answer. Which HER are you working on? 1, 2, 3 and 4 HER. That's not an answer.
+
+So we looked at different FAPs. We looked at different linkers and made custom linkers. We looked at different albumin binders. Albumin binders add to tissue retention because when you use a ligand, it clears so fast. An antibody is long time. A ligand is so fast so we add albumin binder.
+
+Pluvicto has an albumin binder. It adds to tissue retention. Not specifically to the tumor, but just holding it there a little longer. It uses a small one. We looked at a whole pile of different albumin binders from small to large. We did real high science on this. And so we feel really excited to use it.
+
+And then we use a beta emitter, lutetium, and we use it because it has a wide path length. If you're in stroma, you don't want an alpha emitter just to hit the one cell. If you're targeting the tumor cell, I would use an alpha emitter.
+
+If you're targeting the stroma and you want wide path length to hit all the cells around it, that's the way you get the tumor cell. So we've done this right and we are going to file – and we have great data. I think I'm overtime, so we have great data and we are going to file an IND later this quarter.
+
+So that's the last data slide. So my last slide is basically we're building a foundation for the next transformative ADC company with some other products. I've gone through everything here, but we have a differentiated technology and we're planning to reinvent ADCs with our technology.
+
+And one of the things I will leave you with before questions from Brian is I think for biotech companies, I think we are the most investable ADC company. That's what I would leave you with, that there is in the United States the most investible ADC company.
+
+Okay. Brian, all yours. And can I have Bob Lechleider, Chief Medical Officer; and Jack Higgins, Chief Scientific Officer, join me up here?
+
+Question And Answer Section
+Clay B. Siegall
+Chairman, President & Chief Executive Officer, Immunome, Inc.
+Thanks, Clay. So let's start the Q&A. If you have any questions, you can raise your hands and we have a runner on the floor. For those of you who are joining virtually, well, you can also submit questions on the conference portal.
+
+Lots of themes that we need to address, but I think let's focus on the upcoming data – the big data read, the key data read that's upcoming for varegacestat. Hopefully, I pronounced it correctly. So how do you frame the upcoming Phase 3 top line? I think investors are going to look at your data and try to think about, well, is this better than nirogacestat? And I think last time when we host your team at ASCO, that there's certain nuance as well to your study design and what you're tracking in terms of responses. So maybe it'll be helpful to talk about just the expectations and also remind us about what specifically is different in your trial design compared to what DeFi had seen?
+
+Clay B. Siegall
+Chairman, President & Chief Executive Officer, Immunome, Inc.
+Okay. So for that, I'm going to turn it over to Bob Lechleider, our Chief Medical Officer, who will give you some insight onto that.
+
+I will say that our drug is 250 times more potent than OGSIVEO. It is once a day. It's a very different molecule, different chemistry, but it does target gamma secretase.
+
+Bob, do you want address the clinical trial?
+
+Bob Lechleider
+Chief Medical Officer, Immunome, Inc.
+Yeah. Thanks, Clay. And Brian, thanks for the question. I see two questions there. One is kind of really what's the difference in our studies? And the second question is, what are we looking for and how do we anticipate differentiating from nirogacestat, which is currently on the market.
+
+So let me address the first question. There's really no major difference in the design of the two studies, DeFi, which was the pivotal study for nirogacestat. And RINGSIDE, which is our pivotal study for varegacestat. The key difference between the two studies is how we measure the endpoint, and the regulatory endpoint for both studies is progression-free survival, which is a kind of a standard oncology endpoint.
+
+The way that it was measured in the nirogacestat, DeFi study was a composite endpoint of both radiologic progression and clinical progression. Now we asked the FDA whether or not that was acceptable to them and they said no. They said they wanted only radiologic progression. So what that means is that all of the subjects in our study who have a progression event have demonstrated that event by an enlargement of their tumor based on radiology.
+
+How does that change the interpretation of the study? Well, it's the same in both arms, so it doesn't really do anything at all to the hazard ratio. But what it could do, and we don't know if this is true or not, but what it could do is prolong the median time to progression, particularly on the placebo arm. Because if you think about it, a patient's going to have clinical progression prior to radiographic progression. Patient comes in with a big tumor [ph] stock (00:40:22). The tumor is more painful. It hurts lot more. I can't move my arm as much. You do the radiology, it's gotten 15% bigger. That's maybe meaningfully functionally, but it's not meaningfully radiologically. Patient comes off for clinical progression.
+
+We can't count that event. We collect those events. We look at those events, but we can't use it for our regulatory endpoint. So it's possible that we will have a longer median time to progression on our placebo arm, but it doesn't change the hazard ratio, which is the key element when looking at PFS. That's really the major difference between the two studies.
+
+What are we looking for in terms of how we position ourselves once we get approval? The key thing that we are looking at is the objective response rate and the depth of response. The reason for that is we've talked to almost every single investigator that has worked on this study and these are docs who treat specifically desmoid tumor patients. It's a pretty rarified atmosphere up there.
+
+So they see a lot of these patients. I've met many of these patients myself. And what they care about is, does my tumor get smaller? Is my pain better? Can I go back to work? Can I pick my child up? Those are things they really care about.
+
+They don't care whether or not they've gotten a 30% reduction because, unless it means that they could do those functional things because they're not going to die from this disease. In general, this disease does not cause death. It just cause prolonged and profound functional impairment.
+
+So we fully anticipate being able to meet our PFS hazard ratio. We fully anticipate that being competitive with what was envisaged with nirogacestat, but we also anticipate that we will have a superior objective response rate and a superior depth of response as measured by tumor volume, by decreases in T2 within the tumor, and also functional improvements with something like pain in the study.
+
+Brian Cheng
+Analyst, JPMorgan Securities LLC
+Great. And then, Clay, in your prepared remarks at that time, I noticed that you said, we are an ADC-based company. I think if you look across the big pharma, there's a thirst for ADC and you see yourself as an ADC-based company. So, what exactly is your approach here that is different from a platform perspective?
+
+Clay B. Siegall
+Chairman, President & Chief Executive Officer, Immunome, Inc.
+Great. Well, our platform, we think, is state of the art. But I think what's really different and differentiated from us is that we're going after all novel targets and novel antibodies. And so maybe Jack Higgins, who's led all those charge, our Chief Scientist, can comment a little bit about both our drug linker unit and why we think it's state of the art, and our antibodies.
+
+Jack Higgins
+Chief Scientific Officer, Immunome, Inc.
+Thanks, Clay. So just to remind folks, we're focused primarily on a TOPO1 payload. We've made some modifications to be able to show that differentiation and ideally betterment over DXd to be able to have a greater bystander effect, greater clearance to be able to improve tolerability. But also, as was on the slides and I don't know how well people were able to appreciate, but there are chemo resistance mechanisms that DXd is sensitive to, that our payload seems to not have sensitivity towards. These are all in vitro studies that essentially we are able to retain activity even in chemo-resistant cell lines, whereas DXd actually lost some activity.
+
+So we have some – a clear differentiation in our payload. And then I think really as Clay mentioned, we work on a variety of different targets and really the science behind that is knowing and understanding the biology. Having the courage to do all of the data, look at not one single individual data point such as just receptor expression, but to look at the collection of data to make a decision on whether or not this target is truly a reasonable target to go after from an ADC standpoint. And also the team, which we have a dedicated team of about 35 individuals focused solely on ADC research, to be able to prosecute a wide variety and number of these targets.
+
+So really it's just expanding the amount of data that we generate on the preclinical side to be able to go after some of the fruit that's harder to pick. But obviously, we're proving it out with some great in vivo data as well.
+
+Brian Cheng
+Analyst, JPMorgan Securities LLC
+And just one from a data flow perspective, today, you announced three additional ADCs. How should we think about the data flow from not just IM-1021? I mean, there's also AL102. And so, how do we think about the data flow from the rest of the pipeline?
+
+And just from our perspective is that if you just have to pick one trial that's your favorite, how do – which one should we pick and as we want to do more work on it?
+
+Clay B. Siegall
+Chairman, President & Chief Executive Officer, Immunome, Inc.
+First of all, good job not going down the varegacestat pathway and calling it AL102. I know that figure.
+
+Brian Cheng
+Analyst, JPMorgan Securities LLC
+I'm so used to AL102.
+
+Clay B. Siegall
+Chairman, President & Chief Executive Officer, Immunome, Inc.
+I know. And second of all, I have four children and people have said, which one's your favorite? You can't answer that. You know out there you can't answer which one's your favorite. So, I love all the children and all the drugs.
+
+What I love most in the drugs are the ones that get approved and help patients. And I have had many drugs approved under my watch. Some of them that I dreamed up in my head, okay.
+
+And I have published lots of papers. I have lots of patents. I don't care about papers and patents anymore. What my scoreboard is drugs approved that can help patients.
+
+And that's what I focus on, I mean, and I think we are differentiated. We have a great strategy. We have a great pipeline. I love ADCs, and I love keep pushing the limits of ADCs and getting better and better. And I mean, it was a great ride at Seagen and opening up the field. There's more than 100 companies working on ADCs, making good products that help patients. I am very proud of that.
+
+I'm very proud of the work I've done on the molecules I've touched and I'm proud of what the field has done. And I feel partially responsible for that. And so, that is great. I think we have a chance to continue to innovate. And we call it, reinvent the ADC world and go better.
+
+And I think that it's just – to me, it's a little sad that there's so much money going into chasing the same targets and it's just not going to be productive. The vast majority of those are not going to be approved, and it's spinning new wheels and wasting time.
+
+So I think what we're going to be doing – what we've done in 15 months with Immunome took Seagen about eight years. Okay. That's where we are. We're eight years at the Seagen and 15 months. And what I would say to investors is come aboard.
+
+Brian Cheng
+Analyst, JPMorgan Securities LLC
+Maybe in the last minute and half that we have, I guess just on IM-1021. The first study will focus on solid tumors and liquid tumors.
+
+Clay B. Siegall
+Chairman, President & Chief Executive Officer, Immunome, Inc.
+Correct.
+
+Clay B. Siegall
+Chairman, President & Chief Executive Officer, Immunome, Inc.
+There's some proof of concept already in [ph] BCL (00:47:34). I mean, but that space is a bit more competitive than some of the solid tumors indications. And so, how do you think about what the right strategy is to develop IM-1021?
+
+Clay B. Siegall
+Chairman, President & Chief Executive Officer, Immunome, Inc.
+When I was developing ADCETRIS, everyone said, oh, this is – Hodgkin lymphoma is cured. It's cured. It's cured, but not really. And then ADCETRIS comes along and it cured a lot more people and it became big drug. And I remember analysts – not you – said to me, why are you working on this? It's never going to be more than $100 million product. And last year, it was $2.2 billion and cured patients.
+
+So I think there's plenty of room for great drugs. If you're an incremental drug, you're right. It's going to be a competitive space. But if you have a great drug, which I think we may. And Bob, do you want to comment on that?
+
+Bob Lechleider
+Chief Medical Officer, Immunome, Inc.
+No, I completely agree, Clay. There's a lot of patients who still require treatment in all B-cell lymphomas. And I think if we have the drug that we seem to have in our hands, we will make a big difference for patients' lives in all of those lymphomas. And we will actively pursue multiple different areas there.
+
+Brian Cheng
+Analyst, JPMorgan Securities LLC
+Great. I think that's all the time we have. Thank you for your time today.
+
+Clay B. Siegall
+Chairman, President & Chief Executive Officer, Immunome, Inc.
+Thanks, Brian.
+
+Jack Higgins
+Chief Scientific Officer, Immunome, Inc.
+Thank you, Brian.
+
+Bob Lechleider
+Chief Medical Officer, Immunome, Inc.
+Thank you.

@@ -1,0 +1,325 @@
+Thank you, operator. Welcome to AVITA Medical's third quarter 2024 earnings call. Joining me on today's call are Jim Corbett, Chief Executive Officer; and David O'Toole, Chief Financial Officer. Today's earnings release and presentation are available on our website, www.avitamedical.com under the Investor Relations section.
+
+Before we begin, I'd like to remind you that this call includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements are neither promises nor guarantees and involve known and unknown risks and uncertainties that could cause actual results to differ materially from any expectations expressed or implied by the forward-looking statements. Please review our most recent filings with the SEC for comprehensive descriptions of the risk factors. Any forward-looking statements provided during this call are based on management's expectations as of today.
+
+I will now turn the call over to Jim for his comments
+
+James M. Corbett
+Chief Executive Officer & Director, AVITA Medical, Inc.
+Thank you, Jessica, and good afternoon, everyone. If you've been on our previous calls, you know I am passionate about AVITA Medical. I'm especially excited to share our incredible third quarter results with you today.
+
+We not only exceeded our second quarter record revenue, but also surpassed it by 29%, achieving $19.5 million in commercial revenue during Q3. This wasn't just about exceeding expectations. It was a breakthrough quarter that further strengthened our growth trajectory.
+
+This quarter was critical for us to deliver strong revenue growth while advancing our strategic initiatives. To do this, we focused on converting our business to the RECELL GO platform. The move was essentially not only to support immediate revenue growth, but also to continue to lay the foundation for our long-term scalability. This accelerated transition to RECELL GO allows us to treat more patients and expand our market reach. In doing so, we fulfill our promise to provide the best possible patient care.
+
+Now, let's start with a major milestone. By the end of September, we had successfully transitioned approximately 75% of our revenue base to RECELL GO. This is a huge achievement that speaks volumes about the execution capabilities of our team. Moreover, we managed to do this within just four months of FDA approval, demonstrating our operational agility.
+
+Our commitment to RECELL GO conversions was instrumental in driving Q3 commercial revenue growth, helping us hit our projected revenue guidance range of $19 million to $20 million. However, this focus resulted in 23 new account conversions for full thickness skin defects versus our initial expectations of 40 to 50 accounts during the quarter.
+
+The bigger picture is that we now have approximately 300 accounts across both burns and trauma centers for full thickness skin defects, which is more than double the number of accounts that we had a year ago.
+
+Further, RECELL GO will make closing new full thickness skin defect accounts easier due to its enhanced features that significantly reduce the training burden for new accounts.
+
+In Q4, a key focus will be capitalizing on the nearly 60 accounts that are currently on – in the value analysis committee process, commonly known as the VAC process.
+
+With the groundwork laid over the last few months, we believe we can close between 30 and 40 of these new accounts in Q4, positioning us to hit our growth targets. We expect these accounts to drive additional revenue over the next several quarters.
+
+Now, let's talk about why we fast-tracked RECELL GO account conversions. As I've said before, RECELL GO is a game changer. It delivers significant workflow efficiencies, shortens anesthesia time, reduces operating room time, and most importantly, accelerates patient healing.
+
+For hospitals, this means treating patients more effectively while reducing costs. These benefits are reflected in our third quarter revenue as our burn business experienced robust growth.
+
+We expect continued RECELL GO adoption within both existing and new accounts, which will help us gain share in the burn market. Today, we estimate that we hold approximately 20% of the burn market, but we see a clear path to doubling that share over time by focusing on RECELL GO's ability to optimize both patient care and hospital efficiency.
+
+Let's turn to our product portfolio. First, let's discuss our AVITA Medical-branded collagen-based dermal matrix that we have named Cohealyx, which will play a critical role in our growth strategy. Let me take a moment to spell that out. C-O for collagen, HEAL, H-E-A-L for its healing properties, and Y-X for its triple helix structure.
+
+Although we had planned to begin cases in the fourth quarter, additional preparation was required for the FDA submission, which was submitted at the end of September. We expect a 90-day review period, implying clearance by year-end, setting the stage for a 2025 launch.
+
+We plan to use RECELL, PermeaDerm, and Cohealyx together as a comprehensive treatment solution for full-thickness wounds that not only improves patient care outcomes, but also streamlines the clinician experience.
+
+For those participating on the call, please refer to slide number 5. Here, we illustrate a full-thickness wound, which includes the use of a dermal matrix followed by delayed treatment with a split-thickness skin graft plus RECELL in a 2-stage procedure.
+
+In the first stage, Cohealyx represented by the green layer, promotes the generation of vascularized tissue, preparing the wound for grafting. In the second stage, the light blue area represents a meshed split-thickness skin graft with RECELL, providing definitive closure using significantly less skin compared to traditional autografting. Finally, the purple layer, PermeaDerm serves as a transparent dressing placed over the skin graft with RECELL, optimized for protection and moisture management.
+
+Using this slide, let's walk through a typical course of treatment for a 10% to 20% total body surface area burn wound, demonstrating how our comprehensive solution transforms patient care and expands our business model.
+
+In the first stage, 2,000 to 4,000 square centimeters of Cohealyx will be applied to the wound bed. Approximately 5 to 15 days later, the dermal matrix is revascularized and the wound is graft-ready, and the second stage begins. In the second stage, a split-thickness meshed autograft is placed over the newly generated tissue. Next, the clinician prepares the Spray-On Skin Cells suspension with RECELL GO at the point of care. Following this preparation, the Spray-On Skin Cells are sprayed over the meshed autograft. Lastly, PermeaDerm could then be applied over RECELL to protect the wound site, which comes to a range of 1,900 to 3,840 square centimeters of PermeaDerm.
+
+For this patient, in all, the treatment would typically include the use of 1 to 2 RECELL kits, one application of PermeaDerm and one application of Cohealyx. For this single patient, the estimated average selling prices range from $28,000 to $55,000 compared to the current average selling price range of $8,500 to $17,500 for RECELL and PermeaDerm. This comprehensive solution not only dramatically changes our business model, but also expands our market potential.
+
+If we apply this average selling price to the 35,000 RECELL eligible cases in the burn market alone, it creates a total addressable market of nearly $1.5 billion in the United States. Equivalently, this expands in a similar manner within the full-thickness skin defect market.
+
+Let me take a moment to share our Cohealyx pre-clinical work. Using a validated porcine pre-clinical model, we assessed matrix integration into the wound, skin graft to take and time to close against multiple controls and competitors.
+
+In our findings, Cohealyx demonstrated faster time to integration and had consistently high skin graft take results compared to other products on the market. The ability to quickly generate robust, vascularized tissue and skin graft early with Cohealyx translates into significant benefits for the patient's healing profile, including shorter hospital stays and lower cost to treat.
+
+Following FDA clearance of Cohealyx, we plan to initiate a post-market clinical study to support this pre-clinical work. This study will evaluate Cohealyx in full-thickness wounds, followed by treatment with a split thickness skin graft plus RECELL in a 2-stage procedure, which is the current standard of care. Clinical and health economic impact will be evaluated compared to other commercially available dermal matrices.
+
+We expect to begin enrollment in this study in the first quarter of 2025. While there will be expenses tied to the study, those expenses will be principally borne during the first half of 2025. We believe Cohealyx will meaningfully enhance our market penetration and strengthen our competitive position in the burn market as well as the full-thickness skin defect market.
+
+Moving on to RECELL GO mini. Designed for wounds up to 480 square centimeters, compared to the standard RECELL kits 1,920 square centimeters, RECELL GO mini fills a gap in our market offering by allowing us to treat smaller wounds and expand our reach.
+
+As a reminder, RECELL GO mini uses the same multi-use processing device as the standard RECELL GO, but with a disposable cartridge optimized for smaller skin grafts, requiring less buffer and enzymes and featuring three modified wells to hold these components. This device remains on track for approval by year-end with a launch expected in early 2025.
+
+Turning to an update on our international expansion. We are making good progress on our efforts. The third-party distribution agreements cover 14 countries. We expected the CE mark in September. However, our notified body process for approval is taking longer than anticipated.
+
+We now expect to receive the CE mark by Q1 2025, allowing us to bring RECELL GO to Europe and Australia in 2025. This expansion aligns with our strategy to offer RECELL GO as an innovative wound care solution in these regions.
+
+Before we get to the summary, let me provide an update on vitiligo. The TONE study has been submitted to a major journal for publication, as has the health economic study that we sponsored during the last year. From these publications, we will begin our payer activity and expect to have outcomes from that effort in terms of coverage policy by the end of 2025.
+
+In summary, we have made remarkable strides this quarter, and I'm confident we will continue to capitalize on this momentum, all while delivering the best possible outcomes for both clinicians and patients. As we position AVITA Medical as a company able to address a broad continuum of wound care needs, we are poised to transform wound care and set new standards of care.
+
+With that, I'll now turn the call over to David to provide more details on our financial performance.
+
+David D. O'Toole
+Chief Financial Officer, AVITA Medical, Inc.
+Thank you, Jim. I want to echo Jim's enthusiasm. This was a fantastic quarter for us.
+
+We built on the success of our strong second quarter, outpacing that performance by 29% to deliver third quarter commercial revenue of $19.5 million, representing 44% year-over-year growth. This significant revenue achievement brings even greater clarity to our path to reach cash flow breakeven and GAAP profitability no later than the third quarter of 2025, which we have previously signaled, all without significantly growing our organization over the next 18 to 24 months.
+
+As you can see on slide 6, our strong revenue growth reflects the demand for RECELL GO, and the operational efficiencies we have built within our commercial operations. We expect this positive trajectory to continue into 2025 and beyond.
+
+While RECELL currently drives the majority of our revenue, we anticipate that Cohealyx and PermeaDerm will become substantial revenue contributors over the coming quarters.
+
+Now, let me turn to our financial results to provide some details. Gross profit margin for the quarter was 83.7%, down slightly from 84.5% in the same period of 2023. The decrease was expected due to ongoing engineering and validation of the RECELL GO durable and disposable cartridge. However, this decline was temporary, and we anticipate that our gross profit margin will be in the range of 85% to 86% for the full year 2024.
+
+Total operating expenses for the quarter were $30.2 million, compared to $21.1 million in the same period in 2023. The increase in operating expenses is primarily attributable to an increase of $4.6 million in sales and marketing expenses due to employee-related costs, including salaries and benefits, commissions and travel expense collectively, as a result of expansion of the commercial sales organization in the second quarter of 2023, and again, in the first quarter of this year to support our growing commercial operations.
+
+G&A expenses increased by $3.5 million as a result of higher salaries and benefits and an increase in stock compensation, severance benefits and professional fees, partially offset by a decrease in other corporate expenses.
+
+Additionally, R&D costs increased by $1 million, which was primarily due to employee compensation costs of our medical science liaison team.
+
+Other income expense decreased by $1.7 million from income of $0.6 million in the prior period to an expense of $1.1 million in the current quarter. Other income expense for the quarter consists of non-cash charges of $1 million and $0.8 million related to the changes in fair value of the debt and warrant liability respectively, offset by $0.6 million in income related to our investing activities.
+
+Net loss for the third quarter was $16.2 million, or a loss of $0.62 per basic and diluted share, compared to a net loss of $8.7 million, or a loss of $0.34 per basic and diluted share in the same period in 2023.
+
+As of September 30, we had cash, cash equivalents and marketable securities of $44.4 million compared to $89.1 million as of December 31, 2023.
+
+Note that Q3 marked our lowest net use of cash during this phase of commercial expansion coming in at the high-single-digit millions. We expect this trend to continue with overall use of cash decreasing to the low-single-digit millions in Q4 as we move towards generating free cash flow in the second half of 2025.
+
+Turning briefly to our OrbiMed credit facility. As previously indicated, we did not plan to draw down either of the two additional $25 million tranches available under the credit facility. As such, we initiated discussions with OrbiMed to terminate those tranches, which resulted in a mutual agreement to amend the credit facility.
+
+Under the terms of the amendment, we formally gave up our right to draw the two $25 million tranches. In return, OrbiMed agreed to remove the trailing 12-month revenue covenant for the fourth quarter, which had been set at $67.5 million. The revenue covenants for subsequent quarters remain in effect with the first quarter 2025 trailing 12-month revenue covenant set at $75 million.
+
+Looking ahead, for the fourth quarter of 2024, we expect commercial revenue to be in the range of $22.3 million to $24.3 million, representing sequential growth of 14% to 25% over the third quarter, and approximately 58% to 72% growth compared to Q4 2023. This revenue range aligns with our previously set annual guidance for 2024 of $68 million to $70 million.
+
+In closing, we are confident that the success of RECELL GO, combined with the upcoming launches of Cohealyx and RECELL GO mini, as well as the expanded adoption of PermeaDerm will allow us to deliver strong financial results and create lasting value for our shareholders.
+
+With that, I will turn the call back to the operator for your questions.
+
+Question And Answer Section
+Operator
+Thank you. At this time, we will conduct the question-and-answer session. [Operator Instructions] Our first question comes from the line of Brooks O'Neil of Lake Street Capital Markets. Brooks, your line is live.
+
+Brooks O'Neil
+Analyst, Lake Street Capital Markets LLC
+Thank you very much. And good afternoon, everyone.
+
+James M. Corbett
+Chief Executive Officer & Director, AVITA Medical, Inc.
+Hi, Brooks.
+
+Brooks O'Neil
+Analyst, Lake Street Capital Markets LLC
+I guess, I wanted to ask you first about what you're seeing in the hospitals and your experience with the VAC. I heard you say, you came up a bit short of expectations in terms of new approvals this quarter. But can you give us some color about the process in general, what you're seeing and whether you plan to adapt in any way to accelerate success through VACs?
+
+James M. Corbett
+Chief Executive Officer & Director, AVITA Medical, Inc.
+So, hey, Brooks, good to hear from you. I think – we were emphasizing something a little different. I'll get to your answer – to your question here.
+
+First, we made a pivot during the quarter for the purpose of accelerating the conversion to the RECELL GO platform because that is any driver of adoption, okay? So, we deliberately focused on that. And not only one hospital required a VAC approval for our RECELL GO. So, it was just not a – in that context, VAC was not a factor. We do find the VACs in the full-thickness segment, which has been upon reflection now looking back over about a year-and-a-quarter, we are finding that in nearly every case, somewhere in the process, the VAC is wanting to see an evaluation case or more.
+
+And so, when we get at the driver of why VACs in general have taken us longer than we anticipated at the beginning of the whole process a year-and-a-quarter, it's that fact. And so, we've adapted to that – we've now been more proactive about being prepared for that eventuality.
+
+So, they're either doing it as a precondition to a vaccination, a conditional approval or a follow-up in some form or another [indiscernible] (00:23:50), multiple procedures they want to see. So, the fact that we had less than we expected was actually a deliberate choice of sales time. So, I hope I got your question contextualized in there somewhere.
+
+Brooks O'Neil
+Analyst, Lake Street Capital Markets LLC
+You did. That was very helpful. So, I'll just sort of spin it in a slightly different way and ask you, obviously, you had a major expansion of the sales organization end of last year, beginning of this year, and new sales leadership. Can you just comment about how you evaluate the performance of the sales team and the new sales leadership in terms of trying to drive long-term growth for the company?
+
+James M. Corbett
+Chief Executive Officer & Director, AVITA Medical, Inc.
+So, the first part of that answer, how I'm evaluating it, is, begins with 29.6% consecutive quarter growth. I think the sales leadership team is developing really well under our new sales leader. We're executing in a more effective manner. That kind of growth consecutive quarter is unusual, and we still are expecting a strong Q4 as well. So, I'm really quite pleased with the progress. There's more work to do, as always, but really, the performance this last quarter was quite good.
+
+Brooks O'Neil
+Analyst, Lake Street Capital Markets LLC
+Great. Thank you very much. I'll jump back in queue.
+
+James M. Corbett
+Chief Executive Officer & Director, AVITA Medical, Inc.
+Thanks, Brooks.
+
+Operator
+Thank you. Our next question comes from the line of Ross Osborn with Cantor Fitzgerald. Your line is now open. Ross, your line is now open.
+
+Ross Osborn
+Analyst, Cantor Fitzgerald & Co.
+Great. Thank you. Sorry about that. So, maybe following up on the prior question, but with regards to mini, how should we think about the adoption curve in 2025 from your learnings with [ph] get and Go (00:25:56) into accounts?
+
+James M. Corbett
+Chief Executive Officer & Director, AVITA Medical, Inc.
+Yes. Thanks, Ross. Well, first of all, the full thickness cases that we did, if you go back and you look at our FDA study that we performed that gave us approval for that broad indication, you'd see that not one patient was over 500 square centimeters. And so, when you have a device that treats 2,000 square centimeters, intellectually, that creates a little bit of dissonance, I think, for – we think for the customer.
+
+And so, we developed mini to get at that broader population of RECELL indications where we better fit the patient's need. And so, I think on one hand, the market opportunity that we had preceding the introduction of mini is fundamentally the same. I think the adoption will be a little bit quicker with the concept that you're matching the RECELL use with the size of the wound.
+
+Ross Osborn
+Analyst, Cantor Fitzgerald & Co.
+Got it. That makes perfect sense. And then sticking with 2025, and a year where we expect to see significant incremental demand relative to this year, how are you feeling about manufacturing capacity to meet that demand?
+
+James M. Corbett
+Chief Executive Officer & Director, AVITA Medical, Inc.
+Actually, we feel terrific. In fact, we had a project underway that we completed during the quarter, early part of the quarter called Project Phoenix, which was to really revamp our whole manufacturing facility that's located in Ventura.
+
+It was an older building and by fundamentally reconstructing the walls of the building inside because it was an older building. Our objective was to create 10x capacity expansion with that project and which we did and we completed it. So, we're feeling really good about our capacity.
+
+We've expanded some of our engineering capabilities in that facility because manufacturing the RECELL processing device is a very different set of skills than what we needed before. So, we've increased our engineering talent in Ventura as well. We – of course, had to put – by in-sourcing the manufacturing of RECELL GO, we also created a service center so that we could service the durable. So, we're feeling very comfortable about our capacity, and we haven't had any supply shortages or anything close during a time when really we were – we have been expending our revenue quite quickly.
+
+Ross Osborn
+Analyst, Cantor Fitzgerald & Co.
+Great. Congrats on the progress and strong quarter. Thank you.
+
+James M. Corbett
+Chief Executive Officer & Director, AVITA Medical, Inc.
+Thanks, Ross.
+
+Operator
+One moment for our next question. Our next question comes from the line of Josh Jennings at TD Cowen. Josh, your line is live.
+
+Eric Anderson
+Analyst, TD Cowen
+Hi. This is actually, Eric, on for Josh. Thanks for taking the question and congrats on the nice quarter here.
+
+James M. Corbett
+Chief Executive Officer & Director, AVITA Medical, Inc.
+Thank you, Eric.
+
+Eric Anderson
+Analyst, TD Cowen
+Thinking about all the different growth drivers you have in the works currently; I was hoping to just get your thoughts around how you see things evolving over the next few quarters. And ultimately, in 2025 were – in terms of where corporate growth may wind up.
+
+I think if I look at Street estimates right now, showing some solid growth acceleration of 2024 in like the 50% range. If you kind of, I was just hoping to get your thoughts on how you think that step up or if you think that step-up is appropriate there?
+
+James M. Corbett
+Chief Executive Officer & Director, AVITA Medical, Inc.
+Well, at the moment – let me comment that in a different way, if you don't mind, because we're not quite ready to give guidance for next year. But we do have – you're correct. What we have is, we have RECELL GO, which is having a consequence of increasing it usage of RECELL in the account. We have RECELL GO mini first of the year. PermeaDerm is now, we're accumulating the clinical evidence where you'll see that expand going into next year. And Cohealyx, which is a substantial market size, we will be doing a limited launch in clinical data development during Q1 for a full launch in Q2.
+
+You are talking, yes, about a lot broader growth platform. And when you add to it, our entry into the European Union and Australia, there's an abundant opportunity for growth for us. So, I think, it's – the big outcome that we're focusing on is the Q3 crossover into profitability, which we have guided on. So, I think in combination of growing, we're going to be doing so without adding very few – very little operating expenses that are durable.
+
+Eric Anderson
+Analyst, TD Cowen
+Understood. I appreciate that color. And then maybe on Cohealyx and PermeaDerm, there was a comment earlier in the call about those offerings becoming substantial contributors in the coming quarters. I was just hoping to get your thoughts on how you think that might impact gross margins going forward, particularly next year as you approach some of those profitability targets?
+
+James M. Corbett
+Chief Executive Officer & Director, AVITA Medical, Inc.
+Yes, that's a great question. So, think about it this way. The gross profit on those product lines is less as a percentage than RECELL. However, since we're not adding commensurate operating expenses, the operating margin contribution is substantial. So, for example, with Cohealyx – a use of Cohealyx in the – in in a 2,000 square centimeter wound might be somewhere between $18,000 to $30,000 depending on ASP. So, there's a broad range of possibilities. Half of that will be operating margin. So, when you think about gross margin, think about it as total gross margin, and we're adding to it significantly with those products.
+
+Eric Anderson
+Analyst, TD Cowen
+That's very helpful. Thank you for the questions.
+
+Operator
+One moment for our next question. Our next question comes from the line of Matthew O'Brien with Piper Sandler. Your line is live.
+
+Hi. This is [ph] Samantha (00:33:06) on for Matt. Thank you for taking our question. I guess, first, we'd like to touch on the guidance headed into Q4. I think it's been said it's just more of a sizable step-up from what we saw this quarter. So, can you just talk a little bit about – kind of what the guidance makes in maybe in terms of wound versus burns, and just kind of, yes, what you're baking in there?
+
+James M. Corbett
+Chief Executive Officer & Director, AVITA Medical, Inc.
+Well, the step-up actually from Q2 to Q3 in absolute terms was in excess of $4 million, right. $15.1 million to $19.5 million is almost $4.4 million. And actually, the step-up in Q4 is a little bit less because the guidance range is $22.3 million to $24.3 million as we've said it.
+
+Now our strongest area of our business is burns, and the one that benefits the most from RECELL GO is the burns business because on average, multiple RECELL devices are used in the average burn case. And when you think about that, just to follow my thought here, when you use RECELL when it's the manual version, you do it consecutively and it requires a fair bit of staff time, and we often attend those cases to provide clinical support.
+
+When you use RECELL GO, you actually can run two RECELL GO devices simultaneously. And what happens in that case, you reduce operating room time, you reduce anesthesia time, you reduce staff time, and you accelerate the time to begin healing for the patient. All of this saves money.
+
+So, what happens as we move into Q4 and beyond, and one of the reasons I mentioned that – we thought that we could imagine doubling our share of the 35,000 a year RECELL eligible patients in the burn market is just for that reason. And so, full-thickness will continue to develop fast for us because it's a new account add and it's new procedures, but in the burn market, we get real leverage real fast. They use one RECELL GO in a typical full-thickness case, which is one – usually a single RECELL unit device where you use multiple with burns. So, it inevitably will grow faster in burns on a hospital level basis. Is that helpful?
+
+Yes, that's helpful. Thank you. And I guess, I just want to touch one more on the CE mark delay. What impact does that have on your growth expectations for next year?
+
+James M. Corbett
+Chief Executive Officer & Director, AVITA Medical, Inc.
+Not significant. If you just annualize our Q4, we're going to have a strong year next year, particularly with us holding the head count line. So, the international expectations, those are all us entering new markets. So, you can expect a lot of training will go on, careful choice of patients that get treated, and they're all third-party distributors, so you have to work with them and get them prepared. So, although there's going to be a little bit of a delay, we don't have a high dependency per se on the revenue to achieve our Q3 profitability goal.
+
+Thank you. I appreciate that. And then if we could sneak just one more in. We were wondering if you could talk a little bit more about the rollout plans for GO mini, and kind of, I guess, just – yes, just what your plans are there?
+
+James M. Corbett
+Chief Executive Officer & Director, AVITA Medical, Inc.
+So, in the first instance, we're expecting it to – RECELL GO mini to get approved by year-end. That's when our 180 days are for that because it's a PMA supplement. We then would be training during the first half of January. We're having our sales meeting during that time, and we will then roll out mini during Q1. It will be targeted at the trauma centers, which is where the full-thickness skin defect market is primarily. They do those smaller wounds also in burn centers, but the bigger population of accounts and cases is in the trauma centers.
+
+And we'll be rolling it out into those accounts. by that time, we will have added well over 200 accounts since we achieved full-thickness approval last year. So, I think that rollout will begin in the first quarter – second half of the first quarter in terms of practical utilization. And it will be one of our growth drivers with – if you think about our new product flow, we have a RECELL GO platform during Q1 that will be in its expansion mode because the accounts have been already introduced to it. We'll be adding mini, which uses the same processing device, which is durable. We have PermeaDerm and we'll have Cohealyx.
+
+So, we'll have a nice suite of new products to join in the RECELL GO mini and of course, Cohealyx and PermeaDerm to use with those same wounds as well. So, it's going to be a pretty exciting year for us next year.
+
+Great. Thanks so much.
+
+Operator
+Thank you. [Operator Instructions] Our next question comes from the line of John Hester of Bell Potter. Your line is now live.
+
+John Hester
+Analyst, Bell Potter Securities Ltd.
+Good afternoon, Jim and Dave. Thanks for taking my call. I just wanted to ask you, if I can focus on this post-market approval study for Cohealyx. As you know, that extracellular matrix category is very well established. So, can you tell us a little bit more about this trial? What specific wounds are you going after and, yes please?
+
+James M. Corbett
+Chief Executive Officer & Director, AVITA Medical, Inc.
+Thanks, John. Actually, I'm going to comment that question a little bit differently in terms of what we want to prove. What we're proving is the time of ready to graft because remember, it's a two-stage procedure. And it's the time to close. And in our pre-clinical work in a porcine model, we compared Cohealyx to the other major players, let's say, let's describe it that way, and measure those two parameters primarily.
+
+What we found is that Cohealyx gets ready to graft without infection more rapidly than our anticipated competitors in terms of days, so days faster. And days faster for graft-ready makes it days faster to close. Days faster to close makes it days faster out of the hospital. So those are the three elements of what we are wanting to demonstrate and prove.
+
+John Hester
+Analyst, Bell Potter Securities Ltd.
+Fair enough. So, I would think trauma and burns are the primary targets there. Just following up on the other question about mini. Is that something that you believe will be appropriate for outpatient use because the outpatient sort of seen hasn't been one where you've had great success historically?
+
+James M. Corbett
+Chief Executive Officer & Director, AVITA Medical, Inc.
+Well, we – outpatient has been growing for us because there is a good application for the full-thickness in outpatient. And the answer is, yes. That's one of the reasons we developed it and one of the benefits of the RECELL GO platform. So, it will – those sub [ph] 480 sq. cm (00:42:05) wounds do get treated often in outpatient. And so, it will help us our competitive profile, so to speak, in terms of alternative treatments in outpatient.
+
+John Hester
+Analyst, Bell Potter Securities Ltd.
+Okay. That's all. We'll see you next week. Thank you.
+
+James M. Corbett
+Chief Executive Officer & Director, AVITA Medical, Inc.
+Okay. Look forward to it.
+
+Operator
+One moment for our next question. Our next question comes from the line of Chris Kallos at MST Access. Your line is live.
+
+Chris Kallos
+Analyst, MST Financial Services Pty Ltd. (Access Research)
+Thank you. Hi, Jim. Just a quick question about CE mark and how you're seeing the market in Europe unfolding. Is there any preliminary feedback from distributors in Europe about the appetite for RECELL GO?
+
+James M. Corbett
+Chief Executive Officer & Director, AVITA Medical, Inc.
+Yes, there is, Chris. It's a good question. RECELL GO is – since it requires less training for the company and for the user, our third-party distribution partners are quite looking forward to RECELL GO. Now we are proceeding with early launches of the manual version of [ph] RECELL GO (00:43:31) in this quarter. However, we think the expansion will be during the coming year. So RECELL GO will really help the adoption curve for RECELL in Europe and in Australia.
+
+Chris Kallos
+Analyst, MST Financial Services Pty Ltd. (Access Research)
+Thanks. And just a related question. In terms of the delay in CE mark clearance, what does that mean for time lines in launching the RECELL GO in Europe next year?
+
+James M. Corbett
+Chief Executive Officer & Director, AVITA Medical, Inc.
+We're in the final stage of review during this month, Chris. And when you pass through the final stage, it becomes a 1- to 2-month administrative process versus a review process. So, I think we'll see RECELL GO during Q1 as a confident place to be. We had expected to have this review in November. We had expected it to be in August. And as you know, the MDR process is a little bit overwhelmed, and they just had great difficulty with the notified bodies getting all the work done that needs to be done in the industry. So, we fell, so to speak, a little bit of victim of that, even though we tried really hard to avoid it.
+
+Chris Kallos
+Analyst, MST Financial Services Pty Ltd. (Access Research)
+Understood. And just lastly, the vitiligo initiative, has anything changed around the time line previously put out?
+
+James M. Corbett
+Chief Executive Officer & Director, AVITA Medical, Inc.
+Well, to remind others who might be listening that vitiligo, we expect the two studies, as I mentioned, to be published – accepted for publication by the end of this year and be published either late this year or early next year. Those are foundational in getting commercial insurance policy, which we expect it will take us into the end of last part of third and fourth quarter next year. So, we've not planned and don't intend to guide to any significant vitiligo revenue during 2025, but rather think that it will be a 2026 event. So that guidance has stayed the same.
+
+Chris Kallos
+Analyst, MST Financial Services Pty Ltd. (Access Research)
+Thanks for the time. Great. Great. That's all I had. I'll see you next week also.
+
+James M. Corbett
+Chief Executive Officer & Director, AVITA Medical, Inc.
+Look forward to it.
+
+Chris Kallos
+Analyst, MST Financial Services Pty Ltd. (Access Research)
+Thanks, Jim.
+
+Operator
+Thank you. That concludes our question-and-answer session. I would now like to turn it over to Jim Corbett for closing remarks.
+
+James M. Corbett
+Chief Executive Officer & Director, AVITA Medical, Inc.
+I want to thank all of you for listening and attending our call and hearing about our results, which we are really excited to share with you. I look forward to engaging you again in one quarter's time with the fourth quarter and the further progress we expect. Thank you very much.

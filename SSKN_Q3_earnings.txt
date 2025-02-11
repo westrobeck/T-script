@@ -1,0 +1,65 @@
+Thank you. Good afternoon and thank you for participating in today's conference call. Earlier this afternoon, the company released its financial results for the quarter ended September 30, 2024. A copy of that press release can be found on the company's website at www.strataskinsciences.com under the Investors tab.
+
+Joining me on today's earnings call from STRATA Skin Sciences management team are Dr. Dolev Rafaeli, Chief Executive Officer; and John Gillings, Vice President of Finance. During this call, management will be making forward-looking statements, including statements that address STRATA Skin Sciences' expectations for future performance or operational results. Forward-looking statements involve risks and other factors that may cause actual results to differ materially from those statements.
+
+For more information about these risks, please refer to the risk factors described in STRATA Skin Sciences' most recently filed annual report on Form 10-K and the subsequent periodic reports filed with the SEC, and STRATA Skin Sciences' press release that accompanies this call, particularly the cautionary statements in it.
+
+The content of this call contains time-sensitive information that is accurate only as of today, November 13, 2024. Except as required by law, STRATA Skin Sciences disclaims any obligation to publicly update or revise any information that may reflect events or circumstances that occur after this call.
+
+It is now my pleasure to turn the call over to CEO, Dr. Dolev Rafaeli.
+
+Dolev Rafaeli
+President, Chief Executive Officer & Vice Chairperson, STRATA Skin Sciences, Inc.
+Thank you, Joey, and good afternoon for everyone on the call. Our results during the third quarter demonstrated continued and encouraging progress in our corporate turnaround, as several metrics have stabilized and begun to show improvement. Revenue per XTRAC device grew 2% year-over-year versus the flat revenue growth seen in the second quarter and versus the decline of 10% seen in fiscal 2023 over fiscal 2022.
+
+Our gross margin as a percentage of revenue improved for the third consecutive quarter and reached 60.3% in the third quarter versus 56% in the second quarter of 2023. Our operating expenses include a one-time accrual of $1.8 million related to a New York state sales tax audit for the years 2014 to 2017. Excluding the one-time item, non-GAAP operating expenses decreased to $5.2 million in Q3 of 2024, down from $5.6 million in Q3 of 2023, and down from $5.4 million in the second quarter of 2024.
+
+Collectively, and when combined with stable year-over-year revenue, these positive trends contributes to our first operating profit since 2018, when excluding the one-time accrual. Direct-to-consumer, or DTC, initiative remain a central element of our turnaround strategy, and we continue to see promising results in this segment. Year-to-date, we have scheduled over 1,900 new patient appointments through our DTC efforts versus just 8 in all of 2023. We've also surpassed the 1,643 appointments scheduled in all of fiscal 2019 before the COVID-19 pandemic disrupted healthcare visits across the industry.
+
+We continue to expand our geographic focus with DTC and have now launched DTC using Spanish language [indiscernible] (05:05). Our domestic installed base of XTRAC devices decreased slightly from 882 units at the end of the second quarter of this year to 873 units at the end of Q3. This trend is consistent with our strategy to removing underperforming units from dermatology clinics as warranted.
+
+The third quarter average revenue per XTRAC device was the highest quarter figure since the end of 2022. Gross domestic recurring billings in the third quarter were down 2% year-over-year versus a decline of 6% year-over-year in the second quarter and versus a decline of 3% year-over-year in the first quarter. These low single-digit declines compare favorably to year-over-year declines of 12% and 14% in the second and third quarter of 2023, respectively. Obviously, the goal is to turn these metrics positive on a year-over-year basis, and we believe our strategic efforts are paving the way towards helping us reach that goal.
+
+We reached an installed base of 135 TheraClear X devices at the end of the third quarter, up from 117 devices at the end of the second quarter. In 2024, we focused on assisting with the adoption of insurance reimbursed, non-cash billing for acne treatment with the TheraClear X devices. I'm happy to report that year-to-date, we have secured pre-authorizations for over 2,000 patients with acne at our partner clinics. Additionally, published study results, such as in the July 11, 2024 Journal of Cosmetic and Laser Therapy, continue to highlight improved outcomes for acne treatment with the TheraClear X device.
+
+Doctors and KOLs also report favorable results at dermatology conferences, such as the most recent 2024 Fall Clinical Dermatology Conference in Las Vegas. So we are optimistic about continued growth from this acne treatment platform. In July 2024, we bolstered our cash position with $2.1 million of equity raised that had strong participation from both existing shareholders and insiders. Given our improved execution and stronger balance sheet, we see a path to profitability and sustainable cash flow generation, which are clear objectives of our corporate strategy and actions.
+
+In a press release published earlier this week, we have announced a positive but partial litigation outcome in a complaint we filed against a competitor. The basis of our claim was that the defendant was misrepresenting the technical merits of their laser device compared to our XTRAC excimer device in their sales efforts to potential customers and misrepresenting the potential reimbursement with existing CPT codes used for excimer lasers, such as our [ph] XTRAC device (08:35).
+
+On November 8, 2024, the United States District Court of the Eastern District of Pennsylvania entered a court order that prevents the competitor from making these material misrepresentations in their sales efforts. Additionally, STRATA will continue to pursue monetary damages from the defendants for their [ph] past misrepresentation and sales efforts (08:58).
+
+It is important that we vigorously defend STRATA, our dermatology clinic partners, and patients from false technical efficacy and reimbursement claims and tactics that put providers at risk of an unethical use of CPT reimbursement codes.
+
+Now, I'd like to turn the call over to John, who will review our financial results in more detail. John?
+
+John T. Gillings
+Vice President-Finance, STRATA Skin Sciences, Inc.
+Thanks, Dolev. Our total revenue for the third quarter of 2024 was $8.8 million versus $8.9 million in the third quarter of 2023, a decline of 1%. Global net recurring revenue for the third quarter of 2024 was $5.4 million versus $5.3 million in the third quarter of 2023. Excluding deferred billings and other GAAP adjustments, XTRAC gross domestic recurring billings were $4.8 million in the third quarter of 2024, down 2% from $4.9 million in the third quarter of 2023.
+
+Equipment revenue was $3.4 million in the third quarter of 2024 versus $3.6 million in the third quarter of 2023. International sales of XTRAC and VTRAC devices comprised the majority of equipment revenue in both periods.
+
+Gross profit increased to $5.3 million for the three months ended September 30, 2024 from $5 million during the same period in 2023. As a percent of revenue, the gross profit was 60.3% for the three months ended September 30, 2024, as compared to 56% for the same period in 2023.
+
+Total operating expenses in the third quarter of 2024 were $7 million. Adjusting for the one-time accrual Dolev mentioned previously, operating expenses were $5.2 million versus $5.6 million in the third quarter of 2023, a 7% reduction.
+
+Before moving on, I want to offer a little more color on the accrual. The $1.8 million we accrued in the third quarter relates to a sales tax audit in the state of New York covering the 2014 to 2017 timeframe. We initially received a favorable ruling, which was then overturned by the State of New York's Appeal Tribunal, after which we requested that the New York State Court of Appeals hear the case. On October 22 of this year, in an unsigned one-line decision, the Court of Appeals denied our motion to appeal, bringing the matter to a close for that period under audit. Z
+
+Our cash, cash equivalents and restricted cash position of $8.4 million at September 30, 2024, along with our credit facility with MidCap Financial, supports our growth initiatives and leaner cost structure. The $8.4 million total cash balance includes $1.3 million of restricted cash related to the sales tax accrual. This will cover the majority of the cost of the unfavorable legal decision.
+
+We continue to believe that we can execute on our strategic goals for 2024, given our current financial position. As of September 30, 2024, the company had 4,171,161 common shares outstanding. During the third quarter, we raised $2.1 million in gross proceeds through the sale of 665,136 shares, including insider participation in this financing that illustrates the conviction these insiders have in STRATA's strategic plan, ability to execute, and path to profitability.
+
+That concludes my prepared remarks, and I'd like to turn the call back to Dolev for any remaining comments.
+
+Dolev Rafaeli
+President, Chief Executive Officer & Vice Chairperson, STRATA Skin Sciences, Inc.
+Thank you, John. Consistent with execution thus far in 2024 led to a solid third quarter that points to a stabilization in our financial performance and offers some early signs of growth. We remain committed to the strategies laid out at the beginning of 2024 that are helping drive our performance.
+
+Now, I'd like to turn the call over to the operator so that we can begin the question-and-answer session. Operator?
+
+Question And Answer Section
+Operator
+[Operator Instructions] This concludes our question-and-answer session. I'd like to turn the conference back over to Dolev Rafaeli for any closing remarks.
+
+Dolev Rafaeli
+President, Chief Executive Officer & Vice Chairperson, STRATA Skin Sciences, Inc.
+I want to thank all of you for participating in today's call and for your interest in STRATA Skin Sciences. We look forward to sharing our progress on our next quarterly conference call, when we report our year-end 2024 financial results likely in March of 2025. Thank you and have a good day.
